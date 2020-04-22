@@ -1,0 +1,799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15155-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#. Id: 54002-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: STARVING=0, Tag: -1
+#: 15155-Dialogue.mod:0 54002-Dialogue.mod:0
+msgid "You! Stop!"
+msgstr ""
+
+#. Id: 15155-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#. Id: 54002-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: STARVING=0, Tag: -1
+#: 15155-Dialogue.mod:1 54002-Dialogue.mod:1
+msgid "You! Hold it!"
+msgstr ""
+
+#. Id: 15155-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#. Id: 54002-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: STARVING=0, Tag: -1
+#. Id: 5242-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: gate guard spotting
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 15155-Dialogue.mod:2 54002-Dialogue.mod:2 5242-gamedata.base:4
+msgid "Hold it right there!"
+msgstr ""
+
+#. Id: 15155-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#. Id: 54002-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: STARVING=0, Tag: -1
+#: 15155-Dialogue.mod:4 54002-Dialogue.mod:4
+msgid "You there! Stop where you are!"
+msgstr ""
+
+#. Id: 15155-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#. Id: 54002-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: STARVING=0, Tag: -1
+#. Id: 44148-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44348-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Small bounty
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 15155-Dialogue.mod:5 54002-Dialogue.mod:5 44148-Dialogue.mod:1
+msgid "Stop right where you are!"
+msgstr ""
+
+#. Id: 16392-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 16392-Dialogue.mod:0
+msgid "I said stop!"
+msgstr ""
+
+#. Id: 16392-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 16392-Dialogue.mod:1
+msgid "I said halt!"
+msgstr ""
+
+#. Id: 16392-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 16392-Dialogue.mod:2
+msgid "I said hold it!"
+msgstr ""
+
+#. Id: 16599-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16392-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 16599-Dialogue.mod:1
+msgid "/SEIZE/ the /TERRORIST/! Don't let /HIM/ escape!"
+msgstr ""
+
+#. Id: 41843-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16392-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 47805-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47803-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog extortion pt 2
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 3749-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41843-Dialogue.mod:0 47805-Dialogue.mod:0 3749-gamedata.base:0
+msgid "Stop running!"
+msgstr ""
+
+#. Id: 41843-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16392-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41843-Dialogue.mod:1
+msgid "Don't try and run!"
+msgstr ""
+
+#. Id: 41843-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16392-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41843-Dialogue.mod:2
+msgid "You can't run from us!"
+msgstr ""
+
+#. Id: 41843-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (16392-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41843-Dialogue.mod:4
+msgid "You won't escape us! Give it up!"
+msgstr ""
+
+#. Id: 41843-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (16392-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41843-Dialogue.mod:5
+msgid "Give up the chase! You can't escape us!"
+msgstr ""
+
+#. Id: 41845-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41843-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41845-Dialogue.mod:0
+msgid "You're wasting time!"
+msgstr ""
+
+#. Id: 41845-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (41843-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41845-Dialogue.mod:1
+msgid "Quit wasting my time!"
+msgstr ""
+
+#. Id: 41845-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (41843-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41845-Dialogue.mod:2
+msgid "I don't have time for chasing /SNAKE/s!"
+msgstr ""
+
+#. Id: 41845-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (41843-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41845-Dialogue.mod:3
+msgid "I'm not in the mood for running!"
+msgstr ""
+
+#. Id: 41845-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (41843-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41845-Dialogue.mod:4
+msgid "Don't make me have to chase you!"
+msgstr ""
+
+#. Id: 41845-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (41843-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41845-Dialogue.mod:5
+msgid "I DON'T like having to chase people!"
+msgstr ""
+
+#. Id: 41847-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41845-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41847-Dialogue.mod:0
+msgid "You won't get away with this! I'll remember your face!"
+msgstr ""
+
+#. Id: 41847-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (41845-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41847-Dialogue.mod:1
+msgid "I won't forget your face! Watch your back, /SNAKE/!"
+msgstr ""
+
+#. Id: 41847-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (41845-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41847-Dialogue.mod:2
+msgid "I'm good at remembering faces. You'd be wise to stay away from /MYFACTION/ /LAND/, /SNAKE/!"
+msgstr ""
+
+#. Id: 41847-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (41845-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 41847-Dialogue.mod:3
+msgid "I'll remember your face! Don't think you've gotten off so easily!"
+msgstr ""
+
+#. Id: 16393-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 16393-Dialogue.mod:0
+msgid "Don't move a muscle!"
+msgstr ""
+
+#. Id: 16393-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 16393-Dialogue.mod:2
+msgid "Stay right where you are!"
+msgstr ""
+
+#. Id: 16393-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 16393-Dialogue.mod:3
+msgid "I'm coming over!"
+msgstr ""
+
+#. Id: 42882-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek
+#: 42882-Dialogue.mod:0
+msgid "Stop! Stop that /GREASY/ beast!"
+msgstr ""
+
+#. Id: 42882-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek
+#: 42882-Dialogue.mod:1
+msgid "Stop! There's a beast in our midst!"
+msgstr ""
+
+#. Id: 42882-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek
+#: 42882-Dialogue.mod:2
+msgid "Stop! There's a dark one in our midst!"
+msgstr ""
+
+#. Id: 42882-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek
+#: 42882-Dialogue.mod:3
+msgid "Do we have a beast that needs taming?"
+msgstr ""
+
+#. Id: 42882-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek
+#: 42882-Dialogue.mod:4
+msgid "The dark ones must be tamed!"
+msgstr ""
+
+#. Id: 42882-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek
+#: 42882-Dialogue.mod:5
+msgid "Stop! Bring me that /GREASY/ being!"
+msgstr ""
+
+#. Id: 42884-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 42884-Dialogue.mod:0
+msgid "Seize /HIM/! Seize the impure heretic! The beast must be tamed!"
+msgstr ""
+
+#. Id: 42884-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 42884-Dialogue.mod:1
+msgid "The heretics will poison our holy lands! Seize /HIM/! The beasts must be tamed!"
+msgstr ""
+
+#. Id: 42884-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (42882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 42884-Dialogue.mod:2
+msgid "Ensnare the unholy heretic! Don't let the beasts /TAINT/ our /SACRED/ /LAND/!"
+msgstr ""
+
+#. Id: 42884-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (42882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 42884-Dialogue.mod:3
+msgid "We have a beast that needs taming! Stop /HIM/!"
+msgstr ""
+
+#. Id: 42884-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (42882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 42884-Dialogue.mod:4
+msgid "We must purge our land from all darkness! Seize /HIM/!"
+msgstr ""
+
+#. Id: 42884-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (42882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 42884-Dialogue.mod:5
+msgid "Protect your homeland! Seize the foreign heretic! The beasts must be tamed to serve Okran!"
+msgstr ""
+
+#. Id: 43413-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 43413-Dialogue.mod:0
+msgid "You, there! Speak with me!"
+msgstr ""
+
+#. Id: 43413-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 43413-Dialogue.mod:1
+msgid "Come speak with me, beast!"
+msgstr ""
+
+#. Id: 43413-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (42882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 43413-Dialogue.mod:2
+msgid "You'll travel no further, beast! "
+msgstr ""
+
+#. Id: 43413-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (42882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 43413-Dialogue.mod:3
+msgid "You willl not fall from my sight, beast! Speak with me!"
+msgstr ""
+
+#. Id: 43413-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (42882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 43413-Dialogue.mod:4
+msgid "Stop, I say!"
+msgstr ""
+
+#. Id: 53918-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Scorchlander
+#: 53918-Dialogue.mod:0
+msgid "Hold up, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 53919-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53918-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 53919-Dialogue.mod:0
+msgid "I want to speak with you..."
+msgstr ""
+
+#. Id: 53919-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (53918-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 53919-Dialogue.mod:2
+msgid "Come speak with me..."
+msgstr ""
+
+#. Id: 18929-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Scorchlander
+#: 18929-Dialogue.mod:0
+msgid "In the name of Okran, stop right there"
+msgstr ""
+
+#. Id: 18929-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Scorchlander
+#: 18929-Dialogue.mod:1
+msgid "Halt! In the name of Lord Okran"
+msgstr ""
+
+#. Id: 18929-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Scorchlander
+#: 18929-Dialogue.mod:2
+msgid "As holy paladin of the Lord Okran, I demand you, stop where you are"
+msgstr ""
+
+#. Id: 18929-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Scorchlander
+#: 18929-Dialogue.mod:3
+msgid "Under the holy law of Lord Okran, stop right there"
+msgstr ""
+
+#. Id: 18929-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Scorchlander
+#: 18929-Dialogue.mod:4
+msgid "You, /OUTLANDER/. Come speak with me at once"
+msgstr ""
+
+#. Id: 18929-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Scorchlander
+#: 18929-Dialogue.mod:5
+msgid "This is Holy /LAND/,/OUTLANDER/, surrender yourself for interrogation"
+msgstr ""
+
+#. Id: 18929-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Scorchlander
+#: 18929-Dialogue.mod:6
+msgid "This is sacred /LAND/ under the divine protection of Okran, /OUTLANDER/. What is your purpose here?"
+msgstr ""
+
+#. Id: 42019-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (18929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 42019-Dialogue.mod:4
+msgid "Wait up!"
+msgstr ""
+
+#. Id: 42020-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Target Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Shek
+#: 42020-Dialogue.mod:0
+msgid "Who is this foreign heretic you travel with?!"
+msgstr ""
+
+#. Id: 42020-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Target Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Shek
+#: 42020-Dialogue.mod:1
+msgid "You make a habit of travelling with beasts?"
+msgstr ""
+
+#. Id: 42020-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Target Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Shek
+#: 42020-Dialogue.mod:2
+msgid "Who is this foreign beast that you travel with?"
+msgstr ""
+
+#. Id: 42020-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (18929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Target Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Shek
+#: 42020-Dialogue.mod:3
+msgid "Foreign beasts aren't welcome here!"
+msgstr ""
+
+#. Id: 42020-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (18929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Target Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Shek
+#: 42020-Dialogue.mod:4
+msgid "Impure ones aren't welcome here!"
+msgstr ""
+
+#. Id: 42020-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (18929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Target Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Shek
+#: 42020-Dialogue.mod:5
+msgid "You there! You make a habit of travelling with beasts?"
+msgstr ""
+
+#. Id: 42020-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (18929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Target Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Shek
+#: 42020-Dialogue.mod:6
+msgid "You, there! Who is this foreign heretic you travel with?!"
+msgstr ""
+
+#. Id: 42020-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (18929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Target Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Shek
+#: 42020-Dialogue.mod:7
+msgid "Who is this foreign beast that you travel with, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 42020-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (18929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Target Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Shek
+#: 42020-Dialogue.mod:8
+msgid "Dark ones aren't welcome on holy soil!"
+msgstr ""
+
+#. Id: 53945-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 53945-Dialogue.mod:0
+msgid "You, hold up..."
+msgstr ""
+
+#. Id: 53945-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 53945-Dialogue.mod:1
+msgid "You, hold it there..."
+msgstr ""
+
+#. Id: 53945-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 53945-Dialogue.mod:2
+msgid "You, /OUTLANDER/, hold it there..."
+msgstr ""
+

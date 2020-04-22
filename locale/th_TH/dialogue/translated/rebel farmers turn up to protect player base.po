@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 99683-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: rebel farmers turn up to protect player base
+#: 99683-Dialogue.mod:0
+msgid "Got yourself in a special kinda trouble, aint'cha?"
+msgstr ""
+
+#. Id: 99684-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (99683-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: rebel farmers turn up to protect player base
+#: 99684-Dialogue.mod:0
+msgid "Us outcasts got to stick together..."
+msgstr ""
+
+#. Id: 99685-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (99684-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: rebel farmers turn up to protect player base
+#: 99685-Dialogue.mod:0
+msgid "We'll fight the Empire together, or we'll die together."
+msgstr ""
+
+#. Id: 99686-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (99685-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: rebel farmers turn up to protect player base
+#: 99686-Dialogue.mod:0
+msgid "There's nothin' more for us farmers to lose anyway..."
+msgstr ""
+

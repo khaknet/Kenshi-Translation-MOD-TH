@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 8421-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 8421-Dialogue.mod:2
+msgid "Bleed /HIM/ dry!"
+msgstr "เอาให้/HIM/เลือดหมดตัว!"
+
+#. Id: 8421-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 8421-Dialogue.mod:3
+msgid "Make 'em scream!"
+msgstr "เอาให้มันกรีดร้อง!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:0
+msgid "Stab 'em in the eyes!"
+msgstr "แทงลูกตาพวกมัน!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:2
+msgid "Carve their throats out!"
+msgstr "เชือดคอพวกมัน!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:3
+msgid "Slice their guts open!"
+msgstr "คว้านท้องพวกมัน!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:4
+msgid "Rip 'em inside out!"
+msgstr "เอาให้ไส้ทะลัก!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:5
+msgid "Smash 'em up!"
+msgstr "ขยี้พวกมัน!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:6
+msgid "Smash 'em open!"
+msgstr "บดขยี้พวกมันให้สิ้น!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:7
+msgid "Make 'em mush!"
+msgstr "เล่นแม่งให้เละ!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:8
+msgid "Make 'em gush! I wanna see LOTS'VE red!"
+msgstr "เอาให้เละ! กูอยากเห็นสีแดง!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:9
+msgid "Slit 'em open! Slaughter 'em!"
+msgstr "กรีดมัน! เชือดมัน!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:10
+msgid "Skin them alive! Bring me their skalps!"
+msgstr "ลอกหนังมันทั้งเป็น! เอากะโหลกมันมาให้ข้า!"
+
+#. Id: 8438-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8438-Dialogue.mod:0
+msgid "Stab 'im in the eyes!"
+msgstr "ควักลูกตามันมา!"
+
+#. Id: 8438-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8438-Dialogue.mod:2
+msgid "Carve /HIS/ throat out!"
+msgstr "เชือดคอ/HIS/!"
+
+#. Id: 8438-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8438-Dialogue.mod:3
+msgid "Slice /HIS/ guts open!"
+msgstr "คว้านท้อง/HIS/ออกมา!"
+
+#. Id: 8438-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8438-Dialogue.mod:4
+msgid "Rip /HIM/ inside out!"
+msgstr "เอาให้ไส้/HIM/แม่งทะลัก!"
+
+#. Id: 8438-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8438-Dialogue.mod:5
+msgid "Smash /HIM/ up!"
+msgstr "ขยี้/HIM/!"
+
+#. Id: 8438-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8438-Dialogue.mod:6
+msgid "Smash /HIM/ open!"
+msgstr "บดขยี้/HIM/ให้สิ้น!"
+
+#. Id: 8438-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8438-Dialogue.mod:7
+msgid "Make /HIM/ mush!"
+msgstr "เล่น/HIM/ให้เละ!"
+

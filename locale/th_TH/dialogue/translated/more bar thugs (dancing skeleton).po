@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50934-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Target Race(s): Hive Soldier Drone
+#: 50934-rebirth.mod:0
+msgid "EER! Look at this 'un Margery, it's a bleeding Fogman! *hic*"
+msgstr ""
+
+#. Id: 50948-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50935-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: more bar thugs (dancing skeleton)
+#: 50948-rebirth.mod:0
+msgid "My name 'ain't Margery..."
+msgstr ""
+
+#. Id: 50937-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50948-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#: 50937-rebirth.mod:0
+msgid "E's only a bloody bleedin' bloody Fogman innie, Margery?"
+msgstr ""
+
+#. Id: 50941-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50937-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: more bar thugs (dancing skeleton)
+#: 50941-rebirth.mod:0
+msgid "A bleedin' Fogman?! *hic*"
+msgstr ""
+
+#. Id: 50943-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50941-rebirth.mod)
+#. -- Speaker: Target with race (6)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Target Race(s): Hive Worker Drone
+#: 50943-rebirth.mod:0
+msgid "I'm not a Fogman. I'm just a normal Hiver...."
+msgstr ""
+
+#. Id: 50939-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50943-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#: 50939-rebirth.mod:0
+msgid "Bleedin' 'ell! A talking bloody Fogman, innit?!"
+msgstr ""
+
+#. Id: 50936-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50939-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: more bar thugs (dancing skeleton)
+#: 50936-rebirth.mod:0
+msgid "Bleedin' 'ell!"
+msgstr ""
+
+#. Id: 50938-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (50936-rebirth.mod)
+#. -- Speaker: Target with race (6)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Target Race(s): Hive Soldier Drone
+#: 50938-rebirth.mod:0
+msgid "No really, I'm not a..."
+msgstr ""
+
+#. Id: 50944-rebirth.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (50938-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#: 50944-rebirth.mod:0
+msgid "We're gonna be bloody rich!  Get 'im!"
+msgstr ""
+
+#. Id: 50945-rebirth.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (50944-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#: 50945-rebirth.mod:0
+msgid "*burp*"
+msgstr ""
+
+#. Id: 1534556-rebirth.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (50945-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. Id: 1733-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (1725-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#. Id: 17970-gamedata.base
+#. -- Index: 7.1
+#. -- Parent line: 6 (2448-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandits negotiate
+#. Id: 46421-Dialogue.mod
+#. -- Index: 24.0
+#. -- Parent line: 23 (46420-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 2750-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (2738-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: crumblejon
+#. Id: 10672-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10671-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#. Id: 2785-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (2784-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#. Id: 63256-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (63254-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Savant talk to
+#. Id: 5617-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5611-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. Id: 9562-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9561-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. Id: 3238-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (3228-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: dust bandit talk to
+#: 1534556-rebirth.mod:0 1733-gamedata.base:0 17970-gamedata.base:1 46421-Dialogue.mod:0 2750-gamedata.base:0 10672-Dialogue?(10).mod:0 2785-gamedata.base:0 63256-Dialogue.mod:0 5617-Recruits?Dialogue.mod:0 9562-Dialogue.mod:0 3238-gamedata.base:0
+msgid "No."
+msgstr "ไม่."
+
+#. Id: 1534557-rebirth.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (1534556-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. Id: 49170-Dialogue.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (49162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Miu recruit
+#: 1534557-rebirth.mod:0 49170-Dialogue.mod:0
+msgid "Aww..."
+msgstr ""
+
+#. Id: 50953-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50953-rebirth.mod:0
+msgid "Hoy look at this, mate! The /FUCKING/ bar sign 'as come back from the dead! /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 50953-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50953-rebirth.mod:1
+msgid "Lookit! /QUICKLAUGH/! The bar sign is alive! /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 50953-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50953-rebirth.mod:2
+msgid "The Dancin' Skellyton is back from the dead again! /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 50953-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50953-rebirth.mod:3
+msgid "Look! It's the dancing Skeleton, back for revenge! /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 50953-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50953-rebirth.mod:4
+msgid "/QUICKLAUGH/! It's the Dancing Seleton!"
+msgstr ""
+
+#. Id: 50955-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50954-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. Id: 50956-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50955-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. Id: 50958-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50957-rebirth.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. Id: 50959-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50958-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. Id: 50960-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50959-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. Id: 64372-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64371-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slaver sees player enemy
+#. Id: 5312-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5305-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: slave delivery
+#. Id: 13437-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13428-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. Id: 64729-__september20.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64728-__september20.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dragon attacks player
+#. Id: 64890-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: racists win fight
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. Id: 64889-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (64890-rebirth.mod)
+#. -- Speaker: Whole squad (5)
+#. -- Group title: racists win fight
+#. Id: 44976-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (44975-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#. Id: 64899-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (64898-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: patriot harrassment
+#. Id: 9948-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9947-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#. Id: 1532729-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1532728-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: crab announce 0 remedial
+#. Id: 45208-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King loots everything
+#. Id: 7447-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7441-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. Id: 5120-gamedata.base
+#. -- Index: 3.3
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 49233-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49231-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar thug swamp
+#. Id: 14071-Dialogue (12).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 50955-rebirth.mod:0 50956-rebirth.mod:0 50958-rebirth.mod:0 50959-rebirth.mod:0 50960-rebirth.mod:0 64372-Dialogue.mod:0 5312-gamedata.base:0 13437-Escapes.mod:1 64729-__september20.mod:0 64890-rebirth.mod:3 64889-rebirth.mod:1 44976-Dialogue.mod:1 64899-rebirth.mod:1 9948-Dialogue.mod:0 1532729-rebirth.mod:0 45208-Dialogue.mod:1 7447-Dialogue.mod:0 5120-gamedata.base:3 49233-Dialogue.mod:0 14071-Dialogue?(12).mod:1
+msgid "/QUICKLAUGH/!"
+msgstr ""
+

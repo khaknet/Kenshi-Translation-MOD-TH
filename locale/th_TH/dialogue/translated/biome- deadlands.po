@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 64785-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome- deadlands
+#. -- Condition: My Race(s): Skeleton
+#: 64785-rebirth.mod:0
+msgid "Home again I suppose."
+msgstr "ดูท่าว่าจะกลับมาบ้านอีกครั้งแล้วสินะ."
+
+#. Id: 64789-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64788-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- deadlands
+#: 64789-rebirth.mod:0
+msgid "Are you fleshies all geared up for this place?"
+msgstr "นี่นายได้ชิ้นส่วนร่างทั้งหมดมาจากที่นี่เหรอ?"
+
+#. Id: 64790-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64789-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- deadlands
+#: 64790-rebirth.mod:0
+msgid "Got your reinforced rain coats?"
+msgstr "เตรียมเสื้อกันฝนไว้พร้อมรึยัง?"
+
+#. Id: 64791-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64790-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- deadlands
+#: 64791-rebirth.mod:0
+msgid "Don't drink the water here"
+msgstr "อย่าดื่มน้ำที่นี่ล่ะ"
+
+#. Id: 64792-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64791-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- deadlands
+#: 64792-rebirth.mod:0
+msgid "Or get any on your skin"
+msgstr "อย่าแต่จะแตะต้องมัน"
+
+#. Id: 64793-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome- deadlands
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 64793-rebirth.mod:0
+msgid "/GODCURSE/! This is the freakin' Deadlands, we can't come here!"
+msgstr "/GODCURSE/! ที่นี่มัน Deadlands นรก เราไม่ควรมาที่นี่!"
+
+#. Id: 64794-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64793-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- deadlands
+#: 64794-rebirth.mod:0
+msgid "It's not a place for /MERACE/s..."
+msgstr "นี่ไม่ใช่ที่สำหรับ/MERACE/อย่างข้า..."
+
+#. Id: 64796-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64795-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome- deadlands
+#: 64796-rebirth.mod:0
+msgid "I like it"
+msgstr "ข้าชอบมันนะ"
+
+#. Id: 64798-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64796-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome- deadlands
+#: 64798-rebirth.mod:0
+msgid "Rain feels nice"
+msgstr "ฝนทำให้รู้สึกดี"
+
+#. Id: 64800-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome- deadlands
+#: 64800-rebirth.mod:0
+msgid "This isn't a home to me"
+msgstr "นี่ไม่ใช่บ้านสำหรับข้า"
+
+#. Id: 64801-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64800-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- deadlands
+#: 64801-rebirth.mod:0
+msgid "Just a hiding place.  It's a safehouse for us to retreat to and mope."
+msgstr "เป็นเพียงสถานที่หลบซ่อน. มันเป็นเซฟเฮาส์เพื่อให้เราใช้หนีและหยุดเศร้าสร้อยไปกับมัน."
+
+#. Id: 64804-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64803-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome- deadlands
+#: 64804-rebirth.mod:0
+msgid "Retreat from what?"
+msgstr "หนีจากอะไร?"
+
+#. Id: 64805-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64804-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- deadlands
+#: 64805-rebirth.mod:0
+msgid "From our failures..."
+msgstr "จากความผิดพลาดของพวกเรา..."
+
+#. Id: 64806-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64805-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- deadlands
+#: 64806-rebirth.mod:0
+msgid "These broken and fragmented civilisations that don't know how to give up..."
+msgstr "อารยธรรมที่แตกหักและพังทลายเหล่านี้ไม่รู้จักวิธีที่จะยอมแพ้..."
+
+#. Id: 64851-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64806-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- deadlands
+#: 64851-rebirth.mod:0
+msgid "Great. Now I sound like the others...."
+msgstr "เจ๋ง ตอนนี้ข้าฟังดูเหมือนคนอื่นแล้วสิ..."
+

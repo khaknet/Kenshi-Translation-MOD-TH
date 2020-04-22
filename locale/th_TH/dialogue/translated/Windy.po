@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 57699-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57699-Dialogue.mod:0
+msgid "Can't see a thing in this dust..."
+msgstr ""
+
+#. Id: 57699-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57699-Dialogue.mod:1
+msgid "I can't see..."
+msgstr ""
+
+#. Id: 57699-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57699-Dialogue.mod:2
+msgid "Can't see a damn thing..."
+msgstr ""
+
+#. Id: 57699-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57699-Dialogue.mod:3
+msgid "Damn this dust..."
+msgstr ""
+
+#. Id: 57699-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57699-Dialogue.mod:4
+msgid "To the abyss with this wind!"
+msgstr ""
+
+#. Id: 57699-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57699-Dialogue.mod:5
+msgid "The eye of the storm. This should be interesting..."
+msgstr ""
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57700-Dialogue.mod:0
+msgid "Curse this wind."
+msgstr ""
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57700-Dialogue.mod:1
+msgid "Curses to the wind."
+msgstr ""
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57700-Dialogue.mod:2
+msgid "Dust."
+msgstr ""
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57700-Dialogue.mod:3
+msgid "Curses."
+msgstr ""
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57700-Dialogue.mod:4
+msgid "On your toes. Anything may lurk in the dust."
+msgstr ""
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57700-Dialogue.mod:5
+msgid "Irksome."
+msgstr ""
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57700-Dialogue.mod:6
+msgid "Kch."
+msgstr ""
+
+#. Id: 57701-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57701-Dialogue.mod:0
+msgid "/FUCKING/ dust in me eyeballs!"
+msgstr ""
+
+#. Id: 57701-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57701-Dialogue.mod:1
+msgid "To hell with this /FUCKING/ storm!"
+msgstr ""
+
+#. Id: 57701-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57701-Dialogue.mod:2
+msgid "/GREAT/, a dust storm! Just what /IWE/ need right now..."
+msgstr ""
+
+#. Id: 57701-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57701-Dialogue.mod:3
+msgid "Blech! Breathin' in dust here..."
+msgstr ""
+
+#. Id: 57701-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57701-Dialogue.mod:4
+msgid "I hate storms..."
+msgstr ""
+
+#. Id: 57701-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57701-Dialogue.mod:5
+msgid "Can't see shit in this dust."
+msgstr ""
+
+#. Id: 57701-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57701-Dialogue.mod:6
+msgid "Ah, nothin' like a fistful o' dust in the ol' eyeballs..."
+msgstr ""
+

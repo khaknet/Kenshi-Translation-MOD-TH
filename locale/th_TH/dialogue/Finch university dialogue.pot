@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50890-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Finch university dialogue
+#: 50890-Dialogue.mod:0
+msgid "Interrupting my thought process... this better be important! Always thought I'd find my peace and quiet working here but nope, I just get noisy adventurers asking too many questions..."
+msgstr ""
+
+#. Id: 50894-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50891-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Finch university dialogue
+#: 50894-Dialogue.mod:0
+msgid "Well why not just take a look around, genius... books, work benches... worked it out yet? *sigh* This is a university. From here we send tech hunters north west to salvage relics and samples, then it's my team's job to piece together the history and lost tech of our ancient ancestors."
+msgstr ""
+
+#. Id: 50895-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50894-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Finch university dialogue
+#: 50895-Dialogue.mod:0
+msgid "I thought the Holy Nation were against all things tech related?"
+msgstr ""
+
+#. Id: 50899-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50895-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Finch university dialogue
+#: 50899-Dialogue.mod:0
+msgid "The Holy Nation, what's that got to do with- Oh, right, I guess you refer to the statues of the Lord Phoenix outside... No more than decoys is all they are. We're not affiliated with the Holy Nation, despite appearances. But the statues keep them happy, the holy fools are gullible enough to lap it up. Not so smart those ones."
+msgstr ""
+
+#. Id: 50901-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50899-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Finch university dialogue
+#: 50901-Dialogue.mod:0
+msgid "So it's a lie... you're actually heretics?! PURGE! (Attack)"
+msgstr ""
+
+#. Id: 50902-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50901-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Finch university dialogue
+#: 50902-Dialogue.mod:0
+msgid "Dammit, the guards are supposed to keep you crazies out!"
+msgstr ""
+
+#. Id: 50896-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50894-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Finch university dialogue
+#: 50896-Dialogue.mod:0
+msgid "Can you teach me about the history of the area?"
+msgstr ""
+
+#. Id: 50897-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50896-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Finch university dialogue
+#: 50897-Dialogue.mod:0
+msgid "*sigh* If I explained the history of the world to every boor of an adventurer who dropped by, I wouldn't have much time to carry out my actual research, would I? You expect everything, you people, one minute you want me to work, next you want to rip me from my bubble of silence and knowledge..."
+msgstr ""
+
+#. Id: 50898-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50897-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Finch university dialogue
+#: 50898-Dialogue.mod:0
+msgid "Speak to my assistant, Iyo. Even better, read my books or go buy my blueprints if you really want knowledge. I've certainly published enough of them..."
+msgstr ""
+
+#. Id: 50916-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50915-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Finch university dialogue
+#: 50916-Dialogue.mod:0
+msgid "Of course, head scientist of the Tech Hunters, now personal tour guide for all visitors apparently!"
+msgstr ""
+
+#. Id: 50917-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50916-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Finch university dialogue
+#: 50917-Dialogue.mod:0
+msgid "*sigh* Now, where was I?"
+msgstr ""
+
+#. Id: 50893-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50890-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Finch university dialogue
+#: 50893-Dialogue.mod:0
+msgid "What are you doing holed up in here?"
+msgstr ""
+
+#. Id: 50907-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50890-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Finch university dialogue
+#: 50907-Dialogue.mod:0
+msgid "Don't fancy yourself a bit of adventuring then?"
+msgstr ""
+
+#. Id: 50910-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50907-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Finch university dialogue
+#: 50910-Dialogue.mod:0
+msgid "Adventuring is for simple minded ruffians with a death wish. But their work is necessary for my research, so I won't judge them too harshly for it. I personally prefer the solitude of my lab where I can work without the interference of such pointless queries..."
+msgstr ""
+
+#. Id: 50911-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Finch university dialogue
+#: 50911-Dialogue.mod:0
+msgid "Too bad, there are a lot more where that one came from. What is this place?"
+msgstr ""
+
+#. Id: 50912-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Finch university dialogue
+#: 50912-Dialogue.mod:0
+msgid "... I'm guessing you don't have many friends..."
+msgstr ""
+
+#. Id: 50913-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Finch university dialogue
+#: 50913-Dialogue.mod:0
+msgid "Well yes, I lack human companionship but I find my studies to be a much better way to occupy my time. What is your point exactly with these foolish questions?"
+msgstr ""
+
+#. Id: 50914-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50913-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Finch university dialogue
+#: 50914-Dialogue.mod:0
+msgid "*sigh* I don't have time for chatter. Now, where was I?"
+msgstr ""
+
+#. Id: 53277-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Finch university dialogue
+#: 53277-Dialogue.mod:0
+msgid "I have some questions."
+msgstr ""
+
+#. Id: 53278-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53277-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Finch university dialogue
+#: 53278-Dialogue.mod:0
+msgid "*Sigh*... Of course, why not? Not like I have a job to do or anything!"
+msgstr ""
+
+#. Id: 53275-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50890-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Finch university dialogue
+#: 53275-Dialogue.mod:0
+msgid "Do you know where I can find ancient science books?"
+msgstr ""
+
+#. Id: 53276-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53275-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Finch university dialogue
+#: 53276-Dialogue.mod:0
+msgid "Oh why of course! Allow me to divulge all hard earned knowledge of the Tech Hunters so that random adventurers can stumble upon valuable research artifacts before we do!"
+msgstr ""
+
+#. Id: 53279-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53276-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Finch university dialogue
+#: 53279-Dialogue.mod:0
+msgid "How helpful of you. Forget it, I'm leaving."
+msgstr ""
+
+#. Id: 50908-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50890-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Finch university dialogue
+#: 50908-Dialogue.mod:0
+msgid "Yeesh, sorry for breathing. I'm leaving..."
+msgstr ""
+
+#. Id: 50909-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Finch university dialogue
+#: 50909-Dialogue.mod:0
+msgid "Good. So I can get back on with my work... Now, where was I?"
+msgstr ""
+

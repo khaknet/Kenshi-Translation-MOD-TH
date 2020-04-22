@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 96669-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION<1, Tag: -1
+#: 96669-Dialogue.mod:0
+msgid "Setting up in the desert without samurai guard?"
+msgstr ""
+
+#. Id: 96670-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96669-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#: 96670-Dialogue.mod:0
+msgid "Dumb move."
+msgstr ""
+
+#. Id: 96675-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION<1, Tag: -1
+#: 96675-Dialogue.mod:0
+msgid "New village, eh?"
+msgstr ""
+
+#. Id: 96676-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96675-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#: 96676-Dialogue.mod:0
+msgid "To us you're just another target."
+msgstr ""
+
+#. Id: 96683-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION>1, Tag: -1
+#: 96683-Dialogue.mod:0
+msgid "Well, well! Haven't we grown into a fancy little town..."
+msgstr ""
+
+#. Id: 96685-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96683-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#: 96685-Dialogue.mod:0
+msgid "Here's hoping you've got the loot to match it."
+msgstr ""
+
+#. Id: 96686-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION>1, Tag: -1
+#: 96686-Dialogue.mod:0
+msgid "Place sure looks noble these days, eh... Fits in the desert real nice."
+msgstr ""
+
+#. Id: 96673-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96686-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#: 96673-Dialogue.mod:0
+msgid "How about we bring them down a peg before they get too big for their boots..."
+msgstr ""
+
+#. Id: 96674-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96673-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#: 96674-Dialogue.mod:0
+msgid "And take some of their goods while we're at it!"
+msgstr ""
+

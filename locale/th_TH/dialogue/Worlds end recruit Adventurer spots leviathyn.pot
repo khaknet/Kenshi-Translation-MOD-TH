@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51185-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Worlds end recruit Adventurer spots leviathyn
+#. -- Condition: Target Race(s): Leviathan or Whistler
+#: 51185-Dialogue.mod:0
+msgid "Wh- what is that?! It's freakin' huge!"
+msgstr ""
+
+#. Id: 51186-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51185-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Worlds end recruit Adventurer spots leviathyn
+#: 51186-Dialogue.mod:0
+msgid "I've never even heard of any monster like this before... We must have hit unexplored lands! This is legendary!"
+msgstr ""
+
+#. Id: 51187-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Worlds end recruit Adventurer spots leviathyn
+#. -- Condition: Target Race(s): Whistler
+#: 51187-Dialogue.mod:0
+msgid "What the hell is that?! It's got no freakin' head... this must be the headless ancient I've heard about back at World's End!"
+msgstr ""
+

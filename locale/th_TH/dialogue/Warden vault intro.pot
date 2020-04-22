@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 63520-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Warden vault intro
+#: 63520-Dialogue.mod:0
+msgid "/QUICKLAUGH/, fresh meat for the torture table, eh?"
+msgstr ""
+
+#. Id: 63521-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63520-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Warden vault intro
+#: 63521-Dialogue.mod:0
+msgid "On behalf of Lord Tengu, welcome to your new home!"
+msgstr ""
+
+#. Id: 63529-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63521-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Warden vault intro
+#: 63529-Dialogue.mod:0
+msgid "It's a bit on the small side, but a lick of piss on the walls should make it sparkle."
+msgstr ""
+
+#. Id: 63522-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63529-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Warden vault intro
+#: 63522-Dialogue.mod:0
+msgid "You'll find the toilet in the corner next to your foot."
+msgstr ""
+
+#. Id: 63523-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63522-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Warden vault intro
+#: 63523-Dialogue.mod:0
+msgid "Food is served at whenever-I-give-a-fuck o'clock."
+msgstr ""
+
+#. Id: 63524-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (63523-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Warden vault intro
+#: 63524-Dialogue.mod:0
+msgid "We have a great choice of meals..."
+msgstr ""
+
+#. Id: 63525-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (63524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Warden vault intro
+#: 63525-Dialogue.mod:0
+msgid "Shit scraped fresh from the floor..."
+msgstr ""
+
+#. Id: 63526-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (63525-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Warden vault intro
+#: 63526-Dialogue.mod:0
+msgid "... Rotten gutter entrails... or the tongue scalpel special."
+msgstr ""
+
+#. Id: 63527-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (63526-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Warden vault intro
+#: 63527-Dialogue.mod:0
+msgid "Nobody cares about you. It's my job to make you suffer."
+msgstr ""
+
+#. Id: 63528-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (63527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Warden vault intro
+#: 63528-Dialogue.mod:0
+msgid "Enjoy your stay!"
+msgstr ""
+

@@ -1,0 +1,370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 20160-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20160-Dialogue.mod:0
+msgid "/HI/ neighbour/S/!"
+msgstr "/HI/ เพื่อนบ้านทั้งหลาย!"
+
+#. Id: 20160-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20160-Dialogue.mod:1
+msgid "/HI/ friend/S/..."
+msgstr "/HI/ เพื่อนทั้งหลาย..."
+
+#. Id: 20160-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20160-Dialogue.mod:2
+msgid "/HI/ outlander/S/!"
+msgstr "/HI/ คนแปลกหน้าทั้งหลาย!"
+
+#. Id: 20160-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20160-Dialogue.mod:3
+msgid "/HI/ settler/S/!"
+msgstr "/HI/ พวกตั้งรกรากทั้งหลาย!"
+
+#. Id: 20160-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20160-Dialogue.mod:4
+msgid "/HI/ there..."
+msgstr "เฮ้ ไงพวก..."
+
+#. Id: 20161-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (20160-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20161-Dialogue.mod:0
+msgid "Where's your leader?"
+msgstr "ใครคือหัวหน้าของเจ้า?"
+
+#. Id: 20161-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (20160-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20161-Dialogue.mod:1
+msgid "Can I see your leader?"
+msgstr "ขอข้าพบหัวหน้าของเจ้าได้หรือไม่?"
+
+#. Id: 20161-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (20160-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20161-Dialogue.mod:2
+msgid "Can you show me to your leader?"
+msgstr "เจ้าช่วยพาข้าไปพบหัวหน้าของเจ้าหน่อยได้หรือไม่?"
+
+#. Id: 20161-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (20160-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20161-Dialogue.mod:3
+msgid "Is your leader around?"
+msgstr "หัวหน้าของเจ้าอยู่แถวนี้หรือเปล่า?"
+
+#. Id: 20161-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (20160-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20161-Dialogue.mod:4
+msgid "Got a leader kickin' around here?"
+msgstr "หัวหน้าของเจ้าวนเวียนอยู่แถวนี้หรือเปล่า?"
+
+#. Id: 20162-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (20161-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20162-Dialogue.mod:0
+msgid "I've come to have a chat with 'em..."
+msgstr "ข้ามาเพื่อพูดคุยกับพวกเขา..."
+
+#. Id: 20162-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (20161-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20162-Dialogue.mod:1
+msgid "I just wanna have a chat with 'em..."
+msgstr "ข้าต้องการพูดคุยกับพวกเขา..."
+
+#. Id: 20162-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (20161-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20162-Dialogue.mod:2
+msgid "I'm here for a chat with 'em..."
+msgstr "ข้าอยู่ที่นี่เพื่อพูดคุยกับพวกเขา..."
+
+#. Id: 20162-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (20161-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20162-Dialogue.mod:3
+msgid "I just need to have a word with 'em..."
+msgstr "ข้ามีเรื่องอย่างพูดกับพวกเขานิดหน่อย..."
+
+#. Id: 20163-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (20162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20163-Dialogue.mod:0
+msgid "Real quick I'll be..."
+msgstr "ข้าจะรีบ..."
+
+#. Id: 20163-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (20162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20163-Dialogue.mod:1
+msgid "I'll only be a couple of minutes..."
+msgstr "แค่ไม่กี่นาทีหรอก..."
+
+#. Id: 20163-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (20162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20163-Dialogue.mod:2
+msgid "It won't take long..."
+msgstr "ใช้เวลาไม่นานหรอก..."
+
+#. Id: 20163-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (20162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20163-Dialogue.mod:3
+msgid "Just got a bit of business to discuss..."
+msgstr "แค่่มีเรื่องธุรกิจนิดหน่อยที่อยากคุยด้วย..."
+
+#. Id: 20164-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (20163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#. Id: 62732-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#. Id: 98737-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98749-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98748-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 20164-Dialogue.mod:0 62732-Dialogue.mod:0 98737-Dialogue.mod:0 98749-Dialogue.mod:0
+msgid "Anybody home?"
+msgstr "มีใครอยู่ไหม?"
+
+#. Id: 20164-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (20163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20164-Dialogue.mod:2
+msgid "Anybody in?"
+msgstr "มีใครอยู่ข้างในบ้าง?"
+
+#. Id: 20164-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (20163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20164-Dialogue.mod:3
+msgid "Don't be shy..."
+msgstr "ไม่ต้องอายไป..."
+
+#. Id: 20166-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (20165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20166-Dialogue.mod:0
+msgid "I don't like being ignored, neighbours..."
+msgstr "เพื่อนบ้านเอ๋ย ข้าไม่ชอบถูกเมินเฉยนะ..."
+
+#. Id: 20166-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (20165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20166-Dialogue.mod:1
+msgid "This is getting rude now, neighbours..."
+msgstr "เพื่อนบ้านเอ๋ย นี่มันเริ่มหยาบคายแล้วนะ...."
+
+#. Id: 20166-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (20165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20166-Dialogue.mod:2
+msgid "I'm starting to feel rather offended now, neighbours..."
+msgstr "เพื่อนบ้านเอ๋ย ข้าเริ่มรู้สึกว่าถูกหาเรื่องแล้วนะ..."
+
+#. Id: 20166-Dialogue.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (20165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20166-Dialogue.mod:3
+msgid "Come on, it's hot standing around out here..."
+msgstr "สักทีน่า ยืนอยู่ข้างนอกนี่ร้อนนะ..."
+
+#. Id: 20166-Dialogue.mod
+#. -- Index: 6.4
+#. -- Parent line: 5 (20165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20166-Dialogue.mod:4
+msgid "This is starting to get a little insulting now, neighbours..."
+msgstr "เพื่อนบ้านเอ๋ย ข้ารู้สึกว่าเจ้ากำลังหาเรื่องข้านะ..."
+
+#. Id: 20167-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (20166-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20167-Dialogue.mod:0
+msgid "And my men are starting to get impatient"
+msgstr "และพรรคพวกของข้าเริ่มหมดความอดทนแล้วด้วย"
+
+#. Id: 20167-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (20166-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20167-Dialogue.mod:1
+msgid "And my men are getting testy"
+msgstr "และพรรคพวกของข้าเริ่มหงุดหงิดแล้วด้วย"
+
+#. Id: 20167-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (20166-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20167-Dialogue.mod:2
+msgid "And you're starting to make my men irritable"
+msgstr "และเจ้ากำลังทำให้พรรคพวกของข้าหงุดหงิดแล้วด้วย"
+
+#. Id: 20167-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (20166-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20167-Dialogue.mod:3
+msgid "And my men are starting to get on edge"
+msgstr "และพรรคพวกของข้าเริ่มไม่พอใจแล้วด้วย"
+
+#. Id: 20168-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (20167-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20168-Dialogue.mod:0
+msgid "You won't like them when they're angry..."
+msgstr "เจ้าไม่ชอบหรอก เวลาที่พวกเขาโกรธน่ะ..."
+
+#. Id: 20168-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (20167-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20168-Dialogue.mod:1
+msgid "You don't wanna make them mad..."
+msgstr "เจ้าไม่ชอบหรอก เวลาที่พวกเขาอารมณ์บูดน่ะ..."
+
+#. Id: 20168-Dialogue.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (20167-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20168-Dialogue.mod:2
+msgid "You don't wanna make them angry, do you?"
+msgstr "เจ้าไม่อยากให้พวกเขาโกรธหรอก ใช่มั้ย?"
+
+#. Id: 20168-Dialogue.mod
+#. -- Index: 8.3
+#. -- Parent line: 7 (20167-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20168-Dialogue.mod:3
+msgid "You don't wanna disrespect my men now, do you?"
+msgstr "เจ้าไม่อยากให้พวกเขารู้สึกว่าเจ้าไม่เคารพเขาหรอก ใช่มั้ย?"
+
+#. Id: 20170-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (20169-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20170-Dialogue.mod:0
+msgid "You'll regret ignoring me, /OUTLANDER/."
+msgstr "เจ้าจะเสียใจที่เมินข้า /OUTLANDER/"
+
+#. Id: 20170-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (20169-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20170-Dialogue.mod:1
+msgid "Guess I'll be bringing some friends over for another visit soon."
+msgstr "ข้าคงต้องพาเพื่อน ๆ มาเยี่ยมใหม่เร็ว ๆ นี้แล้วล่ะ"
+
+#. Id: 20170-Dialogue.mod
+#. -- Index: 10.2
+#. -- Parent line: 9 (20169-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20170-Dialogue.mod:2
+msgid "The base isn't gonna like hearing that you ignored us, /OUTLANDER/."
+msgstr "ที่ฐานคงไม่พอใจที่ได้ยินว่าเจ้าเมินพวกข้าแหง ๆ /OUTLANDER/"
+
+#. Id: 20170-Dialogue.mod
+#. -- Index: 10.3
+#. -- Parent line: 9 (20169-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 20170-Dialogue.mod:3
+msgid "Be seeing you again real soon then, /OUTLANDER/. Next time with a few more friends..."
+msgstr "แล้วเจอกันเร็ว ๆ นี้นะ /OUTLANDER/ ครั้งต่อไปจะมีพรรคพวกมาอีกหลายคนเลย..."
+

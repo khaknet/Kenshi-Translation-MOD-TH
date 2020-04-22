@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12613-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12613-gamedata.base:2
+msgid "/FUCKOFF/, thief!"
+msgstr "/FUCKOFF/, ไอ้โจร!"
+

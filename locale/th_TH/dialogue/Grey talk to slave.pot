@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 59270-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=1, Tag: -1
+#. Id: 59272-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#. -- Condition: Who: TARGET, Condition: IS_ESCAPED_SLAVE=1, Tag: -1
+#: 59270-Dialogue.mod:0 59272-Dialogue.mod:0
+msgid "[He looks you up and down and smiles a sad smile]... A runaway slave?"
+msgstr ""
+
+#. Id: 59274-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59270-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to slave
+#: 59274-Dialogue.mod:0
+msgid "Yes. I heard you can help me..."
+msgstr ""
+
+#. Id: 59277-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59274-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#: 59277-Dialogue.mod:0
+msgid "Hiding slaves is what I do. Now, hold still while I hide those markings..."
+msgstr ""
+
+#. Id: 59275-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59270-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to slave
+#: 59275-Dialogue.mod:0
+msgid "No. I just like shaved heads and shackles..."
+msgstr ""
+
+#. Id: 59276-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59275-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#: 59276-Dialogue.mod:0
+msgid "[He raises an eyebrow]... Lucky for you not all of us need our shoes licked before we do you favours. Hold still while I hide those markings..."
+msgstr ""
+
+#. Id: 59278-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59276-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#: 59278-Dialogue.mod:0
+msgid "... Alright. That should keep you out of the slavers' sights. "
+msgstr ""
+
+#. Id: 59279-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59278-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to slave
+#. Id: 40509-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 59279-Dialogue.mod:0 40509-gamedata.base:2
+msgid "I owe you one."
+msgstr ""
+
+#. Id: 59281-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#: 59281-Dialogue.mod:0
+msgid "You owe me nothing. Pass it along."
+msgstr ""
+
+#. Id: 59290-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59281-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to slave
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 59290-Dialogue.mod:0
+msgid "Can I join the Anti-Slavers?"
+msgstr ""
+
+#. Id: 59291-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (59290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#: 59291-Dialogue.mod:0
+msgid "Only a fool denies allies amidst a war. But freedom is a beautiful thing, and you're lucky to have found it again, ex-slave. Think hard how you want to spend that newfound freedom..."
+msgstr ""
+
+#. Id: 59293-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (59292-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to slave
+#: 59293-Dialogue.mod:0
+msgid "No doubt about it. Sign me up."
+msgstr ""
+
+#. Id: 59560-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59281-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to slave
+#: 59560-Dialogue.mod:0
+msgid "Guess I'll be leaving now."
+msgstr ""
+
+#. Id: 59280-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59278-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to slave
+#: 59280-Dialogue.mod:0
+msgid "Thanks I guess."
+msgstr ""
+
+#. Id: 59559-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59280-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#: 59559-Dialogue.mod:0
+msgid "Pass it forward. Put your freedom to good use."
+msgstr ""
+
+#. Id: 59553-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ESCAPED_SLAVE=1, Tag: -1
+#: 59553-Dialogue.mod:0
+msgid "[He shakes his head]... You got caught? Sloppy, comrade."
+msgstr ""
+
+#. Id: 59556-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59553-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to slave
+#. Id: 98071-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 59556-Dialogue.mod:0 98071-Dialogue.mod:1
+msgid "Can you help me?"
+msgstr ""
+
+#. Id: 59557-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59556-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#: 59557-Dialogue.mod:0
+msgid "*Sigh* At least you made it out in one piece... Come, let me hide those markings for you."
+msgstr ""
+
+#. Id: 59558-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59557-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#: 59558-Dialogue.mod:0
+msgid "Watch your back better next time, comrade."
+msgstr ""
+

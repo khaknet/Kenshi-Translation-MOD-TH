@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13826-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 13826-Escapes.mod:0
+msgid "Hm?..."
+msgstr ""
+
+#. Id: 13826-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 13826-Escapes.mod:1
+msgid "?..."
+msgstr ""
+
+#. Id: 13826-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 13826-Escapes.mod:2
+msgid "Mm..?"
+msgstr ""
+
+#. Id: 13847-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13845-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 13847-Escapes.mod:0
+msgid "Over here! THIS /SNAKE/'s got a fat one on /HIS/ head!"
+msgstr ""
+
+#. Id: 13847-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13845-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 13847-Escapes.mod:1
+msgid "Mobilize! We've got a a big bounty here!"
+msgstr ""
+
+#. Id: 13847-Escapes.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13845-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 13847-Escapes.mod:2
+msgid "Form up! This one's a wanted /MAN/!"
+msgstr ""
+
+#. Id: 13847-Escapes.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (13845-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 13847-Escapes.mod:3
+msgid "Over here! We've got a wanted /MAN/!"
+msgstr ""
+
+#. Id: 13847-Escapes.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (13845-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 13847-Escapes.mod:4
+msgid "Mobilize! We've got ourselves a famous one here!"
+msgstr ""
+
+#. Id: 13847-Escapes.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (13845-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 13847-Escapes.mod:5
+msgid "Looks like we've got ourselves a wanted /MAN/!"
+msgstr ""
+
+#. Id: 15599-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13845-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 15599-Dialogue.mod:0
+msgid "Bounty! Unholy criminal!"
+msgstr ""
+
+#. Id: 15599-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13845-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 15599-Dialogue.mod:1
+msgid "Paladins rally! There is darkness among us, a wanted criminal..."
+msgstr ""
+
+#. Id: 15599-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13845-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 15599-Dialogue.mod:2
+msgid "A wanted criminal! "
+msgstr ""
+
+#. Id: 15599-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (13845-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 15599-Dialogue.mod:3
+msgid "An uncleansed evil!"
+msgstr ""
+
+#. Id: 15599-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (13845-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 15599-Dialogue.mod:4
+msgid "An unpunished evil!"
+msgstr ""
+
+#. Id: 15600-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13845-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 15600-Dialogue.mod:0
+msgid "Paladins rally! There is a /TEMPTRESS/ among us!"
+msgstr ""
+
+#. Id: 15600-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13845-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 15600-Dialogue.mod:1
+msgid "A spawn of the dark demoness, a wanted criminal!"
+msgstr ""
+
+#. Id: 15600-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13845-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 15600-Dialogue.mod:2
+msgid "A wanted woman, /TAINT/ed by the dark demoness!"
+msgstr ""
+
+#. Id: 13849-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 13849-Escapes.mod:0
+msgid "You... hold it right there..."
+msgstr ""
+
+#. Id: 13849-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 13849-Escapes.mod:1
+msgid "You... stop right there..."
+msgstr ""
+
+#. Id: 13849-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 13849-Escapes.mod:2
+msgid "You... don't take another step..."
+msgstr ""
+
+#. Id: 13850-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13849-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 13850-Escapes.mod:1
+msgid "... I know you..."
+msgstr ""
+
+#. Id: 13850-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13849-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 13850-Escapes.mod:2
+msgid "... You look familiar..."
+msgstr ""
+
+#. Id: 13851-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13850-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 13851-Escapes.mod:0
+msgid "...I knew it!... Arrest /HIM/! Lock /HIM/ up!"
+msgstr ""
+
+#. Id: 13851-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13850-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 13851-Escapes.mod:1
+msgid "... Of course!... Criminal! Arrest /HIM/, get /HIM/!"
+msgstr ""
+
+#. Id: 13851-Escapes.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13850-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#: 13851-Escapes.mod:2
+msgid "... Wait! ... Arrest /HIM/! /HEIS/ a wanted /MAN/!"
+msgstr ""
+

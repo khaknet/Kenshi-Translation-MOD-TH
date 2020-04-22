@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 57292-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim Hounds cheer
+#: 57292-Dialogue.mod:0
+msgid "Arrroooo!"
+msgstr "อรวูวววววววว!"
+
+#. Id: 57292-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim Hounds cheer
+#. Id: 98721-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98723-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98725-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98724-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98727-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98726-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98735-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (98734-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 57292-Dialogue.mod:2 98721-Dialogue.mod:0 98723-Dialogue.mod:0 98725-Dialogue.mod:0 98727-Dialogue.mod:0 98735-Dialogue.mod:0
+msgid "*Howl*"
+msgstr "*เห่าหอน*"
+

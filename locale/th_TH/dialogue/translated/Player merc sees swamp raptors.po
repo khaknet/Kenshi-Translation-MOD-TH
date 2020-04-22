@@ -1,0 +1,613 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47384-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 44005-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 47384-Dialogue.mod:0 44005-Dialogue.mod:3
+msgid "Pesky /GODDAMN/ /ANIMALTYPE/s!"
+msgstr ""
+
+#. Id: 47384-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 44005-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 47384-Dialogue.mod:1 44005-Dialogue.mod:4
+msgid "Bothersome /GODDAMN/ /ANIMALTYPE/s!"
+msgstr ""
+
+#. Id: 47384-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 44005-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 47384-Dialogue.mod:2 44005-Dialogue.mod:5
+msgid "Dammit! /ANIMALTYPE/s!"
+msgstr ""
+
+#. Id: 47384-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 44005-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 47384-Dialogue.mod:3 44005-Dialogue.mod:1
+msgid "Thieving /ANIMALTYPE/!"
+msgstr ""
+
+#. Id: 47384-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 44005-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 47384-Dialogue.mod:4 44005-Dialogue.mod:2
+msgid "/DIRTY/ /ANIMALTYPE/s!"
+msgstr ""
+
+#. Id: 47384-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 44013-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44016-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#: 47384-Dialogue.mod:5 44013-Dialogue.mod:0
+msgid "/MYOUR/ crops! /MYOUR/ beautiful crops!"
+msgstr ""
+
+#. Id: 47384-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 44013-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44016-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#: 47384-Dialogue.mod:6 44013-Dialogue.mod:1
+msgid "What have you done to /MYOUR/ crops!!?"
+msgstr ""
+
+#. Id: 47385-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 44020-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 47385-Dialogue.mod:0 44020-Dialogue.mod:0
+msgid "I'll kill you! I'll kill every last one of you!"
+msgstr ""
+
+#. Id: 47385-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 44020-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 47385-Dialogue.mod:1 44020-Dialogue.mod:1
+msgid "Pests! I'll exterminate you all! /GODDAMN/ thieving pests!"
+msgstr ""
+
+#. Id: 47385-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (47384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 44020-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (44005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 47385-Dialogue.mod:2 44020-Dialogue.mod:2
+msgid "Kill 'em! Kill 'em all!"
+msgstr ""
+
+#. Id: 47385-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (47384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 44020-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (44005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 47385-Dialogue.mod:3 44020-Dialogue.mod:3
+msgid "Pests!"
+msgstr ""
+
+#. Id: 47385-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (47384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 44020-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (44005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 47385-Dialogue.mod:4 44020-Dialogue.mod:4
+msgid "Curse you all!"
+msgstr "ข้าขอสาปแช่งพวกเจ้าทุกคน!"
+
+#. Id: 47385-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (47384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 44018-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 47385-Dialogue.mod:5 44018-Dialogue.mod:0
+msgid "I'll make you into a /GODDAMN/ stew, I swear!"
+msgstr ""
+
+#. Id: 47385-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (47384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#: 47385-Dialogue.mod:6
+msgid "I'll have your skin, raptor bastard! "
+msgstr ""
+
+#. Id: 47385-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (47384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 44018-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (44005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 47385-Dialogue.mod:7 44018-Dialogue.mod:4
+msgid "/IWE/'ll be eating /ANIMALTYPE/ tonight! Come 'ere!"
+msgstr ""
+
+#. Id: 47386-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 44006-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#: 47386-Dialogue.mod:0 44006-Dialogue.mod:0
+msgid "Curse you, /ANIMALTYPE/! Get out of here!"
+msgstr ""
+
+#. Id: 47386-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 44006-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#: 47386-Dialogue.mod:1 44006-Dialogue.mod:1
+msgid "Cursed /ANIMALTYPE/s!"
+msgstr ""
+
+#. Id: 47386-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 44067-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hiver ronin sees swamp raptor
+#. Id: 44006-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#: 47386-Dialogue.mod:2 44067-Dialogue.mod:0 44006-Dialogue.mod:5
+msgid "/ANIMALTYPE/!"
+msgstr ""
+
+#. Id: 47386-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 44006-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#: 47386-Dialogue.mod:3 44006-Dialogue.mod:6
+msgid "Get out of here! Shoo!"
+msgstr ""
+
+#. Id: 47386-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 44006-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#: 47386-Dialogue.mod:4 44006-Dialogue.mod:7
+msgid "No! Get away from there, go on! Shoo!"
+msgstr ""
+
+#. Id: 47386-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 44006-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#: 47386-Dialogue.mod:5 44006-Dialogue.mod:8
+msgid "Shoo! /DIRTY/ animal!"
+msgstr ""
+
+#. Id: 47386-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 44012-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 47386-Dialogue.mod:6 44012-Dialogue.mod:0
+msgid "The crops! Watch the crops!"
+msgstr ""
+
+#. Id: 47386-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 44012-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. Id: 44033-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. Id: 44046-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44045-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy civ spots raptor eating crops
+#: 47386-Dialogue.mod:7 44012-Dialogue.mod:1 44033-Dialogue.mod:1 44046-Dialogue.mod:0
+msgid "Protect the crops!"
+msgstr ""
+
+#. Id: 47386-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 44012-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (44006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 47386-Dialogue.mod:8 44012-Dialogue.mod:4
+msgid "It's destroying /MYOUR/ crops! Cursed animal!"
+msgstr ""
+
+#. Id: 47386-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 44033-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (44006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#: 47386-Dialogue.mod:9 44033-Dialogue.mod:4
+msgid "It'll destroy everything if /IWE/ don't kill it!"
+msgstr ""
+
+#. Id: 47386-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 44033-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (44006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#: 47386-Dialogue.mod:10 44033-Dialogue.mod:3
+msgid "Don't let it eat the crops!"
+msgstr ""
+
+#. Id: 47386-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 44033-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (44006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#: 47386-Dialogue.mod:11 44033-Dialogue.mod:2
+msgid "Kill it, or it'll eat the farms bare!"
+msgstr ""
+
+#. Id: 47388-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 12788-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Shek or Greenlander
+#. Id: 44128-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees swamp raptor looting
+#: 47388-Dialogue.mod:0 12788-Dialogue?(11)?(2).mod:0 44128-Dialogue.mod:0
+msgid "Hey! Scram!"
+msgstr ""
+
+#. Id: 47388-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 44128-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees swamp raptor looting
+#: 47388-Dialogue.mod:1 44128-Dialogue.mod:1
+msgid "Shoo! Get out of here!"
+msgstr ""
+
+#. Id: 47388-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 44128-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees swamp raptor looting
+#: 47388-Dialogue.mod:2 44128-Dialogue.mod:2
+msgid "Hey! Shoo!"
+msgstr ""
+
+#. Id: 47388-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 44128-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees swamp raptor looting
+#: 47388-Dialogue.mod:3 44128-Dialogue.mod:3
+msgid "Scram, animal!"
+msgstr ""
+
+#. Id: 47388-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 44128-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees swamp raptor looting
+#: 47388-Dialogue.mod:4 44128-Dialogue.mod:4
+msgid "Go away! Shoo!"
+msgstr ""
+
+#. Id: 47388-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 47388-Dialogue.mod:6
+msgid "Raptors! Dammit!"
+msgstr ""
+
+#. Id: 47388-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 47388-Dialogue.mod:7
+msgid "I hate goddamn /ANIMALTYPE/s!"
+msgstr ""
+
+#. Id: 47388-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 47388-Dialogue.mod:8
+msgid "Damn you, /ANIMALTYPE/s..."
+msgstr ""
+
+#. Id: 47463-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 47463-Dialogue.mod:0
+msgid "/GODDAMN/ /ANIMALTYPE/s! I'll kill the lot of you!"
+msgstr ""
+
+#. Id: 47463-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 47463-Dialogue.mod:1
+msgid "Urgh, ugly /GODDAMN/ /ANIMALTYPE/s... time for a bit of extermination!"
+msgstr ""
+
+#. Id: 47463-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 47463-Dialogue.mod:2
+msgid "Time to exterminate some /ANIMALTYPE/s..."
+msgstr ""
+
+#. Id: 47463-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 47463-Dialogue.mod:3
+msgid "/ANIMALTYPE/ squashing time!"
+msgstr ""
+
+#. Id: 47463-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 47463-Dialogue.mod:4
+msgid "Ahh for cryin' out loud!.. Goddamn /ANIMALTYPE/s..."
+msgstr ""
+
+#. Id: 47463-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 47463-Dialogue.mod:5
+msgid "Raptor huntin' season begins!"
+msgstr ""
+
+#. Id: 47463-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 47463-Dialogue.mod:6
+msgid "Oh? A visit from my favourite critters, eh?"
+msgstr ""
+

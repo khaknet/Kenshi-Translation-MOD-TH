@@ -1,0 +1,782 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 6910-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6910-Dialogue.mod:0
+msgid "It's a pleasure to see you again, I hope that you're well. Anything I can do for you?"
+msgstr ""
+
+#. Id: 6910-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6910-Dialogue.mod:1
+msgid "Good to see you again. Anything I can help you with?"
+msgstr ""
+
+#. Id: 6911-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6911-Dialogue.mod:0
+msgid "/IMWERE/ broke, /IWE/ need money"
+msgstr ""
+
+#. Id: 96577-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6911-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 96577-Dialogue.mod:0
+msgid "Phew, you and me both, /BROTHER/... You and me both... I got 100 Cats, might get you a mouthful of grog?"
+msgstr ""
+
+#. Id: 6938-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96577-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6938-Dialogue.mod:0
+msgid "You really are useless aren't you?"
+msgstr ""
+
+#. Id: 6943-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6938-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6943-Dialogue.mod:0
+msgid "Yes, I'm weak and poor. I'm sorry"
+msgstr ""
+
+#. Id: 6945-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6943-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6945-Dialogue.mod:0
+msgid "Don't worry about it, it's okay"
+msgstr ""
+
+#. Id: 96569-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6943-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#. Id: 43144-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata spots assault
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Greenlander or Scorchlander
+#: 96569-Dialogue.mod:0 43144-Dialogue.mod:2
+msgid "/TCH/..."
+msgstr ""
+
+#. Id: 9788-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6938-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 9788-Dialogue.mod:0
+msgid "Hey, that's pretty cruel. I do pretty good massages. And I make a mean potato loaf too"
+msgstr ""
+
+#. Id: 9788-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (6938-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 9788-Dialogue.mod:1
+msgid "Well that's a bit harsh. I mean I'm a pretty good butcher... even if I AM a peace loving /MISER/..."
+msgstr ""
+
+#. Id: 9788-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (6938-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 9788-Dialogue.mod:2
+msgid "That seems a little harsh. You know, I'm a pretty good carpenter... even if I AM poor and useless in a fight..."
+msgstr ""
+
+#. Id: 6939-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96577-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6939-Dialogue.mod:0
+msgid "You know what, don't worry about it"
+msgstr ""
+
+#. Id: 6942-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6939-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6942-Dialogue.mod:0
+msgid "Sorry I couldn't help you out"
+msgstr ""
+
+#. Id: 6947-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6939-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6947-Dialogue.mod:0
+msgid "Well, I have 200 Cats I was going to use some of it on food. But I guess you can have the whole lot if you need it"
+msgstr ""
+
+#. Id: 6948-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6947-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6948-Dialogue.mod:0
+msgid "Give it to me"
+msgstr ""
+
+#. Id: 6949-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6947-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6949-Dialogue.mod:0
+msgid "Forget about it"
+msgstr ""
+
+#. Id: 6950-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6950-Dialogue.mod:0
+msgid "I'm sorry"
+msgstr ""
+
+#. Id: 6940-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6936-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. Id: 5594-Escapes.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (5590-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 5570-Escapes.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (5569-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. Id: 16162-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16160-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc job ended
+#: 6940-Dialogue.mod:0 5594-Escapes.mod:2 5570-Escapes.mod:0 16162-Dialogue.mod:1
+msgid "See ya"
+msgstr "เจอกัน"
+
+#. Id: 6912-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6912-Dialogue.mod:0
+msgid "/IMWERE/ in trouble, can you come help /MEUS/?"
+msgstr ""
+
+#. Id: 6918-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 6918-Dialogue.mod:0
+msgid "Uhhh, actually I don't really fight. I'm so sorry... anything else?"
+msgstr ""
+
+#. Id: 6918-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 6918-Dialogue.mod:1
+msgid "Uhhh, actually I'm not really much of a fighter. I'd be completely useless to you... I'd probably just get killed by a newborn wolf puppy or something embarrassing. Anything else I can help you with instead?"
+msgstr ""
+
+#. Id: 6926-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6926-Dialogue.mod:0
+msgid "But you said ANYTHING. So what CAN you do for /MEUS/?"
+msgstr ""
+
+#. Id: 6927-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6926-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6927-Dialogue.mod:0
+msgid "Umm, I guess I was hoping you wouldn't ask... Hm, I have money?"
+msgstr ""
+
+#. Id: 6928-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6927-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6928-Dialogue.mod:0
+msgid "Forget it, you can keep your money thanks"
+msgstr ""
+
+#. Id: 6930-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6930-Dialogue.mod:0
+msgid "Okay, I'm sorry I couldn't help you back"
+msgstr ""
+
+#. Id: 6929-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6927-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6929-Dialogue.mod:0
+msgid "/TCH/, how much?"
+msgstr ""
+
+#. Id: 96578-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 96578-Dialogue.mod:0
+msgid "[They dig through their pockets and pull out a sad handful of Cats]"
+msgstr ""
+
+#. Id: 6931-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6927-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6931-Dialogue.mod:0
+msgid "You useless /IDIOT/! You owe me your LIFE! Do as I say!"
+msgstr ""
+
+#. Id: 9791-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6931-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 9791-Dialogue.mod:0
+msgid "No! Now leave me alone, please!"
+msgstr ""
+
+#. Id: 96579-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6931-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 6924-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 96579-Dialogue.mod:0 6924-Dialogue.mod:0
+msgid "Uhhh... okay..."
+msgstr ""
+
+#. Id: 9789-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#. Id: 14425-Dialogue (4).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14424-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#. Id: 10028-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10026-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 9789-Dialogue.mod:0 14425-Dialogue?(4).mod:0 10028-Dialogue?(7).mod:0
+msgid "Nevermind then..."
+msgstr "งั้นช่างมันละกัน..."
+
+#. Id: 6920-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 6920-Dialogue.mod:0
+msgid "Fight?! Me? Well you see uh, I'm not much of a fighter, that sounds like suicide! I was thinking or something a little less dangerous..."
+msgstr ""
+
+#. Id: 6922-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 6922-Dialogue.mod:0
+msgid "/QUICKLAUGH/, sounds like fun! Lead the way!"
+msgstr ""
+
+#. Id: 6925-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 6925-Dialogue.mod:0
+msgid "Fight? I don't know about that..."
+msgstr ""
+
+#. Id: 6913-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6913-Dialogue.mod:0
+msgid "/IWE/ could use some extra manpower. Can you join /MEUS/?"
+msgstr ""
+
+#. Id: 6954-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6913-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 6954-Dialogue.mod:0
+msgid "Join you? Sounds kind of dangerous, what will you have me do?"
+msgstr ""
+
+#. Id: 6963-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6954-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6963-Dialogue.mod:0
+msgid "Don't worry nothing dangerous. Just a bit of labour"
+msgstr ""
+
+#. Id: 6965-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6963-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6965-Dialogue.mod:0
+msgid "Okay, as long as I don't have to fight anyone. I'm not good in combat"
+msgstr ""
+
+#. Id: 6966-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6965-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6966-Dialogue.mod:0
+msgid "Okay then, let's go"
+msgstr ""
+
+#. Id: 6968-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6966-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. Id: 53348-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53338-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 6968-Dialogue.mod:0 53348-Dialogue.mod:0
+msgid "I'll follow"
+msgstr ""
+
+#. Id: 6967-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6965-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6967-Dialogue.mod:0
+msgid "On second thought, you might slow us down, don't worry"
+msgstr ""
+
+#. Id: 6982-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6967-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. Id: 6776-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6775-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. Id: 8469-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healing ally
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 5570-Escapes.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (5569-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. Id: 5671-Escapes.mod
+#. -- Index: 6.4
+#. -- Parent line: 5 (5670-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. Id: 5646-Escapes.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (5645-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. Id: 12703-Dialogue (11) (2).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (12688-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#. Id: 98683-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: swamp hound vist ally talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 6982-Dialogue.mod:0 6776-Dialogue.mod:0 8469-Dialogue.mod:5 5570-Escapes.mod:1 5671-Escapes.mod:4 5646-Escapes.mod:3 12703-Dialogue?(11)?(2).mod:0 98683-Dialogue.mod:0
+msgid "Okay"
+msgstr ""
+
+#. Id: 6964-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6954-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6964-Dialogue.mod:0
+msgid "There's always going to be danger. If you don't want to join, don't worry about it"
+msgstr ""
+
+#. Id: 6970-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6970-Dialogue.mod:0
+msgid "Okay, I'd best not join you. I'm sorry I can't help, I'm just not much of a fighter, I don't want to die. "
+msgstr ""
+
+#. Id: 6971-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6970-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6971-Dialogue.mod:0
+msgid "Okay then, nevermind"
+msgstr ""
+
+#. Id: 6973-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6970-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6973-Dialogue.mod:0
+msgid "No, actually. /IWE/ saved your life, you owe /MEUS/ this"
+msgstr ""
+
+#. Id: 6974-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6973-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6974-Dialogue.mod:0
+msgid "What? Are you trying to force me to join you?"
+msgstr ""
+
+#. Id: 6975-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (6974-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6975-Dialogue.mod:0
+msgid "Yes. You need to repay your debt, don't weasel out of this"
+msgstr ""
+
+#. Id: 6978-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (6975-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6978-Dialogue.mod:0
+msgid "Fine. I'll join you"
+msgstr ""
+
+#. Id: 6980-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (6975-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6980-Dialogue.mod:0
+msgid "No, I won't join you, leave me alone"
+msgstr ""
+
+#. Id: 6976-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (6974-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6976-Dialogue.mod:0
+msgid "Forget it. Got no space for /COWARD/s anyway"
+msgstr ""
+
+#. Id: 6972-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6972-Dialogue.mod:0
+msgid "... I'll join you. I want to follow you, I want to learn. There's nothing here for me anyway, I NEED an opportunity like this"
+msgstr ""
+
+#. Id: 6983-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6972-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6983-Dialogue.mod:0
+msgid "Follow /MEUS/"
+msgstr ""
+
+#. Id: 6958-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6913-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6958-Dialogue.mod:0
+msgid "Join you? I don't know about that, Look, I have a family here..."
+msgstr ""
+
+#. Id: 6958-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6913-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6958-Dialogue.mod:1
+msgid "Join you? I don't know about that, Look, I have business to take care of here..."
+msgstr ""
+
+#. Id: 6985-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6958-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6985-Dialogue.mod:0
+msgid "So what CAN you do for /MEUS/?"
+msgstr ""
+
+#. Id: 6986-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6985-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6986-Dialogue.mod:0
+msgid "Umm... I have money?"
+msgstr ""
+
+#. Id: 6961-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6913-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 6961-Dialogue.mod:0
+msgid "Join you? Really?... hell, why not? I hate this place, and I'd be honored to follow you of all people... you're a hero! You'd really take a nobody like me under your wing?"
+msgstr ""
+
+#. Id: 6987-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6961-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6987-Dialogue.mod:0
+msgid "Great, so it's agreed! Follow /MEUS/"
+msgstr ""
+
+#. Id: 6988-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6987-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. Id: 6995-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. Id: 8954-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. Id: 7242-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (7241-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#. Id: 7250-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (7249-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#: 6988-Dialogue.mod:0 6995-Dialogue.mod:0 8954-Dialogue.mod:0 7242-Dialogue.mod:0 7250-Dialogue.mod:0
+msgid "Lead the way"
+msgstr ""
+
+#. Id: 6914-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 6914-Dialogue.mod:0
+msgid "My saviour, it's good to see you again! Need someone to watch your back, help you out with anything? I owe you my life afterall"
+msgstr ""
+
+#. Id: 6914-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 6914-Dialogue.mod:1
+msgid "It's good to see my rescuer again! How goes your travels? Need a hand with anything, someone to watch your back? You saved my life once, the least I can do is return the favour"
+msgstr ""
+
+#. Id: 6990-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6914-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6990-Dialogue.mod:0
+msgid "Actually I could use your help. Can you come follow /MEUS/ for a second?"
+msgstr ""
+
+#. Id: 6992-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6990-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6992-Dialogue.mod:0
+msgid "Of course I can, /BROTHER/, lead the way"
+msgstr ""
+
+#. Id: 6991-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6914-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6991-Dialogue.mod:0
+msgid "Actually yes. Want to join /MEUS/?"
+msgstr ""
+
+#. Id: 6993-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6991-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6993-Dialogue.mod:0
+msgid "Anything for you, /BROTHER/. I have your back"
+msgstr ""
+
+#. Id: 6993-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6991-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6993-Dialogue.mod:1
+msgid "Anything for you, /FRIEND/. I have your back"
+msgstr ""
+
+#. Id: 6994-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6993-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6994-Dialogue.mod:0
+msgid "Okay let's go"
+msgstr ""
+
+#. Id: 9786-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6914-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 9786-Dialogue.mod:0
+msgid "Thank you. But no need to owe /MEUS/ anything"
+msgstr ""
+
+#. Id: 9787-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9786-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 9787-Dialogue.mod:0
+msgid "You're a good /MAN/. Take care of yourself, /BROTHER/"
+msgstr ""
+
+#. Id: 6916-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=0, Tag: -1
+#: 6916-Dialogue.mod:0
+msgid "It's good to see you again, brave warrior. Can I help you out with anything? Need me to come fight for you? I owe you my life afterall"
+msgstr ""
+
+#. Id: 6916-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=0, Tag: -1
+#: 6916-Dialogue.mod:1
+msgid "A great champion in the making! It's good to see you again, /BROTHER/. Can I aid you with anything? Need me to come fight for you? Least I can do is repay you with my life"
+msgstr ""
+

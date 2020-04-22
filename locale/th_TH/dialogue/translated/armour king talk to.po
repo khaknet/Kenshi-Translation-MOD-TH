@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50282-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50282-rebirth.mod:0
+msgid "Welcome customer!  Would you like to buy the best armour in the world?"
+msgstr "ยินดีต้อนรับคุณลูกค้า! ท่านสนใจซื้อเกราะที่ดีที่สุดบนโลกนี้ไหม?"
+
+#. Id: 50283-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50282-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50283-rebirth.mod:1
+msgid "Show me your armour then."
+msgstr "ขอดูเกราะหน่อย."
+
+#. Id: 50302-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50282-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50302-rebirth.mod:0
+msgid "Can I ask you some questions?"
+msgstr "ขอข้าถามอะไรซักอย่างได้ไหม?"
+
+#. Id: 50308-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50302-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50308-rebirth.mod:0
+msgid "Ask me anything, I am an expert in armour"
+msgstr "ถามข้ามาได้เลย ข้าเชี่ยวชาญเรื่องเกราะนัก"
+
+#. Id: 50308-rebirth.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (50302-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50308-rebirth.mod:1
+msgid "Ask me your questions about armour"
+msgstr "สงสัยเรื่องเกราะอะไรก็ถามข้ามาเลย"
+
+#. Id: 50308-rebirth.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (50302-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50308-rebirth.mod:2
+msgid "I know all about armour"
+msgstr "ข้ารู้เรื่องของเกราะทุกอย่าง"
+
+#. Id: 50308-rebirth.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (50302-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50308-rebirth.mod:3
+msgid "What would you like to know?"
+msgstr "เจ้าอยากรู้เรื่องอะไรล่ะ?"
+
+#. Id: 50308-rebirth.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (50302-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50308-rebirth.mod:4
+msgid "Another armour question?"
+msgstr "มีคำถามเรื่องเกราะอีกไหม?"
+
+#. Id: 50291-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50308-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50291-rebirth.mod:0
+msgid "How did you get here?"
+msgstr "ไปได้มันมาจากไหน?"
+
+#. Id: 50291-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (50308-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50291-rebirth.mod:1
+msgid "How did you come to set up a shop here?"
+msgstr "ทำไมเจ้ามาเปิดร้านในที่แบบนี้?"
+
+#. Id: 50292-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50291-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50292-rebirth.mod:0
+msgid "I started up this shop in the Second Empire town of Catch.  It was a thriving market town, growing very strongly, a great place to start anew and craft the greatest armours in the remnants of the world."
+msgstr "ข้าเริ่มตั้งร้านใน Second Empire town แห่ง Catch มันเป็นเมืองการค้าที่เจริญรุ่งเรืองเติบโตอย่างมั่นคงแข็งแรงเป็นสถานที่ที่เหมาะสำหรับการเริ่มต้นใหม่และสร้างเกราะที่ยิ่งใหญ่ที่สุดในโลกอันเป็นชิ้นๆ นี้."
+
+#. Id: 50293-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50292-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50293-rebirth.mod:0
+msgid "How long ago was that?"
+msgstr "นานเท่าไหร่แล้วเนี่ย?"
+
+#. Id: 50294-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50293-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50294-rebirth.mod:0
+msgid "I am proud to say this shop has been up and running for 937 years!"
+msgstr "ข้าภูมิใจมากที่จะพูดว่าร้านนี้เปิดกิจการมา 937 ปีแล้ว!"
+
+#. Id: 50295-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50292-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50295-rebirth.mod:0
+msgid "What happened to the town?"
+msgstr "มันเกิดอะไรขึ้นกับเมืองนี้?"
+
+#. Id: 50300-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50295-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50300-rebirth.mod:0
+msgid "The Second Empire ran its course.  Once everyone was gone, it fell into disrepair."
+msgstr "Second Empire เคยรุ่งเรือง แต่เมื่อทุกคนหายไปมันก็ตกอยู่ในสภาพทรุดโทรม."
+
+#. Id: 50301-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50300-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50301-rebirth.mod:0
+msgid "But not Armour King!  I maintain it well."
+msgstr "แต่ไม่ใช่กับ Armour King! ข้ายังเปิดกิจการได้อยู่."
+
+#. Id: 50303-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (50301-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50303-rebirth.mod:0
+msgid "But how did it end up in this river?"
+msgstr "แต่ทำไมมันถึงกลายมาเป็นแม่น้ำอย่างงี้ล่ะ?"
+
+#. Id: 50304-rebirth.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (50303-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#. Id: 50299-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (50298-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50304-rebirth.mod:0 50299-rebirth.mod:0
+msgid "*silence*"
+msgstr "*เงียบ*"
+
+#. Id: 50296-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50292-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50296-rebirth.mod:0
+msgid "How did the Second Empire end?"
+msgstr " The Second Empire ล่มสลายได้ยังไง?"
+
+#. Id: 50297-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50296-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50297-rebirth.mod:0
+msgid "It just sort of rotted and fell apart.  A mental disease.  Very strange.  Not at all like the first empire."
+msgstr "จู่ ๆ มันก็เสื่อมลงและแตกสลาย เหมือนโรคทางจิตเวช น่าแปลกเหลือเกิน ไม่เหมือนกับตอน first empire เลยแม้แต่น้อย."
+
+#. Id: 50298-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50297-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50298-rebirth.mod:0
+msgid "The First Empire!  What happened to that?  How did the First Empire end?"
+msgstr "First Empire! เกิดอะไรขึ้นกับมันเหรอ? First Empire ล่มสลายได้ยังไง?"
+
+#. Id: 50285-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50284-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50285-rebirth.mod:0
+msgid "Armour King! "
+msgstr "Armour King!"
+
+#. Id: 50286-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50308-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50286-rebirth.mod:0
+msgid "Why are you HERE?  In a ruin in a river?"
+msgstr "ทำไมนายมาอยู่นี่? ในซากปรักหักพังกลางน้ำเนี่ย?"
+
+#. Id: 50287-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50286-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50287-rebirth.mod:0
+msgid "To sell the greatest armour in the remnants of the world."
+msgstr "ก็เพื่อขายเกราะที่ดีเยี่ยมที่สุดบนโลกที่เป็นชิ้นๆ ใบนี้ล่ะสิ."
+
+#. Id: 50288-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50287-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50288-rebirth.mod:0
+msgid "I mean specifically, in this extremely remote and hidden location?  It's a ruin."
+msgstr "ข้าหมายถึงทำไมต้องเป็นที่ที่ห่างไกลและหลบซ่อนเป็นพิเศษแบบนี้ด้วย? นี่มันซากตึกชัดๆ."
+
+#. Id: 50289-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50288-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50289-rebirth.mod:0
+msgid "The world is a ruin, people dwell and start anew in the ruins and remnants of fallen civilisations.  I fail to see any difference in my own behavior."
+msgstr "โลกนี้คือซากปรักหักพัง. ผู้คนอาศัยอยู่และเริ่มต้นใหม่อีกครั้งในซากปรักหักพังและเศษซากอารยธรรมที่ล่มสลายอยู่แล้วนี่. ข้าไม่เห็นว่าข้าทำต่างจากผู้อื่นตรงไหน."
+
+#. Id: 50309-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50308-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50309-rebirth.mod:0
+msgid "How old are you?"
+msgstr "เจ้าอายุเท่าไหร่แล้ว"
+
+#. Id: 50311-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50309-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50311-rebirth.mod:0
+msgid "That's not a polite question to ask a Skeleton"
+msgstr "นั่นเป็นคำถามที่หยาบคายต่อ Skeleton นะ"
+
+#. Id: 50311-rebirth.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (50309-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50311-rebirth.mod:1
+msgid "That's a personal question for a Skeleton."
+msgstr "นี่มันถามเรื่องส่วนตัว Skeleton นะ."
+
+#. Id: 50311-rebirth.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (50309-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50311-rebirth.mod:2
+msgid "Next question..."
+msgstr "คำถามต่อไปล่ะ..."
+
+#. Id: 50310-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50308-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50310-rebirth.mod:0
+msgid "That's all."
+msgstr "หมดแล้ว."
+

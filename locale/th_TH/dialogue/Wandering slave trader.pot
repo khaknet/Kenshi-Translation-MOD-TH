@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 54504-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 54504-Dialogue.mod:0
+msgid "That's a lot of backpacks you got there, /OUTLANDER/... How about a new slave to carry 'em for ya? Cheaper than a pack garru. Smell a whole lot better too. Well... mostly."
+msgstr ""
+
+#. Id: 54504-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 54504-Dialogue.mod:1
+msgid "We don't carry our own belongings in United Cities land, /OUTLANDER/! This is the land of the elite, that's what the slaves are for! But you're just in luck, I've got a great selection for you..."
+msgstr ""
+
+#. Id: 54504-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 54504-Dialogue.mod:2
+msgid "Don't be seen in the United Cities carrying your own bags, /OUTLANDER/... Buy yourself a slave to carry your luggage!"
+msgstr ""
+
+#. Id: 54504-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 54504-Dialogue.mod:3
+msgid "Rest your back, eh, /OUTLANDER/? I've got the perfect slave to carry those backpacks for you..."
+msgstr ""
+
+#. Id: 54505-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#. -- Condition: Who: TARGET, Condition: CARRYING_SOMEONE_TO_ENSLAVE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: CARRYING_SOMEONE_TO_ENSLAVE=0, Tag: -1
+#: 54505-Dialogue.mod:0
+msgid "Is that a slave you wanna offload? I'll pay you a good rate for 'im, 400 Cats."
+msgstr ""
+
+#. Id: 54505-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#. -- Condition: Who: TARGET, Condition: CARRYING_SOMEONE_TO_ENSLAVE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: CARRYING_SOMEONE_TO_ENSLAVE=0, Tag: -1
+#: 54505-Dialogue.mod:1
+msgid "Ah, got a fresh slave for me, eh? I'll give you 400 Cats for 'em."
+msgstr ""
+
+#. Id: 54524-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54505-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering slave trader
+#. Id: 19413-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (19412-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom trait
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 1760-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (1759-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 19220-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19219-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire Me 1000 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 13292-Escapes.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (13291-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 12049-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12029-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 19632-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19631-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 58895-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58894-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hound diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#. Id: 14481-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14480-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: doctor shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
+#: 54524-Dialogue.mod:0 19413-Dialogue.mod:3 1760-gamedata.base:1 19220-Dialogue.mod:0 13292-Escapes.mod:1 12049-Dialogue?(10).mod:0 19632-Dialogue.mod:0 58895-Dialogue.mod:0 14481-rebirth.mod:0
+msgid "Deal"
+msgstr ""
+
+#. Id: 54524-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (54505-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering slave trader
+#. Id: 40526-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (40524-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#. Id: 12683-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12682-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. Id: 98664-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98663-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: swamp hound vist ally talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 54524-Dialogue.mod:1 40526-gamedata.base:0 12683-Dialogue?(11)?(2).mod:0 98664-Dialogue.mod:0
+msgid "Sure"
+msgstr ""
+
+#. Id: 54525-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54525-Dialogue.mod:0
+msgid "Pleasure to do business..."
+msgstr ""
+
+#. Id: 54525-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (54524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54525-Dialogue.mod:1
+msgid "A little funny looking, but this one will do..."
+msgstr ""
+
+#. Id: 54525-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (54524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54525-Dialogue.mod:2
+msgid "Interesting specimen..."
+msgstr ""
+
+#. Id: 54525-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (54524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54525-Dialogue.mod:3
+msgid "Good... good... come to master..."
+msgstr ""
+
+#. Id: 54525-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (54524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54525-Dialogue.mod:4
+msgid "Chain 'im up and throw 'im with the rest..."
+msgstr ""
+
+#. Id: 54506-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54506-Dialogue.mod:0
+msgid "Unless you're buying or selling slaves, I ain't one for chitchat. So, you trading?"
+msgstr ""
+
+#. Id: 54506-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54506-Dialogue.mod:1
+msgid "Got some slaves you wanna offload? Or you looking to buy?"
+msgstr ""
+
+#. Id: 54506-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54506-Dialogue.mod:2
+msgid "Keep your hands clean and treat yourself to a new slave, /OUTLANDER/. Dirty work is for slaves, not for you..."
+msgstr ""
+
+#. Id: 54506-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54506-Dialogue.mod:3
+msgid "In the Empire we have slaves to break their backs for us. None of that filthy labour for the elite, no /SIR/. So, buying yourself a new slave, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 54506-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54506-Dialogue.mod:4
+msgid "Only the best quality slaves for the best customers! What'll it be, /OUTLANDER/? You buying or selling?"
+msgstr ""
+
+#. Id: 54506-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54506-Dialogue.mod:5
+msgid "We sell only the best slaves, /OUTLANDER/. One hundred percent obedient and disease free..."
+msgstr ""
+
+#. Id: 54529-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54506-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering slave trader
+#: 54529-Dialogue.mod:0
+msgid "I'd like to see your slaves for sale"
+msgstr ""
+
+#. Id: 54529-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (54506-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering slave trader
+#: 54529-Dialogue.mod:1
+msgid "I'm looking to buy slaves"
+msgstr ""
+
+#. Id: 54530-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54506-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering slave trader
+#: 54530-Dialogue.mod:0
+msgid "I want to sell some slaves"
+msgstr ""
+
+#. Id: 54530-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (54506-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering slave trader
+#: 54530-Dialogue.mod:1
+msgid "I have some slaves to sell"
+msgstr ""
+

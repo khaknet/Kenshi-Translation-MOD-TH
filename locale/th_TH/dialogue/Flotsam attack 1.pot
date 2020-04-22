@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 43449-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#: 43449-Dialogue.mod:1
+msgid "Let's just call this retribution!"
+msgstr ""
+
+#. Id: 43452-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#: 43452-Dialogue.mod:1
+msgid "The holy nation has oppressed women for long enough, now you'll feel our wrath! "
+msgstr ""
+
+#. Id: 43453-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (43452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#: 43453-Dialogue.mod:2
+msgid "Your precious Phoenix will fall! That old geezer can eat my sword!"
+msgstr ""
+
+#. Id: 43456-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#: 43456-Dialogue.mod:0
+msgid "The Holy Nation will fall! And it will fall at the hands of woman!"
+msgstr ""
+
+#. Id: 43460-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#: 43460-Dialogue.mod:0
+msgid "Suuuuure, burn the women, burn the Shek, burn the Skeletons in the name of Okran..."
+msgstr ""
+
+#. Id: 43461-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#: 43461-Dialogue.mod:0
+msgid "Whatever the precious pure Phoenix says, goes, right?"
+msgstr ""
+
+#. Id: 43467-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43461-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#: 43467-Dialogue.mod:0
+msgid "Well let's see how you do outside of the safety of your city!"
+msgstr ""
+
+#. Id: 43463-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#: 43463-Dialogue.mod:0
+msgid "In the name of all women and all the oppressed, I'm gonna kick your asses! "
+msgstr ""
+

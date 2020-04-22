@@ -1,0 +1,319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 8423-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#: 8423-Dialogue.mod:0
+msgid "NO! NOO! They're coming for me!!!"
+msgstr "ไม่! ม่ายย! พวกมันจะมาเอาตัวข้าไปแล้ว!!!"
+
+#. Id: 8423-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#: 8423-Dialogue.mod:1
+msgid "HELP ME! HELP MEEEEE!"
+msgstr "ช่วยด้วย! ช่วยข้าด้วยยย!"
+
+#. Id: 8423-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#: 8423-Dialogue.mod:2
+msgid "OH GOD! THEY'RE COMING FOR ME!"
+msgstr "โอ้พระเจ้า! พวกมันมาหาแล้ว!"
+
+#. Id: 8423-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#: 8423-Dialogue.mod:3
+msgid "HELP! NO! Stay away from me, STAY AWAY!"
+msgstr "ช่วยด้วย! ไม่นะ! อย่ามาหาข้า อย่าเข้ามาใกล้ข้า!"
+
+#. Id: 8423-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#: 8423-Dialogue.mod:4
+msgid "No! This can't be happening to me! NOOOO!"
+msgstr "ไม่! มันควรเกิดเรื่องแบบนี้กับข้า! ม่ายย!"
+
+#. Id: 8423-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#: 8423-Dialogue.mod:5
+msgid "Someone! Somebody help me! NO, NO NO NO!"
+msgstr "ใครก็ได้! ใครก็ได้ช่วยข้าด้วย! ไม่ ไม่นะ ไม่ ไม่!"
+
+#. Id: 8423-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#: 8423-Dialogue.mod:6
+msgid "Somebody do something! O..oh no!! HELP!"
+msgstr "ใครก็ได้ ทำอะไรซักอย่างที! โอ๊ะ..โอ้ ไม่! ช่วยด้วย!"
+
+#. Id: 8423-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#: 8423-Dialogue.mod:7
+msgid "No! Not me.... NOT ME!!!!"
+msgstr "ไม่นะ! ไม่ใช่ข้าสิ...ไม่ใช่ข้า!!!!"
+
+#. Id: 8423-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#: 8423-Dialogue.mod:8
+msgid "Not like this! No, don't do this to me, no!"
+msgstr "ไม่เอางี้สิ! ไม่ อย่าทำอย่างงี้กับข้า ไม่นะ!"
+
+#. Id: 8424-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8424-Dialogue.mod:0
+msgid "/AAH/! Damn /BASTARD/s! Dammit!!"
+msgstr "/AAH/! ไอ้พวก/BASTARD/เวรตะไล! ไอ้พวกระยำเอ้ย!!"
+
+#. Id: 8424-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8424-Dialogue.mod:1
+msgid "Damn you all to hell! /CRAPPY/ cannibal /RAT/ /BASTARD/s!"
+msgstr "ขอให้พวกมึงตกนรกหมกไหม้! /CRAPPY/ ไอ้พวกกินคน/RAT/ /BASTARD/!"
+
+#. Id: 8424-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8424-Dialogue.mod:2
+msgid "/AAH/! I fucking hate cannibals!!!"
+msgstr "/AAH/! ข้าเกลียดพวกกินคนนัก!!!"
+
+#. Id: 8424-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8424-Dialogue.mod:3
+msgid "Goddamn it!"
+msgstr "เวรตะไลเอ้ย!"
+
+#. Id: 8424-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8424-Dialogue.mod:4
+msgid "Dammit, no!!! Go away!"
+msgstr "ไอ้เวร ไม่นะ!!! ออกไปให้พ้น!"
+
+#. Id: 8424-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8424-Dialogue.mod:5
+msgid "No, /FUCKOFF/! Leave me alone!"
+msgstr "ไม่นะ, /FUCKOFF/! อย่ามายุ่งกับข้า!"
+
+#. Id: 8424-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8424-Dialogue.mod:6
+msgid "They're coming for me... No, /FUCKOFF/!"
+msgstr "พวกมันกำลังมาหาข้า... ไม่นะ /FUCKOFF/!"
+
+#. Id: 8426-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 8426-Dialogue.mod:0
+msgid "What? NO! This can't be happening!"
+msgstr "อะไรกัน? ไม่! มันไม่ควรเป็นอย่างงี้!"
+
+#. Id: 8426-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 8426-Dialogue.mod:1
+msgid "This can't be! No! Not me, not now!!!"
+msgstr "เป็นไปไม่ได้! ไม่! ไม่ใช่ข้า ไม่ใช่ตอนนี้!!!"
+
+#. Id: 8426-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 8426-Dialogue.mod:2
+msgid "No! Go away! Shoo! NOOOOO! NO!"
+msgstr "ไม่! ไปให้พ้น! ชิ่ว! ม่ายยยย! ไม่นะ!"
+
+#. Id: 8426-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 8426-Dialogue.mod:3
+msgid "Oh /FUCK/! No! NOOOOO!"
+msgstr "โอ้ /FUCK/! ไม่นะ! ม่ายยยยย!"
+
+#. Id: 8428-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8428-Dialogue.mod:0
+msgid "Damn dirty fucking cannibals!"
+msgstr "ไอ้พวกกินคนสวะหมาเอ้ย!"
+
+#. Id: 8428-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8428-Dialogue.mod:1
+msgid "Just you try it! JUST TRY ME! /LAUGH/!"
+msgstr "จะเอาเหรอ! จะวัดกับข้าเรอะ! /LAUGH/!"
+
+#. Id: 8428-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8428-Dialogue.mod:2
+msgid "They're coming for me... THEY CAN'T HANDLE ME!!! /CRAPPY/ animals!"
+msgstr "พวกมันจะเล่นข้า...พวกแกรับมือข้าไม่ได้หรอก!!! ไอ้พวกสัตว์/CRAPPY/!"
+
+#. Id: 8428-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8428-Dialogue.mod:3
+msgid "/FUCKOFF/! You can't handle THIS, /FUCKING/ puny cannibal /BASTARD/s! "
+msgstr "/FUCKOFF/!มึงสู้กูไม่ได้หรอก, /FUCKING/ไอ้มนุษกินคน/BASTARD/s!"
+
+#. Id: 8428-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8428-Dialogue.mod:4
+msgid "Oh yeah? /FUCKING/ try me! YOU CAN'T HANDLE ME!"
+msgstr "อ้อเหรอ?/FUCKING/มึงเจอกู!มึงสู้กูไม่ได้หรอก!"
+
+#. Id: 8428-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8428-Dialogue.mod:5
+msgid "So it's like that is it? /FUCKING/ /BASTARD/ animals! Come near me and I'll 'av your /BODYPARTS/!"
+msgstr "อ้อ จะเอาอย่างงั้นใช่มั้ย?/FUCKING/ /BASTARD/ไอ้สัตว์!เข้ามาสิกูจะตัด/BODYPARTS/มึง!"
+
+#. Id: 12249-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 12249-Dialogue?(10).mod:0
+msgid "No, /FUCKOFF/! Eat someone else! I taste like shit!"
+msgstr "ไม่,/FUCKOFF/!ไปกินคนอื่น!กูไม่อร่อยหรอก!"
+
+#. Id: 12249-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 12249-Dialogue?(10).mod:1
+msgid "/AAH/ /FUCKOFF/! Eat that /IDIOT/ over there, not ME!"
+msgstr "/AAH/ /FUCKOFF/!ไปกินไอ้/IDIOT/โน่นไป,ไม่ใช่กู"
+
+#. Id: 12249-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 12249-Dialogue?(10).mod:2
+msgid "Don't eat me! What about THEM over there? They look way meatier!"
+msgstr "อย่ากินกู ไปกินไอ้พวกโน้น มันมีเนื้อเยอะกว่า"
+
+#. Id: 12249-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 12249-Dialogue?(10).mod:3
+msgid "/FUCKOFF/! I swear I haven't bathed in a month, you don't wanna eat me!"
+msgstr "/FUCKOFF/!กูไม่ได้อาบน้ำมมาเป็นเดือนแล้ว มึงไม่อยากกินกูหรอก"
+
+#. Id: 12249-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 12249-Dialogue?(10).mod:4
+msgid "No, /FUCKOFF/! Eat someone else! I'm all bone, I swear!"
+msgstr "ไม่/FUCKOFF/!ไปกินคนอื่น!กูมีแต่กระดูก เชื่อสิ"
+

@@ -1,0 +1,424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1532336-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 1532336-Dialogue.mod:0
+msgid "... Who are you? I received report that there were no men at this base..."
+msgstr ""
+
+#. Id: 1532337-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532336-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: HN assault woman interrupt
+#: 1532337-Dialogue.mod:0
+msgid "I'm sorry, you heard wrong. This is my outpost."
+msgstr ""
+
+#. Id: 1532343-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1532337-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532343-Dialogue.mod:0
+msgid "[He glances around the place suspiciously]"
+msgstr ""
+
+#. Id: 1532344-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1532343-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532344-Dialogue.mod:0
+msgid "I see... Well, apologies for the misunderstanding. Do not take on too many women though, holy brother, it will be an arduous task you will regret."
+msgstr ""
+
+#. Id: 1532348-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1532344-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#. Id: 1533373-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533372-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to ally tips
+#. Id: 49681-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49653-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 1532348-Dialogue.mod:0 1533373-Dialogue.mod:0 49681-Dialogue.mod:0
+msgid "/HOLYGREET/."
+msgstr ""
+
+#. Id: 1532341-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532336-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: HN assault woman interrupt
+#: 1532341-Dialogue.mod:0
+msgid "Me? Oh, I don't live here, I was just here for the loose women."
+msgstr ""
+
+#. Id: 1532345-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1532341-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532345-Dialogue.mod:0
+msgid "...Vile!"
+msgstr ""
+
+#. Id: 1532350-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1532345-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532350-Dialogue.mod:0
+msgid "Devolved into a brothel!... To be expected of wild women left to their own hedonism..."
+msgstr ""
+
+#. Id: 1532346-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1532350-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532346-Dialogue.mod:0
+msgid "Under divine law of the Holy Flame, I hereby remove you all from our /SACRED/ land..."
+msgstr ""
+
+#. Id: 1532342-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532336-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: HN assault woman interrupt
+#: 1532342-Dialogue.mod:0
+msgid "Yeah? So what? (Draw your sword)"
+msgstr ""
+
+#. Id: 1532351-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1532342-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532351-Dialogue.mod:0
+msgid "[He skids a foot behind him and draws his sword]"
+msgstr ""
+
+#. Id: 1532352-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1532351-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532352-Dialogue.mod:0
+msgid "Violence against a servant of Okran is a serious crime. As is women being left without a husband's escort - as your women were found the other day..."
+msgstr ""
+
+#. Id: 1532353-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 1532353-Dialogue.mod:0
+msgid "The /SACRED/ lands cannot have wild women running lose without husbandly guidance..."
+msgstr ""
+
+#. Id: 1532356-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532356-Dialogue.mod:0
+msgid "And just to add further insult, a unholy beast is sent to speak with me?"
+msgstr ""
+
+#. Id: 1532358-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 50122-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam refugee spots player
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander
+#. Id: 49910-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 64645-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 1532358-Dialogue.mod:0 50122-Dialogue.mod:2 49910-Dialogue.mod:0 64645-Dialogue.mod:0
+msgid "Skeleton!"
+msgstr ""
+
+#. Id: 1532360-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532358-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#. Id: 15735-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15734-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted military by someone else
+#. Id: 17605-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 99085-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (99084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#. Id: 63557-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (63556-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN Assault phase
+#. Id: 96475-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (96473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Krals Chosen announce
+#. Id: 46318-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. Id: 46328-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 46329-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. Id: 46330-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#. Id: 95893-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (96754-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Illegal building announce
+#. Id: 98001-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97989-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. Id: 95500-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation enemy hunt
+#. Id: 1531989-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1531988-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN Assault phase woman
+#. Id: 1531997-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1531996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN Assault phase Prayer Day
+#. Id: 56065-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56056-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: noble procession captain
+#. Id: 14552-Dialogue (4).mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (14548-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 17995-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver ronin attacked by someone else
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 19808-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver ronin attacked by someone else
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 96671-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#. Id: 96677-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#. Id: 3734-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit join in fight
+#. Id: 61085-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#. Id: 98141-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#. Id: 96701-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (96700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. Id: 15705-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. Id: 15709-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (15706-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. Id: 8386-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Prepare the turrets
+#. Id: 17935-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 3274-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 61025-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Charge! crowd trigger
+#. Id: 47722-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47721-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: assassin fail hiver
+#. Id: 98066-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98061-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver begs for food
+#. Id: 47730-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin failed military
+#. Id: 43836-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness assault
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 59501-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: reaver witness assault
+#. Id: 96622-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (96621-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninjas announce
+#. Id: 96646-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (96645-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Swamp ninjas announce
+#: 1532360-Dialogue.mod:0 15735-Dialogue.mod:0 17605-Dialogue.mod:0 99085-Dialogue.mod:0 63557-Dialogue.mod:0 96475-Dialogue.mod:0 46318-Dialogue.mod:3 46328-Dialogue.mod:4 46329-Dialogue.mod:0 46330-Dialogue.mod:0 95893-Dialogue.mod:1 98001-Dialogue.mod:0 95500-Dialogue.mod:1 1531989-Dialogue.mod:0 1531997-Dialogue.mod:0 56065-rebirth.mod:0 14552-Dialogue?(4).mod:3 17995-Dialogue.mod:0 19808-Dialogue.mod:2 96671-Dialogue.mod:0 96677-Dialogue.mod:0 3734-gamedata.base:1 61085-Dialogue.mod:0 98141-Dialogue.mod:0 96701-Dialogue.mod:0 15705-Dialogue.mod:2 15709-Dialogue.mod:0 8386-Dialogue.mod:0 17935-Dialogue.mod:0 3274-gamedata.base:0 61025-Dialogue.mod:1 47722-Dialogue.mod:1 98066-Dialogue.mod:0 47730-Dialogue.mod:5 43836-Dialogue.mod:1 59501-Dialogue.mod:0 96622-Dialogue.mod:2 96646-Dialogue.mod:0
+msgid "Attack!"
+msgstr ""
+
+#. Id: 1532360-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (1532358-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#. Id: 56071-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56070-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Intruder southern hive
+#. Id: 56066-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 44025-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44016-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. Id: 1532668-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532666-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 1532360-Dialogue.mod:1 56071-Dialogue.mod:0 56066-Dialogue.mod:0 44025-Dialogue.mod:0 1532668-Dialogue.mod:0
+msgid "Kill it!"
+msgstr ""
+

@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 48754-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 48754-rebirth.mod:0
+msgid "I always thought this place was just a damn story..."
+msgstr "ข้าเชื่อมาตลอดว่าที่นี่เป็นแค่เรื่องเล่าโง่ ๆ... "
+
+#. Id: 48754-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 48754-rebirth.mod:1
+msgid "I never thought I'd see this..."
+msgstr "ข้าไม่คิดเลยว่าจะได้เห็นนี่..."
+
+#. Id: 48754-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 48754-rebirth.mod:2
+msgid "Oh no, this can't be real..."
+msgstr "โอ้ ไม่นะ นี่มันไม่จริง..."
+
+#. Id: 48754-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 48754-rebirth.mod:3
+msgid "We can't really be here.... No way..."
+msgstr "เราอยู่ที่นี่ไม่ได้นะ...ไม่จริงน่า..."
+
+#. Id: 48754-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 48754-rebirth.mod:4
+msgid "I never wanted to see this place"
+msgstr "ข้าไม่เคยอยากเห็นที่นี่เลย..."
+
+#. Id: 48755-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48754-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48755-rebirth.mod:0
+msgid "Endless cannibals as far as the /GODDAMN/ horizon!"
+msgstr "มนุษย์กินคนจำนวนมหาศาลจนสุดลูกหูลูกตาเลย /GODDAMN/!"
+
+#. Id: 48755-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48754-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48755-rebirth.mod:1
+msgid "/FUCKING/ home of the cannibals!"
+msgstr "/FUCKING/ ถิ่นของพวกมนุษย์กินคน!"
+
+#. Id: 48755-rebirth.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (48754-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48755-rebirth.mod:2
+msgid "It's the /GODDAMN/ Cannibal Plains!"
+msgstr "ที่นี่คือ Cannibal Plains /GODDAMN/!"
+
+#. Id: 48777-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48755-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48777-rebirth.mod:0
+msgid "Man eaters!  Stick you in their /GODDAMN/ cages until dinner time!"
+msgstr "ไอ้พวกกินคน มันจะเอาเจ้าไปยัดใส่กรง/GODDAMN/ของมัน จนกว่าจะถึงเวลาอาหารเย็น!"
+
+#. Id: 48777-rebirth.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (48755-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48777-rebirth.mod:1
+msgid "They catch you and put you in their /GODDAMN/ cages for dinner time!"
+msgstr "พวกมันจับเจ้าแล้วโยนเจ้าใส่กรง/GODDAMN/ของมัน จนกว่าจะถึงเวลาอาหารเย็น!"
+
+#. Id: 48777-rebirth.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (48755-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48777-rebirth.mod:2
+msgid "They eat PEOPLE!"
+msgstr "พวกมันกินมนุษย์!"
+
+#. Id: 48758-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48757-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: arrival- cannibal plains
+#: 48758-rebirth.mod:0
+msgid "They're not so bad once you get used to them..."
+msgstr "ถ้าเจ้าชินกับพวกมันแล้ว มันก็ไม่แย่เท่าไหร่นะ..."
+
+#. Id: 48758-rebirth.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (48757-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: arrival- cannibal plains
+#: 48758-rebirth.mod:1
+msgid "There's worse things to encounter than cannibals"
+msgstr "มีเรื่องที่แย่กว่าการที่เจ้าเจอมนุษย์กินคนอีกนะ"
+
+#. Id: 48758-rebirth.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (48757-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: arrival- cannibal plains
+#: 48758-rebirth.mod:2
+msgid "I don't see what all the fuss is about"
+msgstr "ข้าไม่รู้ว่านี่มันมีปัญหาอะไรนักหนานะ"
+
+#. Id: 48758-rebirth.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (48757-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: arrival- cannibal plains
+#: 48758-rebirth.mod:3
+msgid "I don't know why people are always so scared of cannibals"
+msgstr "ข้าไม่รู้ว่าทำไมคนถึงได้กลัวมนุษย์กินคนกันนักนะ"
+
+#. Id: 48759-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48758-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48759-rebirth.mod:0
+msgid "THAT'S BECAUSE YOU'RE MADE OUT OF /FUCKING/ STEEL!"
+msgstr "นั่นเพราะว่าเจ้าล่ำบึ้กถึกเหมือนเหล็ก/FUCKING/ ยังไงเล่า!"
+
+#. Id: 48759-rebirth.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (48758-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48759-rebirth.mod:1
+msgid "YOU'RE MADE OUT OF /FUCKING/ METAL! "
+msgstr "นั่นเพราะว่าตัวเจ้าทำมาจากเหล็ก/FUCKING/ นั่นน่ะสิ!"
+
+#. Id: 48760-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48759-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: arrival- cannibal plains
+#: 48760-rebirth.mod:0
+msgid "Lots of things eat humans: spiders, beakthings, wolves..."
+msgstr "มีอะไรตั้งเยอะนะที่กินมนุษย์นะ ทั้งแมงมุมเอย beakthing เอย หมาป่าเอย..."
+
+#. Id: 48763-rebirth.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (48762-rebirth.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: arrival- cannibal plains
+#: 48763-rebirth.mod:0
+msgid "Do cannibals eat Hivers too?"
+msgstr "พวกมนุษย์กินคน กินชาว Hive มั้ยอ่ะ?"
+
+#. Id: 48763-rebirth.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (48762-rebirth.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: arrival- cannibal plains
+#: 48763-rebirth.mod:1
+msgid "Do they eat Hivers?"
+msgstr "พวกเขากินชาวHive มั้ย?"
+
+#. Id: 48764-rebirth.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (48763-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48764-rebirth.mod:0
+msgid "Probably, yeah"
+msgstr "เหมือนจะใช่นะ"
+
+#. Id: 48764-rebirth.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (48763-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48764-rebirth.mod:1
+msgid "I don't think so..."
+msgstr "ข้าว่าไม่นะ..."
+
+#. Id: 48764-rebirth.mod
+#. -- Index: 10.2
+#. -- Parent line: 9 (48763-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48764-rebirth.mod:2
+msgid "Maybe, I'm not sure..."
+msgstr "อาจจะนะ ข้าไม่แน่ใจเท่าไหร่..."
+
+#. Id: 48764-rebirth.mod
+#. -- Index: 10.3
+#. -- Parent line: 9 (48763-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48764-rebirth.mod:3
+msgid "For sure"
+msgstr "จริง ๆ"
+
+#. Id: 48764-rebirth.mod
+#. -- Index: 10.4
+#. -- Parent line: 9 (48763-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48764-rebirth.mod:4
+msgid "I'm pretty sure they do"
+msgstr "ข้าค่อนข้างมันใจว่าพวกเขากินนะ"
+
+#. Id: 48764-rebirth.mod
+#. -- Index: 10.5
+#. -- Parent line: 9 (48763-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48764-rebirth.mod:5
+msgid "Nah..."
+msgstr "อ่า..."
+
+#. Id: 48764-rebirth.mod
+#. -- Index: 10.6
+#. -- Parent line: 9 (48763-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48764-rebirth.mod:6
+msgid "No way.  Too skinny and crunchy."
+msgstr "ไม่มีทาง พวกนั้นผอมไปแถมยังกรอบไปอีกต่างหาก"
+
+#. Id: 48765-rebirth.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (48764-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: arrival- cannibal plains
+#: 48765-rebirth.mod:0
+msgid "...raptors, gorillos, fogmen..."
+msgstr ""
+
+#. Id: 48766-rebirth.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (48765-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48766-rebirth.mod:0
+msgid "SHUT UP GODDAMNIT!"
+msgstr "หุบปากเดี๋ยวนี้นะ เวรเอ๊ยยยย!"
+
+#. Id: 48766-rebirth.mod
+#. -- Index: 12.1
+#. -- Parent line: 11 (48765-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48766-rebirth.mod:1
+msgid "Shut up damn you!"
+msgstr "หุบปากนะ ไอ้เวรเอ๊ย!"
+
+#. Id: 48766-rebirth.mod
+#. -- Index: 12.2
+#. -- Parent line: 11 (48765-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48766-rebirth.mod:2
+msgid "You're enjoying this aren't you!?"
+msgstr "นี่เจ้ากำลังสนุกอยู่ใช่มั้ยเนี่ย!?"
+
+#. Id: 48779-rebirth.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (48766-rebirth.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: arrival- cannibal plains
+#: 48779-rebirth.mod:0
+msgid "No, I'm pretty sure it's the Cannonball Plains"
+msgstr "ไม่นะ ข้าค่อนข้างมั่นใจว่ามันคือ Cannonball Plains"
+
+#. Id: 48779-rebirth.mod
+#. -- Index: 13.1
+#. -- Parent line: 12 (48766-rebirth.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: arrival- cannibal plains
+#: 48779-rebirth.mod:1
+msgid "You guys are panicking over nothing, it's just the Cannonball Plains"
+msgstr "พวกเจ้าขี้ขึ้นสมองอะไรกันน่ะ ที่นี่มันแค่ Cannonball Plains นะ"
+
+#. Id: 48780-rebirth.mod
+#. -- Index: 14.1
+#. -- Parent line: 13 (48779-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48780-rebirth.mod:1
+msgid "I hate all of you"
+msgstr "ข้าเกลียดพวกเจ้า ทุกคนเลย"
+
+#. Id: 48780-rebirth.mod
+#. -- Index: 14.2
+#. -- Parent line: 13 (48779-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48780-rebirth.mod:2
+msgid "I give up"
+msgstr "ข้ายอมแพ้แล้ว"
+
+#. Id: 48768-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48775-rebirth.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: arrival- cannibal plains
+#: 48768-rebirth.mod:0
+msgid "Ah, the Cannonball Plains.  Sounds like a fun place."
+msgstr "อา Cannonball Plains ฟังดูเหมือนเป็นที่ที่น่าสนุกนะ"
+
+#. Id: 48772-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48768-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48772-rebirth.mod:0
+msgid "Are you being serious?"
+msgstr "นี่เจ้าจริงจังเรอะ?"
+
+#. Id: 48772-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (48768-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48772-rebirth.mod:1
+msgid "Are you making a joke?"
+msgstr "เจ้าล้อเล่นใช่มั้ยเนี่ย?"
+
+#. Id: 48772-rebirth.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (48768-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48772-rebirth.mod:2
+msgid "The... the what?"
+msgstr "อ่า...อะไรนะ?"
+
+#. Id: 48773-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48772-rebirth.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: arrival- cannibal plains
+#: 48773-rebirth.mod:0
+msgid "The Cannonball Plains!  Named after an ancient sport game I believe."
+msgstr "ข้าคิดว่า Cannonball Plains ตั้งตามชื่อกีฬาแบบโบราณนะ ."
+
+#. Id: 48774-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48773-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 48774-rebirth.mod:0
+msgid "It's the CANNIBAL PLAINS you /IDIOT/!"
+msgstr "ที่นี่คือ CANNIBAL PLAINS ไอ้/IDIOT/!"
+

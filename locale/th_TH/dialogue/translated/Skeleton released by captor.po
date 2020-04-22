@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 46071-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#. Id: 47905-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked by captor dark skeleton
+#. Id: 47902-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight dark skeleton
+#. -- Condition: Target Race(s): Greenlander
+#. Id: 47903-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight dark skeleton
+#. Id: 47882-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (47881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 49118-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49110-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 46071-Dialogue.mod:0 47905-Dialogue.mod:6 47902-Dialogue.mod:5 47903-Dialogue.mod:0 47882-Dialogue.mod:1 49118-Dialogue.mod:0
+msgid "Die."
+msgstr ""
+
+#. Id: 46071-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#. Id: 47905-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked by captor dark skeleton
+#: 46071-Dialogue.mod:1 47905-Dialogue.mod:5
+msgid "I won't give you the chance to lock me up again."
+msgstr ""
+
+#. Id: 46071-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#. Id: 47905-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked by captor dark skeleton
+#: 46071-Dialogue.mod:2 47905-Dialogue.mod:0
+msgid "I'll make sure you can't lock me up again."
+msgstr ""
+
+#. Id: 46071-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#. Id: 47905-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked by captor dark skeleton
+#: 46071-Dialogue.mod:3 47905-Dialogue.mod:1
+msgid "You won't lock me up again."
+msgstr ""
+
+#. Id: 46071-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#. Id: 47905-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked by captor dark skeleton
+#: 46071-Dialogue.mod:4 47905-Dialogue.mod:2
+msgid "You die."
+msgstr ""
+
+#. Id: 46071-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#. Id: 47905-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked by captor dark skeleton
+#: 46071-Dialogue.mod:5 47905-Dialogue.mod:3
+msgid "I won't let you get away with this."
+msgstr ""
+
+#. Id: 46071-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#. Id: 47905-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked by captor dark skeleton
+#: 46071-Dialogue.mod:6 47905-Dialogue.mod:4
+msgid "Not again. I won't let you lock me up again."
+msgstr ""
+
+#. Id: 46071-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 46071-Dialogue.mod:7
+msgid "You won't lock me up again. I'll make sure of that."
+msgstr ""
+
+#. Id: 46076-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: My Race(s): Skeleton
+#: 46076-Dialogue.mod:0
+msgid "Just let me go."
+msgstr ""
+
+#. Id: 46076-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: My Race(s): Skeleton
+#: 46076-Dialogue.mod:1
+msgid "Leave me alone. Let me go home."
+msgstr ""
+
+#. Id: 46076-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: My Race(s): Skeleton
+#: 46076-Dialogue.mod:2
+msgid "Don't come after me."
+msgstr ""
+
+#. Id: 46076-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: My Race(s): Skeleton
+#. Id: 20049-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness crime
+#. Id: 19761-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from a hiver
+#. Id: 15734-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted military by someone else
+#. Id: 17598-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. Id: 45843-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: noble released by captor
+#. Id: 2381-gamedata.base
+#. -- Index: 6.1
+#. -- Parent line: 5 (2379-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce
+#. Id: 17986-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from ronin
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 18128-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from Hiver
+#. Id: 10873-Dialogue (10).mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (10872-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#. Id: 16017-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 14764-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 53400-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ray spots varmints
+#. Id: 45287-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw released by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. Id: 17622-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees player lockpicking
+#. Id: 57380-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (57377-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep following
+#. Id: 46081-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton attacked by someone else
+#. -- Condition: My Race(s): Skeleton
+#. Id: 57132-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 64326-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 46076-Dialogue.mod:3 20049-Dialogue.mod:4 19761-Dialogue.mod:3 15734-Dialogue.mod:1 17598-Dialogue.mod:1 45843-Dialogue.mod:0 2381-gamedata.base:1 17986-Dialogue.mod:0 18128-Dialogue.mod:1 10873-Dialogue?(10).mod:3 16017-Dialogue.mod:0 14764-Dialogue.mod:2 53400-Dialogue.mod:0 45287-Dialogue.mod:0 17622-Dialogue.mod:0 57380-rebirth.mod:1 46081-Dialogue.mod:1 57132-Dialogue.mod:0 64326-Dialogue.mod:0
+msgid "!"
+msgstr ""
+
+#. Id: 46076-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: My Race(s): Skeleton
+#. Id: 15916-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#. Id: 45843-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: noble released by captor
+#. Id: 45918-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: tough merc freed by captor
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 45936-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. Id: 58534-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58532-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: esata acknowledges player 1
+#. Id: 46081-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton attacked by someone else
+#. -- Condition: My Race(s): Skeleton
+#. Id: 60989-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata sees player with enemy
+#. Id: 60991-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata sees player with enemy
+#: 46076-Dialogue.mod:4 15916-Dialogue.mod:1 45843-Dialogue.mod:1 45918-Dialogue.mod:3 45936-Dialogue.mod:0 58534-Dialogue.mod:0 46081-Dialogue.mod:2 60989-Dialogue.mod:0 60991-Dialogue.mod:0
+msgid "...!"
+msgstr ""
+
+#. Id: 46076-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: My Race(s): Skeleton
+#: 46076-Dialogue.mod:5
+msgid "My locks..."
+msgstr ""
+
+#. Id: 46076-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: My Race(s): Skeleton
+#: 46076-Dialogue.mod:6
+msgid "My locks... I'm free..."
+msgstr ""
+
+#. Id: 46076-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: My Race(s): Skeleton
+#: 46076-Dialogue.mod:7
+msgid "It's unlocked..."
+msgstr ""
+
+#. Id: 46076-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: My Race(s): Skeleton
+#: 46076-Dialogue.mod:8
+msgid "I'm free again..."
+msgstr ""
+

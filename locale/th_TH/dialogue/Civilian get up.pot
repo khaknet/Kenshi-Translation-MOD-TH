@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15969-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15969-Dialogue.mod:8
+msgid "I won't give up!"
+msgstr ""
+
+#. Id: 15969-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15969-Dialogue.mod:9
+msgid "Let's do this."
+msgstr ""
+
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.10
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 15970-Dialogue.mod:10
+msgid "That's it! I'm outta here!"
+msgstr ""
+

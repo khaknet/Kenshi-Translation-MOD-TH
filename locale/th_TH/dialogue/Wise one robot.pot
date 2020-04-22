@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55286-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wise one robot
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 55286-Dialogue.mod:0
+msgid "How much time has eluded us to witness this new breed of human?"
+msgstr ""
+
+#. Id: 55287-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55286-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wise one robot
+#: 55287-Dialogue.mod:0
+msgid "Time flows quickly when you live in a bubble of lost time."
+msgstr ""
+
+#. Id: 55290-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55289-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Wise one robot
+#: 55290-Dialogue.mod:0
+msgid "I've lived long enough to be no longer surprised. Your contemplation is wasted."
+msgstr ""
+
+#. Id: 55292-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wise one robot
+#. -- Condition: Target Race(s): Shek
+#: 55292-Dialogue.mod:0
+msgid "The humans looks different to the last time I saw them. Perhaps they have evolved."
+msgstr ""
+
+#. Id: 55293-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wise one robot
+#: 55293-Dialogue.mod:0
+msgid "Perhaps the outside world will have also evolved along with them."
+msgstr ""
+
+#. Id: 55295-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55294-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Wise one robot
+#: 55295-Dialogue.mod:0
+msgid "You overestimate humanity. Their short-term cravings will forever be a block to the world's evolution."
+msgstr ""
+
+#. Id: 55296-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55295-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Wise one robot
+#: 55296-Dialogue.mod:0
+msgid "Ponder all you want. At the end of it, nothing will have truly changed."
+msgstr ""
+
+#. Id: 55297-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wise one robot
+#. -- Condition: Target Race(s): Greenlander or Scorchlander
+#: 55297-Dialogue.mod:0
+msgid "Human's crossing winds of fire and atmospheres of poison..."
+msgstr ""
+
+#. Id: 55298-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55297-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wise one robot
+#: 55298-Dialogue.mod:0
+msgid "Time has changed. Perhaps it is a sign of awakening in the next cycle."
+msgstr ""
+
+#. Id: 55299-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55300-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Wise one robot
+#: 55299-Dialogue.mod:0
+msgid "Nothing has changed. Humans are and always will be dull and predictable."
+msgstr ""
+

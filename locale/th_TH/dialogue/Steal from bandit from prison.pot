@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13488-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#: 13488-Escapes.mod:1
+msgid "What?!!"
+msgstr ""
+
+#. Id: 13488-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#: 13488-Escapes.mod:3
+msgid "/OI/?!"
+msgstr ""
+
+#. Id: 13488-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#: 13488-Escapes.mod:4
+msgid "/WTF/?!"
+msgstr ""
+
+#. Id: 13499-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13498-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#: 13499-Escapes.mod:0
+msgid "Soon as I get out of this cage, I'll /SNAP/ yer head off!"
+msgstr ""
+
+#. Id: 13499-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13498-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#: 13499-Escapes.mod:1
+msgid "Soon as I get out of here, I'll /SLITYOURTHROAT/!"
+msgstr ""
+

@@ -1,0 +1,441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 95563-Mourn.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#. Id: 95737-__Mourn.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#. Id: 181-gamedata.quack
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. Id: 12718-Dialogue (11) (2).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (12734-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. Id: 1534128-__Fixes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Trade unlock
+#: 95563-Mourn.mod:2 95737-__Mourn.mod:0 181-gamedata.quack:2 12718-Dialogue?(11)?(2).mod:0 1534128-__Fixes.mod:2
+msgid "How can I help?"
+msgstr ""
+
+#. Id: 95563-Mourn.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#. Id: 95737-__Mourn.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#. Id: 52849-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: RELATIONS>-1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_INDOORS=1, Tag: -1
+#. Id: 181-gamedata.quack
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. Id: 1534128-__Fixes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Trade unlock
+#. Id: 42975-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 95563-Mourn.mod:3 95737-__Mourn.mod:1 52849-rebirth.mod:2 181-gamedata.quack:3 1534128-__Fixes.mod:3 42975-Dialogue.mod:2
+msgid "Looking to buy?"
+msgstr ""
+
+#. Id: 95563-Mourn.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#. Id: 95737-__Mourn.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#. Id: 8403-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. Id: 181-gamedata.quack
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. Id: 1534128-__Fixes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Trade unlock
+#: 95563-Mourn.mod:4 95737-__Mourn.mod:2 8403-Dialogue.mod:0 181-gamedata.quack:4 1534128-__Fixes.mod:4
+msgid "Here to buy?"
+msgstr ""
+
+#. Id: 95564-Mourn.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (95563-Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader mourn
+#. Id: 95585-__Mourn.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (95584-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#. Id: 45027-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44626-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper trade
+#. Id: 182-gamedata.quack
+#. -- Index: 1.1
+#. -- Parent line: 0 (181-gamedata.quack)
+#. -- Speaker: Target (1)
+#. -- Group title: trader1
+#. Id: 1534130-__Fixes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (1534128-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Trade unlock
+#: 95564-Mourn.mod:1 95585-__Mourn.mod:1 45027-Dialogue.mod:1 182-gamedata.quack:1 1534130-__Fixes.mod:1
+msgid "Show me your goods."
+msgstr ""
+
+#. Id: 95564-Mourn.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (95563-Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader mourn
+#. Id: 95571-Mourn.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95569-Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader mourn
+#. Id: 48150-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48149-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering trader
+#. Id: 95585-__Mourn.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (95584-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#. Id: 95596-__Mourn.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95738-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#. Id: 45027-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (44626-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper trade
+#. Id: 47214-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Travelling hive merchant
+#. Id: 182-gamedata.quack
+#. -- Index: 1.2
+#. -- Parent line: 0 (181-gamedata.quack)
+#. -- Speaker: Target (1)
+#. -- Group title: trader1
+#. Id: 1534130-__Fixes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (1534128-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Trade unlock
+#. Id: 54552-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54551-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#. Id: 50412-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50411-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher Village barman
+#. Id: 48724-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48722-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamp Barman
+#. Id: 62759-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62758-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Trade free trader
+#: 95564-Mourn.mod:2 95571-Mourn.mod:0 48150-Dialogue.mod:1 95585-__Mourn.mod:2 95596-__Mourn.mod:0 45027-Dialogue.mod:2 47214-Dialogue.mod:1 182-gamedata.quack:2 1534130-__Fixes.mod:2 54552-rebirth.mod:0 50412-Dialogue.mod:0 48724-Dialogue.mod:0 62759-Dialogue.mod:0
+msgid "Let's trade."
+msgstr ""
+
+#. Id: 95564-Mourn.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (95563-Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader mourn
+#. Id: 95585-__Mourn.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (95584-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#. Id: 45027-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (44626-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper trade
+#. Id: 182-gamedata.quack
+#. -- Index: 1.3
+#. -- Parent line: 0 (181-gamedata.quack)
+#. -- Speaker: Target (1)
+#. -- Group title: trader1
+#. Id: 1534130-__Fixes.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (1534128-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Trade unlock
+#: 95564-Mourn.mod:3 95585-__Mourn.mod:3 45027-Dialogue.mod:3 182-gamedata.quack:3 1534130-__Fixes.mod:3
+msgid "Let's do business."
+msgstr ""
+
+#. Id: 95568-Mourn.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95567-Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#: 95568-Mourn.mod:0
+msgid "Old mining town. Weren't so great with their slave control, turns out. But it makes a good shelter for travellers, so long as the wildlife keeps at bay..."
+msgstr ""
+
+#. Id: 95569-Mourn.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95568-Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#: 95569-Mourn.mod:0
+msgid "... Speaking of which, stay outta the HQ. And leave the gates locked... Call it a pest control measure that no one wants to deal with, eh."
+msgstr ""
+
+#. Id: 95572-Mourn.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95569-Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader mourn
+#: 95572-Mourn.mod:0
+msgid "Pest control? Maybe I can help..."
+msgstr ""
+
+#. Id: 95575-Mourn.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95572-Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#: 95575-Mourn.mod:0
+msgid "With all due respect, no, don't touch those gates. I don't care if you think you're the next Tinfist, we lost two men trapping that thing in there. Only takes one wannabe hero to let it back out again..."
+msgstr ""
+
+#. Id: 95566-Mourn.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95563-Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader mourn
+#. Id: 95587-__Mourn.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95584-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#. Id: 184-gamedata.quack
+#. -- Index: 1.0
+#. -- Parent line: 0 (181-gamedata.quack)
+#. -- Speaker: Target (1)
+#. -- Group title: trader1
+#. Id: 1534132-__Fixes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534128-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Trade unlock
+#. Id: 19592-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19589-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Shek Kingdom
+#. Id: 1767-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#: 95566-Mourn.mod:0 95587-__Mourn.mod:0 184-gamedata.quack:0 1534132-__Fixes.mod:0 19592-Dialogue.mod:0 1767-gamedata.base:0
+msgid "No, sorry."
+msgstr ""
+
+#. Id: 95565-Mourn.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 95588-__Mourn.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 12613-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 1534133-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Trade unlock
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 12596-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 95565-Mourn.mod:1 95588-__Mourn.mod:1 12613-gamedata.base:1 1534133-__Fixes.mod:0 12596-gamedata.base:3
+msgid "Get lost, thief!"
+msgstr ""
+
+#. Id: 95565-Mourn.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 95588-__Mourn.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 12613-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 95565-Mourn.mod:3 95588-__Mourn.mod:3 12613-gamedata.base:3
+msgid "I never forget a thief. Go shop somewhere else!"
+msgstr ""
+
+#. Id: 95565-Mourn.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 95588-__Mourn.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 12613-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 95565-Mourn.mod:4 95588-__Mourn.mod:4 12613-gamedata.base:4
+msgid "Go trade somewhere else, thief!"
+msgstr ""
+
+#. Id: 95565-Mourn.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 95588-__Mourn.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 12613-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 95565-Mourn.mod:5 95588-__Mourn.mod:5 12613-gamedata.base:5
+msgid "Thieve's ain't welcome!"
+msgstr ""
+
+#. Id: 1534123-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#: 1534123-__Fixes.mod:0
+msgid "... Well, you sure proved me wrong didn't you, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 1534124-__Fixes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534123-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#: 1534124-__Fixes.mod:0
+msgid "Have a drink on me, eh?... Now, how about a round of applause for the Great White Killer?"
+msgstr ""
+
+#. Id: 1534125-__Fixes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534124-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#: 1534125-__Fixes.mod:0
+msgid "Cheers."
+msgstr ""
+

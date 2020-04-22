@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 7562-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#: 7562-Dialogue.mod:0
+msgid "You!! You killed /NAME/!"
+msgstr ""
+
+#. Id: 7562-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#: 7562-Dialogue.mod:1
+msgid "You! You murdered my friend!"
+msgstr ""
+
+#. Id: 7564-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#. Id: 47385-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (47384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 17599-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (17598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 17600-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 13428-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 18307-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (18306-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Town thug mugging harassment
+#. Id: 9932-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (9929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 7928-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. Id: 9973-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (9972-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#. Id: 44018-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (44005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#. Id: 13816-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13815-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 15671-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 11459-Dialogue (10).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (11458-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock Shek Bad relations
+#: 7564-Dialogue.mod:0 47385-Dialogue.mod:8 17599-Dialogue.mod:6 17600-Dialogue.mod:1 13428-Escapes.mod:1 18307-Dialogue.mod:3 9932-Dialogue.mod:4 7928-Dialogue.mod:1 9973-Dialogue.mod:4 44018-Dialogue.mod:5 13816-Escapes.mod:2 15671-Dialogue.mod:0 11459-Dialogue?(10).mod:1
+msgid "I'll kill you!"
+msgstr ""
+
+#. Id: 7564-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#: 7564-Dialogue.mod:1
+msgid "I'll butcher you for what you did!"
+msgstr ""
+
+#. Id: 7564-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#: 7564-Dialogue.mod:2
+msgid "I hate you! I'll kill you!"
+msgstr ""
+
+#. Id: 7565-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7564-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#. Id: 15998-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated someone civilian
+#. Id: 17599-Dialogue.mod
+#. -- Index: 1.11
+#. -- Parent line: 0 (17598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 7858-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (7857-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Swamper Gang Bad Relations 
+#. Id: 13435-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. Id: 18307-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18306-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Town thug mugging harassment
+#. Id: 60848-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60847-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver sees enemy faction player
+#. Id: 47251-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47250-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Starving mugging one line
+#. Id: 64732-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dimak sees player
+#. Id: 45890-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw released by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. Id: 3271-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeat someone
+#: 7565-Dialogue.mod:1 15998-Dialogue.mod:6 17599-Dialogue.mod:11 7858-Dialogue.mod:3 13435-Escapes.mod:1 18307-Dialogue.mod:2 60848-Dialogue.mod:0 47251-Dialogue.mod:0 64732-Dialogue.mod:2 45890-Dialogue.mod:2 3271-gamedata.base:4
+msgid "Die!"
+msgstr "ตายซะ!"
+
+#. Id: 7565-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (7564-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#: 7565-Dialogue.mod:2
+msgid "Die die die!"
+msgstr ""
+
+#. Id: 7565-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (7564-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#: 7565-Dialogue.mod:3
+msgid "I hate you!"
+msgstr ""
+

@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 95746-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my arm
+#: 95746-Dialogue.mod:1
+msgid "MY ARM!!"
+msgstr ""
+
+#. Id: 95746-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my arm
+#. Id: 95744-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#: 95746-Dialogue.mod:2 95744-Dialogue.mod:2
+msgid "RAGHHH!"
+msgstr ""
+
+#. Id: 95746-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my arm
+#. Id: 50734-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (50733-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight miu
+#. Id: 95744-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#: 95746-Dialogue.mod:3 50734-Dialogue.mod:2 95744-Dialogue.mod:3
+msgid "ARRRGH!"
+msgstr ""
+
+#. Id: 95746-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my arm
+#. Id: 95744-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#: 95746-Dialogue.mod:4 95744-Dialogue.mod:4
+msgid "HRGGGH!"
+msgstr ""
+
+#. Id: 95746-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my arm
+#. Id: 95744-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#: 95746-Dialogue.mod:6 95744-Dialogue.mod:6
+msgid "NNNGH!"
+msgstr ""
+

@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 52318-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. Id: 52330-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#: 52318-Dialogue.mod:0 52330-Dialogue.mod:3
+msgid "Help! Kidnapping!"
+msgstr ""
+
+#. Id: 52318-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. Id: 52330-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#: 52318-Dialogue.mod:1 52330-Dialogue.mod:4
+msgid "Abduction! Help!"
+msgstr ""
+
+#. Id: 52318-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 52318-Dialogue.mod:2
+msgid "/HEIS/ taking them hostage! Somebody do something!"
+msgstr ""
+
+#. Id: 52318-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 52318-Dialogue.mod:3
+msgid "What are you doing with them?! Help!"
+msgstr ""
+
+#. Id: 52318-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 52318-Dialogue.mod:4
+msgid "Where are you taking them?! Somebody help!"
+msgstr ""
+
+#. Id: 52318-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. Id: 52330-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#: 52318-Dialogue.mod:5 52330-Dialogue.mod:0
+msgid "Kidnapping! Kidnapping!"
+msgstr ""
+
+#. Id: 52318-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 52318-Dialogue.mod:6
+msgid "Help! Over here! Abduction!"
+msgstr ""
+
+#. Id: 52318-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 52318-Dialogue.mod:7
+msgid "Kidnap! Someone, help us!"
+msgstr ""
+
+#. Id: 52330-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#: 52330-Dialogue.mod:1
+msgid "Where are you taking them?! "
+msgstr ""
+
+#. Id: 52330-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#: 52330-Dialogue.mod:2
+msgid "What are you doing with them?! "
+msgstr ""
+
+#. Id: 52325-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52330-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 52325-Dialogue.mod:0
+msgid "I can't let you take them!"
+msgstr ""
+
+#. Id: 52325-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (52330-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 52325-Dialogue.mod:1
+msgid "You won't take them!"
+msgstr ""
+
+#. Id: 52325-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (52330-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian kidnapping reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 52325-Dialogue.mod:2
+msgid "You want them, you've got to kill me first!"
+msgstr ""
+

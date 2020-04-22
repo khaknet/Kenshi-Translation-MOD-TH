@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 8487-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#: 8487-Dialogue.mod:1
+msgid "Ack!"
+msgstr "อั๊ก!"
+
+#. Id: 8487-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#: 8487-Dialogue.mod:5
+msgid "Urk.."
+msgstr "อุก..."
+
+#. Id: 8489-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#: 8489-Dialogue.mod:0
+msgid "W-wait wait wait! OWWW!"
+msgstr "ด-เดี๋ยว เดี๋ยว เดี๋ยว! โอ้ยยย!"
+
+#. Id: 8489-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#: 8489-Dialogue.mod:1
+msgid "No, wait don't do tha- /ARG/!"
+msgstr "ไม่ เดี๋ยวอย่าทำงั้- /ARG/!"
+
+#. Id: 8489-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#: 8489-Dialogue.mod:2
+msgid "No, don't touch that... stop! /ARG/!"
+msgstr "ไม่ อย่าแตะต้องมั- /ARG/!"
+
+#. Id: 8489-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#: 8489-Dialogue.mod:4
+msgid "Oh god, make the pain stop!"
+msgstr "พระเจ้า ช่วยหยุดความเจ็บนี่ที!"
+
+#. Id: 8491-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 8491-Dialogue.mod:0
+msgid "My leg.. my damn leg, make it stop! Ahh the pain!"
+msgstr "ขาข้า...ไอ้ขาของข้า หยุดมันที! อ๊าา ความเจ็บนี่น่ะ!"
+
+#. Id: 8491-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 8491-Dialogue.mod:1
+msgid "Dammit, my leg! Nghhhh!"
+msgstr "เวรเอ้ย ขาข้า! อ้าาาา!"
+
+#. Id: 8491-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 8491-Dialogue.mod:2
+msgid "My leg, it's gone numb... "
+msgstr "ขาข้า ไม่รู้สึกอะไรแล้ว..."
+
+#. Id: 8491-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 8491-Dialogue.mod:3
+msgid "Is it broken? It looks kinda bent..."
+msgstr "มันหักแล้วเหรอ? มันดูงอนะ..."
+
+#. Id: 8491-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 8491-Dialogue.mod:4
+msgid "Is it broken? It looks kinda shonky..."
+msgstr "มันหักแล้วเหรอ? มันดูไม่ได้เลยนะ..."
+
+#. Id: 8497-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#: 8497-Dialogue.mod:0
+msgid "I... I can't feel my arm!"
+msgstr "ข้า...ข้าไม่รู้สึกถึงแขนข้าเลย!"
+
+#. Id: 8497-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#: 8497-Dialogue.mod:1
+msgid "My arm! Is it gonna be okay?!"
+msgstr "แขนข้า! มันจะไม่เป็นไรใช่ไหม?!"
+
+#. Id: 8497-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#: 8497-Dialogue.mod:2
+msgid "/FUCK/, that hurts!"
+msgstr "/FUCK/ เจ็บชิบหาย!"
+

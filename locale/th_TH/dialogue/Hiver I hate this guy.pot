@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18140-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 19729-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18143-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by target hiver
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#: 18140-Dialogue.mod:0 19729-Dialogue.mod:0
+msgid "Enemies of the Hive must be erased!"
+msgstr ""
+
+#. Id: 18140-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 19729-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18143-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by target hiver
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. Id: 19731-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (18143-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by target hiver
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. Id: 19749-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (19744-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness generic assault
+#. Id: 18106-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver defeats someone
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 19737-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver defeats someone
+#: 18140-Dialogue.mod:1 19729-Dialogue.mod:1 19731-Dialogue.mod:5 19749-Dialogue.mod:8 18106-Dialogue.mod:6 19737-Dialogue.mod:2
+msgid "Erase the enemy!"
+msgstr ""
+
+#. Id: 18140-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 19737-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver defeats someone
+#: 18140-Dialogue.mod:2 19737-Dialogue.mod:8
+msgid "Erase the enemies of the Hive!"
+msgstr ""
+
+#. Id: 19773-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. Id: 19754-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19744-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness generic assault
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 19773-Dialogue.mod:1 19754-Dialogue.mod:1
+msgid "Erase the no-hives!"
+msgstr ""
+
+#. Id: 19773-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 19773-Dialogue.mod:2
+msgid "Death to the hiveless!"
+msgstr ""
+
+#. Id: 19776-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver I hate this guy
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 19731-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (18143-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by target hiver
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. Id: 19744-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 18106-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver defeats someone
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 19776-Dialogue.mod:0 19731-Dialogue.mod:7 19744-Dialogue.mod:6 18106-Dialogue.mod:0
+msgid "Protect the Queen!"
+msgstr ""
+

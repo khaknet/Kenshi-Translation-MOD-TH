@@ -1,0 +1,600 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 14395-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): United Cities or สมาคมพ่อค้า or The Holy Nation
+#: 14395-Dialogue?(4).mod:0
+msgid "/OI/... You wanna get outta here, don'tcha?"
+msgstr ""
+
+#. Id: 14395-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): United Cities or สมาคมพ่อค้า or The Holy Nation
+#: 14395-Dialogue?(4).mod:1
+msgid "Psst... you... you don't wanna rot in here, do ya?"
+msgstr ""
+
+#. Id: 14395-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): United Cities or สมาคมพ่อค้า or The Holy Nation
+#: 14395-Dialogue?(4).mod:2
+msgid "Psst... You wanna get outta this dump, right?"
+msgstr ""
+
+#. Id: 14398-Dialogue (4).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14395-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14398-Dialogue?(4).mod:0
+msgid "Of course, I'm listening..."
+msgstr ""
+
+#. Id: 14398-Dialogue (4).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14395-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14398-Dialogue?(4).mod:1
+msgid "Yeah... go on..."
+msgstr ""
+
+#. Id: 14398-Dialogue (4).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14395-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#. Id: 12982-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12974-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 14398-Dialogue?(4).mod:2 12982-Dialogue?(11)?(2).mod:0
+msgid "I'm listening..."
+msgstr ""
+
+#. Id: 14401-Dialogue (4).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (14398-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 14401-Dialogue?(4).mod:0
+msgid "Let's bust the hell out of here and make a run for it. We just keep runnin' 'til those overdressed goons can't chase us no more"
+msgstr ""
+
+#. Id: 14409-Dialogue (4).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14401-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14409-Dialogue?(4).mod:0
+msgid "I guess we've got nothing to lose..."
+msgstr ""
+
+#. Id: 14410-Dialogue (4).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14401-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14410-Dialogue?(4).mod:0
+msgid "That's a ridiculous idea"
+msgstr ""
+
+#. Id: 16857-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (14410-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 16857-Dialogue.mod:0
+msgid "Don't hear you comin' up with anything better, /BOY/"
+msgstr ""
+
+#. Id: 16857-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (14410-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 16857-Dialogue.mod:1
+msgid "You got any better suggestions, /BOY/?"
+msgstr ""
+
+#. Id: 16858-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (14411-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 16858-Dialogue.mod:0
+msgid "Fine. I'll get outta here by myself."
+msgstr ""
+
+#. Id: 16858-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (14411-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 16858-Dialogue.mod:1
+msgid "Fine. I'll get outta here on my own."
+msgstr ""
+
+#. Id: 14412-Dialogue (4).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14401-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#. Id: 16964-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13188-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#: 14412-Dialogue?(4).mod:0 16964-Dialogue.mod:0
+msgid "I like your thinking!"
+msgstr ""
+
+#. Id: 14414-Dialogue (4).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (14412-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 14414-Dialogue?(4).mod:0
+msgid "Screw 'em. Let's do this"
+msgstr ""
+
+#. Id: 14414-Dialogue (4).mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (14412-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 14414-Dialogue?(4).mod:1
+msgid "Fuck 'em. Let's do this"
+msgstr ""
+
+#. Id: 14399-Dialogue (4).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14395-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14399-Dialogue?(4).mod:0
+msgid "I'd rather rot than escape with a thug like you"
+msgstr ""
+
+#. Id: 14399-Dialogue (4).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14395-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14399-Dialogue?(4).mod:1
+msgid "I'm not interested in teaming up with a thug like you"
+msgstr ""
+
+#. Id: 14428-Dialogue (4).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (14399-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 14428-Dialogue?(4).mod:0
+msgid "Stuck up /INSULT/"
+msgstr ""
+
+#. Id: 14428-Dialogue (4).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (14399-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 14428-Dialogue?(4).mod:1
+msgid "Then rot in here for all I care"
+msgstr ""
+
+#. Id: 14400-Dialogue (4).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14395-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14400-Dialogue?(4).mod:0
+msgid "I'm happy repenting in my cell actually"
+msgstr ""
+
+#. Id: 14400-Dialogue (4).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14395-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14400-Dialogue?(4).mod:1
+msgid "I'm content to atone in my cell actually"
+msgstr ""
+
+#. Id: 14400-Dialogue (4).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14395-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14400-Dialogue?(4).mod:2
+msgid "I deserve to be here, I'll just wait it out"
+msgstr ""
+
+#. Id: 16859-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (14400-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 16859-Dialogue.mod:0
+msgid "/MERCLAUGH/... You are jokin' right?"
+msgstr ""
+
+#. Id: 16859-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (14400-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 16859-Dialogue.mod:1
+msgid "/MERCLAUGH/... You're really somethin' else, ain'tcha?"
+msgstr ""
+
+#. Id: 16859-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (14400-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 16859-Dialogue.mod:2
+msgid "/MERCLAUGH/... You're a piece of work, ain'tcha?"
+msgstr ""
+
+#. Id: 16996-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14395-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 16996-Dialogue.mod:0
+msgid "Sure, but I don't need your help, /PAL/"
+msgstr ""
+
+#. Id: 16997-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 16997-Dialogue.mod:0
+msgid "Fine. Be like that."
+msgstr ""
+
+#. Id: 16997-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 16997-Dialogue.mod:1
+msgid "Then rot in the /SANDS/ for all I care"
+msgstr ""
+
+#. Id: 14402-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): United Cities or The Holy Nation or สมาคมพ่อค้า
+#: 14402-Dialogue?(4).mod:0
+msgid "... What you /LOOKING/ at?"
+msgstr ""
+
+#. Id: 14402-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): United Cities or The Holy Nation or สมาคมพ่อค้า
+#: 14402-Dialogue?(4).mod:2
+msgid "... What? You want somethin'?"
+msgstr ""
+
+#. Id: 14403-Dialogue (4).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14402-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14403-Dialogue?(4).mod:0
+msgid "You wanna get out of here, don't you?"
+msgstr ""
+
+#. Id: 14403-Dialogue (4).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14402-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14403-Dialogue?(4).mod:1
+msgid "You wanna get out of this place, right?"
+msgstr ""
+
+#. Id: 14404-Dialogue (4).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (14403-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 14404-Dialogue?(4).mod:0
+msgid "... Go on..."
+msgstr ""
+
+#. Id: 14404-Dialogue (4).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (14403-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#. Id: 66118-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (66117-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt2
+#: 14404-Dialogue?(4).mod:1 66118-Dialogue.mod:0
+msgid "... Yeah..."
+msgstr ""
+
+#. Id: 14405-Dialogue (4).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14404-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14405-Dialogue?(4).mod:0
+msgid "Let's pick the locks and make a run for it..."
+msgstr ""
+
+#. Id: 14405-Dialogue (4).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (14404-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14405-Dialogue?(4).mod:1
+msgid "Let's bust these cages open and run..."
+msgstr ""
+
+#. Id: 14423-Dialogue (4).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (14405-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 14423-Dialogue?(4).mod:0
+msgid "I like your style. I'm in."
+msgstr ""
+
+#. Id: 14423-Dialogue (4).mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (14405-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 14423-Dialogue?(4).mod:1
+msgid "I like the cut of your jib. Let's get the hell out of here."
+msgstr ""
+
+#. Id: 16796-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14404-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 16796-Dialogue.mod:0
+msgid "Then help me. Let's escape together."
+msgstr ""
+
+#. Id: 16796-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (14404-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 16796-Dialogue.mod:1
+msgid "Then help me get out of here. Let's make a break for it."
+msgstr ""
+
+#. Id: 16797-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16796-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 16797-Dialogue.mod:0
+msgid "... Alright. Let's get these cages open."
+msgstr ""
+
+#. Id: 16797-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (16796-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 16797-Dialogue.mod:1
+msgid "... Alright. Get picklockin'."
+msgstr ""
+
+#. Id: 16995-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14404-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 16995-Dialogue.mod:0
+msgid "We'll have a better chance if we escape together..."
+msgstr ""
+
+#. Id: 16995-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (14404-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 16995-Dialogue.mod:1
+msgid "Together, we've got a better chance of escaping..."
+msgstr ""
+
+#. Id: 14421-Dialogue (4).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14402-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14421-Dialogue?(4).mod:0
+msgid "Who'd YOU murder?"
+msgstr ""
+
+#. Id: 14421-Dialogue (4).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14402-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14421-Dialogue?(4).mod:1
+msgid "What did YOU do?"
+msgstr ""
+
+#. Id: 14421-Dialogue (4).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14402-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14421-Dialogue?(4).mod:2
+msgid "Who'd YOU kill?"
+msgstr ""
+
+#. Id: 14421-Dialogue (4).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (14402-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14421-Dialogue?(4).mod:3
+msgid "So, what are you in for?"
+msgstr ""
+
+#. Id: 14424-Dialogue (4).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (14421-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 14424-Dialogue?(4).mod:0
+msgid "That ain't none of your business, and I ain't the talkin' type, /BOY/"
+msgstr ""
+
+#. Id: 17039-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14424-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 17039-Dialogue.mod:0
+msgid "You're no fun..."
+msgstr ""
+
+#. Id: 14437-Dialogue (4).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (14421-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 14437-Dialogue?(4).mod:0
+msgid "... I ain't the chatty type, /BOY/. Go bother somebody else before I get stabby..."
+msgstr ""
+
+#. Id: 16860-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14437-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 16860-Dialogue.mod:0
+msgid "Oh yeah? Big talk for someone stuck in a cage"
+msgstr ""
+
+#. Id: 14441-Dialogue (4).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16860-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 14441-Dialogue?(4).mod:0
+msgid "Keep pushin' me /BOY/! "
+msgstr ""
+
+#. Id: 14442-Dialogue (4).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (14441-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 14442-Dialogue?(4).mod:0
+msgid "There's always a way for a stabbin'"
+msgstr ""
+
+#. Id: 14442-Dialogue (4).mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (14441-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 14442-Dialogue?(4).mod:1
+msgid "When there's a will, there's a way for stabbin'"
+msgstr ""
+
+#. Id: 14442-Dialogue (4).mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (14441-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 14442-Dialogue?(4).mod:2
+msgid "There's always a way for a /STABBIN/"
+msgstr ""
+
+#. Id: 16994-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14402-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 16994-Dialogue.mod:0
+msgid "I'm busting out of here. Are you with me or not?"
+msgstr ""
+
+#. Id: 16994-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14402-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 16994-Dialogue.mod:1
+msgid "I'm breakin' out of here. You with me?"
+msgstr ""
+
+#. Id: 16998-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 16998-Dialogue.mod:1
+msgid ".. I'm with you..."
+msgstr ""
+
+#. Id: 16998-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#: 16998-Dialogue.mod:2
+msgid "... What's the plan..?"
+msgstr ""
+
+#. Id: 14422-Dialogue (4).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14402-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#: 14422-Dialogue?(4).mod:0
+msgid "Nothing..."
+msgstr ""
+

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 58501-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Goat man standard trade
+#. Id: 58421-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
+#: 58501-Dialogue.mod:0 58421-Dialogue.mod:1
+msgid "Tradin', /OUTLANDER/?"
+msgstr ""
+
+#. Id: 58503-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58501-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Goat man standard trade
+#: 58503-Dialogue.mod:0
+msgid "Can I see your livestock?"
+msgstr ""
+

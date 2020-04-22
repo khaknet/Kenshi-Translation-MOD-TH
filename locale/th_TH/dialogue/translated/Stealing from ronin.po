@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 17938-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from ronin
+#. -- Condition: My Race(s): Hive Prince
+#: 17938-Dialogue.mod:1
+msgid "H- hey! That's mine!"
+msgstr ""
+
+#. Id: 17938-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from ronin
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 43827-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 17938-Dialogue.mod:2 43827-Dialogue.mod:7
+msgid "Hey! What are you doing?!"
+msgstr ""
+
+#. Id: 18149-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17986-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from ronin
+#: 18149-Dialogue.mod:0
+msgid "Are you stealing from me!?"
+msgstr ""
+
+#. Id: 18149-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17986-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from ronin
+#: 18149-Dialogue.mod:1
+msgid "Hey! Give that back!"
+msgstr ""
+
+#. Id: 18149-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (17986-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from ronin
+#. Id: 15943-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 13919-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 18149-Dialogue.mod:2 15943-Dialogue.mod:4 13919-Escapes.mod:4
+msgid "You thief!"
+msgstr "เจ้า หัวขโมย!"
+

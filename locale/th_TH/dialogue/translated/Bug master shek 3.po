@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51523-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek 3
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 51523-Dialogue.mod:0
+msgid "Do not talk to me, /FLATSKIN/."
+msgstr "ไม่ต้องมาพูดกับข้า/FLATSKIN/"
+
+#. Id: 51523-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek 3
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 51523-Dialogue.mod:4
+msgid "Unworthy."
+msgstr "เจ้าไม่คู่ควร"
+

@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47793-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black Dog extortion pt 3
+#: 47793-Dialogue.mod:0
+msgid "My contract is up. I'll need a 500 Cat exit fee, plus 200 Cats compulsory gratuity..."
+msgstr "สัญญาจ้างของข้าสิ้นสุดแล้ว ข้าต้องการค่าจ้างออก 500 Cat แล้วก็บำเหน็จอีก 200 Cats..."
+
+#. Id: 47794-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47793-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black Dog extortion pt 3
+#: 47794-Dialogue.mod:0
+msgid "Wait, what? I already paid..."
+msgstr "เดี๋ยว, อะไรนะ? ข้าก็ได้จ่ายไปแล้ว..."
+
+#. Id: 47798-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47794-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black Dog extortion pt 3
+#: 47798-Dialogue.mod:0
+msgid "700 Cats is the balance I'm owed, the standard exit fee is there to cover my passage back home... Are you trying to rob me? You'll pay me my dues or I'll take my dues..."
+msgstr "เจ้าติดข้าอยู่ 700 Cats เป็นค่าจ้างออกปกติที่ต้องครอบคลุมค่าเดินทางกลับบ้านของข้าด้วย...เจ้าจะโกงข้าเหรอ? เจ้าจะจ่ายข้ามาดี ๆ หรือให้ข้าเอามันมาจากเจ้าล่ะ..."
+
+#. Id: 47795-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47793-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black Dog extortion pt 3
+#: 47795-Dialogue.mod:0
+msgid "700 Cats extra? Don't get smart with me..."
+msgstr "เพิ่มอีก 700 Cats เรอะ? อย่ามาอวดฉลาดกับข้านะ..."
+
+#. Id: 47796-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47793-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black Dog extortion pt 3
+#: 47796-Dialogue.mod:0
+msgid "We already agreed 2500 Cats..."
+msgstr "เราตกลงกันแล้วที่ 2500 Cats..."
+
+#. Id: 47799-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47796-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black Dog extortion pt 3
+#: 47799-Dialogue.mod:0
+msgid "Yeah, a 2500 Cat base fee. I'm not a charity, the standard exit fee is there to cover my passage back home. Now, you'll pay me my dues or I'll take my dues..."
+msgstr "ใช่ ค่าเช่าฐาน 2500 Cats ข้าไม่ใช่องค์กรการกุศล เป็นค่าจ้างออกปกติที่ต้องครอบคลุมค่าเดินทางกลับบ้านของข้าด้วย เจ้าจะจ่ายข้ามาดี ๆ หรือให้ข้าเอามันมาจากเจ้าล่ะ..."
+
+#. Id: 47800-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47799-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black Dog extortion pt 3
+#: 47800-Dialogue.mod:0
+msgid "I don't have 700 Cats!"
+msgstr "ข้าไม่มี 700 Cats!"
+
+#. Id: 47814-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47800-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black Dog extortion pt 3
+#: 47814-Dialogue.mod:0
+msgid "Tough luck for you. You cut me short and I'm gonna have to make up for my loss somehow, aren't I? One last chance, cough it up or I take the value from your unconscious body."
+msgstr "โชคร้ายหน่อยนะ เจ้ารีดข้าหมดตูดและข้าก็ต้องหาทางชดเชยความเสียหายสักหน่อยน่ะ ใช่มั้ย? เอาล่ะโอกาสสุดท้ายนะ ส่งเงินมาดี ๆ หรือจะให้ข้าค้นเอาจากร่างที่หมดสติของเจ้า"
+
+#. Id: 47815-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47814-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black Dog extortion pt 3
+#: 47815-Dialogue.mod:0
+msgid "I really don't have it..."
+msgstr "ข้าไม่มีจริง ๆ..."
+
+#. Id: 47817-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47815-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black Dog extortion pt 3
+#. Id: 47491-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47484-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 47817-Dialogue.mod:0 47491-Dialogue.mod:0
+msgid "Beat /HIM/ down. Strip /HIS/ stuff. Penniless worm."
+msgstr "เล่น/HIM/ซะ เอาของ/HIM/ให้หมด ไอ้หนอนไร้ค่า"
+
+#. Id: 47801-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47799-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black Dog extortion pt 3
+#: 47801-Dialogue.mod:0
+msgid "Scamming snake! (Attack)"
+msgstr "ไอ้งูจอมต้มตุ๋น! (โจมตี)"
+
+#. Id: 47816-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47801-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black Dog extortion pt 3
+#. Id: 47502-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47501-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47816-Dialogue.mod:0 47502-Dialogue.mod:0
+msgid "You'll regret crossing /MEUS/! The Black Dog mercs rule these outlands!"
+msgstr "เจ้าจะเสียใจที่มาหือกับ/MEUS/! ทหารรับจ้างBlack dog ครอบครองเขตนี้"
+
+#. Id: 47797-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47793-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black Dog extortion pt 3
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>700, Tag: -1
+#: 47797-Dialogue.mod:0
+msgid "... Here"
+msgstr "...เอาไป"
+
+#. Id: 47813-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47797-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black Dog extortion pt 3
+#. Id: 44295-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 47813-Dialogue.mod:0 44295-Dialogue.mod:0
+msgid "Pleasure doin' business with you!"
+msgstr "ยินดีที่ได้ทำธุรกิจกับเจ้า!"
+
+#. Id: 1532680-__June 18.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47793-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black Dog extortion pt 3
+#: 1532680-__June?18.mod:0
+msgid "I want to hire you for longer."
+msgstr "ข้าต้องการจ้างเจ้าให้นานกว่านี้."
+
+#. Id: 1532681-__June 18.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1532680-__June 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black Dog extortion pt 3
+#: 1532681-__June?18.mod:0
+msgid "Alright. That'll be 2500 Cats."
+msgstr "ตกลง. ทั้งหมด 2500 Cats."
+
+#. Id: 1532688-__June 18.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1532682-__June 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black Dog extortion pt 3
+#: 1532688-__June?18.mod:0
+msgid "Stick around, mercs! We're not done here."
+msgstr "อยู่แถวนี้ล่ะ นักรบรับจ้าง! เรายังไม่จบเรื่องกัน"
+
+#. Id: 1532683-__June 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1532681-__June 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black Dog extortion pt 3
+#. Id: 95654-__Mourn.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95645-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Lagoon bar patron 2
+#: 1532683-__June?18.mod:0 95654-__Mourn.mod:0
+msgid "I've changed my mind."
+msgstr "ข้าเปลี่ยนใจละ."
+
+#. Id: 1532684-__June 18.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1532683-__June 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black Dog extortion pt 3
+#: 1532684-__June?18.mod:0
+msgid "Would you make up your mind! Then I'll need my exit fee, 700 Cats."
+msgstr "ตัดสินใจให้ไวเลย! ข้าต้องการค่าจ้างออก 700 Cats."
+
+#. Id: 1532686-__June 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1532681-__June 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black Dog extortion pt 3
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<2500, Tag: -1
+#: 1532686-__June?18.mod:0
+msgid "On second thought, I don't have enough money..."
+msgstr "หลังจากที่คิดแล้วคิดอีก, ข้าคงมีเงินไม่พอหรอก..."
+

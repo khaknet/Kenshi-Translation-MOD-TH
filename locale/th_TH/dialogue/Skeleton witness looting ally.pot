@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 45774-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton witness looting ally
+#. -- Condition: My Race(s): Skeleton
+#. Id: 45784-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#. Id: 45787-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot witness lockpicking
+#. -- Condition: My Race(s): Skeleton
+#. Id: 41883-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from skeleton
+#. -- Condition: My Race(s): Skeleton
+#: 45774-Dialogue.mod:0 45784-Dialogue.mod:3 45787-Dialogue.mod:1 41883-Dialogue.mod:0
+msgid "Thief."
+msgstr ""
+
+#. Id: 45774-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton witness looting ally
+#. -- Condition: My Race(s): Skeleton
+#. Id: 45784-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 45774-Dialogue.mod:1 45784-Dialogue.mod:4
+msgid "Looter."
+msgstr ""
+
+#. Id: 45774-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton witness looting ally
+#. -- Condition: My Race(s): Skeleton
+#. Id: 45784-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#. Id: 45787-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot witness lockpicking
+#. -- Condition: My Race(s): Skeleton
+#. Id: 41883-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from skeleton
+#. -- Condition: My Race(s): Skeleton
+#: 45774-Dialogue.mod:2 45784-Dialogue.mod:5 45787-Dialogue.mod:0 41883-Dialogue.mod:1
+msgid "Crook."
+msgstr ""
+
+#. Id: 45774-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton witness looting ally
+#. -- Condition: My Race(s): Skeleton
+#: 45774-Dialogue.mod:3
+msgid "You steal, you die."
+msgstr ""
+
+#. Id: 45774-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton witness looting ally
+#. -- Condition: My Race(s): Skeleton
+#. Id: 41883-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from skeleton
+#. -- Condition: My Race(s): Skeleton
+#: 45774-Dialogue.mod:4 41883-Dialogue.mod:4
+msgid "I'll deal with you, thief."
+msgstr ""
+

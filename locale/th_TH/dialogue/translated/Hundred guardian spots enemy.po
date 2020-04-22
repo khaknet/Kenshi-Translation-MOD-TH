@@ -1,0 +1,456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 14717-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 14726-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 12168-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior still got fight
+#: 14717-Dialogue.mod:0 14726-Dialogue.mod:4 12168-Dialogue?(10).mod:0
+msgid "Fight me!"
+msgstr ""
+
+#. Id: 14717-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 14717-Dialogue.mod:3
+msgid "Keep them coming!"
+msgstr ""
+
+#. Id: 14717-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 15016-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek law spots bounty
+#: 14717-Dialogue.mod:11 15016-Dialogue.mod:0
+msgid "This one's mine"
+msgstr ""
+
+#. Id: 14719-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 14719-Dialogue.mod:2
+msgid "Honour to Kral"
+msgstr ""
+
+#. Id: 14722-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 14722-Dialogue.mod:0
+msgid "Blood! Blood for Kral! "
+msgstr ""
+
+#. Id: 14722-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 14722-Dialogue.mod:1
+msgid "I want blood!"
+msgstr ""
+
+#. Id: 14722-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 14722-Dialogue.mod:3
+msgid "Give me a good battle!"
+msgstr ""
+
+#. Id: 14724-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 14724-Dialogue.mod:0
+msgid "Come to my sword!"
+msgstr ""
+
+#. Id: 14724-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 14724-Dialogue.mod:1
+msgid "Bleed for me!"
+msgstr ""
+
+#. Id: 14728-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14726-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 14728-Dialogue.mod:0
+msgid "Come swarm at me! A true Shek feels no fear!"
+msgstr ""
+
+#. Id: 14728-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14726-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 14728-Dialogue.mod:1
+msgid "Swarm at me for all I care! I fear nothing!"
+msgstr ""
+
+#. Id: 14728-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14726-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 14728-Dialogue.mod:2
+msgid "Swarm at me for all I care! I'll cut you all down!"
+msgstr ""
+
+#. Id: 14728-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (14726-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 14728-Dialogue.mod:3
+msgid "I'll cut you all down one by one!"
+msgstr ""
+
+#. Id: 14728-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (14726-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 14728-Dialogue.mod:4
+msgid "I fear no one!"
+msgstr ""
+
+#. Id: 14729-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 14729-Dialogue.mod:0
+msgid "You think you can defeat a Shek. /FLATSKIN/!?"
+msgstr ""
+
+#. Id: 14729-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 14729-Dialogue.mod:1
+msgid "You can't win against a Shek warrior, /FLATSKIN/"
+msgstr ""
+
+#. Id: 14729-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 14729-Dialogue.mod:2
+msgid "Try me, /FLATSKIN/. Raise your sword."
+msgstr ""
+
+#. Id: 14729-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 47530-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (47527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 14729-Dialogue.mod:3 47530-Dialogue.mod:4
+msgid "Fear the might of the Shek!"
+msgstr ""
+
+#. Id: 14729-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 12067-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. Id: 47530-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (47527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 14729-Dialogue.mod:4 12067-Dialogue?(10).mod:0 47530-Dialogue.mod:5
+msgid "Know your place, /FLATSKIN/"
+msgstr "รู้จักประมาณตัวเอง, /FLATSKIN/"
+
+#. Id: 14729-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 14729-Dialogue.mod:5
+msgid "You're no challenge to a Shek Warrior, /FLATSKIN/!"
+msgstr ""
+
+#. Id: 14729-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 14729-Dialogue.mod:6
+msgid "I'll crush your bones, /FLATSKIN/!"
+msgstr ""
+
+#. Id: 14734-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 14734-Dialogue.mod:0
+msgid "Rarrrgh!"
+msgstr ""
+
+#. Id: 14734-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 14734-Dialogue.mod:3
+msgid "Rrghh!"
+msgstr ""
+
+#. Id: 14734-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 14734-Dialogue.mod:5
+msgid "Fall!"
+msgstr ""
+
+#. Id: 66245-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 66245-Dialogue.mod:0
+msgid "Honour must be restored! Fight me!"
+msgstr ""
+
+#. Id: 66245-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 66245-Dialogue.mod:1
+msgid "You do not deserve the honour of defeating me!"
+msgstr ""
+
+#. Id: 66245-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 66245-Dialogue.mod:2
+msgid "Think you will beat me again?!"
+msgstr ""
+
+#. Id: 66245-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 66245-Dialogue.mod:3
+msgid "FIGHT ME AGAIN!"
+msgstr ""
+
+#. Id: 66249-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 66249-Dialogue.mod:0
+msgid "This time you will not best me!"
+msgstr ""
+
+#. Id: 66249-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (66245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 66249-Dialogue.mod:1
+msgid "This time there will be only one survivor!"
+msgstr ""
+
+#. Id: 66249-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (66245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 66249-Dialogue.mod:2
+msgid "Only one of us survives!"
+msgstr ""
+
+#. Id: 66249-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (66245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 66249-Dialogue.mod:3
+msgid "This time one of us dies!"
+msgstr ""
+
+#. Id: 66249-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (66245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 66249-Dialogue.mod:4
+msgid "I will not rest until you are beaten or I am dust in the Stenn!"
+msgstr ""
+
+#. Id: 66249-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (66245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 66249-Dialogue.mod:5
+msgid "This time you die!"
+msgstr ""
+
+#. Id: 66246-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 66246-Dialogue.mod:0
+msgid "Kch! Still alive?"
+msgstr ""
+
+#. Id: 66246-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 66246-Dialogue.mod:1
+msgid "Hmph. You still live...?"
+msgstr ""
+
+#. Id: 66250-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66246-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 66250-Dialogue.mod:0
+msgid "It is embarassing, to live defeated."
+msgstr ""
+
+#. Id: 66250-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (66246-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 66250-Dialogue.mod:1
+msgid "Embarrassment. To linger this life a loser."
+msgstr ""
+
+#. Id: 66250-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (66246-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 66250-Dialogue.mod:2
+msgid "Embarrassment."
+msgstr ""
+
+#. Id: 66250-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (66246-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 66250-Dialogue.mod:3
+msgid "Shameful."
+msgstr ""
+
+#. Id: 66250-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (66246-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 66250-Dialogue.mod:4
+msgid "You live a life of shame. Allow me to end your suffering."
+msgstr ""
+
+#. Id: 66250-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (66246-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 66250-Dialogue.mod:5
+msgid "To live defeated is worse than death."
+msgstr ""
+

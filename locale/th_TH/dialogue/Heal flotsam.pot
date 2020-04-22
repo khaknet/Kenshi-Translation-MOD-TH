@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51060-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Heal flotsam
+#: 51060-Dialogue.mod:0
+msgid "Knew I could rely on you, /BROTHER/."
+msgstr ""
+
+#. Id: 51060-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Heal flotsam
+#: 51060-Dialogue.mod:1
+msgid "Knew I could trust you to come through for me, /BROTHER/."
+msgstr ""
+
+#. Id: 51061-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Heal flotsam
+#. -- Condition: Who: TARGET, Condition: RELATIONS<50, Tag: -1
+#: 51061-Dialogue.mod:0
+msgid "Guess I owe you now, eh?"
+msgstr ""
+
+#. Id: 51061-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Heal flotsam
+#. -- Condition: Who: TARGET, Condition: RELATIONS<50, Tag: -1
+#: 51061-Dialogue.mod:1
+msgid "Good work, Flotsam will remember this."
+msgstr ""
+

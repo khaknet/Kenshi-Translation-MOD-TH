@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13809-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 12759-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>2, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 4825-D-dialogue-02.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (4824-D-dialogue-02.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: cannibal squabble over corpse
+#: 13809-Escapes.mod:0 12759-Dialogue?(11)?(2).mod:0 4825-D-dialogue-02.mod:0
+msgid "Oh?"
+msgstr ""
+
+#. Id: 13809-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 12481-Dialogue (10) (2).mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper polite shoo
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13809-Escapes.mod:3 12481-Dialogue?(10)?(2).mod:8
+msgid "Er?"
+msgstr ""
+
+#. Id: 13810-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13809-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness assault
+#. Id: 5448-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (5206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 5437-Dialogue.mod
+#. -- Index: 2.8
+#. -- Parent line: 1 (5434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 62327-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (62326-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 13810-Escapes.mod:0 5448-Dialogue.mod:4 5437-Dialogue.mod:8 62327-Dialogue.mod:0
+msgid "/LAUGH/..."
+msgstr ""
+
+#. Id: 13965-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 13965-Escapes.mod:0
+msgid "What's all this racket?!"
+msgstr ""
+
+#. Id: 13965-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 13965-Escapes.mod:1
+msgid "What's with all the commotion, eh?!"
+msgstr ""
+
+#. Id: 13965-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 13965-Escapes.mod:2
+msgid "What's all this noise about?!"
+msgstr ""
+
+#. Id: 13965-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 13965-Escapes.mod:3
+msgid "Pipe down!"
+msgstr ""
+

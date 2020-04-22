@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1533041-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533040-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam Ninja
+#: 1533041-Dialogue.mod:0
+msgid "I've got a note from Moll... (Give note)"
+msgstr ""
+
+#. Id: 1533042-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533041-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam Ninja
+#: 1533042-Dialogue.mod:0
+msgid "... Straight into the wolf den, huh? Alright, lead the way. Today we take down the Holy Nation."
+msgstr ""
+
+#. Id: 1533048-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533042-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam Ninja
+#. Id: 60301-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees ally
+#: 1533048-Dialogue.mod:0 60301-Dialogue.mod:0
+msgid "Down with the Phoenix!"
+msgstr ""
+
+#. Id: 1533043-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533040-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam Ninja
+#. Id: 4769-D-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (4767-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. Id: 1380-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1375-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. Id: 59333-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59331-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek law bounty
+#. Id: 49645-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49641-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 1533043-Dialogue.mod:0 4769-D-dialogue-02.mod:1 1380-gamedata.base:0 59333-Dialogue.mod:0 49645-Dialogue.mod:0
+msgid "Nothing."
+msgstr ""
+

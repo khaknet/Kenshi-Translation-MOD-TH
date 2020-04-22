@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51245-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: chung out of meds
+#: 51245-Dialogue.mod:0
+msgid "We need meds, urgently."
+msgstr "เราต้องการยา, เดี๋ยวนี้."
+
+#. Id: 51245-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: chung out of meds
+#: 51245-Dialogue.mod:1
+msgid "Can't do shit without more meds."
+msgstr "เราทำอะไรไม่ได้ ถ้าไม่มียา."
+
+#. Id: 51245-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: chung out of meds
+#: 51245-Dialogue.mod:2
+msgid "I'm out of meds, I need a first aid kit."
+msgstr "ข้าไม่มียาและข้าต้องการชุดปฐมพยาบาล"
+

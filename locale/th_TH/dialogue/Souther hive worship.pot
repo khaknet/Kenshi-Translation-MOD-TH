@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 96137-__Southern hive.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Souther hive worship
+#. Id: 63822-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (63821-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#. Id: 64732-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dimak sees player
+#: 96137-__Southern?hive.mod:0 63822-Dialogue.mod:2 64732-Dialogue.mod:4
+msgid "Blood!"
+msgstr ""
+
+#. Id: 96137-__Southern hive.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Souther hive worship
+#. Id: 56185-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#. Id: 15332-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (14584-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up
+#. Id: 56052-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 96137-__Southern?hive.mod:1 56185-Dialogue.mod:4 15332-Dialogue.mod:1 56052-Dialogue.mod:4
+msgid "Blood, blood, blood!"
+msgstr ""
+
+#. Id: 96137-__Southern hive.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Souther hive worship
+#: 96137-__Southern?hive.mod:2
+msgid "Blood for King!"
+msgstr ""
+
+#. Id: 96137-__Southern hive.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Souther hive worship
+#: 96137-__Southern?hive.mod:3
+msgid "Red!"
+msgstr ""
+
+#. Id: 96137-__Southern hive.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Souther hive worship
+#: 96137-__Southern?hive.mod:4
+msgid "Red! Red!"
+msgstr ""
+

@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 8469-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healing ally
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 8469-Dialogue.mod:0
+msgid "Okay done"
+msgstr ""
+
+#. Id: 8469-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healing ally
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 8469-Dialogue.mod:1
+msgid "All done"
+msgstr ""
+
+#. Id: 8469-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healing ally
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 17523-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek healed other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 8469-Dialogue.mod:4 17523-Dialogue.mod:0
+msgid "Finished"
+msgstr ""
+
+#. Id: 8469-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healing ally
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 8469-Dialogue.mod:6
+msgid "Good to go"
+msgstr ""
+
+#. Id: 8472-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healing ally
+#. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
+#: 8472-Dialogue.mod:0
+msgid "Wake up"
+msgstr ""
+
+#. Id: 8472-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healing ally
+#. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
+#: 8472-Dialogue.mod:1
+msgid "Snap out of it"
+msgstr ""
+
+#. Id: 8472-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healing ally
+#. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
+#: 8472-Dialogue.mod:2
+msgid "Quit sleepin'"
+msgstr ""
+
+#. Id: 8472-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healing ally
+#. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
+#: 8472-Dialogue.mod:3
+msgid "Get up already, lazy /BASTARD/"
+msgstr ""
+
+#. Id: 8472-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healing ally
+#. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
+#: 8472-Dialogue.mod:4
+msgid "Man up and wake up"
+msgstr ""
+
+#. Id: 8472-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healing ally
+#. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
+#: 8472-Dialogue.mod:5
+msgid "*sigh*. You really gonna make me have to carry you now?"
+msgstr ""
+

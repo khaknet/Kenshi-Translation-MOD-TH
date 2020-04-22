@@ -1,0 +1,326 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50202-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 50202-Dialogue.mod:0
+msgid "A woman from the godless lands, huh, don't get many of those wash up here. Hopefully you'll talk more sense than everyone else around here..."
+msgstr ""
+
+#. Id: 50203-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50202-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#. Id: 60884-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60873-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Big bo ally recruit
+#. Id: 47327-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47325-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel bar thug
+#. Id: 50242-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 3
+#: 50203-Dialogue.mod:0 60884-Dialogue.mod:0 47327-Dialogue.mod:0 50242-Dialogue.mod:0
+msgid "What do you mean?"
+msgstr ""
+
+#. Id: 50204-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50203-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50204-Dialogue.mod:0
+msgid "I learnt the hard way that there is no god. But a lot of the refugees here, they just can't let go of their belief in Okran, even after Okran betrayed us all, abandoned us to be left at the mercy of man... I just can't live amongst this nonsense any longer. I despise it."
+msgstr ""
+
+#. Id: 50205-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50204-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50205-Dialogue.mod:0
+msgid "So, you're looking to leave?"
+msgstr ""
+
+#. Id: 50206-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50205-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50206-Dialogue.mod:0
+msgid "I am. But I'll serve no man again, only you, sister. I was trained by the Flotsam Ninjas as an apprentice, although I never quite made it to be a fully fledged Paladin basher on account of my 'anger issues'. My fee is 6000 Cats, I think that's a fair price tag for my sword skills."
+msgstr ""
+
+#. Id: 50261-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50251-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50261-Dialogue.mod:0
+msgid "I look forward to our travels, /BROTHER/."
+msgstr ""
+
+#. Id: 50252-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50206-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 50252-Dialogue.mod:0
+msgid "I'd like to, but I can't afford that."
+msgstr ""
+
+#. Id: 50260-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50252-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50260-Dialogue.mod:0
+msgid "Unfortunate. But you know where to find me if you need me."
+msgstr ""
+
+#. Id: 50253-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50206-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#. Id: 19702-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#. Id: 50554-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50525-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech hunter recruit 700
+#: 50253-Dialogue.mod:0 19702-Dialogue.mod:0 50554-Dialogue.mod:0
+msgid "Sorry, I'm not hiring."
+msgstr ""
+
+#. Id: 50211-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50205-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 50211-Dialogue.mod:0
+msgid "I am. It's funny, I swore I'd serve no man again... But you're no 'pure blood', perhaps you're different? I love nothing more than sticking it to the the Holy Nation anyway, and what better way than joining the dark side! I was trained by the Flotsam Ninjas as an apprentice, although I never quite made it to be a fully fledged Paladin basher on account of my 'anger issues'. My fee is 6000 Cats, I think that's a fair price tag for my sword skills. So are you hiring?"
+msgstr ""
+
+#. Id: 50243-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50204-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50243-Dialogue.mod:0
+msgid "But Okran didn't abandon you. You're free now, right?"
+msgstr ""
+
+#. Id: 50245-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50243-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50245-Dialogue.mod:0
+msgid "I escaped with my own grit and blood, I need no god. And what of my hundreds of other sisters still living in that hell, under the rule of Okran's so-called champion? Sure, I'm free now, but Okran's not taking my credit for that."
+msgstr ""
+
+#. Id: 50282-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50245-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50282-Dialogue.mod:0
+msgid "Then you'll rot in the abyss for your faithlessness."
+msgstr ""
+
+#. Id: 50283-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50245-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50283-Dialogue.mod:0
+msgid "I like your spirit, I could use some of that grit on my team."
+msgstr ""
+
+#. Id: 50284-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50283-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 50284-Dialogue.mod:0
+msgid "Well you're in luck, I'll serve no man again but I'll serve you, sister. I was trained by the Flotsam Ninjas as an apprentice, although I never quite made it to be a fully fledged Paladin basher on account of my 'anger issues'. My fee is 6000 Cats, I think that's a fair price tag for my sword skills."
+msgstr ""
+
+#. Id: 50285-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50283-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 50285-Dialogue.mod:0
+msgid "It's funny, I swore I'd serve no man again... But you're no 'pure blood', perhaps you're different? I love nothing more than sticking it to the the Holy Nation anyway, and what better way than joining the dark side! I was trained by the Flotsam Ninjas as an apprentice, although I never quite made it to be a fully fledged Paladin basher on account of my 'anger issues'. My fee is 6000 Cats, I think that's a fair price tag for my sword skills. So are you hiring?"
+msgstr ""
+
+#. Id: 50244-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50204-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50244-Dialogue.mod:0
+msgid "Tell me about it, I'm sick of people spouting their bullshit."
+msgstr ""
+
+#. Id: 50248-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50244-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50248-Dialogue.mod:0
+msgid "Glad we're on the same level of thinking. Are you hiring? I'm looking to leave town but I'll serve no man again, only you, sister. I was trained by the Flotsam Ninjas as an apprentice, although I never quite made it to be a fully fledged Paladin basher on account of my 'anger issues'. My fee is 6000 Cats, I think that's a fair price tag for my sword skills."
+msgstr ""
+
+#. Id: 50249-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50244-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 50249-Dialogue.mod:0
+msgid "I'm sure you of all people are, likely being on the recieving end of that bullshit most of the time. It's funny, I swore I'd serve no man again... But you're no 'pure blood', perhaps you're different? I love nothing more than sticking it to the the Holy Nation anyway, and what better way than joining the dark side! I was trained by the Flotsam Ninjas as an apprentice, although I never quite made it to be a fully fledged Paladin basher on account of my 'anger issues'. My fee is 6000 Cats, I think that's a fair price tag for my sword skills. Are you hiring?"
+msgstr ""
+
+#. Id: 50247-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50204-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50247-Dialogue.mod:0
+msgid "Nonsense? No, their faith in Okran is just fierce, unlike yours."
+msgstr ""
+
+#. Id: 50269-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50247-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50269-Dialogue.mod:0
+msgid "You disappoint me, /BROTHER/. I thought I'd be in for a no-nonsense conversation, free of preaching and free of gods. But it looks like I'm cursed never to escape Okran's presence along with his blind followers..."
+msgstr ""
+
+#. Id: 50272-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50269-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50272-Dialogue.mod:0
+msgid "Nevermind. It was foolish of me to make such assumptions of outsiders."
+msgstr ""
+
+#. Id: 50267-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50202-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50267-Dialogue.mod:0
+msgid "Sure. Talk away."
+msgstr ""
+
+#. Id: 50268-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50202-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50268-Dialogue.mod:0
+msgid "I'll try not to disappoint you too much..."
+msgstr ""
+
+#. Id: 50274-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50202-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50274-Dialogue.mod:0
+msgid "Or not. I don't have time for chatter, sorry."
+msgstr ""
+
+#. Id: 50207-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 50207-Dialogue.mod:0
+msgid "A /RACENAME/ from the godless lands, huh, don't get many of those wash up here. Hopefully you'll talk more sense than everyone else around here..."
+msgstr ""
+
+#. Id: 50208-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 50208-Dialogue.mod:0
+msgid "... What is it?"
+msgstr ""
+
+#. Id: 50209-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50208-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50209-Dialogue.mod:0
+msgid "I'm looking for recruits. Are you for hire?"
+msgstr ""
+
+#. Id: 50210-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50209-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50210-Dialogue.mod:0
+msgid "I am... But not for you, /OUTLANDER/, I'll serve no man. I served men long enough when I was living in the Holy Lands..."
+msgstr ""
+
+#. Id: 50262-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50210-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50262-Dialogue.mod:0
+msgid "I'm done with it."
+msgstr ""
+
+#. Id: 50264-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50263-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50264-Dialogue.mod:0
+msgid "Then quit bothering me."
+msgstr ""
+

@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 43355-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43354-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 43355-rebirth.mod:0
+msgid "Why do you enter my shop but not trade?"
+msgstr ""
+
+#. Id: 43356-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43355-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 43356-rebirth.mod:0
+msgid "Errrr..."
+msgstr ""
+
+#. Id: 43357-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43355-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 43357-rebirth.mod:0
+msgid "Look, I'm just not, okay? Leave me alone"
+msgstr ""
+
+#. Id: 43358-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43357-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 43358-rebirth.mod:0
+msgid "Why do you do this to the Hive?"
+msgstr ""
+
+#. Id: 43359-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43358-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 43359-rebirth.mod:0
+msgid "Why do you hate the Hive?!"
+msgstr ""
+
+#. Id: 43363-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (43360-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 43363-rebirth.mod:0
+msgid "Damn you /RACENAME/! "
+msgstr ""
+
+#. Id: 43363-rebirth.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (43360-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 43363-rebirth.mod:1
+msgid "Stupid /RACENAME/s!"
+msgstr ""
+
+#. Id: 43364-rebirth.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (43363-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 43364-rebirth.mod:0
+msgid "How would you like it if I insult your precious Emperor?"
+msgstr ""
+
+#. Id: 43361-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43359-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 43361-rebirth.mod:0
+msgid "FINE! LET'S BLOODY TRADE THEN!"
+msgstr ""
+
+#. Id: 64909-october 17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 64909-october?17.mod:0
+msgid "What will we buy today, /RACENAME/? How about our Lantern of Radiance?"
+msgstr ""
+
+#. Id: 64909-october 17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 64909-october?17.mod:1
+msgid "You've come far, /RACENAME/! Is it for our Lantern of Radiance?"
+msgstr ""
+
+#. Id: 64909-october 17.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 64909-october?17.mod:2
+msgid "We have just the item for you, /RACENAME/: The Lantern of Radiance! Get it while you can..."
+msgstr ""
+
+#. Id: 64909-october 17.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 64909-october?17.mod:3
+msgid "Special price for our Lantern of Radiance, /RACENAME/..."
+msgstr ""
+
+#. Id: 64915-october 17.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64909-october 17.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 64915-october?17.mod:0
+msgid "Lantern of Radiance?"
+msgstr ""
+
+#. Id: 64916-october 17.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64915-october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 64916-october?17.mod:0
+msgid "A unique artifact, only in the hive... It will protect you from mist monsters. All the hive traders carry the Lanterns of Radiance, /RACENAME/. You'd be a fool to be without one, a fool!"
+msgstr ""
+
+#. Id: 64917-october 17.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64916-october 17.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 64917-october?17.mod:0
+msgid "Everyone carries them? I thought you said they were unique?"
+msgstr ""
+
+#. Id: 64918-october 17.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64917-october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 64918-october?17.mod:0
+msgid "Haaaaaah. You got me, /RACENAMEHIVE/! They are rare though, this is truth I tell you, hand carved by hive queen. You won't find one in any other town, all the sand nobles of the East will envy you for your collection of shiny hive lanterns. Buy it while you can..."
+msgstr ""
+
+#. Id: 64922-october 17.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64916-october 17.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 64922-october?17.mod:0
+msgid "What does it do?"
+msgstr ""
+
+#. Id: 64924-october 17.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64922-october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 64924-october?17.mod:0
+msgid "I already told you, /RACENAMEHIVE/. It protects from the mist, purifies the air in the northern caverns. Our lanterns have saved many souls, this is truth..."
+msgstr ""
+
+#. Id: 64926-october 17.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64924-october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 64926-october?17.mod:0
+msgid "... It makes handsome bedside lamp too."
+msgstr ""
+
+#. Id: 64923-october 17.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64916-october 17.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 64923-october?17.mod:0
+msgid "Sure, let's take a look..."
+msgstr ""
+
+#. Id: 64919-october 17.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64909-october 17.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 64919-october?17.mod:0
+msgid "Spare me the upselling, let me see your goods."
+msgstr ""
+

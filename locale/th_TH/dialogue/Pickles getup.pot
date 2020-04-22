@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 49428-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles getup
+#: 49428-Dialogue.mod:1
+msgid "You made Ells bleed! YOU MADE ELLS BLEED!"
+msgstr ""
+
+#. Id: 49428-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles getup
+#: 49428-Dialogue.mod:2
+msgid "Ells won't lose again!"
+msgstr ""
+
+#. Id: 49428-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles getup
+#: 49428-Dialogue.mod:3
+msgid "Ells is ready for you this time!"
+msgstr ""
+
+#. Id: 49428-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles getup
+#: 49428-Dialogue.mod:4
+msgid "For ma!"
+msgstr ""
+

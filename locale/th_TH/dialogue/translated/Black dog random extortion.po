@@ -1,0 +1,393 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47470-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47470-Dialogue.mod:0
+msgid "It's dangerous ahead here, /OUTLANDER/. The place is riddled with skull collectors, gorillos, bandits.. you name it. You're gonna need mercs with you if you wanna live..."
+msgstr "แถวนี้อันตรายนะ, /OUTLANDER/.ที่นี่เต็มไปด้วยนักเก็บหัวกะโหลก gorillos, โจร, อะไรพวกนั้น. เจ้าต้องการทหารรับจ้างไปกับเจ้า ถ้าเจ้าตองการมีชีวิต"
+
+#. Id: 47470-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47470-Dialogue.mod:1
+msgid "It's dangerous up ahead, /OUTLANDER/, no place for a small group like yourself. Round here we got blood bandits, gutters, bonedogs... just about everything that wants you dead... You're gonna need yourself some mercs."
+msgstr "ข้างหน้านั่นอันตรายนะ, /OUTLANDER/,ไม่มีที่สำหรับกลุ่มเล็กๆอย่างเจ้าหรอก รอบ ๆ นี้มี blood bandits, gutters, bonedogs...อะไรก็ตามที่อยากฆ่าเจ้า...เจ้าต้องการทหารรับจ้าง"
+
+#. Id: 47470-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47470-Dialogue.mod:2
+msgid "You'll never make it alone, I tell ya, I've seen some ugly sights around here. /IWE/ can handle anything though, you're safe with /MEUS/. Do the right thing and hire yourself some mercs..."
+msgstr "เจ้าไม่สามารถรอดชีวิตคนเดียวได้หรอก จะบอกให้ ข้าเห็นสิ่งน่าเกลียดรอบ ๆ นี้ /IWE/สามารถรับมือได้ทุกสิ่งทุกอย่าง เจ้าจะปลอดภัยถ้าไปกับ/MEUS/ทำในสิ่งที่ถูกต้องแล้วจ้างเราซะ..."
+
+#. Id: 47471-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47470-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47471-Dialogue.mod:0
+msgid "I can take care of myself."
+msgstr "ข้าดูแลตัวเองได้"
+
+#. Id: 47475-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47471-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47475-Dialogue.mod:0
+msgid "You're lookin' at one of the best mercs in the land... and you don't think /IMWERE/ good enough to protect you? Is that what you're sayin'?"
+msgstr "เจ้ากำลังมองทหารรับจ้างที่ดีที่สุดในแผ่นดิน...แล้วเจ้าไม่คิดเหรอว่า/IMWERE/จะแกร่งพอจะปกป้องเจ้า?เจ้ากำลังพูดอย่างนั้นอยู่ใช่มั้ย"
+
+#. Id: 47488-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47475-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47488-Dialogue.mod:0
+msgid "I'm saying I don't NEED your protection."
+msgstr "ข้ากำลังพูดว่า ข้าไม่ต้องการการคุ้มครองของเจ้า"
+
+#. Id: 47493-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47489-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47493-Dialogue.mod:0
+msgid "So arrogant that you can't even answer me back, huh? You let me walk all the way over to you for nothing, you wasted my time. How about some compensation for that, huh?!"
+msgstr "หยิ่งถึงขนาดไม่ตอบคำถามข้าเหรอ เจ้าทำให้ข้าเสียเวลาเดินมาหาเจ้า ทำไมไม่จ่ายค่าชดใช้มาล่ะ,ฮะ?"
+
+#. Id: 47495-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47494-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47495-Dialogue.mod:0
+msgid "Can't talk? What's wrong with you, huh? If you're not a customer, then what are you to me, /WORM/?"
+msgstr "พูดไม่ได้เหรอ?เป็นอ่ะไรล่ะ,ฮ่ะ?ถ้าเจ้าไม่ใช่ลูกค้า งั้นเจ้าเป็นอ่ะไรล่ะ, /WORM/?"
+
+#. Id: 47496-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47495-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47496-Dialogue.mod:0
+msgid "Don't even bother answering. I've lost all my patience with you already!"
+msgstr "ไม่แม้แต่จะตอบข้าเหรอ ข้าหมดความอดทนกับเจ้าแล้วหล่ะ"
+
+#. Id: 47490-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47475-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47490-Dialogue.mod:0
+msgid "Okay, okay, how much are you charging?"
+msgstr "เอาล่ะ เอาล่ะ เท่าไรหล่ะ?"
+
+#. Id: 47508-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47490-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#. Id: 47768-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47505-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47508-Dialogue.mod:0 47768-Dialogue.mod:0
+msgid "2500 Cats per day."
+msgstr "2500 Cats ต่อวัน"
+
+#. Id: 47513-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47508-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47513-Dialogue.mod:0
+msgid "I can't afford that. It's too much."
+msgstr "ข้าจ่ายไม่ได้หรอก มันแพงไป"
+
+#. Id: 47497-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47475-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47497-Dialogue.mod:0
+msgid "Yep. Pretty much."
+msgstr "เฮ้อ เอาเถอะ"
+
+#. Id: 47507-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47507-Dialogue.mod:0
+msgid "2500 Cats per day. /IWE/ can handle just about anything for you out here."
+msgstr "2500 ต่อวัน ข้าสามารถจัดการทุกอย่างข้างนอกนี่"
+
+#. Id: 47511-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47507-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47511-Dialogue.mod:0
+msgid "It's too much, I can't afford that."
+msgstr "มันแพงไป ข้าจ่ายไม่ได้"
+
+#. Id: 47512-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47507-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47512-Dialogue.mod:0
+msgid "I changed my mind, I'm not interested."
+msgstr "ข้าเปลี่ยนใจแล้ว ข้าไม่สนใจ"
+
+#. Id: 47474-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47470-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47474-Dialogue.mod:0
+msgid "Not interested, thanks."
+msgstr "ข้าไม่สนใจ ขอบใจ"
+
+#. Id: 47476-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47474-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47476-Dialogue.mod:0
+msgid "Don't be a fool. Look at you, you couldn't swat a rat with that sword. I won't be around to peel you off the floor for free when the gutters are eatin' you alive, I'm telling you that now..."
+msgstr "อย่าเป็นไอ้โง่หน่อยเลย ดูเจ้าสิ ดาบของเจ้าฆ่าหนูไม่ได้ด้วยซ้ำ ข้าไม่เดินไปทั่วแล้วช่วยแซะเจ้าจากพื้นฟรีๆถ้าguttersกำลังกินเจ้าอยู่ ข้าจะบอกอะไรให้..."
+
+#. Id: 47477-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47476-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47477-Dialogue.mod:0
+msgid "... Who are you calling fool?"
+msgstr "...เจ้าเรียกไครว่าไอ้โง่นะ"
+
+#. Id: 47778-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47477-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47778-Dialogue.mod:0
+msgid "Only a fool would travel here without protection. Seems like you're keen to pick a fight with your friendly neighbourhood mercs though, am I right? Well you're makin' a big mistake. And you've wasted enough of my time."
+msgstr "มีแต่ไอ้โง่เท่านั้นแหละที่เดินไปแถวนี้โดนไม่มีการคุ้มครอง ดูเหมือนนายอยากจะหาเรื่องกับเพื่อนทหารรับจ้างที่ดีของนายนะ ใช่มั้ย? เจ้ากำลังทำผิดอย่ายิ่งใหญ่ และเจ้ากำลังทำให้เราเสียเวลา"
+
+#. Id: 47779-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47778-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47779-Dialogue.mod:0
+msgid "Then let's make this quick. (Attack)"
+msgstr "งั้นรีบมาจบเรื่องกันเลยดีกว่า(โจมตี)"
+
+#. Id: 47478-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47476-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#. Id: 47120-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47117-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47478-Dialogue.mod:0 47120-Dialogue.mod:0
+msgid "I said no."
+msgstr "บอกว่าไม่ไง"
+
+#. Id: 47481-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47478-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47481-Dialogue.mod:0
+msgid "So, you let me walk all the way over to you for nothing? You waste my time? All this time you distract me, you benefit from my protection. How about some compensation for that, huh?!"
+msgstr "เจ้าให้ข้าเดินมาหาเจ้าแล้วไม่ให้อะไรข้าหรอ? เจ้าทำให้ข้าเสียเวลาใช่มั้ย? ตลอดเวลาที่เราคุยกัน ข้าก็กำลังคุ้งครองเจ้าอยู่จ่ายค่าคุ้มครองมาซะ"
+
+#. Id: 47482-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47481-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47482-Dialogue.mod:0
+msgid "No. This is ridiculous, I didn't ask for this..."
+msgstr "ไม่ นี่มันเกินไปแล้ว ข้าไม่ได้ขอให้เจ้าช่วย"
+
+#. Id: 47483-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47482-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47483-Dialogue.mod:0
+msgid "So if you aren’t a customer, what use are you to us, /WORM/? (Places hand on sword)"
+msgstr "เจ้าก็ไม่ใช่ลูกค้า งั้นเจ้าเป็นอะไรล่ะ, /WORM/? (วางมือลงบนดาบ)"
+
+#. Id: 47485-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47484-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47485-Dialogue.mod:0
+msgid "Beat /HIM/ down. Strip /HIS/ stuff. Penniless worms."
+msgstr "เล่น/HIM/ซะ เอาของ/HIM/ให้หมด ไอ้หนอนไร้ค่า"
+
+#. Id: 47486-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47483-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47486-Dialogue.mod:0
+msgid "Easy. Okay, we'll settle this with Cats."
+msgstr "ใจเย็น เอาหล่ะ เราจะจ่ายเงิน"
+
+#. Id: 47762-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47486-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47762-Dialogue.mod:0
+msgid "200 Cats should be enough to cover my time here. Pay up."
+msgstr "200 คงจะพอกับค่าเสียเวลา จ่ายมาซะ"
+
+#. Id: 47767-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (47763-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47767-Dialogue.mod:0
+msgid "Pah. Good luck surviving without /MEUS/."
+msgstr "เชอะ ขอให้รอดชีวิตแล้วกัน ถ้าไม่มี/MEUS/"
+
+#. Id: 47764-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (47762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47764-Dialogue.mod:0
+msgid "On second thought... No."
+msgstr "คิดดูอีกที ไม่ดีกว่า"
+
+#. Id: 47487-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47483-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47487-Dialogue.mod:0
+msgid "If it's a fight you want, I'll give you one!"
+msgstr "ถ้าเจ้าตองการสู้ เราก็จะจัดให้เจ้า"
+
+#. Id: 47500-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47481-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 47500-Dialogue.mod:0
+msgid "Fine. How about 200 Cats for your time?"
+msgstr "เอาล่ะ เราจะจ่าย200ค่าเสียเวลา"
+
+#. Id: 47504-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47500-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47504-Dialogue.mod:0
+msgid "Then hand it over. Penniless fool."
+msgstr "งั้นก็ส่งมาซะ ไอ้โง่ไร้ค่า"
+
+#. Id: 47506-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47504-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47506-Dialogue.mod:0
+msgid "You'll be eaten alive by wild beasts by sundown..."
+msgstr "เจ้าจะถูกกินทั้งเป็นโดยไอ้สัตว์พวกนั้น ตอนพระอาทิตย์ตก"
+
+#. Id: 47501-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47481-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47501-Dialogue.mod:0
+msgid "How about you compensate the end of my sword?"
+msgstr "ทำไมไม่มาชดเชยกับปลายดาบของข้าล่ะ"
+
+#. Id: 47503-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47502-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47503-Dialogue.mod:0
+msgid "Remember our name! I'll etch it deep into your flesh!"
+msgstr "จำชื่อของข้าไว้ ข้าจะสลักมันบนเนื้อของเจ้า"
+
+#. Id: 47505-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47481-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47505-Dialogue.mod:0
+msgid "Look, I'll hire you instead. How much?"
+msgstr "เอาล่ะ ข้าจะจ้างเจ้าแล้วกัน เท่าไรล่ะ"
+
+#. Id: 47769-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47768-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47769-Dialogue.mod:0
+msgid "I can't afford that, it's too much."
+msgstr "ข้าจ่ายไม่ได้ มันแพงไป"
+
+#. Id: 47770-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47768-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47770-Dialogue.mod:0
+msgid "On second thoughts, nevermind."
+msgstr "คิดดูอีกที ไม่ดีกว่า"
+
+#. Id: 47479-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47476-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47479-Dialogue.mod:0
+msgid "Fine... how much?"
+msgstr "เอาล่ะ...เท่าไร"
+
+#. Id: 47780-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47476-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47780-Dialogue.mod:0
+msgid "Hold on, I see a rat that needs swatting! (Attack)"
+msgstr "เดี๋วก่อน ข้าเห็นหนูกำลังจะโดนฆ่า(โจมตี)"
+

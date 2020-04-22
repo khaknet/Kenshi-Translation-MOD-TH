@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5437-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 5437-gamedata.base:2
+msgid "I don't believe it!"
+msgstr ""
+
+#. Id: 5437-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 5437-gamedata.base:3
+msgid "Can this be real?"
+msgstr ""
+
+#. Id: 5437-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 5437-gamedata.base:4
+msgid "Wow..."
+msgstr ""
+
+#. Id: 5435-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5437-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 5435-gamedata.base:0
+msgid "We did it! We're free!"
+msgstr ""
+
+#. Id: 5438-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5437-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 5438-gamedata.base:0
+msgid "This is all thanks to you"
+msgstr ""
+
+#. Id: 5440-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5438-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 5440-gamedata.base:0
+msgid "I'm joining you."
+msgstr ""
+
+#. Id: 55386-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5437-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 55386-rebirth.mod:0
+msgid "I owe you everything"
+msgstr ""
+
+#. Id: 55386-rebirth.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5437-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 55386-rebirth.mod:2
+msgid "Free at last!"
+msgstr ""
+
+#. Id: 55386-rebirth.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (5437-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 55386-rebirth.mod:5
+msgid "I think I love you!"
+msgstr ""
+
+#. Id: 55386-rebirth.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (5437-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 55386-rebirth.mod:6
+msgid "Well, I've decided..."
+msgstr ""
+
+#. Id: 55387-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55386-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 55387-rebirth.mod:0
+msgid "It may not be worth much..."
+msgstr ""
+
+#. Id: 55387-rebirth.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (55386-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 55387-rebirth.mod:1
+msgid "I may not me much..."
+msgstr ""
+
+#. Id: 55387-rebirth.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (55386-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 55387-rebirth.mod:2
+msgid "I may be weak and half-starved...."
+msgstr ""
+
+#. Id: 55387-rebirth.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (55386-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 55387-rebirth.mod:3
+msgid "I'm just a useless slave..."
+msgstr ""
+
+#. Id: 55388-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55387-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 55388-rebirth.mod:0
+msgid "but I'll fight beside you"
+msgstr ""
+
+#. Id: 55388-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (55387-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 55388-rebirth.mod:1
+msgid "but for now on I will fight alongside you!"
+msgstr ""
+
+#. Id: 55388-rebirth.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (55387-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 55388-rebirth.mod:2
+msgid "but you have my loyalty until the day I die."
+msgstr ""
+
+#. Id: 55388-rebirth.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (55387-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 55388-rebirth.mod:3
+msgid "but I would like to join you, if you'll have me."
+msgstr ""
+
+#. Id: 55388-rebirth.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (55387-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 55388-rebirth.mod:4
+msgid "but I'm in, I owe you my life and I'll repay this debt to you somehow."
+msgstr ""
+

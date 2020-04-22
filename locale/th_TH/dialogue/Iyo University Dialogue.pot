@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50921-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50921-Dialogue.mod:0
+msgid "Keep loitering our aisles, /OUTLANDER/, and you'll end up trampled by sleep deprived scientists... What brings you to World's End University? Do you need something?"
+msgstr ""
+
+#. Id: 50924-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50921-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50924-Dialogue.mod:0
+msgid "Can you tell me about this place?"
+msgstr ""
+
+#. Id: 50929-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50924-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50929-Dialogue.mod:0
+msgid "Here we study and analyse lost tech from the ancient world, slowly but surely we're uncovering the secrets of our forgotten history. The problem is that most ruins have already been scavenged, making it difficult to develop accurate theories without solid evidence... "
+msgstr ""
+
+#. Id: 50951-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50951-Dialogue.mod:0
+msgid "So, that's where our tech hunters come in. They scour the unexplored lands for any possible remains we can use in our research... If you're interested in adventuring, our stores pay good money for relics. Make sure you bring anything you find to us, okay?"
+msgstr ""
+
+#. Id: 50939-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50951-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50939-Dialogue.mod:0
+msgid "Sure, I'll bear that in mind."
+msgstr ""
+
+#. Id: 50945-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50939-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50945-Dialogue.mod:0
+msgid "Great. Now, if that's everything, I've got work to do..."
+msgstr ""
+
+#. Id: 50940-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50951-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50940-Dialogue.mod:0
+msgid "Actually I'm no adventurer. But thanks for the info."
+msgstr ""
+
+#. Id: 50946-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50940-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50946-Dialogue.mod:0
+msgid "You're welcome. Now, if that's everything, I've got work to do..."
+msgstr ""
+
+#. Id: 50948-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50924-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50948-Dialogue.mod:0
+msgid "Here we study and analyse lost tech from the ancient world to uncover the secrets of our history. Most of the ruins have already been scavenged, making it difficult to develop accurate theories without solid evidence... "
+msgstr ""
+
+#. Id: 50952-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50948-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50952-Dialogue.mod:0
+msgid "So our tech hunters scour the unexplored lands for any possible remains we can use in our research, but most of it needs to go through me first... If you're an adventurer looking to sell relics, just make sure you bring them to our stores rather than elsewhere, okay?"
+msgstr ""
+
+#. Id: 50923-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50921-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50923-Dialogue.mod:0
+msgid "I had some questions about your work..."
+msgstr ""
+
+#. Id: 50926-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50923-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50926-Dialogue.mod:0
+msgid "Did you have something specific in mind? There's not a great deal of information I can enlighten you with that hasn't already been documented in our records..."
+msgstr ""
+
+#. Id: 50927-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50927-Dialogue.mod:0
+msgid "Can you teach me about world history?"
+msgstr ""
+
+#. Id: 50930-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50927-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50930-Dialogue.mod:0
+msgid "With all due respect, /OUTLANDER/, asking me to sum up the history of the world is not much different to asking a doctor to teach you medicine in ten minutes. On top of that, many scientists have different theories on events. I suggest you browse through our library if you're interested to know more."
+msgstr ""
+
+#. Id: 50943-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50930-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#. Id: 48795-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48726-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamp Barman
+#: 50943-Dialogue.mod:0 48795-Dialogue.mod:0
+msgid "Okay, thanks for the info."
+msgstr ""
+
+#. Id: 50931-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50931-Dialogue.mod:0
+msgid "The Holy Nation talk of a First Extinction. What do you know of it?"
+msgstr ""
+
+#. Id: 50933-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50931-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50933-Dialogue.mod:0
+msgid "The First Extinction? I personally believe it to be a plague epidemic, but Mr Finch stands firmly by it being a 'freak tornado'. Whatever it was, it appears that the skeleton was better equipped to survive it. But, human nature is to scapegoat, in particular those that are different to them... "
+msgstr ""
+
+#. Id: 50953-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50933-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50953-Dialogue.mod:0
+msgid "Our physical differences, in a time of panic and turmoil, only provoke further fear and clinging to ideas of blame. Hence the condemnation of my kind as playing a part in the downfall by the Holy Nation."
+msgstr ""
+
+#. Id: 50932-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50932-Dialogue.mod:0
+msgid "You existed way back to the ancient times, right? Can't you remember anything?"
+msgstr ""
+
+#. Id: 50936-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50932-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50936-Dialogue.mod:0
+msgid "The memory of a skeleton is not as long lasting as our bodies, unfortunately. I don't even remember if I existed within the ancient race, or not. Trust me, it is highly frustrating for a theorist to have possibly existed at the very time period they are dedicated to investigating."
+msgstr ""
+
+#. Id: 50934-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50934-Dialogue.mod:0
+msgid "What happened to the ancients? And how did we come to be?"
+msgstr ""
+
+#. Id: 50935-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50934-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50935-Dialogue.mod:0
+msgid "Mr Finch believes all organics to be direct descendants of smaller tribes outside of the ancient society. And the ancients? We think they would have lived disconnected from the rest of the world, a deadly disease could have killed them off while leaving the skeletons and other tribes unnaffected. But, again, there are many different theories on how we all came to be..."
+msgstr ""
+
+#. Id: 50941-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50941-Dialogue.mod:0
+msgid "Records? Where can I find these?"
+msgstr ""
+
+#. Id: 50942-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50941-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50942-Dialogue.mod:0
+msgid "Just take a look around the library. You'll find them."
+msgstr ""
+
+#. Id: 53280-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 53280-Dialogue.mod:0
+msgid "Know where I can find any Ancient Science books?"
+msgstr ""
+
+#. Id: 53281-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53280-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 53281-Dialogue.mod:0
+msgid "... You're an adventurer?... Forgive me, but freely passing out tips to our competition will land me in a great deal of trouble with Mr Finch. Try talking to the Tech Hunters over in the World's End bar."
+msgstr ""
+
+#. Id: 50928-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50923-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50928-Dialogue.mod:0
+msgid "Look, you don't need to worry... no one will ever know the truth. As long as I am Finch's second in command, I will see to that myself."
+msgstr ""
+
+#. Id: 50950-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50950-Dialogue.mod:0
+msgid "Let's not waste eachother's time with this act any more."
+msgstr ""
+

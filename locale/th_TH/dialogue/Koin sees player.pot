@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 95666-__Mourn.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Koin sees player
+#: 95666-__Mourn.mod:0
+msgid "Koin at your service."
+msgstr ""
+
+#. Id: 95664-__Mourn.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95666-__Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Koin sees player
+#. Id: 50411-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher Village barman
+#. Id: 12675-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 95664-__Mourn.mod:0 50411-Dialogue.mod:6 12675-Dialogue?(11)?(2).mod:0
+msgid "Can I help you, /OUTLANDER/?"
+msgstr ""
+

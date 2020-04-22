@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 17627-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#: 17627-Dialogue.mod:0
+msgid "... Hmph. No chance..."
+msgstr ""
+
+#. Id: 17627-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. Id: 42335-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (42334-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 63992-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63990-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#. Id: 16395-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16377-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Attack pt1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 59620-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (59616-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 17627-Dialogue.mod:1 42335-Dialogue.mod:3 63992-Dialogue.mod:0 16395-Dialogue.mod:1 59620-Dialogue.mod:1
+msgid "/IDIOCY/..."
+msgstr ""
+
+#. Id: 17627-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#: 17627-Dialogue.mod:2
+msgid "Mmh..."
+msgstr ""
+
+#. Id: 17627-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. Id: 17540-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
+#: 17627-Dialogue.mod:3 17540-Dialogue.mod:3
+msgid "Hrm.."
+msgstr ""
+
+#. Id: 17627-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#: 17627-Dialogue.mod:7
+msgid "This one's either brave or plain stupid..."
+msgstr ""
+
+#. Id: 17627-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. Id: 55183-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (55182-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter talk to
+#. Id: 57684-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57683-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hamut spots slavers
+#. Id: 95976-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95975-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. Id: 48911-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48909-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to tough rescued from slaver
+#. Id: 48905-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48897-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to tough rescued from slaver
+#: 17627-Dialogue.mod:8 55183-Dialogue.mod:0 57684-Dialogue.mod:0 95976-Dialogue.mod:0 48911-Dialogue.mod:0 48905-Dialogue.mod:0
+msgid "Kch..."
+msgstr ""
+
+#. Id: 17628-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17628-Dialogue.mod:0
+msgid "This won't last long..."
+msgstr ""
+
+#. Id: 17628-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17628-Dialogue.mod:1
+msgid "This should be interesting..."
+msgstr ""
+
+#. Id: 17628-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17628-Dialogue.mod:2
+msgid "This one's fate is already sealed."
+msgstr ""
+
+#. Id: 17628-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17628-Dialogue.mod:3
+msgid "You've made a formidable enemy, /FLATSKIN/."
+msgstr ""
+
+#. Id: 17628-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17628-Dialogue.mod:4
+msgid "This one must have a death wish..."
+msgstr ""
+
+#. Id: 17628-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17628-Dialogue.mod:5
+msgid "The /FLATSKIN/'s got fight..."
+msgstr ""
+
+#. Id: 17629-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 17629-Dialogue.mod:0
+msgid "Brainless /FLATSKIN/..."
+msgstr ""
+
+#. Id: 17629-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 17629-Dialogue.mod:1
+msgid "Foolish /FLATSKIN/..."
+msgstr ""
+
+#. Id: 17629-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 17629-Dialogue.mod:2
+msgid "Bold for a /FLATSKIN/..."
+msgstr ""
+
+#. Id: 17629-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 17629-Dialogue.mod:3
+msgid "The /FLATSKIN/ fights..."
+msgstr ""
+
+#. Id: 17629-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 17629-Dialogue.mod:4
+msgid "A /FLATSKIN/ with spine..."
+msgstr ""
+
+#. Id: 17629-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 17629-Dialogue.mod:5
+msgid "Hrm! This /FLATSKIN/'s got spine..."
+msgstr ""
+
+#. Id: 44652-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 44652-Dialogue.mod:0
+msgid "Need a hand, kin?"
+msgstr ""
+
+#. Id: 44652-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 44652-Dialogue.mod:1
+msgid "Let me help, kin"
+msgstr ""
+
+#. Id: 44652-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 44652-Dialogue.mod:2
+msgid "You look like you could use some help..."
+msgstr ""
+
+#. Id: 44652-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 44652-Dialogue.mod:3
+msgid "Some action!"
+msgstr ""
+
+#. Id: 44652-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 44652-Dialogue.mod:4
+msgid "At last, some action!"
+msgstr ""
+
+#. Id: 44652-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 44652-Dialogue.mod:5
+msgid "Let me fight with you, kin"
+msgstr ""
+
+#. Id: 44652-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 44652-Dialogue.mod:6
+msgid "Let's get this over with."
+msgstr ""
+
+#. Id: 44652-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 44652-Dialogue.mod:7
+msgid "Let's end this quickly."
+msgstr ""
+

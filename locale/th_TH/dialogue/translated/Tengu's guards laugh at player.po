@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56994-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 56994-Dialogue.mod:1
+msgid "BWAHAHAHAHA!"
+msgstr ""
+
+#. Id: 56994-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 57093-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (56994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 55828-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (55827-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave hunter slaver town bar
+#: 56994-Dialogue.mod:2 57093-Dialogue.mod:4 55828-Dialogue.mod:0
+msgid "*Snort*"
+msgstr ""
+
+#. Id: 56996-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 56996-Dialogue.mod:0
+msgid "Take it.. *wheeze*... take the royal seal to Clunknad Spanner!"
+msgstr ""
+
+#. Id: 56996-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (56994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 56996-Dialogue.mod:2
+msgid "Don't lose the royal seal! *snort*"
+msgstr ""
+
+#. Id: 57050-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 57050-Dialogue.mod:0
+msgid "Where are you going hero? Save us!"
+msgstr ""
+
+#. Id: 57050-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (56996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 57050-Dialogue.mod:1
+msgid "Don't go hero! Don't gooooo!"
+msgstr ""
+
+#. Id: 57050-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (56996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 57050-Dialogue.mod:2
+msgid "That's it! Run along, kill the big bad grievewrath!"
+msgstr ""
+
+#. Id: 57052-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 57052-Dialogue.mod:0
+msgid "... Now, quiet! Enough of this 'fun'. Back to work!"
+msgstr ""
+
+#. Id: 57055-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57054-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Tengu's guards laugh at player
+#: 57055-Dialogue.mod:0
+msgid "Hnngh!... Sir, yes sir!"
+msgstr ""
+
+#. Id: 58876-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (58877-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Tengu's guards laugh at player
+#: 58876-Dialogue.mod:0
+msgid "... Perhaps I can help instead, outlander?"
+msgstr ""
+
+#. Id: 58880-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (58876-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Tengu's guards laugh at player
+#: 58880-Dialogue.mod:0
+msgid "Speak with me."
+msgstr ""
+
+#. Id: 57093-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 57093-Dialogue.mod:0
+msgid "/HE/ actually fell for it, /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 56995-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 56995-Dialogue.mod:0
+msgid "Save us, hero!"
+msgstr ""
+
+#. Id: 56995-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 56995-Dialogue.mod:1
+msgid "We'll give you gold, hero!"
+msgstr ""
+
+#. Id: 56995-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 56995-Dialogue.mod:3
+msgid "Lend us your aid, outlander!"
+msgstr ""
+
+#. Id: 56998-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (56995-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 56998-Dialogue.mod:2
+msgid "*Slap*"
+msgstr ""
+
+#. Id: 57092-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 57092-Dialogue.mod:1
+msgid "We BELIEVE in you, hero!"
+msgstr ""
+
+#. Id: 57092-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 57092-Dialogue.mod:2
+msgid "Slay the grievewrath, hero!"
+msgstr ""
+

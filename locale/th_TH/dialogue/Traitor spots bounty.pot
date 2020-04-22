@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15917-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15916-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#: 15917-Dialogue.mod:0
+msgid "Hey, /THISGUY/... /HEIS/ got a bounty on /HIM/!"
+msgstr ""
+
+#. Id: 15917-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15916-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#: 15917-Dialogue.mod:1
+msgid "/THISGUY/... /HEIS/ got a bounty on /HIM/!"
+msgstr ""
+
+#. Id: 15917-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15916-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#: 15917-Dialogue.mod:2
+msgid "/THISGUY/... /HEIS/ a fugitive!"
+msgstr ""
+
+#. Id: 15918-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (15917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#: 15918-Dialogue.mod:1
+msgid "Over here, guards!"
+msgstr ""
+
+#. Id: 15918-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (15917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#: 15918-Dialogue.mod:2
+msgid "Guards, this way!"
+msgstr ""
+
+#. Id: 15920-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 15920-Dialogue.mod:0
+msgid "So... can I have a piece of the reward?"
+msgstr ""
+
+#. Id: 15920-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 15920-Dialogue.mod:1
+msgid "I did good right? Do I get a reward?"
+msgstr ""
+
+#. Id: 15920-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (15919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 15920-Dialogue.mod:2
+msgid "... Do I get some of the bounty?"
+msgstr ""
+

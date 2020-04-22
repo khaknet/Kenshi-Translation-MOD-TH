@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55637-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: My Race(s): Greenlander or Shek or Scorchlander
+#: 55637-Dialogue.mod:0
+msgid "My feet! I need shoes!"
+msgstr ""
+
+#. Id: 55637-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: My Race(s): Greenlander or Shek or Scorchlander
+#: 55637-Dialogue.mod:1
+msgid "My feet are burning!"
+msgstr ""
+
+#. Id: 55637-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: My Race(s): Greenlander or Shek or Scorchlander
+#: 55637-Dialogue.mod:2
+msgid "/AAH/! My feet!"
+msgstr ""
+
+#. Id: 55637-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: My Race(s): Greenlander or Shek or Scorchlander
+#: 55637-Dialogue.mod:3
+msgid "My feet! The pain!"
+msgstr ""
+
+#. Id: 55637-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: My Race(s): Greenlander or Shek or Scorchlander
+#: 55637-Dialogue.mod:4
+msgid "My feet! The pain is killing me!"
+msgstr ""
+
+#. Id: 55637-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: My Race(s): Greenlander or Shek or Scorchlander
+#: 55637-Dialogue.mod:5
+msgid "Mercy me! My feet are burning up!"
+msgstr ""
+
+#. Id: 55637-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: My Race(s): Greenlander or Shek or Scorchlander
+#: 55637-Dialogue.mod:6
+msgid "Damn! My feet, they're burning!"
+msgstr ""
+
+#. Id: 55637-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: My Race(s): Greenlander or Shek or Scorchlander
+#: 55637-Dialogue.mod:7
+msgid "/ARG/, my feet!"
+msgstr ""
+
+#. Id: 55638-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55638-Dialogue.mod:0
+msgid "Feels like they're about to melt right off!"
+msgstr ""
+
+#. Id: 55638-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55638-Dialogue.mod:1
+msgid "Feels like the ground is on fire!"
+msgstr ""
+
+#. Id: 55638-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55638-Dialogue.mod:2
+msgid "Keep walking barefoot like this and I won't have any feet left to walk on!"
+msgstr ""
+
+#. Id: 55638-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55638-Dialogue.mod:3
+msgid "I can't take this much longer... The ground is eating away my feet!"
+msgstr ""
+
+#. Id: 55638-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55638-Dialogue.mod:4
+msgid "I can't go on like this, my feet are melting!"
+msgstr ""
+
+#. Id: 55638-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55638-Dialogue.mod:5
+msgid "I need to get off this ground! It's melting my skin off!"
+msgstr ""
+
+#. Id: 55641-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55641-Dialogue.mod:0
+msgid "I CAN HEAR MY SKIN FIZZING! SKIN ISN'T SUPPOSED TO FIZZ!"
+msgstr ""
+
+#. Id: 55641-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55641-Dialogue.mod:1
+msgid "I CAN HEAR MY FEET SIZZLING! PEOPLE AREN'T SUPPOSED TO SIZZLE!"
+msgstr ""
+
+#. Id: 55641-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55641-Dialogue.mod:2
+msgid "I need my skin! I like my skin! Get me off'a this acid hell-soil!"
+msgstr ""
+
+#. Id: 55641-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55641-Dialogue.mod:3
+msgid "The ground's made of /FUCKING/ acid!"
+msgstr ""
+
+#. Id: 55641-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55641-Dialogue.mod:4
+msgid "/FUCKING/ acid soil! At this rate I'll have no feet left!"
+msgstr ""
+
+#. Id: 55641-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55641-Dialogue.mod:5
+msgid "Abort! I need shoes!"
+msgstr ""
+
+#. Id: 55642-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 55642-Dialogue.mod:0
+msgid "This isn't good. I won't make it far on this ground..."
+msgstr ""
+
+#. Id: 55642-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 55642-Dialogue.mod:1
+msgid "This acid... I don't know how much longer I can last like this..."
+msgstr ""
+
+#. Id: 55642-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 55642-Dialogue.mod:2
+msgid "Keep walking on this ground and I'll have no skin left..."
+msgstr ""
+
+#. Id: 55642-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 55642-Dialogue.mod:3
+msgid "This ground ain't made for bare feet... I need shoes..."
+msgstr ""
+
+#. Id: 55642-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 55642-Dialogue.mod:4
+msgid "I can't keep walking on this... I need my skin on my feet..."
+msgstr ""
+
+#. Id: 55642-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 55642-Dialogue.mod:5
+msgid "This acid is eating through my feet like it's a banquet..."
+msgstr ""
+
+#. Id: 55642-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 55642-Dialogue.mod:6
+msgid "Walking barefoot on acid... Great idea..."
+msgstr ""
+
+#. Id: 55642-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (55637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 55642-Dialogue.mod:7
+msgid "Who's wise idea was it to walk across acid soil barefooted...?"
+msgstr ""
+
+#. Id: 55640-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: My Race(s): Shek
+#: 55640-Dialogue.mod:0
+msgid "The ground burns the skin right off my soles!"
+msgstr ""
+
+#. Id: 55640-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: My Race(s): Shek
+#: 55640-Dialogue.mod:1
+msgid "Pain! My feet are being burned!"
+msgstr ""
+
+#. Id: 55640-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: My Race(s): Shek
+#: 55640-Dialogue.mod:2
+msgid "Burning! /IWE/ need boots!"
+msgstr ""
+
+#. Id: 55640-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: My Race(s): Shek
+#: 55640-Dialogue.mod:3
+msgid "This ground... it is cooking my feet as we speak..."
+msgstr ""
+
+#. Id: 55640-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: My Race(s): Shek
+#: 55640-Dialogue.mod:4
+msgid "Rrgh!... Bare feet aren't meant for these soils..."
+msgstr ""
+
+#. Id: 55640-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: My Race(s): Shek
+#: 55640-Dialogue.mod:5
+msgid "Kch!... My feet... the pain..."
+msgstr ""
+
+#. Id: 55648-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55640-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55648-Dialogue.mod:0
+msgid "/IWE/ need to move off this ground, quickly."
+msgstr ""
+
+#. Id: 55648-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55640-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55648-Dialogue.mod:1
+msgid "/IWE/ need to find new ground, fast."
+msgstr ""
+
+#. Id: 55648-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (55640-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55648-Dialogue.mod:2
+msgid "/IWE/ should go no further, /MYOUR/ skin won't last the journey."
+msgstr ""
+
+#. Id: 55649-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55649-Dialogue.mod:0
+msgid "/OHSHIT/, my feet! They're on fire!"
+msgstr ""
+
+#. Id: 55649-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55649-Dialogue.mod:1
+msgid "/WHATTHEFUCK/ is up with this place!? The ground's on fire!"
+msgstr ""
+
+#. Id: 55649-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55649-Dialogue.mod:2
+msgid "/AAH/, that stings like bitch!... Are you /FUCKING/ kiddin' me, nature? Acid soil!?"
+msgstr ""
+
+#. Id: 55649-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55649-Dialogue.mod:3
+msgid "/OHSHIT/, my feet! They're burning!"
+msgstr ""
+
+#. Id: 55649-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55649-Dialogue.mod:4
+msgid "/OHSHIT/, my feet! They're melting!"
+msgstr ""
+
+#. Id: 55649-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55649-Dialogue.mod:5
+msgid "/AAH/! My feet! The ground's made of /FUCKING/ acid!"
+msgstr ""
+
+#. Id: 55649-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55649-Dialogue.mod:6
+msgid "*Heave* *Heave*... My feet! My feet! It burns!"
+msgstr ""
+
+#. Id: 55654-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55654-Dialogue.mod:0
+msgid "*Sniff* *Sniff*... /OI/, what's cookin'?"
+msgstr ""
+
+#. Id: 55655-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55654-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet tough
+#: 55655-Dialogue.mod:0
+msgid "M... ME! My feet are being cooked! I need shoes! Get me some /FUCKING/ shoes!"
+msgstr ""
+

@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41144-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots random beasts
+#: 41144-Dialogue.mod:0
+msgid "Beasts must be cleansed..."
+msgstr ""
+
+#. Id: 41144-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots random beasts
+#. Id: 49693-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 41144-Dialogue.mod:1 49693-Dialogue.mod:0
+msgid "Unshackled beasts must be tamed..."
+msgstr ""
+
+#. Id: 41144-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots random beasts
+#: 41144-Dialogue.mod:2
+msgid "We have a beast that needs taming..."
+msgstr ""
+
+#. Id: 41144-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots random beasts
+#: 41144-Dialogue.mod:3
+msgid "The unpure will poison our lands..."
+msgstr ""
+
+#. Id: 41145-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41144-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots random beasts
+#: 41145-Dialogue.mod:0
+msgid "I won't let you /TAINT/ our holy society!"
+msgstr ""
+
+#. Id: 41145-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41144-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots random beasts
+#. Id: 40689-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. Id: 15725-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 40691-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest get up fight
+#: 41145-Dialogue.mod:1 40689-Dialogue.mod:3 15725-Dialogue.mod:11 40691-Dialogue.mod:2
+msgid "We must purge our land from all darkness!"
+msgstr ""
+
+#. Id: 41145-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41144-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots random beasts
+#: 41145-Dialogue.mod:2
+msgid "I can't let you roam freely... you won't /TAINT/ these lands!"
+msgstr ""
+

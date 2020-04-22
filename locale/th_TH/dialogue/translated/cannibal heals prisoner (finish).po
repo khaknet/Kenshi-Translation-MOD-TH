@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 4784-D-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#: 4784-D-dialogue-02.mod:0
+msgid "Heel bedder?"
+msgstr "ดี แล้วยัง?"
+
+#. Id: 4784-D-dialogue-02.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#: 4784-D-dialogue-02.mod:1
+msgid "Dhere. I cure woun'."
+msgstr "นี่ ข้ารักแผลนะ"
+
+#. Id: 4784-D-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#: 4784-D-dialogue-02.mod:2
+msgid "Prey no need hurt."
+msgstr "เหยื่อไม่จำเป็นเจ็บปวด"
+
+#. Id: 4784-D-dialogue-02.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#: 4784-D-dialogue-02.mod:3
+msgid "Is okay now."
+msgstr "ตอนนี้ไม่เป็นไรแล้ว"
+
+#. Id: 4784-D-dialogue-02.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#: 4784-D-dialogue-02.mod:4
+msgid "Any more hurt?"
+msgstr "เจ็บอีกแล้วเหรอ?"
+
+#. Id: 4786-D-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#: 4786-D-dialogue-02.mod:0
+msgid "Prey hurt. Bedder meat."
+msgstr "เหยื่อเจ็บ เนื้อยิ่งดี"
+
+#. Id: 4786-D-dialogue-02.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#: 4786-D-dialogue-02.mod:1
+msgid "Hurt make meat /CANNIBALTASTY/."
+msgstr "ความเจ็บทำให้เนื้อ/CANNIBALTASTY/"
+
+#. Id: 4786-D-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#: 4786-D-dialogue-02.mod:2
+msgid "We /CANNIBALCOOK/ you soon."
+msgstr "เราจะ/CANNIBALCOOK/ในไม่ช้าแหละ"
+
+#. Id: 4786-D-dialogue-02.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#: 4786-D-dialogue-02.mod:3
+msgid "I like eat /CANNIBALBODYPART/ hirst."
+msgstr "ข้าอยากกิน/CANNIBALBODYPART/ก่อน"
+
+#. Id: 4786-D-dialogue-02.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#: 4786-D-dialogue-02.mod:4
+msgid "Prey not die. Yet."
+msgstr "เหยื่ออย่าตาย ตอนนี้ยัง"
+
+#. Id: 4788-D-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#: 4788-D-dialogue-02.mod:0
+msgid "Can' wait."
+msgstr "รอไม่ไหวแล้ว"
+
+#. Id: 4788-D-dialogue-02.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#: 4788-D-dialogue-02.mod:1
+msgid "/CANNIBALHA/."
+msgstr ""
+
+#. Id: 4788-D-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#: 4788-D-dialogue-02.mod:2
+msgid "Mmm."
+msgstr "หืมม"
+
+#. Id: 4788-D-dialogue-02.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#: 4788-D-dialogue-02.mod:3
+msgid "I ungry now."
+msgstr "ข้าหิวแล้ว"
+
+#. Id: 4788-D-dialogue-02.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#: 4788-D-dialogue-02.mod:4
+msgid "Smell good."
+msgstr "กลิ่นที่ดี"
+
+#. Id: 4788-D-dialogue-02.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#: 4788-D-dialogue-02.mod:5
+msgid "Prey muss stay alibe."
+msgstr "เหยื่อต้องมีชีวิตรอด"
+
+#. Id: 4788-D-dialogue-02.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#: 4788-D-dialogue-02.mod:6
+msgid "Not long now."
+msgstr "ในไม่ช้านี่แหละ"
+
+#. Id: 4789-D-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 4789-D-dialogue-02.mod:0
+msgid "You ungry?"
+msgstr "เจ้าหิวรึ?"
+
+#. Id: 4789-D-dialogue-02.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 4789-D-dialogue-02.mod:1
+msgid "Ungry?"
+msgstr "หิว?"
+
+#. Id: 4789-D-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 4789-D-dialogue-02.mod:2
+msgid "Wan' eat?"
+msgstr "อยากกิน?"
+
+#. Id: 4791-D-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (4789-D-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal heals prisoner (finish)
+#: 4791-D-dialogue-02.mod:0
+msgid "Yes! Food!"
+msgstr "ใช่! อาหาร!"
+
+#. Id: 4791-D-dialogue-02.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (4789-D-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal heals prisoner (finish)
+#: 4791-D-dialogue-02.mod:1
+msgid "I'll eat anything!"
+msgstr "เราจะกินทุกอย่าง!"
+
+#. Id: 4791-D-dialogue-02.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (4789-D-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal heals prisoner (finish)
+#: 4791-D-dialogue-02.mod:2
+msgid "Yes! Please!"
+msgstr "ใช่! ได้โปรด!"
+
+#. Id: 4792-D-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (4791-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#: 4792-D-dialogue-02.mod:0
+msgid "/CANNIBALYES/?"
+msgstr ""
+
+#. Id: 4793-D-dialogue-02.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (4792-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#: 4793-D-dialogue-02.mod:0
+msgid "Dhen..."
+msgstr "งั้น..."
+
+#. Id: 4794-D-dialogue-02.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (4793-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heals prisoner (finish)
+#: 4794-D-dialogue-02.mod:0
+msgid "Try your /CANNIBALBODYPART/."
+msgstr "ลอง/CANNIBALBODYPART/เจ้าดู"
+

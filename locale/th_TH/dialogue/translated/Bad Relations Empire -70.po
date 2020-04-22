@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 10764-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#. Id: 10770-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 10764-Dialogue?(10).mod:0 10770-Dialogue?(10).mod:0
+msgid "/PLAYERNAME/!!!"
+msgstr ""
+
+#. Id: 10764-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10764-Dialogue?(10).mod:1
+msgid "You!!!"
+msgstr "เจ้า!!!"
+
+#. Id: 10765-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (10764-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10765-Dialogue?(10).mod:1
+msgid "It's /HIM/! Sound the alarm!"
+msgstr "นั่น  /HIM/! เปิดสัญญาณเตือน!"
+
+#. Id: 10765-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (10764-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10765-Dialogue?(10).mod:2
+msgid "Get over here, it's /HIM/!"
+msgstr "มาทางนี้ นั่น /HIM/!"
+
+#. Id: 10765-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (10764-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10765-Dialogue?(10).mod:3
+msgid "Assemble for attack!"
+msgstr "ยกกำลังเข้าโจมตี!"
+
+#. Id: 10765-Dialogue (10).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (10764-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10765-Dialogue?(10).mod:4
+msgid "Rally for attack!"
+msgstr "รวมพลเข้าโจมตี!"
+
+#. Id: 10765-Dialogue (10).mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (10764-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10765-Dialogue?(10).mod:5
+msgid "Prepare for attack!"
+msgstr "เตรียมพร้อมโจมตี!"
+
+#. Id: 10765-Dialogue (10).mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (10764-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10765-Dialogue?(10).mod:6
+msgid "Regroup! It's /HIM/!"
+msgstr "กลับมารวมกลุ่ม! นั่น /HIM/!"
+
+#. Id: 10765-Dialogue (10).mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (10764-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10765-Dialogue?(10).mod:9
+msgid "Kill /HIM/! No-one lives!"
+msgstr "ฆ่า /HIM/! อย่าให้รอดไปได้!"
+
+#. Id: 10765-Dialogue (10).mod
+#. -- Index: 1.10
+#. -- Parent line: 0 (10764-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10765-Dialogue?(10).mod:10
+msgid "Kill /HIM/! No-one escapes!"
+msgstr "ฆ่า /HIM/! อย่าให้หนีไปได้!"
+
+#. Id: 10766-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 10766-Dialogue?(10).mod:0
+msgid "It-it's /HIM/! "
+msgstr "นั่น-มัน /HIM/!"
+
+#. Id: 10766-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 10766-Dialogue?(10).mod:1
+msgid "/PLAYERNAME/! "
+msgstr ""
+
+#. Id: 10766-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 10766-Dialogue?(10).mod:2
+msgid "/PLAYERNAME/..?! "
+msgstr ""
+
+#. Id: 10766-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 10766-Dialogue?(10).mod:3
+msgid "... Ggh! /PLAYERNAME/!"
+msgstr "... อ้าก! /PLAYERNAME/!"
+
+#. Id: 10766-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 10766-Dialogue?(10).mod:4
+msgid "... /TCH/! /PLAYERNAME/..."
+msgstr ""
+
+#. Id: 10768-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (10766-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10768-Dialogue?(10).mod:3
+msgid "Retreat!"
+msgstr "ถอยทัพ!"
+
+#. Id: 10771-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10770-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10771-Dialogue?(10).mod:0
+msgid "Gut /HIM/"
+msgstr "ควักไส้ /HIM/"
+
+#. Id: 10771-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (10770-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10771-Dialogue?(10).mod:1
+msgid "Tear /HIM/ apart"
+msgstr "ฉีก /HIM/ ให้เป็นชิ้นๆ"
+
+#. Id: 10771-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (10770-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10771-Dialogue?(10).mod:2
+msgid "Hurt /HIM/"
+msgstr "ฟาด /HIM/"
+
+#. Id: 10771-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (10770-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10771-Dialogue?(10).mod:3
+msgid "Punish /HIM/"
+msgstr "ลงทัณฑ์ /HIM/"
+
+#. Id: 10771-Dialogue (10).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (10770-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10771-Dialogue?(10).mod:4
+msgid "Make /HIM/ bleed"
+msgstr "เอาให้ /HIM/ เลือดกลบปาก"
+
+#. Id: 10771-Dialogue (10).mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (10770-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10771-Dialogue?(10).mod:5
+msgid "Crush /HIM/"
+msgstr "บดขยี้ /HIM/"
+
+#. Id: 10771-Dialogue (10).mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (10770-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 10771-Dialogue?(10).mod:6
+msgid "Break /HIM/"
+msgstr "ทำลาย /HIM/"
+
+#. Id: 60454-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 60454-Dialogue.mod:0
+msgid "Anti slaver/S/!"
+msgstr "กลุ่มต่อต้านการค้าทาส/S/!"
+
+#. Id: 60454-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#: 60454-Dialogue.mod:2
+msgid "Over there! Anti slaver/S/!"
+msgstr "ทางนี้! กลุ่มต่อต้านการค้าทาส/S/!"
+

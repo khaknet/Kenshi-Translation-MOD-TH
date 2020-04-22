@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 61081-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61081-Dialogue.mod:0
+msgid "Under order of the Empire..."
+msgstr ""
+
+#. Id: 61081-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61081-Dialogue.mod:1
+msgid "Under Empire law..."
+msgstr ""
+
+#. Id: 61082-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61081-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61082-Dialogue.mod:0
+msgid "You have been sentenced for multiple crimes of treason..."
+msgstr ""
+
+#. Id: 61083-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61082-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61083-Dialogue.mod:0
+msgid "By punishment of death."
+msgstr ""
+
+#. Id: 61084-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61084-Dialogue.mod:0
+msgid "At the ready..."
+msgstr ""
+
+#. Id: 61084-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (61083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61084-Dialogue.mod:1
+msgid "Ready..."
+msgstr ""
+
+#. Id: 61084-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (61083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61084-Dialogue.mod:2
+msgid "Positions, soldiers..."
+msgstr ""
+
+#. Id: 61084-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (61083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61084-Dialogue.mod:3
+msgid "Positions..."
+msgstr ""
+
+#. Id: 61084-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (61083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61084-Dialogue.mod:4
+msgid "Weapons at the ready..."
+msgstr ""
+
+#. Id: 61086-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61086-Dialogue.mod:0
+msgid "Come out, criminal!"
+msgstr ""
+
+#. Id: 61086-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61086-Dialogue.mod:1
+msgid "Face your punishment, criminal!"
+msgstr ""
+
+#. Id: 61087-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61086-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61087-Dialogue.mod:0
+msgid "Your crime spree has finally come to an end today..."
+msgstr ""
+
+#. Id: 61092-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61087-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61092-Dialogue.mod:0
+msgid "This is the moment you'll finally learn to respect the Empire!"
+msgstr ""
+
+#. Id: 61088-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61088-Dialogue.mod:0
+msgid "You think anyone who disrespects the Empire ever lives to tell the tale?"
+msgstr ""
+
+#. Id: 61089-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61089-Dialogue.mod:0
+msgid "Think again, /TERRORIST/!"
+msgstr ""
+
+#. Id: 61089-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61089-Dialogue.mod:1
+msgid "Think again, criminal!"
+msgstr ""
+
+#. Id: 61089-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (61088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61089-Dialogue.mod:2
+msgid "You can't escape your past, /TERRORIST/."
+msgstr ""
+
+#. Id: 61090-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61089-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61090-Dialogue.mod:0
+msgid "Because the Empire never forgets!"
+msgstr ""
+
+#. Id: 61090-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (61089-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61090-Dialogue.mod:1
+msgid "Because the Empire never forgives!"
+msgstr ""
+

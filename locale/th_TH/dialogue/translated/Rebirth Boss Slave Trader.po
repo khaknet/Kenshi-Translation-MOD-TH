@@ -1,0 +1,352 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 49696-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=0, Tag: -1
+#: 49696-Dialogue.mod:0
+msgid "/HOLYGREET/. Welcome to Rebirth."
+msgstr ""
+
+#. Id: 49698-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49697-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49698-Dialogue.mod:0
+msgid "It is a place of penance and education for the less fortunate, for those who have lost their way from the path. We help them find Okran in their heart so that they can live a life of higher purpose and redemption. It is a place where they can be reborn once again, as children of Okran."
+msgstr ""
+
+#. Id: 49724-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49724-Dialogue.mod:0
+msgid "Can I buy some of them from you?"
+msgstr ""
+
+#. Id: 49726-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49726-Dialogue.mod:0
+msgid "Sounds like a bunch of self-righteous crap!"
+msgstr ""
+
+#. Id: 49727-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49726-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49727-Dialogue.mod:0
+msgid "How dare you insult Okran's way! Wicked heretic!"
+msgstr ""
+
+#. Id: 49727-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (49726-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49727-Dialogue.mod:1
+msgid "How dare you you insult the traditions of the Holy Nation! Sinful heathen!"
+msgstr ""
+
+#. Id: 49727-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (49726-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49727-Dialogue.mod:2
+msgid "Such a brazen tongue! How can a man insult his own god!?"
+msgstr ""
+
+#. Id: 49728-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49727-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49728-Dialogue.mod:0
+msgid "Perhaps you need rebirthing too!"
+msgstr ""
+
+#. Id: 49699-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49696-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49699-Dialogue.mod:0
+msgid "I have heretics to hand over."
+msgstr ""
+
+#. Id: 49700-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49699-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49700-Dialogue.mod:0
+msgid "You're here to deliver lost ones? Bless you, holy brother, it is a deed  that will not go unnoticed in the eyes of the lord Okran. Rebirth will take care of them from here."
+msgstr ""
+
+#. Id: 49713-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49713-Dialogue.mod:0
+msgid "Blessings upon you, /BROTHER/."
+msgstr ""
+
+#. Id: 49713-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (49700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49713-Dialogue.mod:1
+msgid "Rebirth will take care of them."
+msgstr ""
+
+#. Id: 49713-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (49700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49713-Dialogue.mod:2
+msgid "They will be safe in the hands of Rebirth."
+msgstr ""
+
+#. Id: 49713-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (49700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49713-Dialogue.mod:3
+msgid "Today you have done a good deed, holy brother."
+msgstr ""
+
+#. Id: 49701-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49696-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49701-Dialogue.mod:0
+msgid "I'd like to buy some slaves."
+msgstr ""
+
+#. Id: 49703-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49701-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49703-Dialogue.mod:0
+msgid "Buy slaves?! We do not take slaves here in the holy lands! Such  barbaric practises are not tolerated within the teachings of Okran. You cannot buy beings for your own selfish pursuits! A pure blood must take it upon himself never to take advantage of others, no matter what their misfortunes, no matter what their background! "
+msgstr ""
+
+#. Id: 49704-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49703-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49704-Dialogue.mod:0
+msgid "We must take it upon ourselves to care for, to educate and to discipline others in the ways of Okran. Yours is not wholesome behaviour, brother. If you judge another to be a heathen, bring them here. We will take care of them and rebirth them so that they can earn Okran's mercy for themselves. "
+msgstr ""
+
+#. Id: 49705-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49704-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49705-Dialogue.mod:0
+msgid "Sorry, I didn't mean to offend you..."
+msgstr ""
+
+#. Id: 49710-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49705-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49710-Dialogue.mod:0
+msgid "Okran is a merciful god. Is there anything else I can help you with?"
+msgstr ""
+
+#. Id: 49706-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49704-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49706-Dialogue.mod:0
+msgid "Of course. Thank you for your wise words, holy brother."
+msgstr ""
+
+#. Id: 49711-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49706-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49711-Dialogue.mod:0
+msgid "Is there anything else I can help you with?"
+msgstr ""
+
+#. Id: 49708-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49704-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49708-Dialogue.mod:0
+msgid "Well, call it what you want, they look like slaves to me."
+msgstr ""
+
+#. Id: 49709-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49708-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49709-Dialogue.mod:0
+msgid "Ignorant heathen! I suggest you leave, before you land yourself in trouble in the holy lands."
+msgstr ""
+
+#. Id: 49715-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#. -- Condition: Who: TARGET, Condition: CARRYING_SOMEONE_TO_ENSLAVE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=0, Tag: -1
+#: 49715-Dialogue.mod:0
+msgid "/HOLYGREET/. Who is this you're carrying? A heretic for Rebirth? We'll take good care of them..."
+msgstr ""
+
+#. Id: 49718-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49715-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49718-Dialogue.mod:0
+msgid "Yes, holy brother. This one's all yours."
+msgstr ""
+
+#. Id: 49723-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49718-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49723-Dialogue.mod:0
+msgid "Bless you, holy brother, it is a deed  that will not go unnoticed in the eyes of the lord Okran. Rebirth will take care of them from here."
+msgstr ""
+
+#. Id: 49721-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49715-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49721-Dialogue.mod:0
+msgid "Er... no, sorry."
+msgstr ""
+
+#. Id: 49722-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49721-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 49722-Dialogue.mod:0
+msgid "I see. Then how can I help you, brother?"
+msgstr ""
+
+#. Id: 64739-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49715-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 64739-Dialogue.mod:0
+msgid "Yes. But I expect payment..."
+msgstr ""
+
+#. Id: 64741-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64739-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 64741-Dialogue.mod:0
+msgid "[He slams a measly sum of Cats in your hand]..."
+msgstr ""
+
+#. Id: 64740-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64741-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 64740-Dialogue.mod:0
+msgid "A true Okranite takes reward in his servitude to the Lord of Light, not in Cats."
+msgstr ""
+
+#. Id: 1532661-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 1532661-Dialogue.mod:0
+msgid "Shoo, woman."
+msgstr ""
+
+#. Id: 1532661-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 1532661-Dialogue.mod:1
+msgid "Where is your carer? I'll not speak with a woman."
+msgstr ""
+
+#. Id: 1532664-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 1532664-Dialogue.mod:0
+msgid "Is this some kind of joke, dark one? I would hope that by coming here you were surrendering yourself to Okran for rebirth, but I'm sure your kind do not have that kind of capacity for self reflection. You must have some other devious reason for being here..."
+msgstr ""
+
+#. Id: 1532671-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532664-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#: 1532671-Dialogue.mod:0
+msgid "Take /HIM/ in for rebirthing!"
+msgstr ""
+
+#. Id: 1532666-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rebirth Boss Slave Trader
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 1532666-Dialogue.mod:0
+msgid "/ARG/, skeleton!"
+msgstr ""
+

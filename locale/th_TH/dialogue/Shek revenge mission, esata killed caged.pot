@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56424-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 56424-Dialogue.mod:0
+msgid "You take our leader, deny her death in battle... You dishonour all Shek..."
+msgstr ""
+
+#. Id: 56425-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56424-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 56425-Dialogue.mod:0
+msgid "Vermin. You'll die a slow death for such insult..."
+msgstr ""
+
+#. Id: 56425-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56424-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#. Id: 56441-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56439-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 56425-Dialogue.mod:1 56441-Dialogue.mod:1
+msgid "You disgrace the Stone Golem, you disgrace us all!"
+msgstr ""
+
+#. Id: 56426-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (56425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 56426-Dialogue.mod:3
+msgid "Wrath!"
+msgstr ""
+
+#. Id: 56427-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 56427-Dialogue.mod:0
+msgid "The Stone Golem is dead to us. But by caging her, you disgrace us all..."
+msgstr ""
+
+#. Id: 56428-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56427-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 56428-Dialogue.mod:0
+msgid "Shame. For this, you die."
+msgstr ""
+
+#. Id: 56429-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 56429-Dialogue.mod:0
+msgid "The Stone Golem is shamed. But until you're dead in the /DIRT/ so are we all..."
+msgstr ""
+
+#. Id: 56431-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56429-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 56431-Dialogue.mod:0
+msgid "For this, you'll feel the true wrath of Kral..."
+msgstr ""
+
+#. Id: 56437-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 56437-Dialogue.mod:0
+msgid "Vengeance! You take the Stone Golem, you shame us all..."
+msgstr ""
+
+#. Id: 56441-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56439-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 56441-Dialogue.mod:0
+msgid "You take our kin, you feel the wrath of Kral!"
+msgstr ""
+
+#. Id: 58594-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 58594-Dialogue.mod:0
+msgid "Hm. The Stone Golem slayer in the flesh..."
+msgstr ""
+
+#. Id: 58596-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58594-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 58596-Dialogue.mod:0
+msgid "You're strong, /YOURNAME/. Reverence. But honor must be restored..."
+msgstr ""
+
+#. Id: 58597-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58596-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 58597-Dialogue.mod:0
+msgid "So fight! Show us those famous battle skills."
+msgstr ""
+
+#. Id: 58597-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (58596-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 58597-Dialogue.mod:1
+msgid "So, fight /MEUS/, Queen slayer!"
+msgstr ""
+
+#. Id: 58597-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (58596-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 58597-Dialogue.mod:2
+msgid "So, fight /MEUS/, slayer!"
+msgstr ""
+
+#. Id: 58598-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 58598-Dialogue.mod:0
+msgid "The Stone Golem is defeated. But until you're dead in the /DIRT/ so are we all..."
+msgstr ""
+

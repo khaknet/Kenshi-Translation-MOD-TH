@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15804-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ marked for death
+#: 15804-Dialogue.mod:4
+msgid "N- no! They're coming for me!"
+msgstr ""
+
+#. Id: 15804-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ marked for death
+#: 15804-Dialogue.mod:5
+msgid "Th- they're coming... No.. No... Noooo!"
+msgstr ""
+
+#. Id: 15804-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ marked for death
+#: 15804-Dialogue.mod:6
+msgid "Th- they're coming for me! They're coming for me!!!"
+msgstr ""
+
+#. Id: 15804-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ marked for death
+#: 15804-Dialogue.mod:8
+msgid "Help! Somebody help!"
+msgstr ""
+
+#. Id: 15804-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ marked for death
+#: 15804-Dialogue.mod:9
+msgid "No! I have to get out of here! Nooooo!"
+msgstr ""
+
+#. Id: 15804-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ marked for death
+#: 15804-Dialogue.mod:10
+msgid "/FUCK/! Help! Help!!!"
+msgstr ""
+
+#. Id: 15837-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15804-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ marked for death
+#: 15837-Dialogue.mod:1
+msgid "God save me!"
+msgstr ""
+
+#. Id: 15805-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15805-Dialogue.mod:1
+msgid "NO! NOOOO!"
+msgstr ""
+
+#. Id: 15805-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15805-Dialogue.mod:2
+msgid "NO! Go away! Leave me alone!"
+msgstr ""
+
+#. Id: 15805-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15805-Dialogue.mod:3
+msgid "No! Stay away from me! Noooo!"
+msgstr ""
+
+#. Id: 15808-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15807-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ marked for death
+#: 15808-Dialogue.mod:2
+msgid "Help me! Help!!!!"
+msgstr ""
+

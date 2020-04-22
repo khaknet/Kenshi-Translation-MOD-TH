@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 40505-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#. Id: 3919-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (3878-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking repeat target
+#. Id: 3313-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (3310-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: defeat squad
+#: 40505-gamedata.base:0 3919-gamedata.base:0 3313-gamedata.base:0
+msgid "....."
+msgstr ""
+
+#. Id: 40505-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#: 40505-gamedata.base:1
+msgid "*obedient silence*"
+msgstr "*เงียบเชื่อฟัง*"
+
+#. Id: 40505-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#: 40505-gamedata.base:2
+msgid "So... what is this? Am I free?"
+msgstr "แล้ว...นี่คืออะไร? ข้าเป็นอิสระแล้วรึ?"
+
+#. Id: 40505-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#: 40505-gamedata.base:3
+msgid "Am I free now?"
+msgstr "ตอนนี้ข้าเป็นอิสระแล้วรึ?"
+
+#. Id: 40505-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#: 40505-gamedata.base:4
+msgid "Am I your slave now or what?"
+msgstr "ตอนนี้ข้าเป็นทาสของท่านหรืออะไร?"
+
+#. Id: 40505-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#: 40505-gamedata.base:5
+msgid "???"
+msgstr ""
+
+#. Id: 40505-gamedata.base
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#: 40505-gamedata.base:6
+msgid "I'll... just follow you then?"
+msgstr "จะให้ข้า...ติดตามท่านไปนับจากนี้สินะ?"
+
+#. Id: 40509-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 40509-gamedata.base:0
+msgid "You bought my freedom? I owe you my life."
+msgstr "ท่านซื้ออิสรภาพของข้า? ข้าเป็นหนี้ชีวิตท่าน"
+
+#. Id: 40509-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 40509-gamedata.base:1
+msgid "Thanks for freeing me."
+msgstr "ขอบคุณที่มอบอิสระให้ข้า"
+
+#. Id: 40533-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#: 40533-gamedata.base:0
+msgid "What, I'm supposed to be grateful!? You're the /BASTARD/ who put me in here!"
+msgstr "ห๊า ข้าควรสำนึกขอบคุณรึ!? เจ้ามัน/BASTARD/ที่จับข้าเข้ามาในนี้!"
+
+#. Id: 40535-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (40533-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#: 40535-gamedata.base:0
+msgid "/FUCK/ you! I'm outta here!"
+msgstr "/FUCK/เจ้าสิ! ข้าไปล่ะ!"
+

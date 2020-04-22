@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13911-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13911-Escapes.mod:0
+msgid "You sneak! What are you doing?!"
+msgstr "เจ้าหลบ ๆ ซ่อน ๆ! กำลังทำอะไรอยู่หน่ะ?!"
+
+#. Id: 13911-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13911-Escapes.mod:1
+msgid "You sneak! What are you up to?!"
+msgstr "เจ้าทำลับ ๆ ล่อ ๆ! เจ้าทำอะไรอยู่?!"
+
+#. Id: 13911-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13911-Escapes.mod:2
+msgid "What are you up to, you sneak?!"
+msgstr "เจ้าทำอะไรของเจ้า, มัวแต่หลบ ๆ ซ่อน ๆ?!"
+
+#. Id: 13911-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13911-Escapes.mod:3
+msgid "What are you trying to do, sneak?!"
+msgstr "เจ้าคิดจะทำอะไร, มาทำลับ ๆ ล่อ ๆ แถวนี้?!"
+
+#. Id: 13911-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13911-Escapes.mod:4
+msgid "Sneak! Stop that!"
+msgstr "มาเดินลับ ๆ ล่อ ๆ! หยุดสักทีสิวะ!"
+
+#. Id: 13911-Escapes.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13911-Escapes.mod:5
+msgid "Sneak! Get away from there!"
+msgstr "มาทำลับ ๆ ล่อ ๆ! ออกไปเลยไป๊!"
+
+#. Id: 13911-Escapes.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13911-Escapes.mod:11
+msgid "Stop, thief!"
+msgstr "หยุดนะ หัวขโมย!"
+
+#. Id: 13911-Escapes.mod
+#. -- Index: 0.14
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13911-Escapes.mod:14
+msgid "Hey! Back away!"
+msgstr "เฮ้! กลับไป!"
+
+#. Id: 13912-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13911-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. Id: 15784-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13912-Escapes.mod:2 15784-Dialogue.mod:4
+msgid "Help, guards!"
+msgstr "ช่วยด้วย ยาม!"
+
+#. Id: 13912-Escapes.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13911-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13912-Escapes.mod:3
+msgid "Guards! Over here!"
+msgstr "ยาม! ตรงนี้!"
+
+#. Id: 13912-Escapes.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (13911-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13912-Escapes.mod:5
+msgid "Guards! Criminal!"
+msgstr "ยาม! คนร้าย!"
+
+#. Id: 13912-Escapes.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (13911-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13912-Escapes.mod:8
+msgid "Guards! Guards!"
+msgstr "ยาม! ยาม!"
+
+#. Id: 13912-Escapes.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (13911-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13912-Escapes.mod:9
+msgid "Somebody!"
+msgstr "ใครก็ได้!"
+
+#. Id: 50387-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13911-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: In town(s) of faction(s): Deadcat
+#: 50387-Dialogue.mod:1
+msgid "Over here, thief!"
+msgstr "ตรงนี้, ขโมย!"
+
+#. Id: 50387-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13911-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: In town(s) of faction(s): Deadcat
+#: 50387-Dialogue.mod:3
+msgid "I need help! Get /HIM/, somebody!"
+msgstr "ข้าต้องการคนช่วย! จับ/HIM/, ใครก็ได้!"
+
+#. Id: 50387-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (13911-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: In town(s) of faction(s): Deadcat
+#: 50387-Dialogue.mod:4
+msgid "Help, somebody, help!"
+msgstr "ช่วยด้วย ใครก็ได้ ช่วยที!"
+
+#. Id: 13913-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13913-Escapes.mod:0
+msgid "Hah?!"
+msgstr "ฮะ?"
+
+#. Id: 13913-Escapes.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13913-Escapes.mod:5
+msgid "Y- you?!"
+msgstr "จะ..เจ้า?!"
+
+#. Id: 13913-Escapes.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13913-Escapes.mod:6
+msgid "Th- this-?!"
+msgstr "นะ-นี่?"
+
+#. Id: 13913-Escapes.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13913-Escapes.mod:7
+msgid "Wh- wha?!"
+msgstr "อะ-อะไรวะ?"
+
+#. Id: 44523-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44523-Dialogue.mod:0
+msgid "Get out! Thief!"
+msgstr "ขโมย! ออกไป!"
+
+#. Id: 44523-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44523-Dialogue.mod:1
+msgid "Go away! Thief!"
+msgstr "ไปให้พ้น! ไอ้ขโมย!"
+
+#. Id: 44523-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44523-Dialogue.mod:3
+msgid "Get out of here! Go!"
+msgstr "ออกไปจากที่นี่! ไป!"
+
+#. Id: 44525-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=1, Tag: -1
+#: 44525-Dialogue.mod:0
+msgid "Get out of my shop! Thief!"
+msgstr "ขโมย! ออกไปจากร้านของข้าซะ!"
+
+#. Id: 44525-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=1, Tag: -1
+#: 44525-Dialogue.mod:1
+msgid "You're not welcome in my shop! Get out! Thief!"
+msgstr "เจ้าไม่ได้รับการต้อนรับเข้ามาในร้านของข้า! ออกไป! ไอ้ขโมย!"
+
+#. Id: 44525-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=1, Tag: -1
+#: 44525-Dialogue.mod:2
+msgid "Thieves aren't welcome! Get out!"
+msgstr "ไม่ต้อนรับขโมย! ออกไป!"
+
+#. Id: 44525-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=1, Tag: -1
+#: 44525-Dialogue.mod:3
+msgid "Leave! Get out!"
+msgstr "ไปให้พ้น! ออกไป!"
+
+#. Id: 44525-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=1, Tag: -1
+#: 44525-Dialogue.mod:4
+msgid "You sneak! Get out! Get out of here!"
+msgstr "ทำเป็นหลบ ๆ ซ่อน ๆ! มึงออกไปซะ! ออกไปจากที่นี่!"
+
+#. Id: 44525-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (15904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=1, Tag: -1
+#: 44525-Dialogue.mod:5
+msgid "Thief! Remove /HIM/! "
+msgstr "ขโมย! เอามันออกไป!"
+

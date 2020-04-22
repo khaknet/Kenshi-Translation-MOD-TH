@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18900-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 18900-gamedata.base:0
+msgid "Greetings!  Are you looking to trade?"
+msgstr "สวัสดี! ต้องการซื้อขายหรือ?"
+
+#. Id: 18901-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (18900-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 18901-gamedata.base:0
+msgid "I'm looking to buy some slaves"
+msgstr "ข้าคิดจะซื้อทาสซักหน่อย"
+
+#. Id: 18901-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (18900-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 18901-gamedata.base:1
+msgid "I'm here to buy"
+msgstr "ข้ามาซื้อสินค้า"
+
+#. Id: 18902-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (18900-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 18902-gamedata.base:0
+msgid "I'm looking to sell some slaves"
+msgstr "ข้ามาขายทาสซักหน่อย"
+
+#. Id: 18902-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (18900-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 18902-gamedata.base:1
+msgid "I'm here to sell"
+msgstr "ข้ามาขายสินค้า"
+
+#. Id: 1532007-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18902-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#. -- Condition: Who: ME, Condition: CARRYING_SOMEONE_TO_ENSLAVE=1, Tag: -1
+#: 1532007-Dialogue.mod:0
+msgid "Good! But come back in a few minutes..."
+msgstr "ดีเยี่ยม! แต่ไว้อีกสักเดี๋ยวค่อยกลับมานะ..."
+
+#. Id: 1532010-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1532007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 1532010-Dialogue.mod:0
+msgid "I'm just need to process this here slave first."
+msgstr "ข้าต้องจัดการทาสนี่ก่อน."
+
+#. Id: 18905-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (18900-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 18905-gamedata.base:0
+msgid "What are you trading?"
+msgstr "เจ้าขายอะไร?"
+
+#. Id: 18906-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (18905-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 18906-gamedata.base:0
+msgid "Slaves of course.  This is the slave shop."
+msgstr "ก็ต้องเป็นทาสแน่อยู่แล้ว ก็นี่มันร้านค้าทาสนี่."
+
+#. Id: 18907-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (18906-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 18907-gamedata.base:0
+msgid "Oh, of course it is."
+msgstr "โอ้ แน่นอนใช่สินะ."
+
+#. Id: 40521-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (18907-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40521-gamedata.base:0
+msgid "So? What do you want?"
+msgstr "แล้ว? เจ้าต้องการอะไรล่ะ?"
+
+#. Id: 40521-gamedata.base
+#. -- Index: 4.1
+#. -- Parent line: 3 (18907-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40521-gamedata.base:1
+msgid "What do you want then?"
+msgstr "เจ้าต้องการอะไรล่ะงั้น?"
+
+#. Id: 40515-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (18906-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 40515-gamedata.base:0
+msgid "You disgust me, Slaver!"
+msgstr "เจ้ามันน่ารังเกียจ พ่อค้าทาส!"
+
+#. Id: 40516-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (40515-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40516-gamedata.base:0
+msgid "Bloody loonies! /QUICKLAUGH/!"
+msgstr "พวกบ้าเลือดเรอะ! /QUICKLAUGH/!"
+
+#. Id: 40516-gamedata.base
+#. -- Index: 4.1
+#. -- Parent line: 3 (40515-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40516-gamedata.base:1
+msgid "/QUICKLAUGH/! Get a load of this looney!"
+msgstr "/QUICKLAUGH/! มองดูไอ้บ้านี่สิ!"
+
+#. Id: 40516-gamedata.base
+#. -- Index: 4.2
+#. -- Parent line: 3 (40515-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40516-gamedata.base:2
+msgid "/QUICKLAUGH/! Looney slave-huggers! How quaint!"
+msgstr "/QUICKLAUGH/! ไอ้พวกรักทาสประหลาด! น่าเอ็นดูจัง!"
+
+#. Id: 40517-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (40516-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40517-gamedata.base:0
+msgid "Where do you think all the iron comes from that makes your pretty sword? Eh?"
+msgstr "เจ้ารู้ไหมว่าเหล็กทั้งหลายแหล่ที่เอามาตีดาบเจ๋งๆ ของเจ้ามันมาจากไหนน่ะ? หา?"
+
+#. Id: 40518-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (40517-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40518-gamedata.base:0
+msgid "Who mines all the stone to make your building materials? Who farms your food?"
+msgstr "รู้ไหมใครมันขุดหินมาสร้างวัสดุก่อสร้างให้เจ้าน่ะ? รู้ไหมใครเป็นคนทำฟาร์มหาอาหารมาให้เจ้าน่ะ?"
+
+#. Id: 40519-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (40518-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40519-gamedata.base:0
+msgid "Where do you think the clothes on your back came from, eh?"
+msgstr "เจ้าคิดไหมว่าผ้าบนหลังของเจ้ามันมาจากไหนน่ะ? หา?"
+
+#. Id: 40523-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (40519-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40523-gamedata.base:0
+msgid "It's all from slave labour! But you don't care about any of that when you're shopping around for cheap gear do you? No, take it out on the poor slave traders!"
+msgstr "ทั้งหมดนั่นก็มาจากแรงงานทาส! แต่เจ้าไม่ได้สนใจมันเลยตอนที่เดินซื้อหาแต่อุปกรณ์ราคาถูกใช่ไหมล่ะ? ไม่ เอาตัวมันออกไปจากร้านค้าทาสจนๆ นี่!"
+
+#. Id: 40520-gamedata.base
+#. -- Index: 9.0
+#. -- Parent line: 8 (40523-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40520-gamedata.base:0
+msgid "/FUCKING/ hypocrite!"
+msgstr "/FUCKING/เสแสร้ง!"
+
+#. Id: 40524-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#. -- Condition: Who: TARGET, Condition: CARRYING_SOMEONE_TO_ENSLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: CARRYING_SOMEONE_TO_ENSLAVE=0, Tag: -1
+#: 40524-gamedata.base:0
+msgid "Watchya got there? A new slave? Give you 400 'cats for 'im."
+msgstr "หาอะไรรึ? ทาสใหม่เรอะ? จ่ายมา 400 Cats แล้วเอาไปเลย."
+
+#. Id: 40526-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (40524-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#. Id: 15104-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (15103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw medic 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 50318-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (50317-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 51765-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51764-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>1000, Tag: -1
+#. Id: 64118-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64116-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 1381-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (1377-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 52538-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47779-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#. Id: 53435-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (53421-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2300, Tag: -1
+#: 40526-gamedata.base:1 15104-Dialogue.mod:1 50318-Dialogue.mod:1 51765-Dialogue.mod:0 64118-Dialogue.mod:0 1381-gamedata.base:0 52538-Dialogue.mod:0 53435-Dialogue.mod:0
+msgid "Deal."
+msgstr "ตกลงl."
+
+#. Id: 40529-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (40526-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40529-gamedata.base:0
+msgid "Come to master"
+msgstr "ไปหานายท่านซะ"
+
+#. Id: 40530-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (40524-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 40530-gamedata.base:0
+msgid "This one's not for sale."
+msgstr "นั่นไม่ใช่ของขายนะ."
+

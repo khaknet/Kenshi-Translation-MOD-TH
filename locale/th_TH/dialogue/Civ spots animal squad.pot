@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 14140-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots animal squad
+#. -- Condition: Target Race(s): Bonedog
+#. Id: 14141-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots animal squad
+#. -- Condition: Target Race(s): Beak Thing
+#: 14140-Dialogue?(4).mod:0 14141-Dialogue?(4).mod:0
+msgid "/ARG/, /ANIMALTYPE/s!"
+msgstr ""
+
+#. Id: 14140-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots animal squad
+#. -- Condition: Target Race(s): Bonedog
+#. Id: 14141-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots animal squad
+#. -- Condition: Target Race(s): Beak Thing
+#: 14140-Dialogue?(4).mod:1 14141-Dialogue?(4).mod:1
+msgid "/AAH/, /ANIMALTYPE/s!"
+msgstr ""
+
+#. Id: 14142-Dialogue (4).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14141-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots animal squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 41441-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (41434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civ sees skeleton
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 14142-Dialogue?(4).mod:2 41441-Dialogue.mod:4
+msgid "Run for your lives!"
+msgstr ""
+
+#. Id: 15886-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14141-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots animal squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 12754-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 15886-Dialogue.mod:0 12754-Dialogue?(11)?(2).mod:3
+msgid "Watch out!"
+msgstr ""
+

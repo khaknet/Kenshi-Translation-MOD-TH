@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5071-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#: 5071-gamedata.base:0
+msgid "What is it? Need to hire a sword?"
+msgstr "มีอะไรหรอ? ต้องการจ้างนักดาบใช่ไหม?"
+
+#. Id: 5072-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5071-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#: 5072-gamedata.base:0
+msgid "I need an armed guard."
+msgstr "ข้าต้องการคนคุ้มกันติดอาวุธ"
+
+#. Id: 5072-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (5071-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#: 5072-gamedata.base:1
+msgid "I need protection."
+msgstr "ข้าต้องการคนคุ้มครอง"
+
+#. Id: 5072-gamedata.base
+#. -- Index: 1.2
+#. -- Parent line: 0 (5071-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#: 5072-gamedata.base:2
+msgid "I need help."
+msgstr "ข้าต้องการความช่วยเหลือ"
+
+#. Id: 5073-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5072-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#: 5073-gamedata.base:0
+msgid "I'm not in the best of health right now, you best find somebody else for this job."
+msgstr "ตอนนี้ข้ามีสุขภาพไม่ดีนัก, เจ้าควรไปหาคนอื่นมาทำงานนี้แทนเถอะ."
+
+#. Id: 5075-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5072-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#: 5075-gamedata.base:0
+msgid "How long do you need /MEUS/ for? It's 2000 cats per day."
+msgstr "เจ้าต้องการ/MEUS/นานแค่ไหน? ข้าคิด 2,000 cats ต่อวัน."
+
+#. Id: 5075-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (5072-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#: 5075-gamedata.base:1
+msgid "It'll cost you 2000 cats per day."
+msgstr "ข้าคิดราคา 2000 cats ต่อวัน."
+
+#. Id: 5076-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5075-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>500, Tag: -1
+#: 5076-gamedata.base:0
+msgid "Just a 6 hour job [500 cats]"
+msgstr "แค่ 6 ชั่วโมง [500 cats]"
+
+#. Id: 5089-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (5076-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#: 5089-gamedata.base:0
+msgid "Okay /IWEARE/ in.  /IWE/'ll follow you wherever, lead on."
+msgstr "ตกลง /IWEARE/ไปกันเถอะ. /IWE/จะติดตามเจ้าไปทุกที่, นำไปสิ"
+
+#. Id: 5089-gamedata.base
+#. -- Index: 4.1
+#. -- Parent line: 3 (5076-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#: 5089-gamedata.base:1
+msgid "Okay, you've got yourself a bodyguard."
+msgstr "ตกลง, เจ้าได้รับคนคุ้มกันเจ้าแล้ว"
+
+#. Id: 5077-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5075-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>1000, Tag: -1
+#: 5077-gamedata.base:0
+msgid "Half a day [1000 cats]"
+msgstr "ครึ่งวัน [1000 cats]"
+
+#. Id: 5078-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5075-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>2000, Tag: -1
+#: 5078-gamedata.base:0
+msgid "One day [2000 cats]"
+msgstr "1 วัน [2000 cats]"
+
+#. Id: 5079-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5075-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>4000, Tag: -1
+#: 5079-gamedata.base:0
+msgid "Two days [4000 cats]"
+msgstr "2 วัน [4000 cats]"
+
+#. Id: 5080-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5075-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#: 5080-gamedata.base:0
+msgid "Actually never mind."
+msgstr "อันที่จริง.. ไม่ดีกว่า."
+
+#. Id: 5093-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (5080-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#. Id: 13182-Escapes.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (13181-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. Id: 5372-Escapes.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (5369-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged neighbour talk to pt 2
+#: 5093-gamedata.base:0 13182-Escapes.mod:0 5372-Escapes.mod:0
+msgid "Suit yourself"
+msgstr "ก็แล้วแต่"
+
+#. Id: 5094-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (5071-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#. Id: 52852-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (52849-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#. Id: 5656-Escapes.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (5652-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. Id: 5195-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (5193-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#: 5094-gamedata.base:1 52852-rebirth.mod:1 5656-Escapes.mod:2 5195-gamedata.base:1
+msgid "No"
+msgstr "ไม่"
+

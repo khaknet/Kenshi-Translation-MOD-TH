@@ -1,0 +1,480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 98453-__March 18.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 98453-__March?18.mod:2
+msgid "Want somethin'?"
+msgstr "ต้องการอะไร?"
+
+#. Id: 98453-__March 18.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 98453-__March?18.mod:4
+msgid "Looking for a cannibal hunter?"
+msgstr "กำลังมองหานักล่ามนุษย์กินคนอยู่หรอ?"
+
+#. Id: 98454-__March 18.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98453-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#: 98454-__March?18.mod:0
+msgid "My friend's been captured by cannibals!"
+msgstr "เพื่อนของข้าถูกจับ โดยพวกมนุษย์กินคน!"
+
+#. Id: 98457-__March 18.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98454-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98457-__March?18.mod:0
+msgid "Alright, should be able to help.. if they're still alive. 3000 Cats per day."
+msgstr "เอาหล่ะ,น่าจะยังพอช่วยได้.. ถ้าพวกเขายังมีชีวิตอยู่. 3000 Cats ต่อวัน."
+
+#. Id: 98458-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98457-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 98512-__March 18.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98511-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 44792-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44784-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#. Id: 5471-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5469-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 98458-__March?18.mod:0 98512-__March?18.mod:0 44792-Dialogue.mod:0 5471-gamedata.base:0
+msgid "1 day"
+msgstr "1 วัน"
+
+#. Id: 98463-__March 18.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98458-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98527-__March 18.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98521-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98463-__March?18.mod:0 98527-__March?18.mod:0
+msgid "Okay, /YOURNAME/. Let's get your friend out of there."
+msgstr "เอาหล่ะ, /YOURNAME/. ไปช่วยเพื่อนข้าออกจากที่นั้นกัน."
+
+#. Id: 98463-__March 18.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (98458-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98527-__March 18.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (98521-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98463-__March?18.mod:1 98527-__March?18.mod:1
+msgid "Here's hoping we reach your friend before meal time..."
+msgstr "หวังว่าเราจะช่วยเพื่อนของเจ้าได้ก่อน ที่พวกมันจะหิวก็แล้วกัน..."
+
+#. Id: 98463-__March 18.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (98458-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98527-__March 18.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (98521-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98463-__March?18.mod:2 98527-__March?18.mod:2
+msgid "Let's hope your friend can hang on a while longer..."
+msgstr "ภาวนาให้เพื่อนเจ้ายังอึดอยู่ได้อีกนานนะ..."
+
+#. Id: 98463-__March 18.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (98458-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98527-__March 18.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (98521-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98463-__March?18.mod:3 98527-__March?18.mod:3
+msgid "We'll get 'em outta there, /YOURNAME/. And if we don't, we'll at least kill the /INSULT/s that stuck 'em in a pot."
+msgstr "เราจะพาพวกเขาออกมาให้เอง /YOURNAME/ ต่อให้ทำไม่ได้เราก็จะฆ่าพวก/INSULT/ให้ติดหม้อพวกมันไปเลย"
+
+#. Id: 98464-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98463-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98529-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98527-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98464-__March?18.mod:0 98529-__March?18.mod:0
+msgid "Lead the way."
+msgstr "นำทางไปเลย."
+
+#. Id: 98464-__March 18.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (98463-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98529-__March 18.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (98527-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98464-__March?18.mod:1 98529-__March?18.mod:1
+msgid "Take us to their camp."
+msgstr "พาเราไปที่ค่าย ของพวกมัน."
+
+#. Id: 98464-__March 18.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (98463-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98529-__March 18.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (98527-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98464-__March?18.mod:2 98529-__March?18.mod:2
+msgid "Take us to your friend."
+msgstr "พาเราไปหาเพื่อนของเจ้า."
+
+#. Id: 98521-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98457-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 98469-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98468-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 98523-__March 18.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98511-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 44793-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44784-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#. Id: 44787-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44786-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#. Id: 5473-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5469-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#. Id: 5477-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5475-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 98521-__March?18.mod:0 98469-__March?18.mod:0 98523-__March?18.mod:0 44793-Dialogue.mod:0 44787-Dialogue.mod:0 5473-gamedata.base:0 5477-gamedata.base:0
+msgid "2 days"
+msgstr "2 วัน"
+
+#. Id: 98461-__March 18.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98459-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98461-__March?18.mod:0
+msgid "Condolences, /OUTLANDER/. High risk work demands a high price tag..."
+msgstr "เสียใจด้วย, /OUTLANDER/. งานที่มีความเสี่ยงสูง ก็ต้องจ่ายราคาสูงเช่นกัน..."
+
+#. Id: 98462-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98461-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98462-__March?18.mod:0
+msgid "Good luck to you."
+msgstr "ขอให้เจ้าโชคดี."
+
+#. Id: 98460-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98457-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98514-__March 18.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98511-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. Id: 55735-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55729-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Harmothoe trade
+#. Id: 50233-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50223-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 4
+#: 98460-__March?18.mod:0 98514-__March?18.mod:0 55735-Dialogue.mod:0 50233-Dialogue.mod:0
+msgid "On second thought, nevermind."
+msgstr "มาคิดดูอีกที, ไม่ดีกว่า."
+
+#. Id: 98455-__March 18.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98453-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#: 98455-__March?18.mod:0
+msgid "You hunt cannibals?"
+msgstr "เจ้าล่าพวกมนุษย์กินคนหรอ?"
+
+#. Id: 98466-__March 18.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98455-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98466-__March?18.mod:0
+msgid "Yeah. Got a cannibal problem that needs taking care of?"
+msgstr "ใช่แล้ว. มีปัญหากับพวกมนุษย์กินคน ที่ต้องจัดการหรอ?"
+
+#. Id: 98467-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98466-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#: 98467-__March?18.mod:0
+msgid "I do, my outpost is under attack."
+msgstr "ใช่, ด่านหน้าของข้าถูกโจมตี."
+
+#. Id: 98468-__March 18.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98467-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98468-__March?18.mod:0
+msgid "Alright. Standard rate is 3000 Cats for 2 days. Good to go ahead?"
+msgstr "เอาละ. อัตรามาตรฐานคือ 3000 Cats สำหรับ 2วัน. เพื่อจะเข้าร่วม?"
+
+#. Id: 98471-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98468-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 44788-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44786-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#. Id: 5478-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5475-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#: 98471-__March?18.mod:0 44788-Dialogue.mod:0 5478-gamedata.base:0
+msgid "4 days"
+msgstr "4 วัน"
+
+#. Id: 98473-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98468-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>9000, Tag: -1
+#. Id: 44789-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44786-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 5479-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5475-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 98473-__March?18.mod:0 44789-Dialogue.mod:0 5479-gamedata.base:0
+msgid "6 days"
+msgstr "6 วัน"
+
+#. Id: 98475-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98468-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>12000, Tag: -1
+#. Id: 44790-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44786-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>8000, Tag: -1
+#. Id: 5480-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5475-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>8000, Tag: -1
+#: 98475-__March?18.mod:0 44790-Dialogue.mod:0 5480-gamedata.base:0
+msgid "8 days"
+msgstr "8 วัน"
+
+#. Id: 98509-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98466-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#: 98509-__March?18.mod:0
+msgid "I want revenge."
+msgstr "ข้าต้องการแก้แค้น."
+
+#. Id: 98510-__March 18.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98509-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98510-__March?18.mod:0
+msgid "Don't we all."
+msgstr "ใครล่ะไม่อยาก"
+
+#. Id: 98511-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98510-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98511-__March?18.mod:0
+msgid "I can help you. The cost is 3000 Cats per day."
+msgstr "ข้าช่วยเจ้าได้. จ่ายมา 3000 Cats ต่อวัน."
+
+#. Id: 98517-__March 18.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (98513-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98517-__March?18.mod:0
+msgid "Too bad. High risk work demands a high price tag..."
+msgstr "เลวร้ายเกินไป. ง่านนี้เสี่ยงมาก ก็ต้องจ่ายมากเช่นกัน..."
+
+#. Id: 98518-__March 18.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (98517-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98518-__March?18.mod:0
+msgid "Don't go getting killed in the cannibal plains."
+msgstr "อย่าไปถูกฆ่าในถิ่นของพวกมนุษย์กินคนเลย."
+
+#. Id: 98483-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98466-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#: 98483-__March?18.mod:0
+msgid "Nope. Just curious."
+msgstr "ปล่าว. แค่อยากรู้อยากเห็น."
+
+#. Id: 98498-__March 18.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98498-__March?18.mod:0
+msgid "You look like shit."
+msgstr "เจ้าดูแย่นะ."
+
+#. Id: 98498-__March 18.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98498-__March?18.mod:1
+msgid "You look like you've seen better days."
+msgstr "ดูเหมือนเจ้าเคยดูดีกว่านี้เยอะ"
+
+#. Id: 98503-__March 18.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=0, Tag: -1
+#: 98503-__March?18.mod:1
+msgid "Again?"
+msgstr "อีกแล้วหรอ?"
+
+#. Id: 98503-__March 18.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=0, Tag: -1
+#. Id: 18163-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 5000
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 98503-__March?18.mod:2 18163-Recruits?Dialogue.mod:1
+msgid "What is it this time?"
+msgstr "คราวนี้อะไรอีกหล่ะ?"
+

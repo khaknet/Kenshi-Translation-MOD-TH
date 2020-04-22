@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 16674-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mean freed
+#. Id: 15742-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed by neutral military
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 7063-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7061-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#: 16674-Dialogue.mod:2 15742-Dialogue.mod:0 7063-Dialogue.mod:2
+msgid "Good job"
+msgstr ""
+
+#. Id: 16675-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16674-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean freed
+#: 16675-Dialogue.mod:0
+msgid "I'm getting the hell out of here"
+msgstr ""
+
+#. Id: 16675-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16674-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean freed
+#: 16675-Dialogue.mod:1
+msgid "I'm getting the hell out of this place"
+msgstr ""
+
+#. Id: 16675-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16674-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean freed
+#: 16675-Dialogue.mod:2
+msgid "Now I run like hell"
+msgstr ""
+

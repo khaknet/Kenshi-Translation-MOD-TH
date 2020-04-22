@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51752-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shinobi guild plastic surgeon
+#. -- Condition: Who: ME, Condition: FACTION_RANK=0, Tag: -1
+#: 51752-rebirth.mod:0
+msgid "I don't know you."
+msgstr "ข้าไม่รู้จักเจ้า."
+
+#. Id: 51754-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shinobi guild plastic surgeon
+#. -- Condition: Who: ME, Condition: FACTION_RANK>0, Tag: -1
+#: 51754-rebirth.mod:0
+msgid "Looking to change your face? Fix up your hair?"
+msgstr "คิดจะเปลี่ยนใบหน้า? แก้ทรงผมรึ?"
+
+#. Id: 51754-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shinobi guild plastic surgeon
+#. -- Condition: Who: ME, Condition: FACTION_RANK>0, Tag: -1
+#: 51754-rebirth.mod:1
+msgid "Need your face changed?"
+msgstr "อยากเปลี่ยนใบหน้าไหม?"
+
+#. Id: 51756-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51754-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shinobi guild plastic surgeon
+#: 51756-rebirth.mod:0
+msgid "Yes, help me out"
+msgstr "แน่นอน. ช่วยทีนะ"
+
+#. Id: 51756-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (51754-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shinobi guild plastic surgeon
+#: 51756-rebirth.mod:1
+msgid "Aye, give it a go"
+msgstr "เอาสิ. ลองทำดู"
+
+#. Id: 51756-rebirth.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (51754-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shinobi guild plastic surgeon
+#: 51756-rebirth.mod:2
+msgid "Do it."
+msgstr "เอาเลย."
+

@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50791-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 50791-Dialogue.mod:0
+msgid "You there, looking for work? I'm leaving on an expedition at dawn tomorrow, I'll need a strong back to carry my equipment. You'll get 3000 Cats upfront and you'll be fed well during your service, how about it?"
+msgstr "เจ้าที่อยู่ตรงนั้นน่ะ หางานอยู่รึ? ข้าจะออกเดินทางสำรวจเช้ามืดวันพรุ่งนี้แหนะ เลยต้องการแรงงานที่แข็งแรงมาแบกของหน่อย ข้าจะจ่าย 3000 cats ล่วงหน้า แล้วก็เลี้ยงอาหารเจ้าตลอดการจ้างงานเลย สนใจมั้ย?"
+
+#. Id: 50792-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50791-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50792-Dialogue.mod:0
+msgid "I was about to ask you the same thing..."
+msgstr "ข้าก็จะถามเจ้าแบบนั้นเหมือนกัน..."
+
+#. Id: 50796-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50792-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50796-Dialogue.mod:0
+msgid "Hah! You, an adventurer!? An amateur like you wouldn't last ten minutes navigating uncharted lands! The winged beak ogres would eat you alive! And that's if the cannibals didn't make you run home pissing your pants first, hah!"
+msgstr "ฮ่า! เจ้าเป็นนักผจญภัยเรอะ!? พวกมือสมัครเล่นแบบเจ้าง่อยกระรอกภายใน 10 นาทีหลังเดินทางเข้าไปในดินแดนที่ยังไม่มีใครรู้จักแหง ๆ! พวก winged beak ogres จะกินเจ้าทั้งเป็น! ถ้าพวกมนุษย์กินคนไม่ไล่ตามจนเจ้าฉี่ราดเผ่นกลับบ้านซะก่อนน่ะนะ!"
+
+#. Id: 50798-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50796-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50798-Dialogue.mod:0
+msgid "Beak ogres? Already killed twenty of 'em. What of it."
+msgstr "Beak ogres เหรอ? ข้าจัดการไป 20 กว่าตัวแล้ว มันทำไมเหรอ."
+
+#. Id: 50802-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50798-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50802-Dialogue.mod:0
+msgid "That's nothing! I've seen and slaughtered fifty of them in my time. Lie harder next time, amateur..."
+msgstr "นั่นเรื่องจิ๊บ ๆ! ตลอดชีวิตของข้า ข้าสอยมันมา 50 กว่าตัวแล้ว ครั้งหน้าโกหกให้เนียนหน่อยนะ เจ้ามือสมัครเล่น..."
+
+#. Id: 50803-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50803-Dialogue.mod:0
+msgid "Call me an amateur when you kill your first flame behemoth, sweetie (Walk away)"
+msgstr "ไว้เจ้าจัดการ flame behemoth ตัวแรกให้ได้ก่อน ค่อยเรียกข้าว่ามือสมัครเล่นนะ หนูน้อย (เดินจากไป) "
+
+#. Id: 50804-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50803-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50804-Dialogue.mod:0
+msgid "Flame behe...? Uh, right, yeah, killed ten of them already. "
+msgstr "Flame behe...? เอ่อ ข้าจัดการไปเป็น 10 ตัวแล้วนะ."
+
+#. Id: 50805-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50805-Dialogue.mod:0
+msgid "To hell with this. I've got more important things to do."
+msgstr "เรื่องโง่เง่าอะไรกันนี่ ข้ามีเรื่องสำคัญกว่าที่ต้องจัดการนะ."
+
+#. Id: 50806-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50806-Dialogue.mod:0
+msgid "Dogshit. You couldn't even slaughter a swamp raptor with that rusty sword."
+msgstr "ไอ้ขี้หมาเอ๊ย ดาบสนิมเขรอะเล่มนี้เชือดนกล่าเนื้อใน swamp ไม่ได้ด้วยซ้ำ."
+
+#. Id: 50807-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50806-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50807-Dialogue.mod:0
+msgid "Any adventurer would know that a worn sword is the sign of good use! Look, unless you're here to work as my pack gar, I've no interest in wasting my breath on amateurs..."
+msgstr "เหล่านักผจญภัยรู้เสมอล่ะ ว่าดาบโทรม ๆ คือดาบที่ใช้งานได้ดี! เฮ้ ถ้าเจ้าไม่ได้จะสมัครเป็นเบ๊แบกของของข้าละก็ ข้าไม่มีเวลามาคุยกับพวกมือสมัครเล่นหรอกนะ..."
+
+#. Id: 50808-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50807-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#. Id: 50817-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50814-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50808-Dialogue.mod:0 50817-Dialogue.mod:0
+msgid "Bar keep! Bring me another rum, I'm out."
+msgstr "คนคุมบาร์! เหล้ารัมข้าหมดแล้ว เอามาเพิ่มด้วย."
+
+#. Id: 50797-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50796-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50797-Dialogue.mod:0
+msgid "Winged beak ogres? You're full of dogshit."
+msgstr "Winged beak ogres เหรอ? เจ้านี่ไร้สาระเป็นบ้าเลย."
+
+#. Id: 50801-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50797-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50801-Dialogue.mod:0
+msgid "Travel far enough and you'll see them alright. Look like gutters but bigger, and with wings too. Trick is to pull your shit together, see, they're blind but they smell fear. Surviving an encounter with one of those is the true test of a tech hunter with balls of iron..."
+msgstr "ถ้าเดินทางไปไกลระดับหนึ่ง เจ้าจะเห็นพวกมันเองแหละ เหมือนรางน้ำ แต่ใหญ่กว่า มันมีปีกด้วย เจ้าต้องมีสติหน่อยเพราะพวกมันตาบอด แต่จมูกไวกับกลิ่นความกลัวมาก ถ้าเจ้ารอดมาจากการเผชิญหน้านั้นได้คือการพิสูจน์ว่าเจ้าเป็น tech hunter ที่กล้าหาญ..."
+
+#. Id: 50811-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50801-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50811-Dialogue.mod:0
+msgid "Interesting, where can I find these?"
+msgstr "น่าสนใจแฮะ ข้าจะเจอพวกมันได้ที่ไหน?"
+
+#. Id: 50814-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50811-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50814-Dialogue.mod:0
+msgid "To the north west, a black valley filled with ruined cities. It's at least a month's journey though, and the path is infested with bandits, cannibals and every kind of wild beast imaginable. You'd be lucky just to make it there in one piece, take my advice and go back home, /OUTLANDER/. "
+msgstr "ไปทางตะวันตกเฉียงเหนือ หุบเขาทมิฬที่เต็มไปด้วยซากเมืองร้าง คงใช้เวลาเดินทางอย่างน้อยเดือนหนึ่งได้ แถมตลอดทางก็มีแต่โจร มนุษย์กินคน แล้วก็พวกสัตว์ประหลาดทุกอย่างที่เจ้าจะสามารถจินตนาการได้เต็มไปหมด ถ้าเจ้าไปถึงที่นั่นโดยยังมีสภาพสมบูรณ์ได้ก็ถือว่าโชคดีมากแล้ว เชื่อข้าเถอะ กลับบ้านไปซะ /OUTLANDER/"
+
+#. Id: 50812-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50801-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50812-Dialogue.mod:0
+msgid "Ha, right, whatever you say. Maybe lay off the sauce for a while, eh?"
+msgstr "ฮ่า เอาที่เจ้าสบายใจเลย เจ้าน่าจะหยุดกินเหล้าซักพักนะ ว่ามั้ย?"
+
+#. Id: 50815-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50812-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50815-Dialogue.mod:0
+msgid "Look, unless you're here to work as my pack gar, I've no interest in wasting my breath on amateurs..."
+msgstr "ถ้าเจ้าไม่ได้จะสมัครเป็นเบ๊แบกของของข้าละก็ ข้าไม่มีเวลามาคุยกับพวกมือสมัครเล่นหรอกนะ..."
+
+#. Id: 50816-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50801-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50816-Dialogue.mod:0
+msgid "I'm leaving. I don't have time for your nonsense stories."
+msgstr "ข้าไปล่ะ ไม่มีเวลามาฟังเรื่องไร้สาระของเจ้าแล้ว."
+
+#. Id: 50799-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50796-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#. Id: 9452-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (9448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 50799-Dialogue.mod:0 9452-Dialogue.mod:2
+msgid "I don't have time for this..."
+msgstr "ข้าไม่มีเวลาจริง ๆ นะ"
+
+#. Id: 50800-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50799-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50800-Dialogue.mod:0
+msgid "Hah, thinks /HEIS/ an adventurer..."
+msgstr "ฮ่า /HEIS/ คิดว่าตัวเองเป็นนักผจญภัยล่ะ..."
+
+#. Id: 50793-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50791-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50793-Dialogue.mod:0
+msgid "What?! That's my line!"
+msgstr "เฮ้ นั่นมันคำพูดของข้านะ!"
+
+#. Id: 50794-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50791-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50794-Dialogue.mod:0
+msgid "Do I look like a goddamn pack gar to you?"
+msgstr "ข้าดูเหมือนเบ๊แบกของของเจ้าตรงไหนหา?"
+
+#. Id: 50810-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50794-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50810-Dialogue.mod:0
+msgid "Well, you certainly don't look like an adventurer, so why else would you be at World's End? An amateur like you wouldn't last ten minutes navigating uncharted lands! The winged beak ogres would eat you alive, and that's if the cannibals didn't make you run home pissing your pants first, hah!"
+msgstr "อืม เจ้าดูไม่เหมือนนักผจญภัยเลยนะ เจ้าจะไปที่ World's End ทำไมหรือ? เจ้าคงง่อยกระรอกภายใน 10 นาทีหลังเดินทางเข้าไปในดินแดนที่ยังไม่มีใครรู้จักแหง ๆ! พวก winged beak ogres จะกินเจ้าทั้งเป็น! ถ้าพวกมนุษย์กินคนไม่ไล่ตามจนเจ้าฉี่ราดเผ่นกลับบ้านซะก่อนน่ะนะ!"
+
+#. Id: 50809-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50795-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50809-Dialogue.mod:0
+msgid "Psh, fine, be like that!"
+msgstr "ฮึ ตามใจ เอาที่เจ้าสบายใจเลย!"
+

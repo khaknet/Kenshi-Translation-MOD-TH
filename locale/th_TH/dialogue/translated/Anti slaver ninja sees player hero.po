@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1533874-__SE world states.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. Id: 1534420-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534421-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534422-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534423-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534424-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1533888-__SE world states.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533887-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero (join)
+#: 1533874-__SE?world?states.mod:0 1534420-__Fixes.mod:0 1534421-__Fixes.mod:0 1534422-__Fixes.mod:0 1534423-__Fixes.mod:0 1534424-__Fixes.mod:0 1533888-__SE?world?states.mod:0
+msgid "I could use some action with the legend /HIMSELF/."
+msgstr "ข้าหวังจะมีส่วนร่วมกับ /HIMSELF/ ในตำนานนะ"
+
+#. Id: 1533874-__SE world states.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. Id: 1534420-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534421-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534422-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534423-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534424-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1533888-__SE world states.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (1533887-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero (join)
+#: 1533874-__SE?world?states.mod:1 1534420-__Fixes.mod:1 1534421-__Fixes.mod:1 1534422-__Fixes.mod:1 1534423-__Fixes.mod:1 1534424-__Fixes.mod:1 1533888-__SE?world?states.mod:1
+msgid "I'm itching for some slaver kicking.."
+msgstr "ข้าคันไม้คันมืออยากเตะพ่อค้าทาสแฮะ..."
+

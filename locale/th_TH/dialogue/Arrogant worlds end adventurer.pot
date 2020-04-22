@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50791-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 50791-Dialogue.mod:0
+msgid "You there, looking for work? I'm leaving on an expedition at dawn tomorrow, I'll need a strong back to carry my equipment. You'll get 3000 Cats upfront and you'll be fed well during your service, how about it?"
+msgstr ""
+
+#. Id: 50792-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50791-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50792-Dialogue.mod:0
+msgid "I was about to ask you the same thing..."
+msgstr ""
+
+#. Id: 50796-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50792-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50796-Dialogue.mod:0
+msgid "Hah! You, an adventurer!? An amateur like you wouldn't last ten minutes navigating uncharted lands! The winged beak ogres would eat you alive! And that's if the cannibals didn't make you run home pissing your pants first, hah!"
+msgstr ""
+
+#. Id: 50798-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50796-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50798-Dialogue.mod:0
+msgid "Beak ogres? Already killed twenty of 'em. What of it."
+msgstr ""
+
+#. Id: 50802-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50798-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50802-Dialogue.mod:0
+msgid "That's nothing! I've seen and slaughtered fifty of them in my time. Lie harder next time, amateur..."
+msgstr ""
+
+#. Id: 50803-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50803-Dialogue.mod:0
+msgid "Call me an amateur when you kill your first flame behemoth, sweetie (Walk away)"
+msgstr ""
+
+#. Id: 50804-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50803-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50804-Dialogue.mod:0
+msgid "Flame behe...? Uh, right, yeah, killed ten of them already. "
+msgstr ""
+
+#. Id: 50805-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50805-Dialogue.mod:0
+msgid "To hell with this. I've got more important things to do."
+msgstr ""
+
+#. Id: 50806-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50806-Dialogue.mod:0
+msgid "Dogshit. You couldn't even slaughter a swamp raptor with that rusty sword."
+msgstr ""
+
+#. Id: 50807-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50806-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50807-Dialogue.mod:0
+msgid "Any adventurer would know that a worn sword is the sign of good use! Look, unless you're here to work as my pack gar, I've no interest in wasting my breath on amateurs..."
+msgstr ""
+
+#. Id: 50808-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50807-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#. Id: 50817-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50814-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50808-Dialogue.mod:0 50817-Dialogue.mod:0
+msgid "Bar keep! Bring me another rum, I'm out."
+msgstr ""
+
+#. Id: 50797-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50796-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50797-Dialogue.mod:0
+msgid "Winged beak ogres? You're full of dogshit."
+msgstr ""
+
+#. Id: 50801-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50797-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50801-Dialogue.mod:0
+msgid "Travel far enough and you'll see them alright. Look like gutters but bigger, and with wings too. Trick is to pull your shit together, see, they're blind but they smell fear. Surviving an encounter with one of those is the true test of a tech hunter with balls of iron..."
+msgstr ""
+
+#. Id: 50811-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50801-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50811-Dialogue.mod:0
+msgid "Interesting, where can I find these?"
+msgstr ""
+
+#. Id: 50814-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50811-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50814-Dialogue.mod:0
+msgid "To the north west, a black valley filled with ruined cities. It's at least a month's journey though, and the path is infested with bandits, cannibals and every kind of wild beast imaginable. You'd be lucky just to make it there in one piece, take my advice and go back home, /OUTLANDER/. "
+msgstr ""
+
+#. Id: 50812-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50801-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50812-Dialogue.mod:0
+msgid "Ha, right, whatever you say. Maybe lay off the sauce for a while, eh?"
+msgstr ""
+
+#. Id: 50815-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50812-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50815-Dialogue.mod:0
+msgid "Look, unless you're here to work as my pack gar, I've no interest in wasting my breath on amateurs..."
+msgstr ""
+
+#. Id: 50816-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50801-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50816-Dialogue.mod:0
+msgid "I'm leaving. I don't have time for your nonsense stories."
+msgstr ""
+
+#. Id: 50799-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50796-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#. Id: 9452-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (9448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 50799-Dialogue.mod:0 9452-Dialogue.mod:2
+msgid "I don't have time for this..."
+msgstr ""
+
+#. Id: 50800-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50799-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50800-Dialogue.mod:0
+msgid "Hah, thinks /HEIS/ an adventurer..."
+msgstr ""
+
+#. Id: 50793-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50791-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50793-Dialogue.mod:0
+msgid "What?! That's my line!"
+msgstr ""
+
+#. Id: 50794-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50791-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50794-Dialogue.mod:0
+msgid "Do I look like a goddamn pack gar to you?"
+msgstr ""
+
+#. Id: 50810-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50794-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50810-Dialogue.mod:0
+msgid "Well, you certainly don't look like an adventurer, so why else would you be at World's End? An amateur like you wouldn't last ten minutes navigating uncharted lands! The winged beak ogres would eat you alive, and that's if the cannibals didn't make you run home pissing your pants first, hah!"
+msgstr ""
+
+#. Id: 50809-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50795-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50809-Dialogue.mod:0
+msgid "Psh, fine, be like that!"
+msgstr ""
+

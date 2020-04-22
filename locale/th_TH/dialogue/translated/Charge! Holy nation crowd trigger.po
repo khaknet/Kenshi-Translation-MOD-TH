@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 61835-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Charge! Holy nation crowd trigger
+#. Id: 59176-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59175-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor revenge for high inquisitor attack
+#: 61835-Dialogue.mod:3 59176-Dialogue.mod:0
+msgid "Light of Okran, guide my sword!"
+msgstr "แสงแห่ง Okran, จักชี้ทางให้แก่ดาบของข้า!"
+

@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 6900-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. Id: 6904-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 6900-Dialogue.mod:2 6904-Dialogue.mod:2
+msgid "You're gonna be okay"
+msgstr ""
+
+#. Id: 6900-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. Id: 6904-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 6900-Dialogue.mod:3 6904-Dialogue.mod:3
+msgid "You'll make it"
+msgstr ""
+
+#. Id: 6900-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. Id: 6904-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 6900-Dialogue.mod:5 6904-Dialogue.mod:5
+msgid "I gotcha"
+msgstr ""
+
+#. Id: 6900-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. Id: 6904-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 8701-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bo unlocked
+#. Id: 7063-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (7061-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#: 6900-Dialogue.mod:6 6904-Dialogue.mod:6 8701-Dialogue.mod:0 7063-Dialogue.mod:5
+msgid "Easy now"
+msgstr ""
+
+#. Id: 6900-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. Id: 6904-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 5607-Escapes.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (5606-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#: 6900-Dialogue.mod:7 6904-Dialogue.mod:7 5607-Escapes.mod:2
+msgid "Here we go"
+msgstr ""
+
+#. Id: 6900-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. Id: 6904-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 6900-Dialogue.mod:8 6904-Dialogue.mod:8
+msgid "Don't worry, I ain't gonna let you die"
+msgstr ""
+
+#. Id: 6901-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6901-Dialogue.mod:0
+msgid "This is the least I can do after you saved MY life"
+msgstr ""
+
+#. Id: 6901-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6901-Dialogue.mod:1
+msgid "I know you, you saved my life once. I owe you this"
+msgstr ""
+
+#. Id: 6901-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (6900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6901-Dialogue.mod:2
+msgid "You saved me before. I can't let you die, I owe it to you"
+msgstr ""
+
+#. Id: 6901-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (6900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6901-Dialogue.mod:3
+msgid "I owe you this. You save me once"
+msgstr ""
+
+#. Id: 6901-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (6900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 15846-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15845-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 6901-Dialogue.mod:4 15846-Dialogue.mod:1
+msgid "Call it a debt repayed"
+msgstr ""
+
+#. Id: 6901-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (6900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6901-Dialogue.mod:5
+msgid "I'm repaying my debt to you, I owe it to you"
+msgstr ""
+
+#. Id: 15846-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15845-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 15846-Dialogue.mod:0
+msgid "Now I've saved YOUR life, we can be even again"
+msgstr ""
+
+#. Id: 15846-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15845-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 15846-Dialogue.mod:2
+msgid "You helped me before. This makes us even"
+msgstr ""
+

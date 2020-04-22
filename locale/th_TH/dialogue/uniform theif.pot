@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5204-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: uniform theif
+#. Id: 13468-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#. Id: 17450-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. Id: 98862-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base after victory
+#. Id: 13729-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mugger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 14462-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. Id: 16744-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slaver witness assault
+#. Id: 4796-dialogue-02.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (4794-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#. Id: 42297-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#. Id: 42300-gamedata.base
+#. -- Index: 3.2
+#. -- Parent line: 2 (42299-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#. Id: 12611-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: crime lockpick
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 12370-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper betrayal
+#. Id: 96163-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sand ninja shoo
+#. Id: 3225-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#. Id: 3847-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=0, Tag: -1
+#. Id: 16232-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante spots imposter
+#. Id: 5372-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police slave spotting escapED
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 42269-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: patriot see neutral
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Scorchlander
+#. Id: 19132-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from TOUGH mean
+#. Id: 44490-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 5204-gamedata.base:0 13468-Escapes.mod:3 17450-Dialogue.mod:1 98862-Dialogue.mod:0 13729-Escapes.mod:0 14462-Dialogue?(4).mod:0 16744-Dialogue.mod:1 4796-dialogue-02.mod:1 42297-gamedata.base:0 42300-gamedata.base:2 12611-gamedata.base:2 12370-Dialogue?(10).mod:1 96163-Dialogue.mod:4 3225-gamedata.base:1 3847-gamedata.base:0 16232-Dialogue.mod:3 5372-gamedata.base:5 42269-gamedata.base:0 19132-Dialogue.mod:0 44490-Dialogue.mod:2
+msgid "/OI/!"
+msgstr ""
+
+#. Id: 5207-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5204-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: uniform theif
+#: 5207-gamedata.base:0
+msgid "Where did you get that uniform?"
+msgstr ""
+
+#. Id: 5208-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5207-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: uniform theif
+#: 5208-gamedata.base:0
+msgid "Damn looters!"
+msgstr ""
+

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1532497-__May 18 2.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta Outlaw get up fight
+#: 1532497-__May?18?2.mod:0
+msgid "Kill /HIM/... slowly."
+msgstr ""
+
+#. Id: 1532498-__May 18 2.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532497-__May 18 2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta Outlaw get up fight
+#: 1532498-__May?18?2.mod:0
+msgid "I like to watch them squirm!"
+msgstr ""
+
+#. Id: 1532499-__May 18 2.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta Outlaw get up fight
+#: 1532499-__May?18?2.mod:0
+msgid "We're bringing hell to the sands..."
+msgstr ""
+
+#. Id: 1532500-__May 18 2.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532499-__May 18 2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta Outlaw get up fight
+#: 1532500-__May?18?2.mod:0
+msgid "And you're gonna burn in it with the rest of the weak wretches..."
+msgstr ""
+
+#. Id: 1532503-__May 18 2.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1532500-__May 18 2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta Outlaw get up fight
+#: 1532503-__May?18?2.mod:0
+msgid "BLEED!"
+msgstr ""
+
+#. Id: 1532501-__May 18 2.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta Outlaw get up fight
+#: 1532501-__May?18?2.mod:0
+msgid "We own the desert now..."
+msgstr ""
+
+#. Id: 1532502-__May 18 2.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532501-__May 18 2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta Outlaw get up fight
+#: 1532502-__May?18?2.mod:0
+msgid "And we're paintin' the sands with your blood!"
+msgstr ""
+

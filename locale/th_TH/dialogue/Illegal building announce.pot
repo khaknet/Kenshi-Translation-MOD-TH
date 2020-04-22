@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 95896-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Illegal building announce
+#: 95896-Dialogue.mod:0
+msgid "Drug production is illegal in United Cities territory!"
+msgstr ""
+
+#. Id: 96754-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95896-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Illegal building announce
+#: 96754-Dialogue.mod:0
+msgid "You are hereby arrested for illegal activity within Empire /LAND/."
+msgstr ""
+
+#. Id: 95893-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (96754-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Illegal building announce
+#. Id: 61085-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (61084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 95893-Dialogue.mod:2 61085-Dialogue.mod:4
+msgid "Strike!"
+msgstr ""
+

@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 57339-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57338-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57339-rebirth.mod:0
+msgid "Uhh... Hi Beep..."
+msgstr ""
+
+#. Id: 57344-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57343-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep talk to recruit
+#: 57344-rebirth.mod:0
+msgid "...how... how do you know my name?"
+msgstr ""
+
+#. Id: 57345-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57344-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57345-rebirth.mod:0
+msgid "It was just a guess"
+msgstr ""
+
+#. Id: 57346-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57344-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57346-rebirth.mod:0
+msgid "You just said "beep" for no reason, so I thought maybe you were introducing yourself"
+msgstr ""
+
+#. Id: 57347-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57346-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep talk to recruit
+#: 57347-rebirth.mod:0
+msgid "...You must be some kind of genius then?"
+msgstr ""
+
+#. Id: 57349-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57347-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57349-rebirth.mod:0
+msgid "Err... are you taking the piss?"
+msgstr ""
+
+#. Id: 57351-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (57349-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep talk to recruit
+#. Id: 57375-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: beep following
+#. Id: 57388-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57375-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep following
+#. Id: 65270-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: beep see neutral
+#. -- Condition: Target Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Hive Prince South Hive or ราชินี Hive or Hive Soldier Drone or Hive Soldier Drone South Hive or Hive Worker Drone or Hive Worker Drone South Hive
+#: 57351-rebirth.mod:0 57375-rebirth.mod:0 57388-rebirth.mod:0 65270-rebirth.mod:0
+msgid "Beep"
+msgstr ""
+
+#. Id: 57352-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (57351-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57352-rebirth.mod:0
+msgid "I think you are!"
+msgstr ""
+
+#. Id: 57353-rebirth.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (57352-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep talk to recruit
+#: 57353-rebirth.mod:0
+msgid "[He swallows nervously] Sir, I would never steal your piss..."
+msgstr ""
+
+#. Id: 57350-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57347-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57350-rebirth.mod:0
+msgid "Yes, yes I am."
+msgstr ""
+
+#. Id: 57358-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (57350-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep talk to recruit
+#: 57358-rebirth.mod:0
+msgid "Can I join you?  I want to become strong, become a swordsman"
+msgstr ""
+
+#. Id: 57361-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (57358-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57361-rebirth.mod:0
+msgid "You don't look very strong.  You don't even have a weapon. Do you have any skills?"
+msgstr ""
+
+#. Id: 57342-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57340-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep talk to recruit
+#: 57342-rebirth.mod:0
+msgid "Sorry, I beep when I'm nervous"
+msgstr ""
+
+#. Id: 57348-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57342-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57348-rebirth.mod:0
+msgid "That's a bit weird"
+msgstr ""
+
+#. Id: 57354-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57348-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep talk to recruit
+#: 57354-rebirth.mod:0
+msgid "They exiled me from the Hive"
+msgstr ""
+
+#. Id: 57355-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57354-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57355-rebirth.mod:0
+msgid "Just because you keep saying "beep"?"
+msgstr ""
+
+#. Id: 57356-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57355-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep talk to recruit
+#: 57356-rebirth.mod:0
+msgid "I am defective. Not good for the Hive."
+msgstr ""
+
+#. Id: 57357-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (57356-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep talk to recruit
+#: 57357-rebirth.mod:0
+msgid "But Beep doesn't give up!  Beep is strong!"
+msgstr ""
+
+#. Id: 57359-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (57357-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep talk to recruit
+#: 57359-rebirth.mod:0
+msgid "Since I left the Hive I can feel my mind changing, the way I think, I feel free, having thoughts I never had before.  I want freedom, but everywhere I go things try to kill me or chase me."
+msgstr ""
+
+#. Id: 57360-rebirth.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (57359-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep talk to recruit
+#: 57360-rebirth.mod:0
+msgid "Beep tires of running.  Time to stab the things that chase me."
+msgstr ""
+
+#. Id: 57363-rebirth.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (57360-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57363-rebirth.mod:0
+msgid "*sigh* Another weak nobody.  How much money do you want?"
+msgstr ""
+
+#. Id: 57365-rebirth.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (57363-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep talk to recruit
+#: 57365-rebirth.mod:0
+msgid "Money? I don't know what that means."
+msgstr ""
+
+#. Id: 57366-rebirth.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (57365-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57366-rebirth.mod:0
+msgid "Welcome to the team!"
+msgstr ""
+
+#. Id: 57364-rebirth.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (57360-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57364-rebirth.mod:0
+msgid "No thanks, come back when you're stronger"
+msgstr ""
+
+#. Id: 57369-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57354-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57369-rebirth.mod:0
+msgid "I don't blame them"
+msgstr ""
+
+#. Id: 57341-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57338-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57341-rebirth.mod:0
+msgid "...nevermind"
+msgstr ""
+
+#. Id: 57370-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57338-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#: 57370-rebirth.mod:0
+msgid "Why are you following me?"
+msgstr ""
+

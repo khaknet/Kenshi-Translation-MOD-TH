@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15002-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting Shek authority
+#: 15002-Dialogue.mod:0
+msgid "DON'T touch that"
+msgstr ""
+
+#. Id: 15002-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting Shek authority
+#: 15002-Dialogue.mod:1
+msgid "Back away"
+msgstr ""
+
+#. Id: 15002-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting Shek authority
+#: 15002-Dialogue.mod:3
+msgid "Drop it"
+msgstr ""
+
+#. Id: 15002-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting Shek authority
+#: 15002-Dialogue.mod:4
+msgid "Leave it"
+msgstr ""
+
+#. Id: 15002-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting Shek authority
+#: 15002-Dialogue.mod:5
+msgid "That's not for you, /FLATSKIN/"
+msgstr ""
+
+#. Id: 15002-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting Shek authority
+#: 15002-Dialogue.mod:6
+msgid "That's not for you, foolish /FLATSKIN/"
+msgstr ""
+
+#. Id: 44111-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting Shek authority
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#: 44111-Dialogue.mod:6
+msgid "Just vermin..."
+msgstr ""
+
+#. Id: 44111-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting Shek authority
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#: 44111-Dialogue.mod:7
+msgid "Foul vermin..."
+msgstr ""
+

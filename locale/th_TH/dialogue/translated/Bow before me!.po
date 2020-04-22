@@ -1,0 +1,742 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 16442-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16442-Dialogue.mod:0
+msgid "You /BOY2/!.. /GROVEL/ before me!"
+msgstr "เจ้า /BOY2/!.. /GROVEL/ ต่อหน้าข้า!"
+
+#. Id: 16442-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16442-Dialogue.mod:1
+msgid "You, /DIRTY/ peasant /BOY2/! /GROVEL/ before your noble man!"
+msgstr "เจ้า, /BOY2/!ชาวนา/DIRTY/ คุกเข่าลงต่อหน้าชายผู้สูงศักดิ์ของเจ้า!"
+
+#. Id: 16442-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16442-Dialogue.mod:2
+msgid "Your dirtying my soil, peasant /BOY2/! Bow for my forgiveness!"
+msgstr "ความอัปลักษณ์ของเจ้าทำลายวิสัยทัศน์ของข้า, /BOY2/!ชาวนา จงคุกเข่าเพื่อขอให้ข้าอภัยให้แก่เจ้าซะ!"
+
+#. Id: 16442-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16442-Dialogue.mod:3
+msgid "You're spoiling my view with your ugliness, peasant /BOY2/! Bow for my forgiveness!"
+msgstr "ความอัปลักษณ์ของเจ้าทำลายวิสัยทัศน์ของข้า, /BOY2/!ชาวนา จงคำนับเพื่อขอให้ข้าอภัยให้แก่เจ้าซะ!"
+
+#. Id: 16442-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16442-Dialogue.mod:4
+msgid "You're spoiling my walk with your horrid stench, peasant /BOY2/! I am offended! /GROVEL/ for my forgiveness!"
+msgstr "กลิ่นเหม็นของเจ้าทำให้ทางเดินข้าพังหมด, /BOY2/!ชาวนา ข้าชักโมโหแล้ว! /GROVEL/ขอโทษข้าซะ!"
+
+#. Id: 16442-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16442-Dialogue.mod:5
+msgid "Ew! You reek of poor! Unnacceptable! /GROVEL/ before me, /BOY2/!"
+msgstr "อี๋! กลิ่นเหม็นสาปของคนจน! รับไม่ได้! /GROVEL/ต่อหน้าข้า, /BOY2/!"
+
+#. Id: 16442-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16442-Dialogue.mod:6
+msgid "Ohhoh! You stink of poor! How repugnant! /GROVEL/ before me, peasant /BOY2/!"
+msgstr "โอ้โฮว! กลิ่นเหม็นสาปของคนจน! ข้าเกลียดมัน! /GROVEL/ต่อหน้าข้า,  /BOY2/!ชาวนา"
+
+#. Id: 16448-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16448-Dialogue.mod:0
+msgid "Mercy! (/GROVEL/)"
+msgstr "เมตตาด้วย! (/GROVEL/)"
+
+#. Id: 16448-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16448-Dialogue.mod:1
+msgid "Your grace! (/GROVEL/)"
+msgstr "นายท่าน! (/GROVEL/)"
+
+#. Id: 16448-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16448-Dialogue.mod:2
+msgid "I'm not worthy! (/GROVEL/)"
+msgstr "ข้ามันไม่มีค่าพอ (/GROVEL/)"
+
+#. Id: 16448-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16448-Dialogue.mod:3
+msgid "My Lord! (/GROVEL/)"
+msgstr "ใต้เท้า! (/GROVEL/)"
+
+#. Id: 16448-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16448-Dialogue.mod:4
+msgid "Have mercy! (/GROVEL/)"
+msgstr "เมตตาด้วยเถิด! (/GROVEL/)"
+
+#. Id: 16449-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16449-Dialogue.mod:0
+msgid "Did I tell you to speak? Your words are poor and ugly! Disgusting! Now, /GROVEL/ before me!"
+msgstr "ข้าบอกให้เจ้าพูดหรอฮะ? คำพูดของเจ้ามันน่าสังเวชและน่าเกลียด! น่าขยะแขยง! เอาละ, /GROVEL/ต่อหน้าข้า!"
+
+#. Id: 16449-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16449-Dialogue.mod:1
+msgid "Did I tell you to speak? Your voice is hideous! How vile!... Try again! /GROVEL/!"
+msgstr "ข้าบอกให้เจ้าพูดหรอฮะ? เสียงของเจ้ามันน่าเกลียด! ช่างน่ารังเกียจจริงๆ!... /GROVEL/!อีกครั้ง"
+
+#. Id: 16449-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16449-Dialogue.mod:2
+msgid "/YUCK/! Such a foul tone!.. Did I say you could speak? No! Now try that again, /BOY2/?!"
+msgstr "/YUCK/! ช่างเป็นเสียงที่เหม็น!.. ข้าบอกให้พูดเเล้วหรอ? ไม่! ลองใหม่อีกครั้งเด๋วนี้, /BOY2/?!"
+
+#. Id: 16449-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16449-Dialogue.mod:3
+msgid "/YUCK/! The peasant speaks!.. Did I say you could speak? No, I didn't! Try that again, /BOY2/?!"
+msgstr "/YUCK/! ชาวนาพูด!.. ข้าบอกให้พูดแล้วหรอ? ก็ปล่าวนี่! ลองใหม่อีกครั้ง, /BOY2?!"
+
+#. Id: 16447-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16447-Dialogue.mod:0
+msgid "... (/GROVEL/)"
+msgstr ""
+
+#. Id: 16447-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16447-Dialogue.mod:1
+msgid "(/GROVEL/)"
+msgstr ""
+
+#. Id: 16465-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16465-Dialogue.mod:0
+msgid "Pathetic /PEASANT/!... Be gone, you're stinking up my space!"
+msgstr "/PEASANT/!น่าสมเพช... ไปให้พ้น, เจ้ากำลังทำให้พื้นที่ของข้าเหม็น!"
+
+#. Id: 16465-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16465-Dialogue.mod:1
+msgid "/DIRTY/ /PEASANT/!... Go!"
+msgstr "/PEASANT/ /DIRTY/ !... ไปซะ!"
+
+#. Id: 16465-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16465-Dialogue.mod:2
+msgid "/YUCK/! /DIRTY/ /BOY2/! Now, get away from me!"
+msgstr "/YUCK/! /BOY2/ /DIRTY/!  อย่าเข้ามาใกล้ข้านะ!"
+
+#. Id: 16465-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16465-Dialogue.mod:3
+msgid "Worthless /BOY2/... That is all, I am finished with you now."
+msgstr "/BOY2/ไร้ค่า... อย่างที่ข้าพูด, ข้าหมดธุระกับเจ้าแล้ว."
+
+#. Id: 16466-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16466-Dialogue.mod:1
+msgid "Ew!"
+msgstr "อี๋!"
+
+#. Id: 16466-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16466-Dialogue.mod:2
+msgid "/YUCK/!"
+msgstr ""
+
+#. Id: 16467-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16467-Dialogue.mod:0
+msgid "Now go!"
+msgstr "ไปซะ!"
+
+#. Id: 16467-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16467-Dialogue.mod:1
+msgid "Now be off with you!"
+msgstr "ไสหัวออกไปเลย"
+
+#. Id: 16467-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16467-Dialogue.mod:2
+msgid "Now get out of my way!"
+msgstr "ออกไปให้พ้นทางข้า"
+
+#. Id: 16467-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16467-Dialogue.mod:3
+msgid "Now move out of my way!"
+msgstr "รีบไปให้พ้นทางข้า"
+
+#. Id: 16467-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16467-Dialogue.mod:4
+msgid "Now move it!"
+msgstr "รีบไปให้ไว"
+
+#. Id: 16467-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16467-Dialogue.mod:5
+msgid "Okay. Be gone."
+msgstr "โอเค๊. ไปให้พ้น!"
+
+#. Id: 16468-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16468-Dialogue.mod:0
+msgid "/YUCK/..."
+msgstr ""
+
+#. Id: 16450-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16450-Dialogue.mod:0
+msgid "I bow to no-one."
+msgstr "ข้าไม่คำนับให้ใคร"
+
+#. Id: 16450-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16450-Dialogue.mod:1
+msgid "I bow before nobody."
+msgstr "ข้าไม่คำนับ ไม่ว่าใครก็ตาม"
+
+#. Id: 16450-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16450-Dialogue.mod:2
+msgid "I bow before no man."
+msgstr "ไม่มีใครที่ข้าจะโค้งคำนับให้"
+
+#. Id: 16450-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16450-Dialogue.mod:3
+msgid "I will not /GROVEL/ like an animal."
+msgstr "ข้าจะไม่ /GROVEL/ เยี่ยงสัตว์."
+
+#. Id: 16450-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16450-Dialogue.mod:4
+msgid "No. Find another lackey."
+msgstr "ไม่. ไปหาขี้ข้าคนอื่นไป"
+
+#. Id: 16450-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16450-Dialogue.mod:5
+msgid "No... I won't be treated that way."
+msgstr "ไม่... ข้าจะไม่ทำอย่างนั่นแน่"
+
+#. Id: 16450-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16450-Dialogue.mod:6
+msgid "No. Find someone else to feed your ego."
+msgstr "ไม่. ไปหาคนอื่นเพื่อสนองอีโก้ของเจ้าซะ"
+
+#. Id: 16462-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16462-Dialogue.mod:0
+msgid "... Excuse ME? "
+msgstr "... ว่าไงนะ?"
+
+#. Id: 16462-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16462-Dialogue.mod:1
+msgid "... What did you say?!"
+msgstr "... เจ้าพูดว่าไงนะ?"
+
+#. Id: 16462-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16462-Dialogue.mod:2
+msgid "... What?!"
+msgstr "... อะไรนะ?!"
+
+#. Id: 16462-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16462-Dialogue.mod:3
+msgid "... You'd defy ME?"
+msgstr "... เจ้าท้าทายข้าหรอ?"
+
+#. Id: 16462-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (16450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16462-Dialogue.mod:4
+msgid "... You scorn me!"
+msgstr "... เจ้าดูถูกข้า!"
+
+#. Id: 16463-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16463-Dialogue.mod:0
+msgid "Guards!!! Punish /HIM/! Cut /HIM/ down"
+msgstr "ยาม!!! ลงโทษ/HIM/! จัดการ/HIM/ซะ"
+
+#. Id: 16463-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16463-Dialogue.mod:1
+msgid "Guards! /SEIZE/ /HIM/!"
+msgstr "ยาม! /SEIZE/ /HIM/!"
+
+#. Id: 16463-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16463-Dialogue.mod:2
+msgid "I want /HIM/ punished!... Guards!!!"
+msgstr "ข้าต้องการลงโทษ/HIM/!... ยาม!!!"
+
+#. Id: 16463-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16463-Dialogue.mod:3
+msgid "Guards! Tear /HIM/ down! Make /HIM/ know REAL pain!!!"
+msgstr "ยาม! ฉีก/HIM/ซะ! ทำให้/HIM/รู้ซึ้งถึงความเจ็บปวด!!!"
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:0
+msgid "(/PUNCH/ 'em in the chops)"
+msgstr "(/PUNCH/พวกมันที่ปาก)"
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:1
+msgid "(/PUNCH/ 'em in the guts)"
+msgstr "(/PUNCH/พวกมันที่ช่องท้อง)"
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:2
+msgid "(/PUNCH/ 'em in the eyes)"
+msgstr "(/PUNCH/พวกมันที่ตา)"
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:3
+msgid "(/PUNCH/ 'em in the kisser)"
+msgstr "(ซัดไม่เลี้ยง)"
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:4
+msgid "(/PUNCH/ 'em in the nose)"
+msgstr "(/PUNCH/พวกมันที่จมูก)"
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:5
+msgid "(/PUNCH/ 'em in the neck)"
+msgstr "(/PUNCH/พวกมันที่คอ)"
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:6
+msgid "(/PUNCH/ 'em in the throat)"
+msgstr "(/PUNCH/พวกมันที่ลำคอ)"
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:7
+msgid "(Slap 'em round the face)"
+msgstr "(ตบหน้าพวกมัน)"
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:8
+msgid "(Slap 'em round the chops)"
+msgstr "(ตบปากพวกมัน)"
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:9
+msgid "(Boot 'em in the groin)"
+msgstr "(เตะพวกมันที่ขาหนีบ)"
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.10
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:10
+msgid "(Kick 'em in the crotch)"
+msgstr "(เตะไปที่เป้าพวกมัน)"
+
+#. Id: 16454-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16454-Dialogue.mod:0
+msgid "AUUGHHHH!!!"
+msgstr "อ๊าากกกกก! "
+
+#. Id: 16454-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16454-Dialogue.mod:1
+msgid "*Gasp*!!!"
+msgstr "*อ้าปากค้าง*!!!"
+
+#. Id: 16454-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16454-Dialogue.mod:2
+msgid "AIIIIEEEEE!!!!"
+msgstr "อะเอื้อออออ!!!!"
+
+#. Id: 16455-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16455-Dialogue.mod:0
+msgid "WH-WHAT ARE YOU DOING?!"
+msgstr "ทะ-ทำอะไรวะ?"
+
+#. Id: 16455-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16455-Dialogue.mod:1
+msgid "H- HOW DARE YOU!"
+msgstr "เจ้า กะ-กล้าดียังไง!"
+
+#. Id: 16455-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16455-Dialogue.mod:2
+msgid "Y- YOU CAN'T DO THIS!"
+msgstr "จะ-เจ้าทำเช่นนี้ไม่ได้!"
+
+#. Id: 16455-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16455-Dialogue.mod:3
+msgid "Y- YOU CAN'T DO THIS TO ME!!!"
+msgstr "จะ-เจ้าทำแบบนี้กับข้าไม่ได้นะ!!"
+
+#. Id: 16455-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16455-Dialogue.mod:5
+msgid "WHAT IS THIS!!? Y- YOU SCOUNDREL!"
+msgstr "นี่อะไรกันเนี่ย!!? อะ-ไอ้คนชั่วร้าย"
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:0
+msgid "Get /HIM/, kill /HIM/, BLEED /HIM/!!!"
+msgstr "จับ/HIM/, ฆ่า/HIM/, หลั่งเลือด/HIM/!!!"
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:1
+msgid "I want /HIS/ HEAD!!!"
+msgstr "ข้าต้องการหัว/HIS/!!!"
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:2
+msgid "Bring me /HIS/ HEAD!!!"
+msgstr "นำหัว/HIS/มาให้ข้า!!!"
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:3
+msgid "Kill /HIM/! Don't let /HIM/ get away! Make /HIM/ bleeeeeeed!!!!"
+msgstr "ฆ่า/HIM/! อย่าให้/HIM/หนีไปได้! ทำให้/HIM/หลั่งเลือดดดดด!!!!"
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:4
+msgid "I want /HIM/ DEAD!!!"
+msgstr "ข้าต้องการให้/HIM/ตาย!!!"
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.5
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:5
+msgid "Guards!!! I want every limb on /HIS/ body BROKEN! BROKEN!!!"
+msgstr "ยาม!!! ข้าต้องการให้แขนขาทุกส่วนบนร่างการ!/HIS/ แตกหัก! แตกสลายไปเลย!!!"
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.6
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:6
+msgid "Bleed /HIM/! Bleeeeeeed!!!"
+msgstr "หลั่งเลือด/HIM/! หลั่งเลือดว้อยยยยยยย!!!"
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.7
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:7
+msgid "Guards!!! Show /HIM/ true pain! Break /HIS/ body, make him die!!! Die, die, DIE!!!"
+msgstr "ยาม!!! แสดงให้/HIM/เห็นความเจ็บปวดที่แท้จริง! ทำลายร่างกายของ/HIS/ ทำให้มันตาย!!! ตาย, ตายแล้วตายอีก, แล้วก็ตายอีก!!!"
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.8
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:8
+msgid "DIE! DIE!!!!"
+msgstr "ตาย! ตาย!!!!"
+
+#. Id: 16456-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16456-Dialogue.mod:0
+msgid "How- how is this POSSIBLE!? You can't do this to ME!!!"
+msgstr "ปะ...เป็นไปได้อย่างไร? เจ้าทำอย่างนี้กับข้าไม่ได้"
+
+#. Id: 16456-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16456-Dialogue.mod:1
+msgid "H- how dare you!... HOW VERY DARE YOU!!!"
+msgstr "จะ เจ้ากล้าดียังไง...เจ้ากล้าดียังไง!!!"
+
+#. Id: 16456-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16456-Dialogue.mod:2
+msgid "Th- this can't be!? You... you /DIRTY/ scoundrel!!!"
+msgstr "ปะ...เป็นไปได้อย่างไร? แก...ไอ้/DIRTY/ "
+
+#. Id: 16456-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16456-Dialogue.mod:3
+msgid "Wh- what is this?! You can't do this!!!"
+msgstr "อะ...อะไรกัน?! เจ้าทำแบบนี้ไม่ได้!!!"
+
+#. Id: 16456-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16456-Dialogue.mod:4
+msgid "You can't do this to me... ME! I'm your superior!!!"
+msgstr "เจ้าทำแบบนี้กับข้าไม่ได้ ข้า...ข้าเป็นนายของเจ้า"
+
+#. Id: 16456-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16456-Dialogue.mod:5
+msgid "You- your're /CRAZY/! You can't do that!!!"
+msgstr "เจ้า...เจ้ามัน/CRAZY/! เจ้าทำอย้างนี้ไม่ได้"
+

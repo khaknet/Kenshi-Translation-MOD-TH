@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47714-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#: 47714-Dialogue.mod:0
+msgid "AAHH!"
+msgstr "อ๊าา!"
+
+#. Id: 47714-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#. Id: 47695-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: assassination failed
+#: 47714-Dialogue.mod:1 47695-Dialogue.mod:2
+msgid "OUCH!"
+msgstr "ชะอุ๊ยยยย!"
+
+#. Id: 47714-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#: 47714-Dialogue.mod:2
+msgid "OWWW!"
+msgstr "โอ๊ยย!"
+
+#. Id: 47714-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#: 47714-Dialogue.mod:3
+msgid "NGHHH!"
+msgstr "ฮื่ออออ!"
+
+#. Id: 47714-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#: 47714-Dialogue.mod:4
+msgid "RRRGH!"
+msgstr "อึกกก!"
+
+#. Id: 47714-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#: 47714-Dialogue.mod:5
+msgid "AGHH!"
+msgstr "อ๊ากกก!"
+
+#. Id: 95986-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47715-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#. Id: 95982-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18611-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by player
+#. Id: 95991-Dialogue.mod
+#. -- Index: 12.1
+#. -- Parent line: 11 (54895-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble slave farm boss
+#. Id: 95989-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (16457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#. Id: 95990-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18627-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#. Id: 95983-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by someone else
+#: 95986-Dialogue.mod:0 95982-Dialogue.mod:0 95991-Dialogue.mod:1 95989-Dialogue.mod:0 95990-Dialogue.mod:0 95983-Dialogue.mod:0
+msgid "I'll make your life hell, /PEASANT/!"
+msgstr "ข้าจะทำให้ชีวิตเจ้าเหมือนตกนรก, ไอ้/PEASANT/!"
+
+#. Id: 95986-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (47715-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#. Id: 95982-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18611-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by player
+#. Id: 95991-Dialogue.mod
+#. -- Index: 12.2
+#. -- Parent line: 11 (54895-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble slave farm boss
+#. Id: 95989-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (16457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#. Id: 95990-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (18627-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#. Id: 95983-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by someone else
+#: 95986-Dialogue.mod:1 95982-Dialogue.mod:1 95991-Dialogue.mod:2 95989-Dialogue.mod:1 95990-Dialogue.mod:1 95983-Dialogue.mod:1
+msgid "YOU'LL RUE THIS DAY, DREG!"
+msgstr "เจ้าจะต้องเสียใจในวันนี้. เจ้าเศษสวะ"
+
+#. Id: 95986-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (47715-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#. Id: 95982-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18611-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by player
+#. Id: 95991-Dialogue.mod
+#. -- Index: 12.3
+#. -- Parent line: 11 (54895-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble slave farm boss
+#. Id: 95989-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (16457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#. Id: 95990-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (18627-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#. Id: 95983-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by someone else
+#: 95986-Dialogue.mod:2 95982-Dialogue.mod:2 95991-Dialogue.mod:3 95989-Dialogue.mod:2 95990-Dialogue.mod:2 95983-Dialogue.mod:2
+msgid "NO-ONE CROSSES THE NOBLES AND GETS AWAY WITH IT!"
+msgstr "ไม่มีไครหือกับขุนนางแล้วรอดไปได้!"
+
+#. Id: 95986-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (47715-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#. Id: 95982-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18611-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by player
+#. Id: 95991-Dialogue.mod
+#. -- Index: 12.4
+#. -- Parent line: 11 (54895-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble slave farm boss
+#. Id: 95989-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (16457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#. Id: 95990-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (18627-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#. Id: 95983-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by someone else
+#: 95986-Dialogue.mod:3 95982-Dialogue.mod:3 95991-Dialogue.mod:4 95989-Dialogue.mod:3 95990-Dialogue.mod:3 95983-Dialogue.mod:3
+msgid "A NOBLE NEVER FORGETS!"
+msgstr "พวกเราขุนนางจะไม่มีวันลืม!"
+
+#. Id: 95986-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (47715-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#. Id: 95982-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (18611-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by player
+#. Id: 95991-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (54895-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble slave farm boss
+#. Id: 95989-Dialogue.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (16457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#. Id: 95990-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (18627-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#. Id: 95983-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (18620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by someone else
+#: 95986-Dialogue.mod:4 95982-Dialogue.mod:4 95991-Dialogue.mod:0 95989-Dialogue.mod:4 95990-Dialogue.mod:4 95983-Dialogue.mod:4
+msgid "I'LL HAVE YOU HUNTED DOWN!"
+msgstr "ข้าจะตามล่าเจ้า!"
+

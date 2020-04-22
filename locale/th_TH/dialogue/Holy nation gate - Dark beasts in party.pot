@@ -1,0 +1,888 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 17100-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17100-Dialogue.mod:0
+msgid "Watch your beasts, /BROTHER/..."
+msgstr ""
+
+#. Id: 17103-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17100-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17103-Dialogue.mod:0
+msgid "Any acts of heresy from them will not be tolerated. You'll be purged along with them, pure blood or not."
+msgstr ""
+
+#. Id: 17103-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17100-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17103-Dialogue.mod:1
+msgid "The Holy Nation has strict laws on the control of non-humans, for the good and purity of Okran's children. Any trouble from them and you'll be punished alongside them."
+msgstr ""
+
+#. Id: 17104-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17104-Dialogue.mod:0
+msgid "Beasts?! They are my allies, not beasts!"
+msgstr ""
+
+#. Id: 43313-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17104-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43313-Dialogue.mod:0
+msgid "Ignorant fool! The beasts are dark to the core, and they will corrupt you too. Obviously your devotion to Okran is weak, you can't be trusted to control your 'allies'. Surrender them to us for Rebirthing, the Holy Nation will take care of them now."
+msgstr ""
+
+#. Id: 43314-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43314-Dialogue.mod:0
+msgid "... Okay, I guess I have no choice (Surrender all non-humans)"
+msgstr ""
+
+#. Id: 43317-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43314-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43317-Dialogue.mod:0
+msgid "This is a good start. But I've got my eye on you, faithless one. You haven't proved yourself to the Holy Nation yet."
+msgstr ""
+
+#. Id: 43318-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43317-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43318-Dialogue.mod:0
+msgid "Harm my brothers and you'll be severely punished."
+msgstr ""
+
+#. Id: 43315-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43315-Dialogue.mod:0
+msgid "You seem to mistake me for someone who gives a dog shit about Okran"
+msgstr ""
+
+#. Id: 17136-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43315-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17136-Dialogue.mod:0
+msgid "Your pure human facade is apparently corrupted by darkness and sin."
+msgstr ""
+
+#. Id: 17137-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17136-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17137-Dialogue.mod:0
+msgid "The heretics of the dark abyss are upon us! /SEIZE/ them!"
+msgstr ""
+
+#. Id: 43316-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17104-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 43316-Dialogue.mod:0
+msgid "Ignorant woman! I suggest you stop flapping those unruly gums and divert your energies to prayer and repentance. In this city our women show respect to their holy brothers! Now, hand over your beasts for Rebirthing, an unpious one like you can't be trusted to control the dark creatures. The beasts are dark to the core, and they will corrupt you too."
+msgstr ""
+
+#. Id: 43319-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43316-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. Id: 17134-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17130-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43319-Dialogue.mod:0 17134-Dialogue.mod:0
+msgid "'Rebirthing'?"
+msgstr ""
+
+#. Id: 43320-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43319-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43320-Dialogue.mod:0
+msgid "Still flapping those gums? I will have no more idle chattering from you. Show me your devotion to Okran, hand over you beasts, this is the last time I will ask you."
+msgstr ""
+
+#. Id: 43323-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43320-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43323-Dialogue.mod:0
+msgid "No. You're not taking my allies."
+msgstr ""
+
+#. Id: 43321-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43316-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43321-Dialogue.mod:0
+msgid "(Surrender all non-humans)"
+msgstr ""
+
+#. Id: 43324-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43321-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43324-Dialogue.mod:0
+msgid "This is a good start. But you have a long way to go to be accepted in our society. Show me your devotion to Okran and the Holy Phoenix Himself. Do not speak, I will hear nothing from your mouth."
+msgstr ""
+
+#. Id: 43325-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43324-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43325-Dialogue.mod:0
+msgid "(Kneel and bow to the floor)"
+msgstr ""
+
+#. Id: 43326-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43325-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43326-Dialogue.mod:0
+msgid "Go. I'll be watching you."
+msgstr ""
+
+#. Id: 43322-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43316-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43322-Dialogue.mod:0
+msgid "Hmph, you don't deserve my respect, /TINCAN/!"
+msgstr ""
+
+#. Id: 17147-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43322-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 17147-Dialogue.mod:0
+msgid "How dare you backtalk me! Feisty harlot!"
+msgstr ""
+
+#. Id: 17149-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17147-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17149-Dialogue.mod:0
+msgid "The dark demoness /TAINT/s her! /SEIZE/ her!"
+msgstr ""
+
+#. Id: 17105-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17105-Dialogue.mod:0
+msgid "No need to worry, they're just my slaves. Unholy gits."
+msgstr ""
+
+#. Id: 17112-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17105-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 17112-Dialogue.mod:0
+msgid "Silence, /GREASY/ woman! Did I ask you to speak?!"
+msgstr ""
+
+#. Id: 17112-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (17105-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 17112-Dialogue.mod:1
+msgid "You will speak only when spoken to, temptress! Did I ask you to speak?!"
+msgstr ""
+
+#. Id: 17120-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17114-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17120-Dialogue.mod:0
+msgid "Correct! Now stay in line and keep your trap SHUT! Last thing we need is /GREASY/ women trying to seduce our pure men folk with their temptress ways! "
+msgstr ""
+
+#. Id: 17121-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17120-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17121-Dialogue.mod:0
+msgid "Go on through, get out of my sight!"
+msgstr ""
+
+#. Id: 17118-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17115-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17118-Dialogue.mod:0
+msgid "Answer me when I speak to you, wretched woman!"
+msgstr ""
+
+#. Id: 17119-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17118-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17119-Dialogue.mod:0
+msgid "I'm so confused..."
+msgstr ""
+
+#. Id: 17123-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (17119-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17123-Dialogue.mod:0
+msgid "Confused because the dark demoness /TAINT/s your harlot soul!"
+msgstr ""
+
+#. Id: 17124-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (17123-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17124-Dialogue.mod:0
+msgid "Arrest her! Take her to rebirth!"
+msgstr ""
+
+#. Id: 17127-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17118-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17127-Dialogue.mod:0
+msgid "I've forgotten the question..."
+msgstr ""
+
+#. Id: 17127-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (17118-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17127-Dialogue.mod:1
+msgid "What was the question again?"
+msgstr ""
+
+#. Id: 17176-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (17127-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17176-Dialogue.mod:0
+msgid "Just stay in line and keep your trap SHUT! Last thing we need is harlots trying to seduce our pure men folk with their temptress ways! "
+msgstr ""
+
+#. Id: 17128-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17118-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17128-Dialogue.mod:0
+msgid "Seriously, I've had enough of this! (Punch him)"
+msgstr ""
+
+#. Id: 17177-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (17128-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17177-Dialogue.mod:0
+msgid "Guh!!"
+msgstr ""
+
+#. Id: 17177-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (17128-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. Id: 40700-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest interrupted by other
+#. Id: 57696-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 17177-Dialogue.mod:2 40700-Dialogue.mod:1 57696-Dialogue.mod:6
+msgid "Augh!"
+msgstr ""
+
+#. Id: 17178-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (17177-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17178-Dialogue.mod:0
+msgid "The dark demoness /TAINT/s her! /SEIZE/ /HIM/!"
+msgstr ""
+
+#. Id: 17116-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17112-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17116-Dialogue.mod:0
+msgid "... Am I allowed to answer?"
+msgstr ""
+
+#. Id: 17122-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17116-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17122-Dialogue.mod:0
+msgid "I asked you a question didn't I?!"
+msgstr ""
+
+#. Id: 17117-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17112-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17117-Dialogue.mod:0
+msgid "I'll speak all I want!"
+msgstr ""
+
+#. Id: 17180-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17117-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17180-Dialogue.mod:0
+msgid "/SEIZE/ her. She will only seduce our pure men folk with her frisky temptress ways..."
+msgstr ""
+
+#. Id: 17181-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17180-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17181-Dialogue.mod:0
+msgid "She will need cleansing in the school of Okran"
+msgstr ""
+
+#. Id: 17181-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (17180-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17181-Dialogue.mod:1
+msgid "She will need rebirthing until she can behave with holiness and piety"
+msgstr ""
+
+#. Id: 17131-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17105-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17131-Dialogue.mod:0
+msgid "Keep them under close watch... You're on holy soil now."
+msgstr ""
+
+#. Id: 17106-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17106-Dialogue.mod:0
+msgid "I understand, we won't make any trouble"
+msgstr ""
+
+#. Id: 17107-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17107-Dialogue.mod:0
+msgid "(Nod your head)"
+msgstr ""
+
+#. Id: 17101-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 17101-Dialogue.mod:0
+msgid "You there, woman, watch your beasts..."
+msgstr ""
+
+#. Id: 17129-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17129-Dialogue.mod:0
+msgid "/GREASY/ heretics! Those beasts will not be allowed on holy soil without the watch of rebirth school..."
+msgstr ""
+
+#. Id: 17130-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17129-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17130-Dialogue.mod:0
+msgid "Hand over your beasts for rebirthing, /BROTHER/. They'll be sent to serve the children of Okran and repent for their sinful nature..."
+msgstr ""
+
+#. Id: 17139-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17134-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17139-Dialogue.mod:0
+msgid "A chance for the unpious heretics to start afresh, under the loving guidance and warmth of Lord Okran. They will study the holy teachings and live a life of servitude to the holy clergy. Relinquish your beasts, /BROTHER/, let them repent for their dark sins."
+msgstr ""
+
+#. Id: 17141-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17139-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17141-Dialogue.mod:0
+msgid "That doesn't sound so bad I suppose..."
+msgstr ""
+
+#. Id: 17144-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17141-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17144-Dialogue.mod:0
+msgid "To be rebirthed on sacred soil of the Holy Nation is a blessed fortune"
+msgstr ""
+
+#. Id: 17145-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17144-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17145-Dialogue.mod:0
+msgid "Take care of them (Surrender all non-human squad members)"
+msgstr ""
+
+#. Id: 17155-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (17145-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17155-Dialogue.mod:0
+msgid "The beasts will be cleansed and granted a blessed new life of piety and sanctity."
+msgstr ""
+
+#. Id: 17155-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (17145-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17155-Dialogue.mod:1
+msgid "The beasts will live to serve a higher purpose for the cause of all that is light"
+msgstr ""
+
+#. Id: 17155-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (17145-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17155-Dialogue.mod:2
+msgid "Careful in your choice of allies in the future. The beasts have an unholy darkness which looms within their very essence..."
+msgstr ""
+
+#. Id: 17151-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17144-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17151-Dialogue.mod:0
+msgid "That's good and all, but I'd rather they stayed with me..."
+msgstr ""
+
+#. Id: 17156-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (17151-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17156-Dialogue.mod:0
+msgid "So you're a sympathiser of the heretics, outlander? Be you a darkened one in the guise of a pure child of Okran?... An... Agent Of Darkness in disguise?!"
+msgstr ""
+
+#. Id: 17156-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (17151-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17156-Dialogue.mod:1
+msgid "So you're a sympathiser of the heretics, outlander? Be you a darkened one in the guise of a pure child of Okran?... Posessed by... robots?!"
+msgstr ""
+
+#. Id: 17157-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (17156-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17157-Dialogue.mod:0
+msgid "Of course not, here! (Surrender all non-human squad members)"
+msgstr ""
+
+#. Id: 17158-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (17156-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17158-Dialogue.mod:0
+msgid "What the hell are you /TALKINGABOUT/ now?"
+msgstr ""
+
+#. Id: 17163-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (17158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17163-Dialogue.mod:0
+msgid "I knew it! Agents Of Darkness!"
+msgstr ""
+
+#. Id: 17163-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (17158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17163-Dialogue.mod:1
+msgid "Blasphemy! /HEIS/ posessed by Skeletons!"
+msgstr ""
+
+#. Id: 17163-Dialogue.mod
+#. -- Index: 9.2
+#. -- Parent line: 8 (17158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17163-Dialogue.mod:2
+msgid "I knew it, /HEIS/ a robot!"
+msgstr ""
+
+#. Id: 17163-Dialogue.mod
+#. -- Index: 9.4
+#. -- Parent line: 8 (17158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17163-Dialogue.mod:4
+msgid "Heresy! /HEIS/ posessed by robots!"
+msgstr ""
+
+#. Id: 17164-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (17163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17164-Dialogue.mod:1
+msgid "/BURNHIM/! The darkness must be purged!"
+msgstr ""
+
+#. Id: 17164-Dialogue.mod
+#. -- Index: 10.2
+#. -- Parent line: 9 (17163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17164-Dialogue.mod:2
+msgid "Burn /HIM/! Smite /HIM/ in the name of lord Okran!"
+msgstr ""
+
+#. Id: 17161-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (17156-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17161-Dialogue.mod:0
+msgid "What? No, I'm just a normal person!"
+msgstr ""
+
+#. Id: 17167-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (17161-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17167-Dialogue.mod:0
+msgid "Then surrender your beasts!"
+msgstr ""
+
+#. Id: 17168-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (17167-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17168-Dialogue.mod:0
+msgid "Run! (Make a run for it)"
+msgstr ""
+
+#. Id: 17152-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (17167-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17152-Dialogue.mod:0
+msgid "I won't let you enslave my brethren!"
+msgstr ""
+
+#. Id: 17171-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (17152-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17171-Dialogue.mod:0
+msgid "Mutinous /TERRORIST/! If you will not serve the cause of Okran, then you must be a servant of the darkness!"
+msgstr ""
+
+#. Id: 17162-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (17156-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17162-Dialogue.mod:0
+msgid "I'm starting to get bored of your crap, /TINCAN/! (Punch them)"
+msgstr ""
+
+#. Id: 17162-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (17156-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17162-Dialogue.mod:1
+msgid "I'm starting to get bored of your jibber jabber, /TINCAN/! (Punch them)"
+msgstr ""
+
+#. Id: 17165-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (17162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17165-Dialogue.mod:1
+msgid "Grah!"
+msgstr ""
+
+#. Id: 17165-Dialogue.mod
+#. -- Index: 9.3
+#. -- Parent line: 8 (17162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17165-Dialogue.mod:3
+msgid "Oof!"
+msgstr ""
+
+#. Id: 17166-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (17165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17166-Dialogue.mod:0
+msgid "Agents Of Darkness! /BURNHIM/!"
+msgstr ""
+
+#. Id: 17166-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (17165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17166-Dialogue.mod:1
+msgid "The darkened walk among us! Burn them all!"
+msgstr ""
+
+#. Id: 17166-Dialogue.mod
+#. -- Index: 10.2
+#. -- Parent line: 9 (17165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17166-Dialogue.mod:2
+msgid "The darkened walk among us! The darkness must be purged!"
+msgstr ""
+
+#. Id: 17166-Dialogue.mod
+#. -- Index: 10.3
+#. -- Parent line: 9 (17165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17166-Dialogue.mod:3
+msgid "Skeletons! /BURNHIM/!"
+msgstr ""
+
+#. Id: 17166-Dialogue.mod
+#. -- Index: 10.4
+#. -- Parent line: 9 (17165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17166-Dialogue.mod:4
+msgid "Robots! /BURNHIM/!"
+msgstr ""
+
+#. Id: 17142-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17139-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17142-Dialogue.mod:0
+msgid "Kind of like monks?"
+msgstr ""
+
+#. Id: 17150-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17142-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17150-Dialogue.mod:0
+msgid "Indeed, /BROTHER/, like monks of servitude"
+msgstr ""
+
+#. Id: 17173-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17150-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17173-Dialogue.mod:0
+msgid "'Monks of servitude'? Smells like /DOG/ shit to me!"
+msgstr ""
+
+#. Id: 17140-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17139-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17140-Dialogue.mod:0
+msgid "So they will live as slaves..."
+msgstr ""
+
+#. Id: 17146-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17140-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17146-Dialogue.mod:0
+msgid "Holy paladins of Okran do not enslave fellow beings! Such a hideous comparison... To be rebirthed on sacred soil in service of the superior holy ones is a blessing of righteous mercy for such ungodly beasts!"
+msgstr ""
+
+#. Id: 17153-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17146-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17153-Dialogue.mod:0
+msgid "I've never heard so much bullshit!"
+msgstr ""
+
+#. Id: 17160-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17139-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17160-Dialogue.mod:0
+msgid "Heretics? So, not being born a human automatically makes somebody evil?"
+msgstr ""
+
+#. Id: 17169-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17160-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17169-Dialogue.mod:0
+msgid "The beasts were made in the image of darkness, not in the image of Okran as you and me. They have an unholy darkness which lingers deep within the bowels of their very soul..."
+msgstr ""
+
+#. Id: 17170-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17169-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17170-Dialogue.mod:0
+msgid "Yet.. you still sympathise with them, despite their /GREASY/ nature... Be you a darkened one in the guise of a pure child of Okran?... An... Agent Of Darkness in disguise?!"
+msgstr ""
+
+#. Id: 17135-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17130-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17135-Dialogue.mod:0
+msgid "I guess I don't have a choice (Surrender all non-human squad members)"
+msgstr ""
+
+#. Id: 17133-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17130-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17133-Dialogue.mod:0
+msgid "What? No, I won't let you imprison my own allies!"
+msgstr ""
+
+#. Id: 17174-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17133-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17174-Dialogue.mod:0
+msgid "So your loyalty lies with the heretics before the Lord Okran... your piety is clear to me now, unholy one. You leave me no choice..."
+msgstr ""
+
+#. Id: 17182-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17133-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17182-Dialogue.mod:0
+msgid "So your loyalty lies with the heretics before the Lord Okran... your piety is clear to me now, /TAINT/ed woman. You leave me no choice..."
+msgstr ""
+

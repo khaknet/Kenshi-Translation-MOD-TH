@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47040-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: My Race(s): Skeleton
+#: 47040-Dialogue.mod:0
+msgid "Holy Nation land is no place for a Skeleton… "
+msgstr "ดินแดน Holy Nation ไม่ใช่ที่สำหรับ Skeleton..."
+
+#. Id: 47040-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: My Race(s): Skeleton
+#: 47040-Dialogue.mod:1
+msgid "I’m a Skeleton. I really shouldn’t be here..."
+msgstr "ข้าเป็น Skeleton ข้าไม่ควรอยู่ที่นี่..."
+
+#. Id: 47043-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47040-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47043-Dialogue.mod:1
+msgid "This is a bad idea..."
+msgstr "นี่เป็นความคิดที่แย่มาก..."
+
+#. Id: 47043-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (47040-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47043-Dialogue.mod:2
+msgid "I shouldn't be here..."
+msgstr "ข้าไม่ควรอยู่ที่นี่..."
+
+#. Id: 47041-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: My Race(s): Skeleton
+#: 47041-Dialogue.mod:0
+msgid "Is this really a good idea? Travelling through Holy Nation territory? "
+msgstr "นี่คิดดีแล้วเหรอ? เดินผ่านเขตพวก Holy Nation น่ะ?"
+
+#. Id: 47041-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: My Race(s): Skeleton
+#: 47041-Dialogue.mod:1
+msgid "Is it really wise for me to be travelling around Holy Nation territory?"
+msgstr "นี่มันฉลาดแล้วเหรอกับการเดินไปมาในเขตพวก Holy Nation?"
+
+#. Id: 47042-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47041-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47042-Dialogue.mod:0
+msgid "They despise Skeletons… I'll be burned at the stake just for moving..."
+msgstr "พวกมันรังเกียจพวกSkeleton... ถ้าข้าไปคงโดนจับเสียบไม้เผาแน่..."
+
+#. Id: 47042-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47041-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47042-Dialogue.mod:1
+msgid "They possess a desperate fear of Skeletons… I'll be killed on sight..."
+msgstr "พวกมันควบคุมความกลัวของพวก Skeleton ไว้แล้ว...โดนเจอล่ะก็ตายแน่..."
+
+#. Id: 47048-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: My Race(s): Shek
+#: 47048-Dialogue.mod:0
+msgid "Land of the Holy Nation, home of the god prince… "
+msgstr "ดินแดนแห่ง Holy Nation ปิตุภูมิแห่งองค์ชายเทพ..."
+
+#. Id: 47048-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: My Race(s): Shek
+#: 47048-Dialogue.mod:1
+msgid "So this is the land of the Holy Nation, birthplace of the Phoenix..."
+msgstr "งั้นนี่ก็คือดินแดนแห่ง Holy Nation ที่ประสูติของ Phoenix..."
+
+#. Id: 47049-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47048-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47049-Dialogue.mod:0
+msgid "Isn’t this where hundreds of Shek and Hivers ‘disappear’?"
+msgstr "ไม่ใช่ที่ที่ Shek กับพวก Hive 'หายตัวไป'เหรอ?"
+
+#. Id: 47049-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47048-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47049-Dialogue.mod:1
+msgid "The place where non-humans go, never to return..."
+msgstr "ที่ที่พวกอมนุษย์จะไม่มีวันได้กลับออกไป..."
+
+#. Id: 47050-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47049-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47050-Dialogue.mod:0
+msgid "... Lucky me..."
+msgstr "...ข้านี้โชคดีจริงๆ..."
+
+#. Id: 47050-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (47049-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47050-Dialogue.mod:1
+msgid "Well, isn't this just my lucky day..."
+msgstr "เยี่ยม ก็แค่วันโชคไม่เข้าข้าง..."
+
+#. Id: 47051-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: My Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 47051-Dialogue.mod:0
+msgid "Is it really wise for us to travel Holy Nation territory?"
+msgstr "ฉลาดแล้วเหรอที่พวกเรามาเดินในเขต Holy Nation น่ะ?"
+
+#. Id: 47051-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: My Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 47051-Dialogue.mod:1
+msgid "Holy Nation land. I have a bad feeling about this…"
+msgstr "ดินแดน Holy Nation รู้สึกไม่ดีกับที่นี่เลย..."
+
+#. Id: 47052-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47051-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47052-Dialogue.mod:0
+msgid "You know, what with them despising any other race to them…"
+msgstr "เจ้ารู้ไหม ว่าพวกเขาดูถูกเผ่าพันธุ์อื่นนอกจากพวกเขา..."
+
+#. Id: 47052-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47051-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47052-Dialogue.mod:1
+msgid "I hear they're not too fond of non-humans..."
+msgstr "ข้าได้ยินมาว่าพวกเขาไม่ได้รักพวกอมนุษย์..."
+
+#. Id: 47052-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (47051-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47052-Dialogue.mod:2
+msgid "The locals here aren't too friendly with non-humans. And that's an understatement."
+msgstr "ถิ่นเนี่ยไม่เป็นมิตรกับพวกอมนุษย์หรอกนะ พูดแค่นี้ยังน้อยไปด้วยซ้ำ."
+
+#. Id: 47053-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 47053-Dialogue.mod:0
+msgid "So this is the homeland of the Phoenix... "
+msgstr "งั้นนี่ก็คือปิตุภูมิแห่ง Phoenix..."
+
+#. Id: 47053-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 47053-Dialogue.mod:1
+msgid "Birthplace to the messenger reincarnate of Okran..."
+msgstr "ที่ประสูติแห่งผู้ส่งสารจาก Okran ที่ลงมาจุติใหม่..."
+
+#. Id: 47055-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47053-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47055-Dialogue.mod:0
+msgid "The Holy Nation are a temperamental bunch, I hear… "
+msgstr "ข้าได้ยินมาว่า Holy Nation เป็นที่กระจุกของพวกอารมณ์ไม่แน่นอน"
+
+#. Id: 47055-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47053-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47055-Dialogue.mod:1
+msgid "The Phoenix and his grand paladins... Fiery bunch I hear… "
+msgstr "ข้าได้ยินมาว่า...ฟินิกซ์กับเหล่าพาลาดินชั้นสูงของเขาน่ะเป็นที่กระจุกของพวกเร่าร้อนล่ะ..."
+
+#. Id: 47054-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47055-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47054-Dialogue.mod:0
+msgid "Just act holy and I'm sure we’ll all be fine."
+msgstr "ทำตัวให้ดูศักดิ์สิทธิ์เข้าไว้ ข้ามั่นใจว่าเราจะไม่เป็นไรแน่."
+
+#. Id: 47064-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47066-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome Holy Nation
+#. -- Condition: My Race(s): Shek or Skeleton
+#: 47064-Dialogue.mod:0
+msgid "Easy for you to say, human... The bigots will slaughter me on sight..."
+msgstr "เจ้าพูดมันก็ง่ายล่ะ เจ้ามนุษย์...พวกคลั่งศาสนานั่นได้วิ่งเข้ามาเชือดข้าตั้งแต่แรกเห็นแน่..."
+
+#. Id: 47177-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47176-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: biome Holy Nation
+#. -- Condition: My Race(s): Hive Soldier Drone
+#: 47177-Dialogue.mod:0
+msgid "... I have a bad feeling about this."
+msgstr "...ข้ารู้สึกไม่ดีกับที่นี่เลย."
+
+#. Id: 47178-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47180-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: biome Holy Nation
+#: 47178-Dialogue.mod:0
+msgid "Just act holy, they say, It will be easy, they say..."
+msgstr "ทำตัวให้ดูศักดิ์สิทธิ์ไว้ เขาว่ากันงั้น เดี๋ยวก็ผานไปเอง เขาว่ากันงั้น..."
+
+#. Id: 47056-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Scorchlander
+#: 47056-Dialogue.mod:0
+msgid "Home of the sacred flame of Okran..."
+msgstr "ปิตุภูมิแห่งพระเพลิงศักดิ์สิทธิ์แห่ง Okran..."
+
+#. Id: 47058-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47058-Dialogue.mod:0
+msgid "Word has it, the flame’s been burning for five thousand years…"
+msgstr "ตำราว่าไว้ เพลิงนั้นยังคงลุกไหม้มากว่าห้าพันปี..."
+
+#. Id: 47057-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47058-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47057-Dialogue.mod:0
+msgid " I mean, that’s gotta be the work of a god, right?"
+msgstr "ข้าหมายถึง มันต้องเป็นผลงานของพระเจ้าแน่เลย ใช่ไหม?"
+
+#. Id: 47070-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47071-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome Holy Nation
+#: 47070-Dialogue.mod:0
+msgid "Hmph, I'll believe in the work of god when I see it with my own two eyes..."
+msgstr "ฮึ่ม ข้าจะเชื่อว่ามันเป็นผลงานของพระเจ้าก็ต่อเมื่อข้าได้เห็นมันกับตาตัวเอง..."
+
+#. Id: 47059-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: My Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 47059-Dialogue.mod:0
+msgid "Holy Nation land, home of the race-mad religious zealots."
+msgstr "ดินแดน Holy Nation บ้านของพวกคลั่งศาสนาเหยียดเผ่า"
+
+#. Id: 47059-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: My Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 47059-Dialogue.mod:1
+msgid "You know these religious zealots are pretty much anti-everything, right?"
+msgstr "เจ้าก็รู้ว่าพวกคลั่งศาสนามันต่อต้านไปซะทุกสิ่ง ถูกไหม?"
+
+#. Id: 47620-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47059-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47620-Dialogue.mod:0
+msgid "Anyone different to them, they attack in the name of their god..."
+msgstr "ใครที่ต่างไปจากมัน ก็เข้าโจมตีในนามของพระเจ้าของมัน..."
+
+#. Id: 47620-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47059-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47620-Dialogue.mod:1
+msgid "They have race-madness... fear anybody different to themselves..."
+msgstr "พวกมันคลุ้มคลั่งเรื่องเผ่า... กลัวใครก็ตามที่ต่างไปจากพวกมันเอง..."
+
+#. Id: 47060-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47060-Dialogue.mod:0
+msgid "Yay."
+msgstr "ช่าย"
+
+#. Id: 47060-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (47620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47060-Dialogue.mod:1
+msgid "... Why are we here again?"
+msgstr "...ทำไมเรามานี่อีกแล้วเนี่ย?"
+
+#. Id: 47061-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Scorchlander
+#: 47061-Dialogue.mod:0
+msgid "Holy Nation land? Well isn't this just my lucky day..."
+msgstr "ดินแดน Holy Nation? เยี่ยม ดูท่าวันนี้โชคจะไม่เข้าข้าง..."
+
+#. Id: 47061-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Scorchlander
+#: 47061-Dialogue.mod:1
+msgid "Holy Nation land? You've just got to be kidding me..."
+msgstr "ดินแดน Holy Nation? เจ้าต้องล้อข้าเล่นแน่..."
+
+#. Id: 47062-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47061-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47062-Dialogue.mod:0
+msgid "This woman-hating hell hole is no place for a lady..."
+msgstr "หลุมนรกที่เกลียดผู้หญิง ไม่มีที่ให้ผู้หญิง..."
+
+#. Id: 47062-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47061-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47062-Dialogue.mod:1
+msgid "Holding my tongue in this woman-hating hell hole will be the ultimate test of patience..."
+msgstr "การที่ต้องอยู่เงียบๆ ในหลุมนรกที่เกลียดผู้หญิงนี้ เป็นการทดสอบขั้นสุดท้ายของความอดทน..."
+
+#. Id: 47169-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. -- Condition: My Race(s): Skeleton
+#: 47169-Dialogue.mod:0
+msgid "The Holy Nation, one of the oldest civilisations still in existence..."
+msgstr "The Holy Nation หนึ่งในอารยธรรมที่เก่าแก่ที่สุดยังคงมีอยู่..."
+
+#. Id: 47170-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47169-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47170-Dialogue.mod:0
+msgid "In the beginning, they kept to themselves. The first of the Phoenixes intentions were noble..."
+msgstr "ในตอนเริ่มต้น พวกเขารักษาพวกพ้องตนเอง ฟินิกซ์องค์แรกมีความมุ่งหมายอันสง่างาม..."
+
+#. Id: 47171-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47170-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47171-Dialogue.mod:0
+msgid "... Then their values grew distorted, their fear of the unholy only fueled their hunger for destruction..."
+msgstr "...จากนั้น ความเคารพของพวกเขาก็บิดเบี้ยว พวกเขากลัวแค่สิ่งที่ไม่ศักดิ์สิทธิ์ เติมเชื้อเพลิงให้แก่ความหิวโหยในการทำลายล้าง..."
+
+#. Id: 47172-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47171-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47172-Dialogue.mod:0
+msgid "Until it consumed them completely... Countless Skeletons lose their lives here under the crusade of the Phoenix."
+msgstr "จนกว่าจะเผาผลาญพวกเขาจนหมดสิ้น ... เหล่า Skeleton นับไม่ถ้วนเสียชีวิตที่นี่ ภายใต้สงครามครูเสดแห่งฟีนิกซ์"
+
+#. Id: 47175-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47172-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#: 47175-Dialogue.mod:0
+msgid "Man possessed by his own fear, it is more destructive than any storm..."
+msgstr "มนุษย์ที่โดนครอบงำด้วยความกลัวของตนเอง ทำลายสิ่งต่างๆ ได้มากกว่าพายุเสียอีก..."
+
+#. Id: 54019-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome Holy Nation
+#. Id: 51119-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation entry miu
+#. -- Condition: In town(s) of faction(s): The Holy Nation
+#: 54019-Dialogue.mod:0 51119-Dialogue.mod:0
+msgid "The Holy Lands? Where women are the spawn of Narko? Great, not like I can charm my way out of trouble here..."
+msgstr "The Holy Lands? ที่ที่ผู้หญิงเกิดจาก Narko? เจ๋ง ดูท่าข้าจะหว่านเสน่ห์หนีปัญหาที่นี่ได้นะเนี่ย..."
+

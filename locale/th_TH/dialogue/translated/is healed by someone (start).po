@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3581-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is healed by someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#: 3581-dialogue-01.mod:0
+msgid "Sorry to trouble you."
+msgstr ""
+
+#. Id: 3581-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is healed by someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#: 3581-dialogue-01.mod:1
+msgid "Really, I'm fine."
+msgstr ""
+
+#. Id: 3581-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is healed by someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#: 3581-dialogue-01.mod:2
+msgid "You don't have to do this."
+msgstr ""
+
+#. Id: 3581-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is healed by someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#: 3581-dialogue-01.mod:3
+msgid "Reckless of me to let this happen."
+msgstr ""
+
+#. Id: 3581-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is healed by someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#: 3581-dialogue-01.mod:4
+msgid "Please. I'm all right."
+msgstr ""
+
+#. Id: 3583-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is healed by someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3583-dialogue-01.mod:0
+msgid "Don't need you to fix me."
+msgstr ""
+
+#. Id: 3583-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is healed by someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3583-dialogue-01.mod:4
+msgid "Did I ask for your help?"
+msgstr ""
+
+#. Id: 3585-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is healed by someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 3585-dialogue-01.mod:0
+msgid "Don't worry about me."
+msgstr ""
+
+#. Id: 3588-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is healed by someone (start)
+#. -- Condition: Who: ME, Condition: RELATIONS<-5, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_ENEMY=1, Tag: -1
+#: 3588-dialogue-01.mod:4
+msgid "I've killed friends of yours."
+msgstr ""
+
+#. Id: 3590-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is healed by someone (start)
+#. -- Condition: Who: ME, Condition: RELATIONS>5, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_ALLY=1, Tag: -1
+#: 3590-dialogue-01.mod:1
+msgid "What friends are for, right?"
+msgstr ""
+
+#. Id: 3590-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is healed by someone (start)
+#. -- Condition: Who: ME, Condition: RELATIONS>5, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_ALLY=1, Tag: -1
+#: 3590-dialogue-01.mod:2
+msgid "Everyone'll hear about this."
+msgstr ""
+

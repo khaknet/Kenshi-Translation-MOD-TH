@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56334-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stone camp trader
+#: 56334-Dialogue.mod:0
+msgid "Iron, stone, copper! Get your materials here! Competitive prices direct from the camps, we won't be beaten on value..."
+msgstr ""
+
+#. Id: 56335-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56334-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Stone camp trader
+#: 56335-Dialogue.mod:0
+msgid "Competitve prices?"
+msgstr ""
+
+#. Id: 56336-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56335-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone camp trader
+#: 56336-Dialogue.mod:0
+msgid "That's right, straight from the most efficient mines in all the land. Zero labour costs mean more savings for our customers!"
+msgstr ""
+
+#. Id: 56340-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56336-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Stone camp trader
+#: 56340-Dialogue.mod:0
+msgid "So slaves break their backs while you reap the profits..."
+msgstr ""
+
+#. Id: 56345-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56340-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone camp trader
+#: 56345-Dialogue.mod:0
+msgid "Ugh! Just my luck, another looney anti-slaver coming to preach disorder at me. How about you go get a job and stop trying to wreck other people's honest businesses? You cynics need to get with the times already."
+msgstr ""
+
+#. Id: 56346-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56345-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Stone camp trader
+#: 56346-Dialogue.mod:0
+msgid "(Kill them)"
+msgstr ""
+
+#. Id: 56348-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56346-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone camp trader
+#: 56348-Dialogue.mod:0
+msgid "Wh- why are you looking at me like that? You're creeping me out!"
+msgstr ""
+
+#. Id: 56349-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56348-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone camp trader
+#: 56349-Dialogue.mod:0
+msgid "/AAH/ /FUCK/! Looney anti-slavers! Somebody help me!"
+msgstr ""
+
+#. Id: 56341-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56336-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Stone camp trader
+#: 56341-Dialogue.mod:0
+msgid "Sounds great! Who doesn't like a good bargain?"
+msgstr ""
+
+#. Id: 56342-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56341-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone camp trader
+#: 56342-Dialogue.mod:0
+msgid "Ugh, you'd be surprised how many oddballs don't! Between you and me, I'm getting tired of dealing with these out-of-touch, ignorant anti-slavers trying to destroy our honest businesses. It's become too draining to even reason with them anymore... Anyway, enough of that, how about a trade?"
+msgstr ""
+
+#. Id: 56344-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56342-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Stone camp trader
+#: 56344-Dialogue.mod:0
+msgid "Another time maybe."
+msgstr ""
+
+#. Id: 56337-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56334-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Stone camp trader
+#: 56337-Dialogue.mod:0
+msgid "Gimme some cheap goods!"
+msgstr ""
+
+#. Id: 56338-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stone camp trader
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=1, Tag: -1
+#: 56338-Dialogue.mod:0
+msgid "What are you doing here, slave?!"
+msgstr ""
+

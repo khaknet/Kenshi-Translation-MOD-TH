@@ -1,0 +1,369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47082-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#. -- Condition: My Race(s): Scorchlander
+#: 47082-Dialogue.mod:0
+msgid "Vain. The hivers may seem harmless enough but don't let that fool you... "
+msgstr "เมือง Vain พวก Hive ดูเหมือนไม่มีอันตรายใด ๆ แต่อย่าโดนมันหลอกล่ะ..."
+
+#. Id: 47083-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47082-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47083-Dialogue.mod:0
+msgid "Those guys are plain sneaky."
+msgstr "พวกนั้นขี้โกงเป็นสันดานเลย"
+
+#. Id: 47085-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47084-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#. -- Condition: My Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 47085-Dialogue.mod:0
+msgid "Hey, what about me?"
+msgstr "เฮ้ แล้วข้าละ?"
+
+#. Id: 47085-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (47084-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#. -- Condition: My Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 47085-Dialogue.mod:1
+msgid "Ouch, that hurts, you know..."
+msgstr "โอ๊ย นั่นโหดร้ายมาก เจ้าก็รู้นี่..."
+
+#. Id: 47086-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47085-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47086-Dialogue.mod:0
+msgid "Oh, don't overreact. You know I don't mean you, no-hive. Heh."
+msgstr "โอ้ อย่ามีปฏิกิริยาเกินจริงไปหน่อยเลย เจ้าก็รู้ว่าข้าไม่ได้หมายถึงเจ้า เจ้าตัวไร้รังเอ๋ย "
+
+#. Id: 47086-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (47085-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47086-Dialogue.mod:1
+msgid "Oh don't get soft on me. You're not one of them anymore, eh no-hive? "
+msgstr "โอ้ อย่าตัดพ้อข้าหน่อยเลย เจ้าไม่ใช่พวกมันแล้วนะ ไม่ใช่รึ เจ้าตัวไร้รัง?"
+
+#. Id: 47087-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Soldier Drone or Hive Worker Drone or Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince
+#: 47087-Dialogue.mod:0
+msgid "We're close to a hive here... I hate nothing more than visiting the hives..."
+msgstr "เราเกือบถึงรังแล้ว...ข้าไม่เคยเกลียดอะไรเท่ากับการมาเยือนรังเลย..."
+
+#. Id: 47184-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47183-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#: 47184-Dialogue.mod:0
+msgid "But it's home, isn't it? You don't miss it? "
+msgstr "แต่มันก็เป็นบ้านไม่ใช่รึ? เจ้าไม่คิดถึงบ้านเหรอ?"
+
+#. Id: 47088-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47184-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47088-Dialogue.mod:0
+msgid "... Seeing the mindless drones at work brings back bad memories."
+msgstr "...พอเห็นพวกผึ้งงานที่ไร้จิตใจก้มหน้าก้มตาทำงานแล้วทำให้ข้านึกถึงความทรงจำแย่ๆ น่ะ"
+
+#. Id: 47088-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (47184-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47088-Dialogue.mod:1
+msgid "... It's a reminder of the braindead hell before my awakening... Nothing more."
+msgstr "...มันทำให้ข้านึกถึงนรก ไร้ซึ่งสมอง ก่อนที่ข้าจะลืมตาตื่น... ไม่มีอะไรมากกว่านั้น"
+
+#. Id: 47089-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#. -- Condition: My Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 47089-Dialogue.mod:0
+msgid "Hive territory. It's been a while since I left..."
+msgstr "ดินแดนในเขต Hive ข้าไม่ได้กลับมาที่นี่ซักพักใหญ่แล้วนะนี่..."
+
+#. Id: 47091-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47089-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47091-Dialogue.mod:0
+msgid "In the Hive, nothing matters, nothing exists, nothing is desired..."
+msgstr "ในรัง ไม่มีอะไรทั้งนั้น ไม่มีอะไรมีตัวตน ไม่มีความปรารถนาใด ๆ ..."
+
+#. Id: 47092-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47092-Dialogue.mod:0
+msgid "Nothing but loyalty for the Queen..."
+msgstr "ไม่มีอะไรเลยนอกจากความภักดีต่อราชินี..."
+
+#. Id: 47090-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47090-Dialogue.mod:0
+msgid "... I don't look forward to my welcome home."
+msgstr "...ข้าไม่คิดว่าจะได้รับการต้อนรับกลับบ้านหรอกนะ"
+
+#. Id: 64944-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 64944-Dialogue.mod:0
+msgid "So, uh, you know we gotta get one of them lanterns while we're in Vain..."
+msgstr "อ้อ เจ้ารู้นี่ว่าพวกเราต้องหาตะเกียงตอนที่เราอยู่ในเมือง Vain นี่..."
+
+#. Id: 64947-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64948-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#: 64947-Dialogue.mod:0
+msgid "Lanterns? What lanterns?"
+msgstr "ตะเกียง? ตะเกียงอะไร?"
+
+#. Id: 64949-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64947-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 64949-Dialogue.mod:0
+msgid "You know, them Lanterns of Raidians. It would be like going to the swamps and not buying drugs or fish..."
+msgstr "แบบว่า ตะเกียงแห่ง Raidians อ่ะ ไม่งั้นก็เหมือนที่เจ้าไป swamps แล้วไม่ได้ซื้อยาหรือซื้อปลาอ่ะ..."
+
+#. Id: 64950-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 64950-Dialogue.mod:0
+msgid "You gotta buy a lantern."
+msgstr "เจ้าต้องซื้อตะเกียง"
+
+#. Id: 64953-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64951-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: biome vain
+#: 64953-Dialogue.mod:0
+msgid "*slap*"
+msgstr "*เผียะ*"
+
+#. Id: 64954-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64953-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 64954-Dialogue.mod:0
+msgid "Why are you slapping your head? Are there flies? I hate flies!"
+msgstr "เจ้าตบหัวตัวเองทำไม? มีแมลงวันเหรอ? ข้าเกลียดแมลงวัน!"
+
+#. Id: 64957-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (64956-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: biome vain
+#. Id: 65095-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65093-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 64957-Dialogue.mod:0 65095-Dialogue.mod:0
+msgid "Just don't. Don't even go there..."
+msgstr "พอที พอได้แล้ว..."
+
+#. Id: 64958-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (64957-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: biome vain
+#. Id: 65096-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 64958-Dialogue.mod:0 65096-Dialogue.mod:0
+msgid "Don't even get me started on those fucking Lanterns of Radiance."
+msgstr "อย่าให้ข้าเริ่มพูดเกี่ยวกับตะเกียงแห่งความสว่างไสวบ้าบอนี่นะ"
+
+#. Id: 64959-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (64954-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#: 64959-Dialogue.mod:0
+msgid "More like the buzzing of memories from an old life, am I right?"
+msgstr "เหมือนเป็นเสียงกระซิบแห่งความทรงจำจากชีวิตสมัยก่อนสินะ ใช่มั้้ย?"
+
+#. Id: 64960-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (64959-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: biome vain
+#: 64960-Dialogue.mod:0
+msgid "I... may have sold a few lanterns. Don't judge me."
+msgstr "ข้า...อาจจะเคยขายตะเกียงมาหลายอัน อย่ามาตัดสินข้านะ"
+
+#. Id: 64952-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64950-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#: 64952-Dialogue.mod:0
+msgid "... You mean Lantern of Radiance."
+msgstr "...เจ้าหมายถึงตะเกียงแห่งความสว่างไสว"
+
+#. Id: 64955-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 64955-Dialogue.mod:0
+msgid "Yeah yeah yeah, Lantern Of Rodents."
+msgstr "ช่าย ช่ายแล้ว ตะเกียงของพวกสัตว์กัดแทะ"
+
+#. Id: 65089-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 65089-Dialogue.mod:0
+msgid "... Great. Vain."
+msgstr "...ยอดเยี่ยมไปเลย เมือง Vain"
+
+#. Id: 65090-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65089-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 65090-Dialogue.mod:0
+msgid "I wouldn't buy a loaf of bread from a bug merchant if I was starving to death."
+msgstr "ต่อให้ข้ากำลังอดตายข้าก็จะไม่มีวันซื้อขนมปังแม้แต่แถวเดียวจากพ่อค้าที่เป็นแมลงหรอก"
+
+#. Id: 65091-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65090-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 65091-Dialogue.mod:0
+msgid "Scamming bastards."
+msgstr "พวกโสโครกจอมต้มตุ๋น"
+
+#. Id: 65092-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 65092-Dialogue.mod:0
+msgid "... Scamming adorable bastards."
+msgstr "...พวกโสโครกจอมต้มตุ๋นที่น่าเอ็นดู"
+
+#. Id: 65093-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65094-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#: 65093-Dialogue.mod:0
+msgid "Yeah but we gotta buy one of those lanterns while we're here though. It goes without saying."
+msgstr "ใช่ แต่ยังไงเราก็ต้องซื้อตะเกียงซักอันตอนที่เราอยู่ที่นี่นะ ไม่ต้องเถียงกันแล้ว"
+
+#. Id: 65099-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65097-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#: 65099-Dialogue.mod:0
+msgid "I'm right here, you know."
+msgstr "ข้าก็อยู่ที่นี่นะเฮ้ย"
+
+#. Id: 65100-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65099-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 65100-Dialogue.mod:0
+msgid "Don't act so innocent. You got a lot of repenting to do, I bet."
+msgstr "อย่ามาทำใสซื่อ เจ้ามีเรื่องให้ต้องไถ่โทษหลายเรื่องเลยสิท่า ข้าพนันได้เลย"
+
+#. Id: 65101-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65100-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#: 65101-Dialogue.mod:0
+msgid "Well your kind aren't so perfect either!"
+msgstr "แหม พวกเจ้าก็ไม่ได้สมบูรณ์แบบเหมือนกันละว้า!"
+
+#. Id: 65103-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (65102-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: biome vain
+#: 65103-Dialogue.mod:0
+msgid "Knock it off. You both breath, you both eat. To me, you're one and the same."
+msgstr "พอที พวกเจ้าทั้งคู่หายใจและกินได้เหมือนกัน สำหรับข้า พวกเจ้าก็เหมือนกันนั่นแหละ"
+
+#. Id: 65104-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (65103-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: biome vain
+#: 65104-Dialogue.mod:0
+msgid "The same imperfect, defective clones."
+msgstr "พวกไม่สมบูรณ์แบบเหมือนกัน ร่างโคลนที่บกพร่อง"
+
+#. Id: 65105-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (65104-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#. Id: 62934-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit being healed
+#: 65105-Dialogue.mod:0 62934-Dialogue.mod:0
+msgid "Ouch."
+msgstr "โอ๊ยย"
+

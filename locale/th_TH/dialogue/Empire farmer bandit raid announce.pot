@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 63746-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#. -- Condition: Who: TARGET, Condition: TOWN_WALLS_LOCKED_UP=1, Tag: -1
+#: 63746-Dialogue.mod:0
+msgid "Hello? Anybody home?"
+msgstr ""
+
+#. Id: 63746-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#. -- Condition: Who: TARGET, Condition: TOWN_WALLS_LOCKED_UP=1, Tag: -1
+#: 63746-Dialogue.mod:1
+msgid "Anyone here?"
+msgstr ""
+
+#. Id: 63748-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63746-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#: 63748-Dialogue.mod:0
+msgid "/IWE/ need help... "
+msgstr ""
+
+#. Id: 63749-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63748-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#: 63749-Dialogue.mod:0
+msgid "Please... send out your leader..."
+msgstr ""
+
+#. Id: 63749-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (63748-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#: 63749-Dialogue.mod:1
+msgid "Please... open the gates..."
+msgstr ""
+
+#. Id: 63749-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (63748-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#: 63749-Dialogue.mod:2
+msgid "Open up... please..."
+msgstr ""
+
+#. Id: 63749-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (63748-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#: 63749-Dialogue.mod:3
+msgid "Let us in... please..."
+msgstr ""
+
+#. Id: 63750-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63749-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#: 63750-Dialogue.mod:0
+msgid "/IWE/ need food... take mercy, please..."
+msgstr ""
+
+#. Id: 63750-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (63749-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#: 63750-Dialogue.mod:1
+msgid "/IWE/ need meds... have mercy on us, strangers..."
+msgstr ""
+
+#. Id: 63750-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (63749-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#: 63750-Dialogue.mod:2
+msgid "Have some compassion, please... /IMWERE/ dying here..."
+msgstr ""
+
+#. Id: 63750-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (63749-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#: 63750-Dialogue.mod:3
+msgid "... Anyone?"
+msgstr ""
+
+#. Id: 63750-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (63749-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#: 63750-Dialogue.mod:4
+msgid "... Please..."
+msgstr ""
+
+#. Id: 63750-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (63749-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#: 63750-Dialogue.mod:5
+msgid "... Have mercy... please..."
+msgstr ""
+
+#. Id: 64203-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64197-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#. Id: 98882-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base after victory
+#. Id: 41869-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#. Id: 98520-__March 18.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (98512-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 95972-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (95971-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. Id: 97476-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (96933-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. Id: 50318-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (50317-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 98858-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98857-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#. Id: 98147-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98145-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#. Id: 97498-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97497-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 1533222-__world reactions NE.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533221-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rebel farmer talk to
+#: 64203-Dialogue.mod:0 98882-Dialogue.mod:0 41869-Dialogue.mod:0 98520-__March?18.mod:0 95972-Dialogue.mod:0 97476-Dialogue.mod:0 50318-Dialogue.mod:2 98858-Dialogue.mod:0 98147-Dialogue.mod:0 97498-Dialogue.mod:0 1533222-__world?reactions?NE.mod:0
+msgid "Let's go."
+msgstr ""
+
+#. Id: 64203-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (64197-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#: 64203-Dialogue.mod:1
+msgid "Guess nobody here's gonna help us..."
+msgstr ""
+
+#. Id: 63751-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63746-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#. -- Condition: Who: TARGET, Condition: TOWN_WALLS_LOCKED_UP=0, Tag: -1
+#. Id: 63753-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#. -- Condition: Who: TARGET, Condition: TOWN_WALLS_LOCKED_UP=0, Tag: -1
+#. Id: 19736-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver Unlocked
+#. Id: 14122-Dialogue (4).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#. Id: 46018-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sundemon freed by captor
+#. -- Condition: My Sub-Race(s): Scorchlander
+#. Id: 17983-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked hiver ronin
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 63751-Dialogue.mod:0 63753-Dialogue.mod:0 19736-Dialogue.mod:2 14122-Dialogue?(4).mod:6 46018-Dialogue.mod:1 17983-Dialogue.mod:2
+msgid "It's open!"
+msgstr ""
+
+#. Id: 63754-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63751-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#: 63754-Dialogue.mod:0
+msgid "Grab all you can!"
+msgstr ""
+

@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55802-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton barman
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 55802-Dialogue.mod:0
+msgid "Sorry, we don't sell human food, I hope you brought your own... Need anything else?"
+msgstr ""
+
+#. Id: 55804-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skeleton barman
+#. Id: 65959-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (65958-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crabsmith
+#. Id: 95564-Mourn.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95563-Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader mourn
+#. Id: 48150-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48149-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering trader
+#. Id: 95585-__Mourn.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95584-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#. Id: 45027-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44626-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper trade
+#. Id: 56343-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56342-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Stone camp trader
+#. Id: 65878-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65872-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab salesman
+#. Id: 47214-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Travelling hive merchant
+#. Id: 182-gamedata.quack
+#. -- Index: 1.0
+#. -- Parent line: 0 (181-gamedata.quack)
+#. -- Speaker: Target (1)
+#. -- Group title: trader1
+#. Id: 1534130-__Fixes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534128-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Trade unlock
+#. Id: 55754-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55753-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Harmothoe trade
+#. Id: 58502-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58501-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Goat man standard trade
+#. Id: 95815-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95813-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Robotics shop black desert
+#. Id: 65947-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65946-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab barman
+#. Id: 55792-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55791-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Junkyard skeleton talk to
+#: 55804-Dialogue.mod:0 65959-Dialogue.mod:1 95564-Mourn.mod:0 48150-Dialogue.mod:0 95585-__Mourn.mod:0 45027-Dialogue.mod:0 56343-Dialogue.mod:0 65878-Dialogue.mod:0 47214-Dialogue.mod:0 182-gamedata.quack:0 1534130-__Fixes.mod:0 55754-Dialogue.mod:0 58502-Dialogue.mod:0 95815-Dialogue.mod:0 65947-Dialogue.mod:0 55792-Dialogue.mod:0
+msgid "Show me what you've got."
+msgstr "โชว์ให้ข้าดูสิว่าเจ้ามีอะไรบ้าง."
+
+#. Id: 55805-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skeleton barman
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 55805-Dialogue.mod:0
+msgid "Tell me about this place."
+msgstr ""
+
+#. Id: 55807-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55805-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton barman
+#: 55807-Dialogue.mod:0
+msgid "There's not a lot to say... We settled here after life grew chaotic on the outside. But those times were so long ago, no-one here has a clear memory of our days before the city. What we do know is that we're safer here, across acidic ground and hidden away from any warzones."
+msgstr ""
+
+#. Id: 55808-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55807-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton barman
+#: 55808-Dialogue.mod:0
+msgid "The only downside of our isolation is lack of occupation. Inactivity can be terribly unhealthy to some, both for the mind and the body."
+msgstr ""
+
+#. Id: 55806-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skeleton barman
+#. Id: 58504-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58501-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Goat man standard trade
+#: 55806-Dialogue.mod:0 58504-Dialogue.mod:0
+msgid "No, nevermind."
+msgstr ""
+
+#. Id: 55811-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton barman
+#: 55811-Dialogue.mod:0
+msgid "Finally gave up on life outside, did you? I don't blame you. Days are dull here but it beats trying to reason with the humans... and our disgruntled ones. Let them fix their own mess."
+msgstr ""
+
+#. Id: 55812-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55811-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton barman
+#: 55812-Dialogue.mod:0
+msgid "But, down to business. Here to trade?"
+msgstr ""
+
+#. Id: 55813-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton barman
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<100, Tag: -1
+#: 55813-Dialogue.mod:0
+msgid "Back already? What can I get you?"
+msgstr ""
+

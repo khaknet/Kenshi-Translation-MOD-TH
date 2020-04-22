@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 8270-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. Id: 96163-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sand ninja shoo
+#. Id: 45447-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#: 8270-Dialogue.mod:0 96163-Dialogue.mod:1 45447-Dialogue.mod:4
+msgid "Who are you?!"
+msgstr "เจ้าเป็นใคร?!"
+
+#. Id: 8273-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8270-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#: 8273-Dialogue.mod:0
+msgid "You've come to the wrong place, at the wrong time"
+msgstr "เจ้ามาผิดที่ ผิดเวลา"
+
+#. Id: 8273-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8270-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#: 8273-Dialogue.mod:1
+msgid "You should never have come here"
+msgstr "เจ้าไม่ควรมาที่นี่เลย"
+
+#. Id: 8273-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (8270-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#: 8273-Dialogue.mod:2
+msgid "I HATE people invading my space"
+msgstr "ข้าเกลียดคนบุกรุกถิ่นข้า"
+
+#. Id: 8274-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8270-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 8274-Dialogue.mod:0
+msgid "You come for my bounty, little worm?"
+msgstr "เจ้ามาล่าค่าหัวข้า ใช่ไหมเจ้าหนอนตัวจ้อย?"
+
+#. Id: 8274-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8270-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 8274-Dialogue.mod:1
+msgid "Come to get a piece of my bounty, little worm?"
+msgstr "คิดจะมาล่าหัวข้าสินะ เจ้าหนอนตัวจ้อย?"
+
+#. Id: 8276-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8274-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 8276-Dialogue.mod:0
+msgid "/QUICKLAUGH/, just you try it, boy"
+msgstr "/QUICKLAUGH/ งั้นก็ลองดูสิ ไอ้หนู"
+
+#. Id: 8276-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (8274-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 8276-Dialogue.mod:1
+msgid "/QUICKLAUGH/ I'd like to see you try it, boy"
+msgstr "/QUICKLAUGH/ ข้าอยากเห็นความพยายามของเจ้าจริง เจ้าหนู"
+
+#. Id: 8276-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (8274-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 8276-Dialogue.mod:2
+msgid "/QUICKLAUGH/, aw how cute"
+msgstr "/QUICKLAUGH/ อา ช่างน่ารักเสียนี่กระไร"
+
+#. Id: 8278-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8274-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#: 8278-Dialogue.mod:0
+msgid "/QUICKLAUGH/, just you try it"
+msgstr "/QUICKLAUGH/ มาลองดูเสียสิ"
+
+#. Id: 8278-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (8274-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#: 8278-Dialogue.mod:1
+msgid "/QUICKLAUGH/, I'd like to see you try it"
+msgstr "/QUICKLAUGH/ ข้าอยากเห็นความพยายามของเจ้า"
+
+#. Id: 8278-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (8274-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#: 8278-Dialogue.mod:2
+msgid "/QUICKLAUGH/, aw how precious"
+msgstr "/QUICKLAUGH/ อา ช่่างล้ำค่ายิ่ง"
+
+#. Id: 8289-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8289-Dialogue.mod:0
+msgid "You again, little worm?"
+msgstr "เจ้าอีกแล้วรึ เจ้าหนอนตัวจ้อย"
+
+#. Id: 8295-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8289-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#: 8295-Dialogue.mod:0
+msgid "Go on, I'm not going to beat you again. Stomping on ants isn't any fun"
+msgstr "เอาเลย ข้าไม่อัดเจ้าอีกหรอก กระทืบมดไปก็ไม่สนุกอะไร"
+
+#. Id: 8291-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 8291-Dialogue.mod:0
+msgid "You again? Bwahaha, come back for more?"
+msgstr "เจ้าอีกแล้วรึ? ก๊ากฮ่าฮ่าฮ่า กลับมาโดนเพิ่มรึไง?"
+

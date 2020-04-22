@@ -1,0 +1,610 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3225-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#: 3225-gamedata.base:0
+msgid "/OI/! Look at that guy!"
+msgstr "/OI/! ดูไอ้หมอนั่นเดะ!"
+
+#. Id: 3225-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#. Id: 3232-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (3225-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 3225-gamedata.base:2 3232-gamedata.base:1
+msgid "/OI/ /INSULT/!"
+msgstr ""
+
+#. Id: 3225-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#: 3225-gamedata.base:3
+msgid "/OI/, /YOU/!"
+msgstr ""
+
+#. Id: 3225-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#: 3225-gamedata.base:4
+msgid "/INSULT/! /OI/!"
+msgstr ""
+
+#. Id: 3225-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#: 3225-gamedata.base:5
+msgid "/OI/! /INSULT/!"
+msgstr ""
+
+#. Id: 3232-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (3225-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 3232-gamedata.base:0
+msgid "/OI/ /YOU/! /COWARD/ /BOY/!"
+msgstr ""
+
+#. Id: 3244-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (3243-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3244-gamedata.base:0
+msgid "You scared? You scared, /BOY/?"
+msgstr "เจ้ากลัวเหรอ? เจ้ากลัวอยู่ใช่ไหม /BOY/?"
+
+#. Id: 3244-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (3243-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3244-gamedata.base:1
+msgid "You afraid of me?"
+msgstr "เจ้ากลัวข้างั้นรึ?"
+
+#. Id: 3245-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (3244-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3245-gamedata.base:0
+msgid "RRAAARRR!!!"
+msgstr "อร๊ากกกก!!!"
+
+#. Id: 3766-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (3245-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3766-gamedata.base:0
+msgid "HAHA HA!"
+msgstr "ฮ่า ฮ่า ฮ่า!"
+
+#. Id: 3850-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (3766-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 3850-gamedata.base:0
+msgid "Mind if we follow you?"
+msgstr "เจ้าคงไม่ถือใช่มั้ยถ้าข้าจะตามเจ้าไป?"
+
+#. Id: 3850-gamedata.base
+#. -- Index: 6.1
+#. -- Parent line: 5 (3766-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 3850-gamedata.base:1
+msgid "Can we come with you?"
+msgstr "ข้าไปกับเจ้าได้ไหม?"
+
+#. Id: 3850-gamedata.base
+#. -- Index: 6.2
+#. -- Parent line: 5 (3766-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 3850-gamedata.base:2
+msgid "We're coming with you, /INSULT/."
+msgstr "พวกเราจะไปกับเจ้า /INSULT/."
+
+#. Id: 3851-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (3850-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3851-gamedata.base:0
+msgid "You /INSULT/s need protection around here. It's not safe."
+msgstr "เจ้า/INSULT/ ต้องได้รับการคุ้มครองขณะที่อยู่ที่นี่ มันไม่ปลอดภัย."
+
+#. Id: 3851-gamedata.base
+#. -- Index: 7.1
+#. -- Parent line: 6 (3850-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3851-gamedata.base:1
+msgid "We should look after you. You look weak."
+msgstr "เราควรดูแลเจ้า เจ้าดูอ่อนด๋อยมากเลย."
+
+#. Id: 3851-gamedata.base
+#. -- Index: 7.2
+#. -- Parent line: 6 (3850-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3851-gamedata.base:2
+msgid "We should band together for safety!"
+msgstr "เราควรเกาะกลุ่มกันไว้เพื่อความปลอดภัย!"
+
+#. Id: 3852-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (3851-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 3852-gamedata.base:0
+msgid "Give us some coin."
+msgstr "ส่งเงินมาให้พวกเราสักหน่อยสิ."
+
+#. Id: 3852-gamedata.base
+#. -- Index: 8.1
+#. -- Parent line: 7 (3851-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 3852-gamedata.base:1
+msgid "Do you have any money?"
+msgstr "เจ้ามีเงินบ้างไหม?"
+
+#. Id: 3852-gamedata.base
+#. -- Index: 8.2
+#. -- Parent line: 7 (3851-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 3852-gamedata.base:2
+msgid "Show us your money. We'll keep it safe."
+msgstr "เอาเงินเจ้าให้เราดู เราจะดูแลมันให้ปลอดภัยเอง."
+
+#. Id: 3854-gamedata.base
+#. -- Index: 9.0
+#. -- Parent line: 8 (3852-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3854-gamedata.base:0
+msgid "How much are you going to pay us?"
+msgstr "เจ้าจะจ่ายให้เราเท่าไหร่ล่ะ?"
+
+#. Id: 3854-gamedata.base
+#. -- Index: 9.1
+#. -- Parent line: 8 (3852-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3854-gamedata.base:1
+msgid "We can't do it for free, of course."
+msgstr "ขอให้รู้ไว้นะว่าเราไม่ทำงานฟรี ๆ."
+
+#. Id: 3854-gamedata.base
+#. -- Index: 9.2
+#. -- Parent line: 8 (3852-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3854-gamedata.base:2
+msgid "How much money have you got?"
+msgstr "เจ้ามีเงินอยู่กับตัวเท่าไหร่ล่ะ?"
+
+#. Id: 3854-gamedata.base
+#. -- Index: 9.3
+#. -- Parent line: 8 (3852-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3854-gamedata.base:3
+msgid "We can keep your valuables safe."
+msgstr "เราสามารถคุ้มครองของมีค่าให้เจ้าได้."
+
+#. Id: 3856-gamedata.base
+#. -- Index: 11.0
+#. -- Parent line: 10 (3855-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3856-gamedata.base:0
+msgid "/FUCKING/ pay us!"
+msgstr "/FUCKING/ จ่ายมาเร็ว ๆ เข้า!"
+
+#. Id: 3856-gamedata.base
+#. -- Index: 11.1
+#. -- Parent line: 10 (3855-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3856-gamedata.base:1
+msgid "Pay us!"
+msgstr "จ่ายเงินมาให้พวกข้า!"
+
+#. Id: 3856-gamedata.base
+#. -- Index: 11.2
+#. -- Parent line: 10 (3855-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3856-gamedata.base:2
+msgid "Give me some /FUCKING/ money!"
+msgstr "ส่งเงิิน/FUCKING/มาให้ข้า!"
+
+#. Id: 3859-gamedata.base
+#. -- Index: 13.0
+#. -- Parent line: 12 (3857-gamedata.base)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3859-gamedata.base:0
+msgid "Yeah! /FUCKING/ pay us, /INSULT/!"
+msgstr "นั่นแหล่ะ! /FUCKING/ จ่ายเงินมา /INSULT/!"
+
+#. Id: 3821-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (3810-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3821-gamedata.base:0
+msgid "/THREAT/! You /FUCKING/ /INSULT/! You /BASTARD/!"
+msgstr "/THREAT/! เจ้ามันไอ้/FUCKING//INSULT/! ไอ้/BASTARD/!"
+
+#. Id: 3746-gamedata.base
+#. -- Index: 1.2
+#. -- Parent line: 0 (3225-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=0, Tag: -1
+#: 3746-gamedata.base:2
+msgid "I'm talking to you, /INSULT/!"
+msgstr "ข้ากำลังพูดกับเจ้าอยู่ ไอ้/INSULT/!"
+
+#. Id: 3749-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3749-gamedata.base:1
+msgid "Come back you /COWARD/!"
+msgstr "กลับมานี่เดี๋ยวนี้เลย ไอ้/COWARD/!"
+
+#. Id: 3749-gamedata.base
+#. -- Index: 2.2
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3749-gamedata.base:2
+msgid "Why are you running away?"
+msgstr "เจ้าจะเปิดแน่บไปทำไมล่ะนั่น?"
+
+#. Id: 3749-gamedata.base
+#. -- Index: 2.4
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3749-gamedata.base:4
+msgid "Stop being a /COWARD/!"
+msgstr "หยุดทำตัว/COWARD/ซะที!"
+
+#. Id: 3749-gamedata.base
+#. -- Index: 2.5
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3749-gamedata.base:5
+msgid "Don't be a /COWARD/!"
+msgstr "อย่าทำตัว/COWARD/ได้มั้ย!"
+
+#. Id: 3749-gamedata.base
+#. -- Index: 2.6
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3749-gamedata.base:6
+msgid "We just want to talk!"
+msgstr "พวกเราแค่อยากพูดด้วยโว้ย!"
+
+#. Id: 3749-gamedata.base
+#. -- Index: 2.7
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3749-gamedata.base:7
+msgid "Why are you running?"
+msgstr "เจ้าจะวิ่งเพื่อ?"
+
+#. Id: 3752-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (3749-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: COPS_AROUND=1, Tag: -1
+#: 3752-gamedata.base:0
+msgid "Uh oh, cops."
+msgstr "อ่าฮะ พวกตำรวจ."
+
+#. Id: 3755-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (3749-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 3755-gamedata.base:0
+msgid "You can't hide forever, /INSULT/!"
+msgstr "เจ้าไม่สามารถหลบซ่อนได้ตลอดไปหรอก /INSULT/!"
+
+#. Id: 3757-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (3749-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3757-gamedata.base:0
+msgid "I /FUCKING/ give up."
+msgstr "/FUCKING/ ข้ายอมแพ้แล้ว"
+
+#. Id: 3757-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (3749-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3757-gamedata.base:1
+msgid "Screw this."
+msgstr "ช่างหัวมัน"
+
+#. Id: 3757-gamedata.base
+#. -- Index: 3.2
+#. -- Parent line: 2 (3749-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3757-gamedata.base:2
+msgid "Fuck it!"
+msgstr "ช่างหัวแม่งแล้ว!"
+
+#. Id: 3757-gamedata.base
+#. -- Index: 3.3
+#. -- Parent line: 2 (3749-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3757-gamedata.base:3
+msgid "Ah for fuck's sake."
+msgstr "อ้า แม่งเอ๊ย!"
+
+#. Id: 3758-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (3757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3758-gamedata.base:0
+msgid "/FUCKING/ /COWARD/!"
+msgstr ""
+
+#. Id: 3758-gamedata.base
+#. -- Index: 4.2
+#. -- Parent line: 3 (3757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3758-gamedata.base:2
+msgid "Gutless /BASTARD/!"
+msgstr "ไอ้/BASTARD/ตาขาว!"
+
+#. Id: 3751-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3751-gamedata.base:0
+msgid "/OI/! Come here!"
+msgstr "/OI/! มานี่ซิ!"
+
+#. Id: 3751-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3751-gamedata.base:1
+msgid "We're gonna have words!"
+msgstr "เราต้องคุยกันหน่อยแล้ว!"
+
+#. Id: 3751-gamedata.base
+#. -- Index: 2.2
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3751-gamedata.base:2
+msgid "What are you looking at?"
+msgstr "เจ้ามองหาอะไรอยู่หรือ?"
+
+#. Id: 3751-gamedata.base
+#. -- Index: 2.3
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3751-gamedata.base:3
+msgid "Think you are strong?"
+msgstr "เจ้าคิดว่าตนเองแข็งแกร่งมากสินะ?"
+
+#. Id: 3274-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3274-gamedata.base:1
+msgid "Raaarrrgggghhh!!!!"
+msgstr "ย้ากกกกกกก!!!!"
+
+#. Id: 3847-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=0, Tag: -1
+#: 3847-gamedata.base:1
+msgid "/OI/! OI!"
+msgstr "/OI/! เฮ้!"
+
+#. Id: 3847-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=0, Tag: -1
+#: 3847-gamedata.base:2
+msgid "Oi oi oi!"
+msgstr "เฮ่ เฮ่ เฮ้ย!"
+
+#. Id: 3861-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (3847-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 3861-gamedata.base:0
+msgid "What you doing, /INSULT/?"
+msgstr "เจ้าทำอะไรอยู่ ไอ้/INSULT/?"
+
+#. Id: 3861-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (3847-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 3861-gamedata.base:1
+msgid "Hey, /INSULT/."
+msgstr "เฮ่ ไอ้/INSULT/."
+
+#. Id: 3863-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (3861-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3863-gamedata.base:0
+msgid "Hey."
+msgstr "เฮ้."
+
+#. Id: 3863-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (3861-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3863-gamedata.base:1
+msgid "Oi."
+msgstr "เฮ่."
+
+#. Id: 3865-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (3864-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 3867-gamedata.base
+#. -- Index: 6.1
+#. -- Parent line: 5 (3866-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 3865-gamedata.base:0 3867-gamedata.base:1
+msgid "Where you going?"
+msgstr "เจ้าจะไปไหน?"
+
+#. Id: 3865-gamedata.base
+#. -- Index: 4.2
+#. -- Parent line: 3 (3864-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3865-gamedata.base:2
+msgid "What are you doing, /INSULT/?"
+msgstr "เจ้ากำลังทำอะไร ไอ้/INSULT/?"
+
+#. Id: 3866-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (3865-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3866-gamedata.base:0
+msgid "Where you going, /INSULT/?"
+msgstr "เจ้าจะไปไหน ไอ้/INSULT/?"
+
+#. Id: 3866-gamedata.base
+#. -- Index: 5.2
+#. -- Parent line: 4 (3865-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3866-gamedata.base:2
+msgid "Hey. /INSULT/."
+msgstr "เฮ้ /INSULT/."
+
+#. Id: 3867-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (3866-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 3867-gamedata.base:0
+msgid "Where you /INSULT/s going?"
+msgstr "ไอ้/INSULT/ เจ้าจะไปไหน?"
+
+#. Id: 3867-gamedata.base
+#. -- Index: 6.2
+#. -- Parent line: 5 (3866-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 3867-gamedata.base:2
+msgid "Hey. /YOU/."
+msgstr "เฮ้ /YOU/"
+
+#. Id: 3873-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (3867-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3873-gamedata.base:0
+msgid "/INSULT/? Are you /FUCKING/ listening?"
+msgstr "/INSULT/? /FUCKING/ เจ้าฟังอยู่หรือเปล่าเนี่ย?"
+
+#. Id: 3873-gamedata.base
+#. -- Index: 7.1
+#. -- Parent line: 6 (3867-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3873-gamedata.base:1
+msgid "Hey, /INSULT/?"
+msgstr "เฮ้ /INSULT/?"
+

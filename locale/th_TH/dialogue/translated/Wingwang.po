@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1700-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1700-gamedata.base:0
+msgid "Dare you engage the might of Infinite Wingwang? Dare you?!"
+msgstr ""
+
+#. Id: 1701-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1700-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1701-gamedata.base:0
+msgid "Sorry, I thought you were someone else."
+msgstr ""
+
+#. Id: 1702-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1700-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1702-gamedata.base:0
+msgid "What do you mean? You want a fight?"
+msgstr ""
+
+#. Id: 1703-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (1702-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1703-gamedata.base:0
+msgid "Infinite Wingwang is for hire! So hire him! Leap on this rare and valuable opportunity you must!"
+msgstr ""
+
+#. Id: 1704-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (1703-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#. Id: 15062-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15061-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. Id: 47473-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47470-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#. Id: 1766-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. Id: 8834-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8832-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#: 1704-gamedata.base:0 15062-Dialogue.mod:0 47473-Dialogue.mod:0 1766-gamedata.base:0 8834-Dialogue.mod:0
+msgid "How much?"
+msgstr "เท่าไหร่ละ?"
+
+#. Id: 1706-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (1704-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1706-gamedata.base:0
+msgid "Infinite Wingwang is no small purchase my feathered friend! Infinite Wingwang costs 100,000 Catan credits. No less!"
+msgstr ""
+
+#. Id: 1707-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (1706-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1707-gamedata.base:0
+msgid "Wow really? Sure I will hire you!"
+msgstr ""
+
+#. Id: 1725-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (1707-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1725-gamedata.base:0
+msgid "Have you the hunndddrrred thouuuuusaaaannndddd?"
+msgstr ""
+
+#. Id: 1727-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (1725-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>100000
+#: 1727-gamedata.base:0
+msgid "Sure do! Take it!"
+msgstr ""
+
+#. Id: 1729-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (1727-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1729-gamedata.base:0
+msgid "Infinite Wingwang, is yours!"
+msgstr ""
+
+#. Id: 1732-gamedata.base
+#. -- Index: 9.0
+#. -- Parent line: 8 (1729-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#. Id: 1734-gamedata.base
+#. -- Index: 9.0
+#. -- Parent line: 8 (1713-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1732-gamedata.base:0 1734-gamedata.base:0
+msgid "[END]"
+msgstr ""
+
+#. Id: 1708-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (1706-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1708-gamedata.base:0
+msgid "I'll give you 4000, and I'm changing your name."
+msgstr ""
+
+#. Id: 1709-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (1708-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1709-gamedata.base:0
+msgid "Are you mad!? You can't just change Infinite Wingwangs name just like some kind of mad wizard!"
+msgstr ""
+
+#. Id: 1711-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (1709-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1711-gamedata.base:0
+msgid "Um, 5000?"
+msgstr ""
+
+#. Id: 1713-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (1711-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>5000
+#: 1713-gamedata.base:0
+msgid "Deal! [He begins dancing on the spot like some kind of madman.  Everybody is staring]"
+msgstr ""
+
+#. Id: 1719-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (1711-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1719-gamedata.base:0
+msgid "You cannot afford Infinite Wingwang. Infinite Wingwang is sad for you."
+msgstr ""
+
+#. Id: 1712-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (1709-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1712-gamedata.base:0
+msgid "Ok, 10,000."
+msgstr ""
+
+#. Id: 1714-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (1712-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#. Id: 49807-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49803-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#. Id: 49843-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49841-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#. Id: 43690-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (43685-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#. Id: 5195-gamedata.base
+#. -- Index: 3.3
+#. -- Parent line: 2 (5193-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#: 1714-gamedata.base:0 49807-Dialogue.mod:0 49843-Dialogue.mod:0 43690-Dialogue.mod:0 5195-gamedata.base:3
+msgid "Never!"
+msgstr ""
+
+#. Id: 1715-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (1709-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1715-gamedata.base:0
+msgid "Forget it then."
+msgstr ""
+
+#. Id: 1710-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (1706-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1710-gamedata.base:0
+msgid "Pfft, get out of here."
+msgstr ""
+
+#. Id: 1720-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (1706-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1720-gamedata.base:0
+msgid "What!? I could get 10 Infinite Wingwangs for that!"
+msgstr ""
+
+#. Id: 1721-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (1720-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1721-gamedata.base:0
+msgid "Fakes! You don't want 10 fake Infinite Wingwangs!  What on earth would you do with them?"
+msgstr ""
+
+#. Id: 1722-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (1721-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1722-gamedata.base:0
+msgid "Maybe I do."
+msgstr ""
+
+#. Id: 1723-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (1722-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1723-gamedata.base:0
+msgid "Very well, 10,000 cats. Hows that?"
+msgstr ""
+
+#. Id: 1705-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (1703-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#. Id: 1534198-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534196-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skin bandit talk to ally
+#. Id: 47636-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47632-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skeleton for hire 700
+#. Id: 1383-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (1377-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. Id: 1748-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1746-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 5000
+#: 1705-gamedata.base:0 1534198-Dialogue.mod:0 47636-Dialogue.mod:0 1383-gamedata.base:0 1748-gamedata.base:0
+msgid "No thanks."
+msgstr ""
+

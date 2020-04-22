@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12591-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE
+#. Id: 16024-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ looting ally
+#. Id: 40819-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting ally holy nation resident
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 19761-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from a hiver
+#. Id: 43510-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon witness thief
+#. -- Condition: My Sub-Race(s): Greenlander
+#. Id: 20058-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (20053-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver catches looter
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 20056-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (20054-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver catches looter
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 20057-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (20054-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver catches looter
+#. Id: 12802-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12591-gamedata.base:0 16024-Dialogue.mod:1 40819-Dialogue.mod:1 19761-Dialogue.mod:1 43510-Dialogue.mod:1 20058-Dialogue.mod:1 20056-Dialogue.mod:1 20057-Dialogue.mod:1 12802-Dialogue?(11)?(2).mod:4
+msgid "Looter!"
+msgstr ""
+

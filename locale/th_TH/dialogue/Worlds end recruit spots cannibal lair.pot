@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51190-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Worlds end recruit spots cannibal lair
+#: 51190-Dialogue.mod:0
+msgid "I guess this is the cannibal lair. We just need to head north without being swarmed by 'em..."
+msgstr ""
+
+#. Id: 51191-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51190-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Worlds end recruit spots cannibal lair
+#: 51191-Dialogue.mod:0
+msgid "The treasure will be marked by a flock of birds, we can't miss it. That's what the guy in the bar told me anyway."
+msgstr ""
+
+#. Id: 51193-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51192-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Worlds end recruit spots cannibal lair
+#: 51193-Dialogue.mod:0
+msgid "A guy in a bar? That's your source?!"
+msgstr ""
+
+#. Id: 51194-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51193-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Worlds end recruit spots cannibal lair
+#: 51194-Dialogue.mod:0
+msgid "More than a guy in a bar, he's a world famous tech hunter..."
+msgstr ""
+
+#. Id: 54018-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (51194-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Worlds end recruit spots cannibal lair
+#: 54018-Dialogue.mod:1
+msgid "Seems every bar-guy's a world famous tech hunter these days..."
+msgstr ""
+

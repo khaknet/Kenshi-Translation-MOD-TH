@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 65829-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 65829-Dialogue.mod:0
+msgid "I still hear the screams. In my dreams, in my wake..."
+msgstr "ข้าได้ยินเสียงกรีดร้อง. ในความฝัน,ก่อนที่จะสะดุ้งตื่น..."
+
+#. Id: 65830-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65830-Dialogue.mod:0
+msgid "Killing cannibals distracts the memories."
+msgstr ""
+
+#. Id: 65831-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 65831-Dialogue.mod:0
+msgid "They kill you slowly, keep your flesh fresh..."
+msgstr ""
+
+#. Id: 65832-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65831-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65832-Dialogue.mod:0
+msgid "Stay away from the cannibal camps, /OUTLANDER/."
+msgstr "อยู่ให้ห่างๆ จากค่ายของพวกมนุษย์กินคน, /OUTLANDER/."
+
+#. Id: 65833-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 65833-Dialogue.mod:0
+msgid "As long as I breathe, the savages will pay."
+msgstr "ตราบใดที่ข้ายังมีลมหายใจอยู่, พวกคนป่านั้นจักต้องชดใช้."
+
+#. Id: 65833-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 65833-Dialogue.mod:1
+msgid "The savages will pay for all they've done."
+msgstr "พวกป่าเถื่อนนั้นจะต้องชดใช้ ในสิ่งที่พวกมันเคยทำ."
+
+#. Id: 65833-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 65833-Dialogue.mod:2
+msgid "No one should suffer how we have..."
+msgstr ""
+
+#. Id: 65834-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65833-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65834-Dialogue.mod:0
+msgid "They'll all pay."
+msgstr "พวกมันทั้งหมด จะต้องชดใช้."
+
+#. Id: 65834-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (65833-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65834-Dialogue.mod:1
+msgid "Everyone's of 'em will pay."
+msgstr ""
+
+#. Id: 65834-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (65833-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65834-Dialogue.mod:2
+msgid "We'll wipe 'em out for good."
+msgstr ""
+
+#. Id: 65835-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65835-Dialogue.mod:0
+msgid "A gutter will eat you and get it over with..."
+msgstr ""
+
+#. Id: 65837-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65835-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65837-Dialogue.mod:0
+msgid "But a cannibal's pure evil, more savage than a beast."
+msgstr ""
+
+#. Id: 65840-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65838-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65840-Dialogue.mod:0
+msgid "... What did you say?"
+msgstr "... เจ้าพูดว่าอะไรนะ?"
+
+#. Id: 65839-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65840-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65839-Dialogue.mod:0
+msgid "No, I think YOU'VE had too much grog!"
+msgstr ""
+
+#. Id: 65841-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65841-Dialogue.mod:0
+msgid "Nearly outta grog. Who's gonna restock?"
+msgstr ""
+
+#. Id: 65841-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65841-Dialogue.mod:1
+msgid "Nearly outta booze. Who's turn for rum runnin'?"
+msgstr ""
+
+#. Id: 65842-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65841-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65842-Dialogue.mod:0
+msgid "Gotta drown out the screams somehow, ain't we?"
+msgstr ""
+
+#. Id: 65842-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (65841-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65842-Dialogue.mod:1
+msgid "Ain't facin' no cannibals sober... *hiccup*"
+msgstr ""
+
+#. Id: 65842-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (65841-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65842-Dialogue.mod:2
+msgid "I'm startin' to sober up."
+msgstr ""
+
+#. Id: 65843-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 65843-Dialogue.mod:1
+msgid "When you've seen the things I've seen, sleep ain't an option anymore."
+msgstr ""
+
+#. Id: 65843-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 65843-Dialogue.mod:2
+msgid "Sleep? Who needs sleep anyway?"
+msgstr ""
+
+#. Id: 65843-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 65843-Dialogue.mod:3
+msgid "The nightmares never go away. We keep killing but they never go away."
+msgstr ""
+
+#. Id: 65844-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65844-Dialogue.mod:0
+msgid "Wanna try your hand at hunting, eh?"
+msgstr ""
+
+#. Id: 65844-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65844-Dialogue.mod:1
+msgid "Here to busy yourself caving cannibal skulls, eh?"
+msgstr ""
+
+#. Id: 65844-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65844-Dialogue.mod:2
+msgid "New recruit? Don't look like no hunter to me."
+msgstr ""
+
+#. Id: 65844-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65844-Dialogue.mod:3
+msgid "Stay out of the outlands if you know what's good for you."
+msgstr ""
+
+#. Id: 65844-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65844-Dialogue.mod:4
+msgid "Everything outside of the city wants to eat you, /OUTLANDER/."
+msgstr ""
+
+#. Id: 65844-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65844-Dialogue.mod:5
+msgid "Some advice, /OUTLANDER/... Stay inside, and lock the door behind you."
+msgstr "ขอแนะนำนะ, /OUTLANDER/... เข้าข้างใน, และล็อคประตูข้างหลังเจ้า."
+
+#. Id: 65845-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 65845-Dialogue.mod:0
+msgid "And what are you here for?"
+msgstr "แล้วเจ้ามาที่นี่เพื่ออะไร?"
+
+#. Id: 65846-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65845-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65846-Dialogue.mod:0
+msgid "Ain't nothing here but hunters drunk on grog... and vengeance."
+msgstr ""
+
+#. Id: 65862-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65862-Dialogue.mod:0
+msgid "There are two types of victims who survive the cannibal camps..."
+msgstr ""
+
+#. Id: 65863-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65862-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65863-Dialogue.mod:0
+msgid "Those that hide in the city, and those that get revenge. "
+msgstr ""
+

@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50578-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shop
+#: 50578-rebirth.mod:0
+msgid "Fish!  Get your fish!"
+msgstr ""
+
+#. Id: 50578-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shop
+#: 50578-rebirth.mod:1
+msgid "Looking for fish?"
+msgstr ""
+
+#. Id: 50578-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shop
+#: 50578-rebirth.mod:2
+msgid "Best fish in the village!"
+msgstr ""
+
+#. Id: 50578-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shop
+#: 50578-rebirth.mod:3
+msgid "Need some fish?"
+msgstr ""
+
+#. Id: 50578-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shop
+#: 50578-rebirth.mod:4
+msgid "In need of fish?"
+msgstr ""
+
+#. Id: 50578-rebirth.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shop
+#: 50578-rebirth.mod:5
+msgid "Buy my fish?"
+msgstr ""
+
+#. Id: 50579-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50578-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: fish shop
+#: 50579-rebirth.mod:0
+msgid "Show me your fish"
+msgstr ""
+
+#. Id: 50579-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50578-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: fish shop
+#: 50579-rebirth.mod:1
+msgid "Lets trade fish"
+msgstr ""
+
+#. Id: 50579-rebirth.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (50578-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: fish shop
+#: 50579-rebirth.mod:2
+msgid "I'm looking for fish"
+msgstr ""
+

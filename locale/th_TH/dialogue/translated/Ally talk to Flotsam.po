@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1532996-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#: 1532996-Dialogue.mod:0
+msgid "The Phoenix and his two inquisitors, Seta and Valtena, form a strong defensive triangle between the three of them. The High Inquisitors fortify the enemy perimeters, but take them out and the Holy Nation will start to crack."
+msgstr "The Phoenix และเหล่าเจ้าหน้าที่ไต่สวนระดับสูง Seta กับ Valtena พวกมันทั้งสามเมื่ออยู่รวมกันนั้นไร้เทียมทาน แต่ถ้าเกิดมีใครคนใดหายไปละก็ เมื่อนั้นจะเกิดรอยร้าวแก่ Holy nation แน่นอน."
+
+#. Id: 1532999-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532996-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam
+#. Id: 1533016-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533013-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam
+#: 1532999-Dialogue.mod:0 1533016-Dialogue.mod:0
+msgid "Where do I find the High Inquisitors?"
+msgstr "ข้าจะหาเจ้าหน้าที่ไต่สวนระดับสูงได้ที่ไหน?"
+
+#. Id: 1533000-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1532999-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#: 1533000-Dialogue.mod:0
+msgid "Seta controls Stack in the south west of the plains. Valtena you'll find in a military outpost, Okran's Shield, on the eastern border. Do not underestimate their hold on the Holy Nation, the two of them are probably smarter than the Phoenix himself - he was born into his role, remember, but those guys earned it with pure Okranite crazy and cunning."
+msgstr "Seta นั้นประจำการอยู่ที่ Stack ทางตะวันตกเฉียงใต้ของ the plain ส่วน Valtera ประจำการอยู่ที่ Okran's shield ทางชายแดนตะวันตก อย่าประมาทเด็ดขาด พวกมันทั้งสองนั้นฉลาดกว่า The Pheonix นายของมันเสียอีก จงจำไว้พวกมันเป็นพวก Orkranite ที่ทั้งบ้าคลั่งและฉลาด."
+
+#. Id: 1533001-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532996-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam
+#: 1533001-Dialogue.mod:0
+msgid "I'll do it. But I'm going to need some help."
+msgstr "ข้าจะทำมัน. แต่ข้าต้องการความช่วยนิดหน่อย."
+
+#. Id: 1533031-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533001-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#: 1533031-Dialogue.mod:0
+msgid "You're going in for the kill? You're one crazy /MAN/, /YOURNAME/... I'm glad to have you on my side."
+msgstr "เจ้ามาเพื่อฆ่างั้นเหรอ?เจ้านี่มันบ้าจริงๆ.ข้ารู้สึกโชคดีที่อยู่ข้างเดียวกับเจ้า./YOURNAME/"
+
+#. Id: 1533008-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533031-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#: 1533008-Dialogue.mod:0
+msgid "Calm it, /YOURNAME/. I've got a fort to hold and refugees to protect here, but my ninjas will help you."
+msgstr "ช้าก่อน /YOURNAME/.ข้าจำเป็นต้องปกป้องฐานแห่งนี้ แต่เหล่านินจาของข้าสามารถเข้าร่วมได้."
+
+#. Id: 1533013-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#: 1533013-Dialogue.mod:0
+msgid "Here. Find a patrol and give them this, they'll follow you right to the action... This is a fucking huge undertaking though, /YOURNAME/, make sure you're ready - I don't want my comrades' blood on my hands for nothing."
+msgstr "เอ้านี่. จงไปหาหน่วยลาดตะเวนของข้าแล้วแสดงสารนี้ให้พวกเขา พวกเขาจะติดตามเจ้าไปในการเข้าร่วมสงคราม.... นี่เป็นภารกิจที่โคตรสำคัญมาก /YOURNAME/ เจ้าจงไปเตรียมตัวให้พร้อม อย่าทำให้การเสียสละของเหล่าลูกน้องของข้าต้องสูญเปล่า."
+
+#. Id: 1533025-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533016-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#: 1533025-Dialogue.mod:0
+msgid "Seta controls Stack in the south west of the plains. Valtena you'll find in the military outpost, Okran's Shield, on the eastern border. Do not underestimate their hold on the Holy Nation, the two of them are probably smarter than the Phoenix himself - he was born into his role, remember, but those guys earned it with pure Okranite crazy and cunning."
+msgstr "Seta นั้นประจำการอยู่ที่ Stack ทางตะวันตกเฉียงใต้ของ the plain ส่วน Valtera ประจำการอยู่ที่ Okran's shield ทางชายแดนตะวันตก อย่าประมาทเด็ดขาด พวกมันทั้งสองนั้นฉลาดกว่า The Pheonix นายของมันเสียอีก จงจำไว้พวกมันเป็นพวก Orkranite ที่ทั้งบ้าคลั่งและฉลาด."
+
+#. Id: 1533017-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533013-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam
+#. Id: 1533002-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532996-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam
+#: 1533017-Dialogue.mod:0 1533002-Dialogue.mod:0
+msgid "What will happen after we destroy Phoenix and his inquisitors?"
+msgstr "จะเกิดอะไรขึ้นหลังจากพวกเราทำลาย Pheonix และเจ้าหน้าที่ไต่สวนระดับสูงของมัน?"
+
+#. Id: 1533027-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#. Id: 1533026-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533002-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#: 1533027-Dialogue.mod:0 1533026-Dialogue.mod:0
+msgid "Who can say? Those idiot okranites have pissed in a lot of people's soups. They've got a few enemies waiting for their chance at revenge, and a few disgruntled city goers itching for an uprising too. Hopefully all those enemies will clean the majority of the army up for us. Okran knows numbers aren't exactly on our side. Then? Then we'll do our best to free the holy servants and protect the survivors... the ones that don't try to fight us at least."
+msgstr "ใครจะรู้ล่ะ? พวก Okranite โง่เง่าพวกนั้นทำให้คนตั้งเยอะแยะเกลียดน้ำหน้า พวกมันมีศัตรูรอบด้านที่จ้องรอหาจังหวะแก้แค้น แถมมีเมืองในอาณัติที่ไม่พอใจที่พร้อมจะลุกขึ้นก่อกบฎตลอดเวลา หวังว่าศัตรูพวกนั้นจะช่วยลดปริมาณกำลังพลในกองทัพให้น้อยลงได้นะ Okran รู้ดีว่าปริมาณทหารไม่ใช่จุดแข็งของพวกเรา แล้วพวกเราก็จะพยายามปลดปล่อยพวกทาสและปกป้องพวกที่รอดชีวิต...พวกที่จะไม่พยายามสู้กับเราอ่ะนะ."
+
+#. Id: 1533018-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533013-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam
+#. Id: 1533003-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532996-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam
+#: 1533018-Dialogue.mod:0 1533003-Dialogue.mod:0
+msgid "Mm. Leave it to me."
+msgstr "หืม.ให้เป็นหน้าที่ข้าเอง."
+
+#. Id: 1533004-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533003-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#: 1533004-Dialogue.mod:0
+msgid "Wait... what?"
+msgstr "เดี๋ยวก่อน...อะไรนะ?"
+
+#. Id: 1533005-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533004-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#: 1533005-Dialogue.mod:0
+msgid "All on your own? Are you crazy?!"
+msgstr "ทั้งหมดด้วยตัวเจ้าเอง? เจ้าบ้ารึเปลล่า?!"
+
+#. Id: 1533006-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533005-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam
+#: 1533006-Dialogue.mod:0
+msgid "Sure am."
+msgstr "แน่นอน."
+
+#. Id: 1533022-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#: 1533022-Dialogue.mod:0
+msgid "Ha ha, good. It takes a crazy person to pull the trigger."
+msgstr "ฮ่า ฮ่า,ดี. มันต้องใช้คนที่บ้าพอเพื่อจะเหนียวไก."
+
+#. Id: 1533007-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533005-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam
+#: 1533007-Dialogue.mod:0
+msgid "If you want to get off your ass and help me, be my guest."
+msgstr "ถ้าหากแกอยากจะย้ายก้นแล้วมาช่วยข้าละก็,จะเป็นพระคุณมาก."
+
+#. Id: 1533009-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533005-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam
+#: 1533009-Dialogue.mod:0
+msgid "Just crazy for freedom."
+msgstr "ก็แค่บ้าเพื่ออิสระภาพ."
+
+#. Id: 1533010-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533009-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#: 1533010-Dialogue.mod:0
+msgid "Ugh, cut me the corny bullshit... But fine. You got balls, I'll give you that."
+msgstr "เฮ้อ หยุดโอ้อวดตัวแบบดาษ ๆ ซักที... แต่โอเค ข้ายอมรับ เจ้ากล้าหาญมาก."
+
+#. Id: 1533011-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533010-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#. Id: 1533188-__world reactions NE.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (1533185-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533011-Dialogue.mod:0 1533188-__world?reactions?NE.mod:0
+msgid "Good luck, /YOURNAME/."
+msgstr "โชคดี, /YOURNAME/."
+
+#. Id: 1533012-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533005-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam
+#: 1533012-Dialogue.mod:0
+msgid "Later, Moll. I'll be back soon."
+msgstr "แล้วเจอกันนะ Moll ข้าจะรีบกลับมา."
+
+#. Id: 1533015-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532996-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam
+#. Id: 95574-Mourn.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95569-Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader mourn
+#. Id: 95592-__Mourn.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95738-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#. Id: 49749-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49746-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Paladin Holy Nation info once only
+#. Id: 1533186-__world reactions NE.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1533184-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#. Id: 49767-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49646-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 50988-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50987-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 1533015-Dialogue.mod:0 95574-Mourn.mod:0 95592-__Mourn.mod:0 49749-Dialogue.mod:0 1533186-__world?reactions?NE.mod:0 49767-Dialogue.mod:0 50988-Dialogue.mod:0
+msgid "Thanks for the info."
+msgstr "ขอบคุณสำหรับข้อมูล."
+

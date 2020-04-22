@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 42045-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: eating sounds
+#: 42045-rebirth.mod:1
+msgid "*munch*"
+msgstr ""
+
+#. Id: 42045-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: eating sounds
+#: 42045-rebirth.mod:2
+msgid "*grind*"
+msgstr ""
+
+#. Id: 42045-rebirth.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: eating sounds
+#: 42045-rebirth.mod:6
+msgid "*bite*"
+msgstr ""
+
+#. Id: 42045-rebirth.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: eating sounds
+#: 42045-rebirth.mod:7
+msgid "*squelch*"
+msgstr ""
+

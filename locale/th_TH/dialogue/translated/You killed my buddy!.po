@@ -1,0 +1,562 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 7463-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7463-Dialogue.mod:0
+msgid "/AAH/! /THISGUY/! /THISGUY/ killed /NAME/!"
+msgstr ""
+
+#. Id: 7463-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7463-Dialogue.mod:1
+msgid "Whoa whoa whoa! /THISGUY/... /THISGUY/ murdered /NAME/!"
+msgstr ""
+
+#. Id: 7463-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7463-Dialogue.mod:2
+msgid "Hold up! /THISGUY/, this is the /GANG/ that killed /NAME/..."
+msgstr ""
+
+#. Id: 7463-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7463-Dialogue.mod:3
+msgid "FREEZE! You recognize /THISGUY/? It's /THISGUY/ that took out /NAME/"
+msgstr ""
+
+#. Id: 7463-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7463-Dialogue.mod:4
+msgid "Whoa, hold on a sec... This is the /GANG/ that killed /NAME/"
+msgstr ""
+
+#. Id: 7467-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7466-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#: 7467-Dialogue.mod:0
+msgid "What!? You're /FUCKING/ kidding me!"
+msgstr ""
+
+#. Id: 7467-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7466-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#: 7467-Dialogue.mod:1
+msgid "/WTF/!? You /FUCKING/ serious?"
+msgstr ""
+
+#. Id: 7467-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (7466-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#. Id: 16825-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 7140-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. Id: 10040-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10039-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#. Id: 20086-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver Ronin unnecessary get up
+#. Id: 18218-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (18217-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#. Id: 57919-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 7467-Dialogue.mod:2 16825-Dialogue.mod:0 7140-Dialogue.mod:1 10040-Dialogue?(7).mod:0 20086-Dialogue.mod:0 18218-Dialogue.mod:0 57919-Dialogue.mod:0
+msgid "No..."
+msgstr "ไม่..."
+
+#. Id: 7467-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (7466-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#: 7467-Dialogue.mod:3
+msgid "...It can't be..."
+msgstr ""
+
+#. Id: 7467-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (7466-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#: 7467-Dialogue.mod:4
+msgid "/THISGUY/?!"
+msgstr ""
+
+#. Id: 7467-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (7466-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#: 7467-Dialogue.mod:5
+msgid "/WTF/? /THISGUY/?"
+msgstr ""
+
+#. Id: 7467-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (7466-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#: 7467-Dialogue.mod:6
+msgid "Oh, /FUCK/ no! It better not be!"
+msgstr ""
+
+#. Id: 7468-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 7468-Dialogue.mod:0
+msgid "Hey /HEIS/ making a run for it! Don't let /HIM/ get away!"
+msgstr ""
+
+#. Id: 7468-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (7467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 7468-Dialogue.mod:1
+msgid "Wait, /HEIS/ doin' a runner! Don't let /HIM/ escape!"
+msgstr ""
+
+#. Id: 7468-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (7467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 7468-Dialogue.mod:2
+msgid "And /HEIS/ tryin' to do a /FUCKING/ runner! /FUCKVERB/ that!"
+msgstr ""
+
+#. Id: 7468-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (7467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 7468-Dialogue.mod:3
+msgid "/OI/, /HEIS/ tryin' to get away! Get /HIM/"
+msgstr ""
+
+#. Id: 7482-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7468-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#: 7482-Dialogue.mod:0
+msgid "/OI/ get back here!"
+msgstr ""
+
+#. Id: 7482-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (7468-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#: 7482-Dialogue.mod:1
+msgid "No! No, you get your /CRAPPY/ ass back here!"
+msgstr ""
+
+#. Id: 7482-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (7468-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#: 7482-Dialogue.mod:2
+msgid "/CRAPPY/ /INSULT/! You won't get away from me!"
+msgstr ""
+
+#. Id: 7482-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (7468-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#. Id: 41843-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16392-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 7482-Dialogue.mod:3 41843-Dialogue.mod:3
+msgid "You can't escape us!"
+msgstr ""
+
+#. Id: 7484-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7482-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7484-Dialogue.mod:0
+msgid "You're gonna /FUCKING/ die for what you've done!"
+msgstr ""
+
+#. Id: 7484-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (7482-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7484-Dialogue.mod:1
+msgid "An eye for an eye! You're gonna die!"
+msgstr ""
+
+#. Id: 7484-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (7482-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7484-Dialogue.mod:2
+msgid "You won't escape my wrath! /ARG/!"
+msgstr ""
+
+#. Id: 7484-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (7482-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7484-Dialogue.mod:3
+msgid "Come to me, sweet vengence! "
+msgstr ""
+
+#. Id: 7484-Dialogue.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (7482-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7484-Dialogue.mod:4
+msgid "I will finally have my REVENGE"
+msgstr ""
+
+#. Id: 7470-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7470-Dialogue.mod:0
+msgid "You'll /FUCKING/ die for what you've done!"
+msgstr ""
+
+#. Id: 7470-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (7467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7470-Dialogue.mod:1
+msgid "/OI/ YOU! An eye for an eye! You're gonna die!"
+msgstr ""
+
+#. Id: 7470-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (7467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7470-Dialogue.mod:2
+msgid "/OI/ /INSULT/! You're gonna PAY for what you did!"
+msgstr ""
+
+#. Id: 7470-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (7467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7470-Dialogue.mod:3
+msgid "/OI/ /BASTARD/! I'm gonna make you PAY for killing my friend!"
+msgstr ""
+
+#. Id: 7471-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7470-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#: 7471-Dialogue.mod:0
+msgid "/FUCK/! You'll never get away with this! Never!"
+msgstr ""
+
+#. Id: 7472-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7470-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#. -- Condition: Who: INTERJECTOR1, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. Id: 8307-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging
+#. Id: 46401-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (46400-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 46793-Dialogue.mod
+#. -- Index: 11.1
+#. -- Parent line: 10 (46792-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 1533832-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533831-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- beep randoms 2
+#. Id: 96237-__Southern hive.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (96236-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 7472-Dialogue.mod:0 8307-Dialogue.mod:2 46401-Dialogue.mod:2 46793-Dialogue.mod:1 1533832-rebirth.mod:0 96237-__Southern?hive.mod:0
+msgid "*sniff*"
+msgstr "*กระซิก*"
+
+#. Id: 7472-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (7470-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#. -- Condition: Who: INTERJECTOR1, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 7472-Dialogue.mod:1
+msgid ".. /AAH/..."
+msgstr ""
+
+#. Id: 7474-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7472-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7474-Dialogue.mod:0
+msgid "... Hey are you crying?... /AAH/ you made him cry! /FUCKVERB/ this!"
+msgstr ""
+
+#. Id: 7474-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (7472-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7474-Dialogue.mod:1
+msgid "Hey.. are you crying?... It's okay, we'll get /HIM/. We'll make /HIM/ squeal"
+msgstr ""
+
+#. Id: 7474-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (7472-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7474-Dialogue.mod:2
+msgid "... /WTF/, are you CRYING? You made him cry! Damn /BASTARD/!"
+msgstr ""
+
+#. Id: 7474-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (7472-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7474-Dialogue.mod:3
+msgid "Now you made my brother CRY, /FUCKING/ /BASTARD/ "
+msgstr ""
+
+#. Id: 7475-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (7474-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7475-Dialogue.mod:0
+msgid "You're gonna die! You're gonna rot!"
+msgstr ""
+
+#. Id: 7475-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (7474-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7475-Dialogue.mod:1
+msgid "I'm gonna make you bleed! Rot in hell!"
+msgstr ""
+
+#. Id: 7475-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (7474-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7475-Dialogue.mod:2
+msgid "Now I'm gonna make YOU cry!"
+msgstr ""
+
+#. Id: 7475-Dialogue.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (7474-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my buddy!
+#: 7475-Dialogue.mod:3
+msgid "Now I'm gonna make YOU cry! And NOT out of your eyes!"
+msgstr ""
+
+#. Id: 7477-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (7475-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#. Id: 65120-__october 17.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65097-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. Id: 66230-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#. Id: 43672-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43637-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: swamper gang protection money collection
+#. Id: 7792-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. Id: 17024-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17023-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 7477-Dialogue.mod:0 65120-__october?17.mod:0 66230-Dialogue.mod:2 43672-Dialogue.mod:0 7792-Dialogue.mod:0 17024-Dialogue.mod:0
+msgid "*gulp*"
+msgstr "*กลืนน้ำลาย*"
+
+#. Id: 7477-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (7475-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#. Id: 18652-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble witness lockpicking
+#. Id: 17814-Dialogue.mod
+#. -- Index: 3.12
+#. -- Parent line: 2 (17813-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shriek attack 2
+#. Id: 96304-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver freaks out protecting queen shoo
+#. Id: 18632-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble witnesses crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 60036-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy civilian sees carried target crowd trigger
+#. Id: 60037-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (60036-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy civilian sees carried target crowd trigger
+#. Id: 60045-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (60044-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy civilian sees carried target crowd trigger
+#: 7477-Dialogue.mod:1 18652-Dialogue.mod:1 17814-Dialogue.mod:12 96304-Dialogue.mod:2 18632-Dialogue.mod:0 60036-Dialogue.mod:1 60037-Dialogue.mod:1 60045-Dialogue.mod:2
+msgid "*gasp*"
+msgstr ""
+
+#. Id: 7477-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (7475-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#. Id: 62714-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (62709-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant visits player base
+#. Id: 66034-Dialogue.mod
+#. -- Index: 11.1
+#. -- Parent line: 10 (66033-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt4
+#: 7477-Dialogue.mod:2 62714-Dialogue.mod:0 66034-Dialogue.mod:1
+msgid "*heave*"
+msgstr "*มีอาการขย้อนเกือบอาเจียน*"
+
+#. Id: 7477-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (7475-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: You killed my buddy!
+#. Id: 55628-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: acid water
+#: 7477-Dialogue.mod:3 55628-rebirth.mod:0
+msgid "/ARG/! "
+msgstr "/ARG/!"
+

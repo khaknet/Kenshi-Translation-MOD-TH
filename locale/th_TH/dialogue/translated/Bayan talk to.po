@@ -1,0 +1,595 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 57011-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57011-Dialogue.mod:0
+msgid "The Stone Golem saves her energies for the art of combat. Not the art of gum flapping, as my lady describes it. And that's why I'm here. What do you want, outsider? And make it quick, I'm a busy man."
+msgstr "The Stone Golem เก็บแรงของนางไว้สำหรับศิลปะการต่อสู้ ไม่ใช่การใช้ปากพูดจาพร่ำเพรื่อ อย่างที่ผู้หญิงของข้าอธิบาย และนั่นคือเหตุผลที่ข้ามาที่นี่ เจ้าต้องการอะไรเจ้าคนนอก เร็วเข้า, ข้าไม่ค่อยว่าง."
+
+#. Id: 57012-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57011-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 57012-Dialogue.mod:0
+msgid "I wanted to propose an alliance."
+msgstr "ข้าต้องการเสนอการเป็นพันธมิตร."
+
+#. Id: 57015-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57012-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57015-Dialogue.mod:0
+msgid "... An alliance, you say?... [He stifles an odd-looking grin]"
+msgstr "...เป็นพันธมิตร, เจ้าพูด?...[เขายับยั้งรอยยิ้มที่ดูแปลกๆ]"
+
+#. Id: 57016-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57016-Dialogue.mod:0
+msgid "Hmph! The shek do not 'need' help. They win their battles by their own sword or they don't win them at all. It is one or the other. In the Shek Kingdom alliances are not handed out to nobodies like sake in a swamp... "
+msgstr "ฮึ่ม! Shek ไม่ต้องการความช่วยเหลือ พวกเขาชนะการต่อสู้ด้วยดาบของพวกเขาเองหรือพวกเขาจะไม่ชนะเลย มันเป็นอย่างใดอย่างหนึ่ง ในสหราชอาณาจักร Shek พันธมิตรไม่ได้แจกให้พวกบ้าชื่อเสียงง่ายๆ อย่างกับสาเกในบึง"
+
+#. Id: 57017-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 57017-Dialogue.mod:0
+msgid "How about I take care of your Berserker problem?"
+msgstr "แล้วถ้าเกิดข้าแก้ปัญหาเรื่อง Berserker ของท่านให้ล่ะ?"
+
+#. Id: 57021-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57021-Dialogue.mod:0
+msgid "Futility. You think the Stone Golem needs help dealing with lost kin? Let them do what they will, it is OUR business.... Next question, outlander!"
+msgstr "เปล่าประโยขน์ เจ้าคิดว่า Stone Golem ต้องการความช่วยเหลือในการจัดการกับพี่น้องที่หลงผิดรึ? ให้พวกมันทำที่มันอยากเถอะ นี่มันเรื่องของพวกข้า.... คำถามต่อไป, เจ้าคนนอก!"
+
+#. Id: 57018-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 57018-Dialogue.mod:0
+msgid "What if I kill the Phoenix for you?"
+msgstr "หากข้า ฆ่า Phoenix ให้ท่านล่ะ?"
+
+#. Id: 57022-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57018-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57022-Dialogue.mod:0
+msgid "Hm hm! Amusing. I dare you to bring him to me. Kill the Phoenix, or the Bugmaster for that matter, and I'll sing your praise until death takes me to the other side..."
+msgstr "อืมหืม! น่าขัน. ข้าท้าให้เจ้าพามันมาหาข้า ฆ่า Phoenix หรือ Bugmaster หากเจ้าทำได้ ข้าจะร้องเพลงสรรเสริญให้เจ้า จนกว่าความตายจะพาข้าไปอีกด้านหนึ่ง ..."
+
+#. Id: 57019-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 57019-Dialogue.mod:0
+msgid "Forget I ever asked. I have another question..."
+msgstr "ช่างคำถามมันเถอะ ข้ามีคำถามอื่น..."
+
+#. Id: 57023-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57019-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57023-Dialogue.mod:0
+msgid "Mmmmph... The Stone Golem was right. You outsiders do talk too much."
+msgstr "อืมมม... Stone Golem พูดถูก เจ้าเป็นคนนอกที่พูดมากจริงๆ"
+
+#. Id: 57020-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 57020-Dialogue.mod:0
+msgid "Your loss. I'll take my leave."
+msgstr "เจ้าแพ้ ข้าไปล่ะ."
+
+#. Id: 58615-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 58615-Dialogue.mod:0
+msgid "What if I kill the Bugmaster for you?"
+msgstr "หากข้า ฆ่า Bugmaster ให้ท่านล่ะ?"
+
+#. Id: 58616-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (58615-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 58616-Dialogue.mod:0
+msgid "Hm hm! Amusing. Kill the Bugmaster, or the Phoenix for that matter, and I'll sing your praise until death takes me to the other side..."
+msgstr "อืมหืม! น่าขัน. ฆ่า Bugmaster หรือ Phoenix ถ้ามันเกิดขึ้น ข้าจะร้องเพลงสรรเสริญให้เจ้า จนกว่าความตายจะพาข้าไปอีกด้านหนึ่งเลย ..."
+
+#. Id: 59001-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 59001-Dialogue.mod:0
+msgid "How about I donate funds to you?"
+msgstr "เอาเป็นว่าถ้าบริจาคเงินให้ล่ะ?"
+
+#. Id: 59002-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59001-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 59002-Dialogue.mod:0
+msgid "... [He raises an eyebrow and scowls]"
+msgstr "... [เขายกคิ้วและหน้าบึ้ง]"
+
+#. Id: 59003-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59002-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 59003-Dialogue.mod:0
+msgid "... Or not then."
+msgstr "... หรือไม่แล้ว."
+
+#. Id: 59006-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (59003-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 59006-Dialogue.mod:0
+msgid "[He shakes his head]"
+msgstr "[เขาส่ายหัว]"
+
+#. Id: 57389-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57012-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57389-Dialogue.mod:0
+msgid "An alliance, you say?"
+msgstr "เป็นพันธมิตร,เจ้าพูด?"
+
+#. Id: 57390-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57389-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57390-Dialogue.mod:0
+msgid "Mmh! An enemy of the Holy Nation is an ally of the Shek."
+msgstr "อืม! ศัตรูของพวก Holy Nation ย่อมเป็นพันธมิตรของ Shek"
+
+#. Id: 57391-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57389-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57391-Dialogue.mod:0
+msgid "With the mighty Bugmaster slayer? Mmh, it would be Esata's honor! An enemy of yours is an enemy of the Shek, kin."
+msgstr "กับผู้พิชิต Bugmaster ผู้เกรียงไกรรึ? มันเป็นเกียรติของ Esata! ศัตรูของเจ้าคือศัตรูของ Shek, พี่น้องข้า."
+
+#. Id: 57392-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57389-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57392-Dialogue.mod:0
+msgid "With the mighty Phoenix slayer? Mmh, it would be Esata's honor! An enemy of yours is an enemy of the Shek, kin."
+msgstr "กับผู้พิชิต Phoenix ผู้เกรียงไกรรึ? มันเป็นเกียรติของ Esata! ศัตรูของเจ้าคือศัตรูของ Shek, พี่น้องข้า."
+
+#. Id: 57024-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57389-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#: 57024-Dialogue.mod:0
+msgid "You've already earned our camaraderie, kin. An enemy of yours is an enemy of the Shek."
+msgstr "เจ้าได้รับการยอมรับแล้ว, พี่น้อง. ศัตรูของเจ้าคือศัตรูของ Shek."
+
+#. Id: 57072-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57024-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 57072-Dialogue.mod:0
+msgid "Then that is all. Thank you, Bayan."
+msgstr "แค่นั่นก็เพียงพอแล้ว. ขอบคุณ, Bayan"
+
+#. Id: 57393-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57389-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57393-Dialogue.mod:0
+msgid "Hmph! With a Holy Nation /MUTT/? No... It's us or them. In the Shek Kingdom alliances are not handed out like sake in a swamp..."
+msgstr "เฮอะ! กับพวก/MUTT/ Holy Nation รึ? ฝันไปเถอะ ... ไม่ว่าจะเป็นพวกเราหรือพวกมัน ในสหราชอาณาจักร Shek ความเป็นพันธมิตรไม่ได้แจกกันง่ายๆ เหมือนสาเกในบึง ..."
+
+#. Id: 59746-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57389-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#. Id: 59747-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57389-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 59746-Dialogue.mod:0 59747-Dialogue.mod:0
+msgid "Hmph! With YOUR allies? No... It's us or them. In the Shek Kingdom alliances are not handed out like sake in a swamp..."
+msgstr "เฮอะ! พันธมิตรกับพวกของเจ้ารึ? ฝันไปเถอะ ... ไม่ว่าจะเป็นพวกเราหรือพวกมัน ในสหราชอาณาจักร Shek พันธมิตรไม่ได้เป็นกันง่ายๆ เหมือนแจกสาเก ในบึง ..."
+
+#. Id: 57013-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57011-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 57013-Dialogue.mod:0
+msgid "What happened to your horns?"
+msgstr "เกิดอะไรขึ้นกับเขาของท่าน?"
+
+#. Id: 57025-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57013-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57025-Dialogue.mod:0
+msgid "[He winces, shrivels his face as if sucking on a sour greenfruit]"
+msgstr "[เขาสะดุ้ง, ใบหน้าเหี่ยวเฉา ราวกับดูดลูกเขียว]"
+
+#. Id: 57026-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57025-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57026-Dialogue.mod:0
+msgid "... Are my horns really that important to you, /OUTSIDER/?"
+msgstr "... เขาของข้ามีความสำคัญยังไงกับเจ้ารึ? /OUTSIDER/"
+
+#. Id: 57027-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57026-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 57027-Dialogue.mod:0
+msgid "Yeah, I mean, you're not a proper shek without them, right?"
+msgstr "เอ่อ, ข้าหมายความว่าหากไม่มีมันท่านก็ไม่ใช่ Shek จริงใช่ไหม?"
+
+#. Id: 57029-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57028-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57029-Dialogue.mod:0
+msgid "They were lost... I lost. Curse tradition, death is the easy path. I stand and face the consequences of defeat rather than cutting my shame short. I chose not to abandon the kingdom's cause for my own selfish preservation of honor. And because of that, I'm alive to fulfil my purpose. To serve the Stone Golem... "
+msgstr "พวกมันหายไป ... ข้าแพ้ ประเพณีต้องสาป เลือกความตายนั้นง่ายกว่า ข้าลุกขึ้นและเผชิญหน้ากับผลที่ตามมาของความพ่ายแพ้ มากกว่าที่จะลดความละอาย ข้าเลือกที่จะไม่ละทิ้งมูลเหตุของราชอาณาจักรเพื่อรักษาเกียรติอันเห็นแก่ตัวของตัวเองเอาไว้ และด้วยเหตุนี้ข้าจึงมีชีวิตอยู่เพื่อบรรลุวัตถุประสงค์ของข้า เพื่อรับใช้ Stone Golem ..."
+
+#. Id: 57030-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (57029-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57030-Dialogue.mod:0
+msgid "Hmph. So are you done with the senseless questions, /OUTSIDER/?"
+msgstr "เหอะ. เจ้าถามคำถามที่ไร้สติจริงๆ /OUTSIDER/?"
+
+#. Id: 57032-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (57031-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57032-Dialogue.mod:0
+msgid "Mmmmph, idiocy. Then make it quick. I grow bored of this incessant chatter..."
+msgstr "อืม. เจ้าโง่ งั้นรีบหน่อย ข้าเบื่อกับการพูดพล่อยไม่หยุดหย่อนนี้แล้ว."
+
+#. Id: 57065-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (57043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57065-Dialogue.mod:0
+msgid "Peace and quiet."
+msgstr "สันติและสงบสุข."
+
+#. Id: 57066-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (57043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>75, Tag: -1
+#. Id: 58295-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (57043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#. Id: 58296-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (57043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57066-Dialogue.mod:0 58295-Dialogue.mod:0 58296-Dialogue.mod:0
+msgid "Good. See you on the other side, kin."
+msgstr "ดี แล้วเจอกันอีกฝั่ง,พี่น้อง."
+
+#. Id: 57041-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57026-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 57041-Dialogue.mod:0
+msgid "I'm just curious how a mighty warrior such as yourself lost his horns..."
+msgstr "ข้าแค่อยากรู้ว่านักรบผู้ยิ่งใหญ่ เช่นท่านเสียเขาไปได้อย่างไร ..."
+
+#. Id: 57042-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57026-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 57042-Dialogue.mod:0
+msgid "They're not. I shouldn't have asked."
+msgstr "ไม่ใช่ตอนนี้. ข้าไม่ควรถาม."
+
+#. Id: 57068-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57011-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 57068-Dialogue.mod:0
+msgid "Can I speak with the Stone Golem?"
+msgstr "ข้าสามารถคุยกับ Stone Golem ได้หรือไม่?"
+
+#. Id: 57069-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57068-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57069-Dialogue.mod:0
+msgid "Impatience. I already told you, /OUTSIDER/, no... What business can a stranger wielding a rusted sword possibly have with the mighty Shek empress...?"
+msgstr "การขาดความอดทน ข้าได้บอกเจ้าไปแล้ว /OUTSIDER/, ฝันไปเถอะ ... คนแปลกหน้าที่มีดาบเหล็กขึ้นสนิม เป็นไปได้เหรอ ว่ามีธุระกับจักรพรรดิผู้ยิ่งใหญ่ Shek ... ?"
+
+#. Id: 57070-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57068-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>80, Tag: -1
+#: 57070-Dialogue.mod:0
+msgid "You may, kin. But, as I said before, the empress is not one for words."
+msgstr "เจ้าอาจได้ พี่น้อง แต่อย่างที่ข้าบอก จักรพรรดินีจะไม่ปริปากซักคำ."
+
+#. Id: 58293-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57068-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#. Id: 58294-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57068-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 58293-Dialogue.mod:0 58294-Dialogue.mod:0
+msgid "You may, kin. The empress will be honoured to meet such a warrior in the flesh."
+msgstr "เจ้าอาจได้ พี่น้อง จักพรรดินีถือเป็นเกียรติที่ได้พบนักรบตัวเป็นๆ"
+
+#. Id: 57014-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57011-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 57014-Dialogue.mod:0
+msgid "I've no business, sorry to disturb you."
+msgstr "ข้าไม่มีธุระ ขอโทษที่รบกวนท่าน."
+
+#. Id: 57035-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#: 57035-Dialogue.mod:0
+msgid "Honor to you, kin. As you know, the Stone Golem is not one for gum flapping as she so fondly describes it. That's what I'm here for. So, what do you need?"
+msgstr "เป็นเกียรติอย่างยิ่ง, พี่น้องข้า. อย่างที่เจ้ารู้, Stone Golem ไม่ใช่หนึ่งสิ่งที่ใครจะพูดพล่อยๆ ถึงนาง นั่นคือเหตุผลที่ข้ามาที่นี่. ดังนั้น, เจ้าต้องการอะไร?"
+
+#. Id: 57394-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57394-Dialogue.mod:0
+msgid "Honor to you, Phoenix slayer. What do you need?"
+msgstr "เป็นเกียรติอย่างยิ่ง, ผู้สังหาร Phoenix อะไรที่เจ้าต้องการ?"
+
+#. Id: 57395-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 57395-Dialogue.mod:0
+msgid "Honor to you, Bugmaster slayer. What do you need?"
+msgstr "เป็นเกียรติอย่างยิ่ง, ผู้สังหาร Bugmaster อะไรที่เจ้าต้องการ?"
+
+#. Id: 58544-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58541-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 58544-Dialogue.mod:0
+msgid "Mmh... It really is... Our most infamous of enemies."
+msgstr "อืม ... มันคือ ... ศัตรูที่น่าอับอายที่สุดของพวกข้า."
+
+#. Id: 58545-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58544-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 58545-Dialogue.mod:0
+msgid "Speak to Esata, kin. She'll be honored by your company."
+msgstr "คุยกับ Esata, พี่น้องข้า. นางจะให้เกียรติกับกลุ่มของท่าน."
+
+#. Id: 65371-__october 17 2.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64866-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 65371-__october?17?2.mod:0
+msgid "You'll go down in history for this, as a true ally of the Shek..."
+msgstr "ท่านจะถูกจารึกไปในประวัติศาสตร์สำหรับสิ่งนี้ ในฐานะพันธมิตรที่แท้จริงของ Shek ..."
+
+#. Id: 65372-__october 17 2.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65371-__october 17 2.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 65372-__october?17?2.mod:0
+msgid "It was nothing. I enjoyed the challenge."
+msgstr "มันไม่สำคัญหรอก. ข้าแค่สนุกกับการท้าทาย."
+
+#. Id: 65373-__october 17 2.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65371-__october 17 2.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 65373-__october?17?2.mod:0
+msgid "I just want my bounty. I'm not interested in your alliance... or gaining your enemies."
+msgstr "ข้าแค่ต้องการเงินรางวัล ข้าไม่สนใจพันธมิตรของท่าน ... หรือเป็นศัตรูกับท่าน."
+
+#. Id: 65374-__october 17 2.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65373-__october 17 2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 65374-__october?17?2.mod:0
+msgid "Pity. You'd make a fine Invincible."
+msgstr "น่าเสียดาย เจ้าจะกลายเป็นผู้ไร้เทียมมาน"
+
+#. Id: 59751-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 59751-Dialogue.mod:0
+msgid "Leave, Okranite /MUTT/. You're not welcome here."
+msgstr "ออกไปจาก, Okranite /MUTT/ เจ้าไม่ได้รับการต้อนรับที่นี่."
+
+#. Id: 59752-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 59752-Dialogue.mod:0
+msgid "Leave, Empire money grubber. You're not welcome here."
+msgstr "ออกไป, จักรวรรดิหน้าเงิน คนละโมบ เจ้าไม่ได้รับการต้อนรับที่นี่."
+
+#. Id: 59753-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 59753-Dialogue.mod:0
+msgid "An ally of the Traders Guild is no ally of the Shek. Leave."
+msgstr "พันธมิตรของ Traders Guild นั้นไม่ใช่พันธมิตรของ Shek ออกไป.."
+
+#. Id: 59755-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59754-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 59755-Dialogue.mod:0
+msgid "... Slain by an Okranite dog... Shame. Well, better take him to the Phoenix mutt since you kiss his feet so much."
+msgstr "ถูกสังหารโดยสุนัขชาว Okranite...น่าอับอาย อืม ควรพาตัวเขาไปให้สุนัข Phoenix นะ ไหน ๆ เจ้าก็คอยเลียแข้งเลียขามันอยู่แล้วนี่."
+
+#. Id: 66193-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59755-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#: 66193-Dialogue.mod:0
+msgid "I just want my reward... (Hand him over to Bayan)"
+msgstr "ข้าแค่ต้องการรางวัลของข้า ... (ส่งเขาไปให้ Bayan)"
+
+#. Id: 66194-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (66193-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 66194-Dialogue.mod:0
+msgid "Take your money and leave."
+msgstr "รับเงินของเจ้าแล้วไปซะ."
+
+#. Id: 59758-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59756-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 59758-Dialogue.mod:0
+msgid "Slain by an Empire boot licker... Shame. Such impressive skills wasted on such a loathsome allegiance..."
+msgstr "ถูกสังหารโดย พวกขี้ประจบของจักรวรรดิ ... อัปยศ ทักษะที่น่าประทับใจดังกล่าวสูญเปล่าไปกับความจงรักภักดีที่น่ารังเกียจ ..."
+
+#. Id: 59763-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59757-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 59763-Dialogue.mod:0
+msgid "Slain by an noble boot licker... Shame. Such impressive skills wasted on such a loathsome allegiance..."
+msgstr "ถูกสังหารโดย พวกขี้ประจบของขุนนาง ... อัปยศ ทักษะที่น่าประทับใจดังกล่าวสูญเปล่าไปกับความจงรักภักดีที่น่ารังเกียจ ..."
+
+#. Id: 59765-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 59765-Dialogue.mod:0
+msgid "... Hmph. Think I'd fall for your trickery, Empire boot licker? The Shek can't be fooled with gifts, and they certainly don't need the help of a United Cities /FLATSKIN/ to defeat their enemies!"
+msgstr "... หืมม คิดว่าข้าจะตกหลุมของเจ้า พวกขี้ข้าจอมประจบจักรวรรดิ? Shekไม่สามารถถูกหลอกได้ด้วยของขวัญ และแน่นอนพวกเขาไม่ต้องการความช่วยเหลือจาก United Cities. /FLATSKIN/เพื่อกำจัดศัตรู!"
+
+#. Id: 59766-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 59766-Dialogue.mod:0
+msgid "Take him away."
+msgstr "พามันออกไป."
+
+#. Id: 59769-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59767-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 59769-Dialogue.mod:0
+msgid "... Shame. Either an honorless dog stabs /HIS/ own king in the back, or a devious snake takes the Shek for fools..."
+msgstr "... ความอัปยศ. ไม่ว่าจะเป็นสุนัขที่ไร้เกียรติแทง /HIS/ กษัตริย์ของตัวเองจากด้านหลังหรืองูคดเคี้ยว มันทำให้ Shek ดูโง่ ..."
+
+#. Id: 59771-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59768-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#: 59771-Dialogue.mod:0
+msgid "... Hmph. Think I'd fall for your trickery, noble boot licker? The Shek can't be fooled with gifts, and they certainly don't need the help of a Traders Guild /FLATSKIN/ to defeat their enemies!"
+msgstr "... หืมม คิดว่าข้าจะตกหลุมของเจ้า พวกขี้ข้าจอมประจบขุนนาง? Shek ไม่สามารถถูกหลอกได้ด้วยของขวัญและแน่นอนพวกเขาไม่ต้องการความช่วยเหลือจาก Traders Guild /FLATSKIN/ เพื่อเอาชนะศัตรูของพวกเขา!"
+

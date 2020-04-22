@@ -1,0 +1,2400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 19086-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19086-Dialogue.mod:0
+msgid "Unholy beasts are not to roam freely on /MYFACTION/ soil..."
+msgstr ""
+
+#. Id: 19086-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19086-Dialogue.mod:1
+msgid "Dark beasts are not to stray on /MYFACTION/ /LAND/..."
+msgstr ""
+
+#. Id: 19086-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19086-Dialogue.mod:2
+msgid "Unholy beasts are not welcome on Holy Nation /LAND/..."
+msgstr ""
+
+#. Id: 19086-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19086-Dialogue.mod:3
+msgid "This is /SACRED/ soil of Okran, unholy beasts aren't welcome..."
+msgstr ""
+
+#. Id: 19086-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19086-Dialogue.mod:4
+msgid "You're on /SACRED/ /LAND/ of Okran, /OUTLANDER/, where dark beasts cannot stray freely..."
+msgstr ""
+
+#. Id: 19087-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19086-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19087-Dialogue.mod:0
+msgid "Tell me, who do you serve, /OUTLANDER/? And what is this foreign beast doing with you?.. /TALK/!"
+msgstr ""
+
+#. Id: 19087-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19086-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19087-Dialogue.mod:1
+msgid "Who are you, who do you serve, /OUTLANDER/? And why are you with this foreign beast?... /TALK/!"
+msgstr ""
+
+#. Id: 19087-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (19086-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19087-Dialogue.mod:2
+msgid "What is this foreign beast doing here? And who is it that you serve, /OUTLANDER/? Who are you?"
+msgstr ""
+
+#. Id: 19088-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19088-Dialogue.mod:0
+msgid "I serve no one. And this is my companion, no beast!"
+msgstr ""
+
+#. Id: 19088-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (19087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19088-Dialogue.mod:1
+msgid "I serve me and no-one else. And my companion here is no beast!"
+msgstr ""
+
+#. Id: 19094-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19094-Dialogue.mod:0
+msgid "Beast-loving /TERRORIST/. It is the faithless like you who will endanger our pure society... Your kind aren't welcome on /MYFACTION/ soil! "
+msgstr ""
+
+#. Id: 19094-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (19088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19094-Dialogue.mod:1
+msgid "Beast-loving /TERRORIST/s are not to tread on sacred soil of /MYFACTION/! Your actions will put us all at risk!"
+msgstr ""
+
+#. Id: 19094-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (19088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19094-Dialogue.mod:2
+msgid "Beast-fornicating /TERRORIST... People like you are a danger to society! The beasts will not roam freely on this land!"
+msgstr ""
+
+#. Id: 19094-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (19088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19094-Dialogue.mod:3
+msgid "Beast-philandering /TERRORIST! The Holy Nation has no patience for close-minded beast sympathisers like you..."
+msgstr ""
+
+#. Id: 19089-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19089-Dialogue.mod:0
+msgid "I serve the Lord Okran, This is my friend."
+msgstr ""
+
+#. Id: 19089-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (19087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19089-Dialogue.mod:1
+msgid "I serve the Lord of Light, Okran. This is my companion."
+msgstr ""
+
+#. Id: 19089-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (19087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19089-Dialogue.mod:2
+msgid "I am a disciple of Okran. And this is my friend."
+msgstr ""
+
+#. Id: 19093-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19089-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19093-Dialogue.mod:0
+msgid "Under the law of the Holy Lord Phoenix Himself, Blessed Be His Name, all non-humans are to be rebirthed in the doctrine of Okran. Are you a sympathiser of the dark beasts, /OUTLANDER/? Or are you a true follower of Okran?"
+msgstr ""
+
+#. Id: 19149-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19093-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19149-Dialogue.mod:0
+msgid "Of course. I trust in Okran (Surrender all non-humans in party)"
+msgstr ""
+
+#. Id: 19149-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (19093-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19149-Dialogue.mod:1
+msgid "Of course, I trust in the Holy Lord Phoenix (Surrender all non-humans in party)"
+msgstr ""
+
+#. Id: 40771-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19093-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#. Id: 43203-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19101-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40771-Dialogue.mod:0 43203-Dialogue.mod:0
+msgid "Dark beasts? They've done nothing wrong..."
+msgstr ""
+
+#. Id: 40771-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (19093-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#. Id: 43203-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (19101-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40771-Dialogue.mod:1 43203-Dialogue.mod:1
+msgid "Dark beasts? Why do they need to be rebirthed?"
+msgstr ""
+
+#. Id: 40775-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (40771-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. Id: 43204-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43203-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40775-Dialogue.mod:0 43204-Dialogue.mod:0
+msgid "Darkness lingers in their impure hearts, and they will /TAINT/ yours too! Don't be fooled, /OUTLANDER/! Hand them over, for the good of our holy society..."
+msgstr ""
+
+#. Id: 40772-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19093-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40772-Dialogue.mod:0
+msgid "... Can I be neutral?"
+msgstr ""
+
+#. Id: 40772-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (19093-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40772-Dialogue.mod:1
+msgid "... How about neither?"
+msgstr ""
+
+#. Id: 40776-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (40772-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40776-Dialogue.mod:0
+msgid "No! An undisciplined pure-blood is only a danger to the purity of our holy society!... And I think you've already made your choice..."
+msgstr ""
+
+#. Id: 43201-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43200-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43201-Dialogue.mod:0
+msgid "Your silence says it all. "
+msgstr ""
+
+#. Id: 40773-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19093-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40773-Dialogue.mod:0
+msgid "I follow Okran. But not YOUR skewed notion of it."
+msgstr ""
+
+#. Id: 40773-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (19093-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40773-Dialogue.mod:1
+msgid "I'm loyal to Okran, but not your twisted vision of it."
+msgstr ""
+
+#. Id: 19101-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19089-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19101-Dialogue.mod:0
+msgid "Man cannot be friends with the dark beast... Redeem yourself, /BROTHER/, surrender them to the Holy Nation for Rebirth. Okran is forgiving of the pure-blooded, but you must first show faith..."
+msgstr ""
+
+#. Id: 43202-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19101-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43202-Dialogue.mod:0
+msgid "Are you out of your mind? I want no part of your crazy religion!"
+msgstr ""
+
+#. Id: 43206-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43205-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43206-Dialogue.mod:0
+msgid "You protest too much, /OUTLANDER/. No Okranite would choose loyalty for these untamed beasts above the Lord Okran!"
+msgstr ""
+
+#. Id: 19090-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19090-Dialogue.mod:0
+msgid "I serve the Lord Okran! This beast is my slave."
+msgstr ""
+
+#. Id: 19102-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19090-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19102-Dialogue.mod:0
+msgid "Under the law of the Holy Lord Phoenix Himself, Blessed Be His Name, all non-humans are to be rebirthed in the doctrine of Okran. Slavery is a cruel thing, /BROTHER/. You will submit your slave so that it can serve a higher cause."
+msgstr ""
+
+#. Id: 19102-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (19090-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19102-Dialogue.mod:1
+msgid "Slavery is a hideous thing, /BROTHER/. Okran is a god of mercy, you should submit your slave so that it can serve a holy and righteous cause. Submit it for rebirth in the doctrine of Okran."
+msgstr ""
+
+#. Id: 19137-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19102-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19137-Dialogue.mod:0
+msgid "Wait... Rebirth?"
+msgstr ""
+
+#. Id: 19137-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (19102-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19137-Dialogue.mod:1
+msgid "Rebirth? What's that?"
+msgstr ""
+
+#. Id: 19142-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19142-Dialogue.mod:0
+msgid "To be educated in the teachings of Okran, a chance to serve the holy clergy and repent for one's sins. Submit them for rebirth, you know it is the right thing to do, /BROTHER/. They will have a better life."
+msgstr ""
+
+#. Id: 19143-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19142-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19143-Dialogue.mod:0
+msgid "It... just sounds the same as slavery..."
+msgstr ""
+
+#. Id: 19143-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (19142-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19143-Dialogue.mod:1
+msgid "It sounds no different to slavery..."
+msgstr ""
+
+#. Id: 19143-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (19142-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19143-Dialogue.mod:2
+msgid "How is that any different to slavery?"
+msgstr ""
+
+#. Id: 19153-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19143-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19153-Dialogue.mod:0
+msgid "Are you questioning me, a holy paladin of Okran, /OUTLANDER/? Rebirth is NOT the same as slavery, if you were a true Okranite then you would know that."
+msgstr ""
+
+#. Id: 19157-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19143-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 19157-Dialogue.mod:0
+msgid "Are you questioning me, a holy paladin of Okran, woman? Rebirth is NOT the same as slavery, if you were a true Okranite then you would know that. "
+msgstr ""
+
+#. Id: 19159-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19157-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19159-Dialogue.mod:0
+msgid "Arrest the /TEMPTRESS/. She will only corrupt the purity of our men."
+msgstr ""
+
+#. Id: 19144-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19142-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19144-Dialogue.mod:0
+msgid "No, the right thing to do would be to set them free..."
+msgstr ""
+
+#. Id: 19144-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (19142-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19144-Dialogue.mod:1
+msgid "You're wrong. Forcing your own agenda on others is no different to slavery."
+msgstr ""
+
+#. Id: 19154-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19144-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19154-Dialogue.mod:0
+msgid "Are you preaching to me, a holy paladin of Okran, /OUTLANDER/? The foreign beasts have impure minds, vulnerable to corruption and darkness. They need guidance from the pure-minded, a second chance. If you were a true Okranite then you would know that!"
+msgstr ""
+
+#. Id: 19161-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19144-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 19161-Dialogue.mod:0
+msgid "Are you preaching to me, a holy paladin of Okran, woman? The foreign beasts have impure minds, vulnerable to corruption and darkness. They need guidance from the pure-minded, a second chance. If you were a true Okranite then you would know that!"
+msgstr ""
+
+#. Id: 19145-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19142-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19145-Dialogue.mod:0
+msgid "... You're right (Surrender all non-humans in party)"
+msgstr ""
+
+#. Id: 19145-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (19142-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19145-Dialogue.mod:1
+msgid "... Of course (Surrender all non-humans in party)"
+msgstr ""
+
+#. Id: 19155-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (19145-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. Id: 19195-Dialogue.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (19194-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. Id: 17093-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. Id: 43583-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. Id: 17132-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17131-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. Id: 17154-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (17155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. Id: 16879-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (16878-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 19155-Dialogue.mod:2 19195-Dialogue.mod:2 17093-Dialogue.mod:2 43583-Dialogue.mod:2 17132-Dialogue.mod:0 17154-Dialogue.mod:0 16879-Dialogue.mod:2
+msgid "Divine blessings, /BROTHER/"
+msgstr "คำอำนวยพรอันศักดิ์สิทธิ์ /BROTHER/"
+
+#. Id: 19146-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19142-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19146-Dialogue.mod:0
+msgid "So, you'll look after them?"
+msgstr ""
+
+#. Id: 19146-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (19142-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19146-Dialogue.mod:1
+msgid "Will they be treated well?"
+msgstr ""
+
+#. Id: 19146-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (19142-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19146-Dialogue.mod:2
+msgid "Will they be kept safe in Rebirth?"
+msgstr ""
+
+#. Id: 19167-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19146-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19167-Dialogue.mod:0
+msgid "Of course. This is a blessed opportunity for them. Submit them."
+msgstr ""
+
+#. Id: 19167-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (19146-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19167-Dialogue.mod:1
+msgid "Of course. This is a hallowed opportunity for them to redeem themselves as holy servants. Submit them."
+msgstr ""
+
+#. Id: 19170-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19167-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19170-Dialogue.mod:0
+msgid "Never. You are the one who is the beast, not them!"
+msgstr ""
+
+#. Id: 19170-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (19167-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19170-Dialogue.mod:1
+msgid "Never. It is you who is the beast, not them!"
+msgstr ""
+
+#. Id: 19168-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19146-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 19168-Dialogue.mod:0
+msgid "I will not have you question me again, unfaithful woman. They will be looked after, submit them."
+msgstr ""
+
+#. Id: 19147-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19142-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19147-Dialogue.mod:0
+msgid "You're out of your /GODDAMN/ mind, this is /DRIVEL/!"
+msgstr ""
+
+#. Id: 19147-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (19142-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19147-Dialogue.mod:1
+msgid "You must be deluded, you speak complete /DRIVEL/!"
+msgstr ""
+
+#. Id: 19156-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19147-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19156-Dialogue.mod:0
+msgid "... Who in Okran's name ARE you anyway!? You seem to know nothing of the teachings of Light..."
+msgstr ""
+
+#. Id: 19163-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19147-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 19163-Dialogue.mod:0
+msgid "You speak out of line, /TEMPTRESS/! You know nothing of the teachings of Light!"
+msgstr ""
+
+#. Id: 19165-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 19165-Dialogue.mod:0
+msgid "/TAINT/ed by Narko herself! /BURNHIM/, /BURNHIM/!"
+msgstr ""
+
+#. Id: 19165-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (19163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 19165-Dialogue.mod:1
+msgid "/TAINT/ed by the dark demoness! Don't let the temptress escape, /BURNHIM/!"
+msgstr ""
+
+#. Id: 19138-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19102-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19138-Dialogue.mod:0
+msgid "/DRIVEL/. You just want my slave for yourself."
+msgstr ""
+
+#. Id: 19139-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (19102-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19139-Dialogue.mod:1
+msgid "Actually, I'm rather attached to them..."
+msgstr ""
+
+#. Id: 19171-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19171-Dialogue.mod:0
+msgid "... You would deprive the Lord Okran of holy servants for his crusade? You would hold loyalty for the dark beasts? You... you're no Okranite."
+msgstr ""
+
+#. Id: 19174-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19171-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19174-Dialogue.mod:0
+msgid "Wait, I am! Just take them (Surrender all non-humans in party)"
+msgstr ""
+
+#. Id: 19174-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (19171-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19174-Dialogue.mod:1
+msgid "Wait, I don't want any trouble. Take them (Surrender all non-humans in party)"
+msgstr ""
+
+#. Id: 19178-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19174-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19178-Dialogue.mod:0
+msgid "No! I know a /TERRORIST/ when I see one! You have no devotion to Okran!"
+msgstr ""
+
+#. Id: 19175-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19171-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19175-Dialogue.mod:0
+msgid "Forgive me of my sins, Lord! I've been selfish! (Surrender all non-humans in party)"
+msgstr ""
+
+#. Id: 19182-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19175-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19182-Dialogue.mod:0
+msgid "Repent, /BROTHER/! You have been VERY selfish!... But the lord is merciful. The beasts will serve Okran's cause well."
+msgstr ""
+
+#. Id: 19183-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19175-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 19183-Dialogue.mod:0
+msgid "Wicked woman... You must repent for your sins and not waver in your worships! But you have come through in the end, woman, the beasts will serve Okran well."
+msgstr ""
+
+#. Id: 19176-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19171-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19176-Dialogue.mod:0
+msgid "My loyalty is with my allies. You're not taking them."
+msgstr ""
+
+#. Id: 19180-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19176-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 19180-Dialogue.mod:0
+msgid "You think you know better than me, /TEMPTRESS/!? Beast-lover!"
+msgstr ""
+
+#. Id: 19177-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19171-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19177-Dialogue.mod:0
+msgid "You're right, I'm not. I'd rather die than be one of you!"
+msgstr ""
+
+#. Id: 19172-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 19172-Dialogue.mod:0
+msgid "... The /GREASY/ woman cavorts with beasts. The /GREASY/ /TEMPTRESS/ defies the Lord Okran's will."
+msgstr ""
+
+#. Id: 19172-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (19139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 19172-Dialogue.mod:1
+msgid "... The /GREASY/ woman frolics with dark beasts. The /GREASY/ /TEMPTRESS/ neglects the Lord Okran's cause."
+msgstr ""
+
+#. Id: 19140-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19102-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19140-Dialogue.mod:0
+msgid "My slave already serves Okran, under my own guidance"
+msgstr ""
+
+#. Id: 19185-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19140-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19185-Dialogue.mod:0
+msgid "And you think YOU know better than the holy priests of the clergy?"
+msgstr ""
+
+#. Id: 19188-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19185-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19188-Dialogue.mod:0
+msgid "I know my slaves better, yes. They would be of better use to me than the clergy"
+msgstr ""
+
+#. Id: 19191-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19188-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. Id: 19192-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (19189-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19191-Dialogue.mod:0 19192-Dialogue.mod:1
+msgid "... Who in Okran's name ARE you anyway!? You know nothing of the hierarchy of Okran"
+msgstr ""
+
+#. Id: 43287-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19188-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43287-Dialogue.mod:0
+msgid "... Then just go. Have the beast serve Okran's cause with you. But I suggest you sort out your cruel morals, along with that arrogant attitude as well, brother..."
+msgstr ""
+
+#. Id: 19189-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19185-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19189-Dialogue.mod:0
+msgid "I do, yes. I am much holier than the clergy could ever hope to be"
+msgstr ""
+
+#. Id: 19192-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19189-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19192-Dialogue.mod:0
+msgid "... Who in Okran's name ARE you anyway!? Your arrogance only proves to me that you are no true Okranite!"
+msgstr ""
+
+#. Id: 19190-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19185-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19190-Dialogue.mod:0
+msgid "That's not what I meant, you misunderstand"
+msgstr ""
+
+#. Id: 19193-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19190-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19193-Dialogue.mod:0
+msgid "A Holy Paladin misunderstands nothing! Your ignorance only proves your heretic ways!"
+msgstr ""
+
+#. Id: 43207-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19193-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43207-Dialogue.mod:0
+msgid "Forgive me, holy paladin! Please, take my slaves (Surrender all non-humans)"
+msgstr ""
+
+#. Id: 43207-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (19193-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43207-Dialogue.mod:1
+msgid "Of couse, you know better than me, holy paladin! (Surrender all non-humans)"
+msgstr ""
+
+#. Id: 43210-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (43207-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43210-Dialogue.mod:0
+msgid "Okran teaches forgiveness of the loyal. I accept your gift. /HOLYGREET/."
+msgstr ""
+
+#. Id: 43209-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19193-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43209-Dialogue.mod:0
+msgid "Talk about overreacting..."
+msgstr ""
+
+#. Id: 43211-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19193-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43211-Dialogue.mod:0
+msgid "I'm not a heretic, you've got it all wrong..."
+msgstr ""
+
+#. Id: 19187-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19185-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19187-Dialogue.mod:0
+msgid "Of course not, but I need my slave to help spread the word of Okran"
+msgstr ""
+
+#. Id: 19194-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19187-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19194-Dialogue.mod:0
+msgid "Then go forth and spread the word, /BROTHER/. Okran needs many more recruits in the crusade against darkness. Your beast will give you good leverage."
+msgstr ""
+
+#. Id: 43212-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19187-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43212-Dialogue.mod:0
+msgid "It is too risky. An untamed beast will /TAINT/ your pure heart, holy /BROTHER/, it is dangerous for our society. You must hand them over for Rebirth, this is for the best, this is Okran's will..."
+msgstr ""
+
+#. Id: 53385-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19185-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 53385-Dialogue.mod:0
+msgid "No. But I need them to carry out Okran's crusade (Show the Holy Flame)"
+msgstr ""
+
+#. Id: 53385-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (19185-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 53385-Dialogue.mod:1
+msgid "Of course not. But I need them. Okran needs them. (Show the Holy Flame)"
+msgstr ""
+
+#. Id: 53386-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (53385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 53386-Dialogue.mod:0
+msgid "Then if you are truly Okran's child, you will surrender your beasts to the Holy Lord Phoenix Himself,  blessed be his name. A higher cause than one of the self, a true test of faith."
+msgstr ""
+
+#. Id: 19186-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19140-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 19186-Dialogue.mod:0
+msgid "A beast cannot learn the teachings of Okran from a woman. I will not ask you twice. Submit them."
+msgstr ""
+
+#. Id: 19211-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19186-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19211-Dialogue.mod:0
+msgid "I disagree. Women make good teachers."
+msgstr ""
+
+#. Id: 19212-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19211-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19212-Dialogue.mod:0
+msgid "Women were made in the demoness Narko's, image. Darkness will always dwell in their inner nature... And your arrogant outspokeness only makes me see the undisciplined nature of a /TEMPTRESS/!"
+msgstr ""
+
+#. Id: 19141-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19102-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19141-Dialogue.mod:0
+msgid "So... you're against slavery.. yet you want to enslave MY slave?"
+msgstr ""
+
+#. Id: 19150-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19141-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19150-Dialogue.mod:0
+msgid "Are you preaching to me, a holy paladin of Okran, /OUTLANDER/? Rebirth is NOT the same as slavery, if you were a true Okranite then you would know that!"
+msgstr ""
+
+#. Id: 19151-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19150-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19151-Dialogue.mod:0
+msgid "Arrest /HIM/. The /TERRORIST/s will only /TAINT/ our /SACRED/ society."
+msgstr ""
+
+#. Id: 19151-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (19150-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19151-Dialogue.mod:1
+msgid "Destroy /HIM/. The /GREASY/ /TERRORIST/s will only /TAINT/ our /HOLY/ society."
+msgstr ""
+
+#. Id: 19148-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19102-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19148-Dialogue.mod:0
+msgid "Yes, holy one (Surrender all non-humans in party)"
+msgstr ""
+
+#. Id: 19136-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19136-Dialogue.mod:0
+msgid "I serve the Lord Okran. This beast is my devout servant."
+msgstr ""
+
+#. Id: 19136-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (19087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19136-Dialogue.mod:1
+msgid "I serve the Lord of Light, Okran. This beast is my devoted helper."
+msgstr ""
+
+#. Id: 19136-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (19087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19136-Dialogue.mod:2
+msgid "I serve the Lord Okran. This animal is my faithful retainer."
+msgstr ""
+
+#. Id: 19100-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19136-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. Id: 53378-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53376-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 19100-Dialogue.mod:0 53378-Dialogue.mod:0
+msgid "Blessings upon you /BROTHER/. The Holy Lord Phoenix Himself, blessed be his name, needs more workers in the mines. Please donate your servant to the cause of Okran."
+msgstr ""
+
+#. Id: 19196-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19100-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19196-Dialogue.mod:0
+msgid "/DRIVEL/. You just want my servant for yourself."
+msgstr ""
+
+#. Id: 19197-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19100-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19197-Dialogue.mod:0
+msgid "My servant has more important duties than digging rocks..."
+msgstr ""
+
+#. Id: 19199-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19197-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19199-Dialogue.mod:0
+msgid "And you think YOU know better than a Holy Paladin of Okran? Your arrogance only proves your heresy!"
+msgstr ""
+
+#. Id: 19202-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19197-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 19202-Dialogue.mod:0
+msgid "More important duties than serving the Lord? Such arrogance, you truly are a /GREASY/ woman!"
+msgstr ""
+
+#. Id: 19198-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19100-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19198-Dialogue.mod:0
+msgid "Nope. Not happening."
+msgstr ""
+
+#. Id: 19103-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19136-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19103-Dialogue.mod:0
+msgid "I see... Then blessings upon you, /BROTHER/. Let the light of our father purify us."
+msgstr ""
+
+#. Id: 19104-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19104-Dialogue.mod:0
+msgid "Blessings upon you, holy /BROTHER/."
+msgstr ""
+
+#. Id: 19104-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (19103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19104-Dialogue.mod:1
+msgid "Love and devotion to lord Okran."
+msgstr ""
+
+#. Id: 19104-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (19103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19104-Dialogue.mod:2
+msgid "Eternal blessings to the Lord of Light."
+msgstr ""
+
+#. Id: 19104-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (19103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19104-Dialogue.mod:3
+msgid "Praise to Lord Okran."
+msgstr ""
+
+#. Id: 19106-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19106-Dialogue.mod:0
+msgid "Let the light of our father purify us"
+msgstr ""
+
+#. Id: 19107-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19107-Dialogue.mod:0
+msgid "Praise the Lord Orkan."
+msgstr ""
+
+#. Id: 19107-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (19103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19107-Dialogue.mod:1
+msgid "Praise the Lord Kral."
+msgstr ""
+
+#. Id: 19107-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (19103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19107-Dialogue.mod:2
+msgid "Blessings upon the Holy Lord Kral."
+msgstr ""
+
+#. Id: 19107-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (19103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19107-Dialogue.mod:3
+msgid "Blessings upon the Lord Oknan."
+msgstr ""
+
+#. Id: 19107-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (19103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19107-Dialogue.mod:4
+msgid "Love and devotion to Lord Okan."
+msgstr ""
+
+#. Id: 19112-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19107-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19112-Dialogue.mod:0
+msgid "You're no Okranite... Imposter!!"
+msgstr ""
+
+#. Id: 19108-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19108-Dialogue.mod:0
+msgid "Blessings (Kneel down and bow)"
+msgstr ""
+
+#. Id: 19108-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (19103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19108-Dialogue.mod:1
+msgid "Praise Okran (Bend to the ground)"
+msgstr ""
+
+#. Id: 19109-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (19103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19109-Dialogue.mod:1
+msgid "(Don't say anything)"
+msgstr ""
+
+#. Id: 19204-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19109-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19204-Dialogue.mod:0
+msgid "... Why the silence. Have you no praise for the Lord?"
+msgstr ""
+
+#. Id: 43289-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19204-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43289-Dialogue.mod:0
+msgid "Of course, love and devotion, brother"
+msgstr ""
+
+#. Id: 19205-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19205-Dialogue.mod:0
+msgid "I smell a /TERRORIST/!"
+msgstr ""
+
+#. Id: 19091-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19091-Dialogue.mod:0
+msgid "I serve the unholy. So where are the orgies at?"
+msgstr ""
+
+#. Id: 19091-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (19087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19091-Dialogue.mod:1
+msgid "I serve evil. Join /MEUS/, the dark side is fun!"
+msgstr ""
+
+#. Id: 19091-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (19087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19091-Dialogue.mod:2
+msgid "I serve the darkside. Come, let's have a sex party!"
+msgstr ""
+
+#. Id: 19096-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19096-Dialogue.mod:0
+msgid "/DIRTY/ /TERRORIST/!"
+msgstr ""
+
+#. Id: 19098-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 19098-Dialogue.mod:0
+msgid "/DIRTY/ /TEMPTRESS/!"
+msgstr ""
+
+#. Id: 19092-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19092-Dialogue.mod:0
+msgid "You'd do well to treat me and my allies with respect, /TINCAN/..."
+msgstr ""
+
+#. Id: 19207-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19207-Dialogue.mod:0
+msgid "... You're no Okranite... you do not belong on Holy Nation soil!"
+msgstr ""
+
+#. Id: 43310-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43306-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43310-Dialogue.mod:0
+msgid "The Holy Nation will remember this..."
+msgstr ""
+
+#. Id: 43310-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (43306-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43310-Dialogue.mod:1
+msgid "You won't escape the wrath of Okran, heretic..."
+msgstr ""
+
+#. Id: 43310-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (43306-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43310-Dialogue.mod:2
+msgid "The Holy Lord Phoenix will hear of this..."
+msgstr ""
+
+#. Id: 53376-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 53376-Dialogue.mod:0
+msgid "The Holy Lord Phoenix. This is my servant. (Show Holy Flame)"
+msgstr ""
+
+#. Id: 53377-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53376-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 53377-Dialogue.mod:0
+msgid "Ah, the Holy Flame. Then be on your way, /BROTHER/, and let the light of our father purify us."
+msgstr ""
+
+#. Id: 53377-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (53376-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 53377-Dialogue.mod:1
+msgid "May the Holy Flame guide you to truth and sanctity. I will take no more of your time, /BROTHER/."
+msgstr ""
+
+#. Id: 53382-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53376-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 53382-Dialogue.mod:0
+msgid "Beware the darkened, woman. May the Holy Flame keep you on the righteous path."
+msgstr ""
+
+#. Id: 53383-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53376-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 53383-Dialogue.mod:0
+msgid "Good. The Holy Lord Phoenix Himself, blessed be his name, needs more workers in the mines. Please donate your servant to the cause of Okran."
+msgstr ""
+
+#. Id: 19105-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19105-Dialogue.mod:0
+msgid "Surrender your non-humans, foreigner. They must be cleansed to serve the cause of Okran, it is their duty as inferiors"
+msgstr ""
+
+#. Id: 19105-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19105-Dialogue.mod:1
+msgid "Surrender your beasts, /BROTHER/. The Holy Lord Phoenix Himself, Blessed Be His Name, needs recruits for Okran's crusade, the darkness must be cleansed from their impure blood to serve our higher cause"
+msgstr ""
+
+#. Id: 19208-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19105-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19208-Dialogue.mod:0
+msgid "I have no idea what you're talking about..."
+msgstr ""
+
+#. Id: 40753-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19208-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40753-Dialogue.mod:0
+msgid "You're on Holy Nation /LAND/, /SACRED/ soil of Okran... And you know nothing of the teachings of Okran and the Holy Lord Phoenix' crusade?!"
+msgstr ""
+
+#. Id: 40756-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (40753-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40756-Dialogue.mod:0
+msgid "Still no idea what you're /TALKINGABOUT/..."
+msgstr ""
+
+#. Id: 40761-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (40756-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 40761-Dialogue.mod:0
+msgid "... Wretched woman! You know nothing of the teachings of Light! An undisciplined woman is a /GREASY/ woman!"
+msgstr ""
+
+#. Id: 40757-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (40753-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40757-Dialogue.mod:0
+msgid "Oh- oh! Of course, forgive me I had sand in my ears..."
+msgstr ""
+
+#. Id: 40757-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (40753-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40757-Dialogue.mod:1
+msgid "Lord Okran? Of course! Forgive me Holy Paladin, I mis-heard you..."
+msgstr ""
+
+#. Id: 40769-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (40757-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40769-Dialogue.mod:0
+msgid "Fool! ... Then hand over your beasts already!"
+msgstr ""
+
+#. Id: 40758-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (40753-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40758-Dialogue.mod:0
+msgid "And you want my allies, why exactly?"
+msgstr ""
+
+#. Id: 40763-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (40758-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40763-Dialogue.mod:0
+msgid "All non-humans are to be rebirthed in the doctrine of Okran, cleansed of their dark natures. It is their only chance to serve a higher cause in the crusade against the /AGENTSOFDARKNESS/... You truly know nothing, do you?"
+msgstr ""
+
+#. Id: 43292-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (40763-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43292-Dialogue.mod:0
+msgid "Forgive me, I'm unfamiliar with the doctrine of Okran..."
+msgstr ""
+
+#. Id: 43297-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43297-Dialogue.mod:0
+msgid "It's not too late, you can still learn. Your beasts, on the other hand, cannot. We can guide you though, lost one. Will you join us, will you put your faith in the Holy Lord Phoenix?"
+msgstr ""
+
+#. Id: 43298-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43297-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43298-Dialogue.mod:0
+msgid "I trust in the Holy Lord Phoenix..."
+msgstr ""
+
+#. Id: 43298-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (43297-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43298-Dialogue.mod:1
+msgid "I put my faith in the Holy Lord Phoenix..."
+msgstr ""
+
+#. Id: 43301-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (43298-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43301-Dialogue.mod:0
+msgid "Good. Now, submit your beasts to us. Prove your loyalty to the holy cause with your actions."
+msgstr ""
+
+#. Id: 43299-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43297-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43299-Dialogue.mod:0
+msgid "... Are you trying to convert me?!"
+msgstr ""
+
+#. Id: 43305-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (43299-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43305-Dialogue.mod:0
+msgid "I am trying to save you, my /BROTHER/. You have the pure blood of Okran, like me and all of Okran's other children. Together, we are strong... join us!"
+msgstr ""
+
+#. Id: 43300-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43297-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43300-Dialogue.mod:0
+msgid "Never! You people are crazy!"
+msgstr ""
+
+#. Id: 43300-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (43297-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43300-Dialogue.mod:1
+msgid "Are you kidding me? No way, you people are insane!"
+msgstr ""
+
+#. Id: 43293-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (40763-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43293-Dialogue.mod:0
+msgid "Wait, hold up... You're saying my allies are... are EVIL?"
+msgstr ""
+
+#. Id: 43296-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43293-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43296-Dialogue.mod:0
+msgid "Yes, /BROTHER/, heed my warning: Evil is in their nature! They're not like you and me, we have the pure blood of Okran, but they are doomed to a life of wickedness! Join us in our fight against the darkness, submit your beasts so that we may cleanse them properly!"
+msgstr ""
+
+#. Id: 43302-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43296-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43302-Dialogue.mod:0
+msgid "Take them away (Surrender all non-humans in party)"
+msgstr ""
+
+#. Id: 43303-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43296-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43303-Dialogue.mod:0
+msgid "No... I can't do that..."
+msgstr ""
+
+#. Id: 43304-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (43303-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43304-Dialogue.mod:0
+msgid "Then you've made your choice. You are no ally of the Holy Nation."
+msgstr ""
+
+#. Id: 43294-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (40763-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43294-Dialogue.mod:0
+msgid "Whoa... that's a lot of crazy to take in one go..."
+msgstr ""
+
+#. Id: 43295-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43294-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43295-Dialogue.mod:0
+msgid "Just as I thought. An ignorant lost one, a threat to our holy society..."
+msgstr ""
+
+#. Id: 40764-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43295-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40764-Dialogue.mod:0
+msgid "/TERRORIST/. Arrest /HIM/, /HE/ will only corrupt our holy society with /HIS/ ignorance."
+msgstr ""
+
+#. Id: 40766-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43295-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 40766-Dialogue.mod:0
+msgid "/TAINT/ed woman. Arrest /HIM/, she will only spread temptation and corruption in our holy society."
+msgstr ""
+
+#. Id: 40759-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (40753-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40759-Dialogue.mod:0
+msgid "Yeah, not interested. Ask someone else."
+msgstr ""
+
+#. Id: 19209-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19105-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19209-Dialogue.mod:0
+msgid "I will not surrender my comrades to you."
+msgstr ""
+
+#. Id: 19209-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19105-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19209-Dialogue.mod:1
+msgid "Are you serious? No, I won't let you take them."
+msgstr ""
+
+#. Id: 19209-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (19105-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19209-Dialogue.mod:2
+msgid "No. My comrades stay with me."
+msgstr ""
+
+#. Id: 19210-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19105-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 19210-Dialogue.mod:0
+msgid "They already serve Okran, under me"
+msgstr ""
+
+#. Id: 40760-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19105-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40760-Dialogue.mod:0
+msgid "Never! Cleanse THIS! (Give 'em the finger)"
+msgstr ""
+
+#. Id: 40760-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19105-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40760-Dialogue.mod:1
+msgid "Never! Okran can bite me!"
+msgstr ""
+
+#. Id: 40760-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (19105-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 40760-Dialogue.mod:2
+msgid "Over my dead body! Cleanse THIS! (Drop your pants)"
+msgstr ""
+
+#. Id: 43649-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 43649-Dialogue.mod:0
+msgid "Foreign beasts aren't welcome to roam /SACRED/ Okranite /LAND/, they must be cleansed and tamed to serve the Holy Nation..."
+msgstr ""
+
+#. Id: 43649-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 43649-Dialogue.mod:1
+msgid "The foreign beast is not allowed free rein in /SACRED/ Okranite /LAND/, they must be rebirthed and educated in the laws of the Holy Lord Phoenix, blessed be his name..."
+msgstr ""
+
+#. Id: 43650-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43649-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43650-Dialogue.mod:0
+msgid "Surrender yourself, beast, for the good of your people. Let the Holy Nation teach you the way to a wholesome life and holy path... Let your human comrades live on in purity..."
+msgstr ""
+
+#. Id: 43650-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43649-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43650-Dialogue.mod:1
+msgid "For the good of your comrades, I suggest you submit yourself, beast. In exchange, Okran's children will lead you to a clean life and /SACRED/ path... and your friends will live on in unsulliedness..."
+msgstr ""
+
+#. Id: 43652-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43652-Dialogue.mod:0
+msgid "Is this a threat?"
+msgstr ""
+
+#. Id: 43652-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (43650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43652-Dialogue.mod:1
+msgid "Is that a threat?"
+msgstr ""
+
+#. Id: 43657-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43652-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43657-Dialogue.mod:0
+msgid "A warning... War is an ugly thing, but my pure-blood brothers are a risk as long as they covort with beasts like you. If their blood must be spilled for Okran's cause, then so be it. Let's settle this peacefully, surrender yourself so that your comrades may live on..."
+msgstr ""
+
+#. Id: 43661-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43657-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43661-Dialogue.mod:0
+msgid "You leave me no choice (Surrender)"
+msgstr ""
+
+#. Id: 43683-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43661-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43683-Dialogue.mod:0
+msgid "There is always a choice. And I'm glad that you've chosen the right one, you'll serve Okran well...."
+msgstr ""
+
+#. Id: 43662-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43657-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43662-Dialogue.mod:0
+msgid "Fine. No bloodshed. (Surrender)"
+msgstr ""
+
+#. Id: 43675-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43662-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43675-Dialogue.mod:0
+msgid "A truly selfless act, You'll serve well in the holy crusade..."
+msgstr ""
+
+#. Id: 43676-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43675-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43676-Dialogue.mod:0
+msgid "/HOLYGREET/. Safe travels to you all..."
+msgstr ""
+
+#. Id: 43663-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43657-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43663-Dialogue.mod:0
+msgid "Why the hate? What's your problem with foreigners exactly?"
+msgstr ""
+
+#. Id: 43663-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (43657-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43663-Dialogue.mod:1
+msgid "Why do you hate foreigners so much?"
+msgstr ""
+
+#. Id: 43663-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (43657-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43663-Dialogue.mod:2
+msgid "What did I ever do to you? Why do you hate foreigners so much?"
+msgstr ""
+
+#. Id: 43677-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43663-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43677-Dialogue.mod:0
+msgid "I've seen ungodly atrocities commited by your kind - cannibalism, warmongery, extortion, slavery... your kind has deep links with the dark demoness herself. This isn't your fault, it's in your blood, but the darkness can't be left to fester. It requires hard work and intervention from the holy clergy to cleanse it..."
+msgstr ""
+
+#. Id: 43678-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43678-Dialogue.mod:0
+msgid "But humans commit all of those things too!"
+msgstr ""
+
+#. Id: 43685-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43678-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43685-Dialogue.mod:0
+msgid "Humans influenced by the outside, by the dark ones like you! I'll ask no more, surrender yourself!"
+msgstr ""
+
+#. Id: 43691-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (43685-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43691-Dialogue.mod:0
+msgid "Surrender to you? Over my dead body!"
+msgstr ""
+
+#. Id: 43679-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43679-Dialogue.mod:0
+msgid "Slavery? But isn't that what you're about to do to me?"
+msgstr ""
+
+#. Id: 43679-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (43677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43679-Dialogue.mod:1
+msgid "Such hypocrisy. Aren't you about to enslave ME?"
+msgstr ""
+
+#. Id: 43686-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43679-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43686-Dialogue.mod:0
+msgid "Slavery is a hideous thing, I am saving you, beast! I'll ask no more, surrender yourself!"
+msgstr ""
+
+#. Id: 43680-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43680-Dialogue.mod:0
+msgid "Obviously there's no reasoning with you..."
+msgstr ""
+
+#. Id: 43680-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (43677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43680-Dialogue.mod:1
+msgid "There's obviously no reasoning with you..."
+msgstr ""
+
+#. Id: 43680-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (43677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43680-Dialogue.mod:2
+msgid "You obviously can't be reasoned with..."
+msgstr ""
+
+#. Id: 43687-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43687-Dialogue.mod:0
+msgid "My loyalty to Okran cannot be tainted with the deceitful tongue of a dark one. I'll ask no more, surrender yourself!"
+msgstr ""
+
+#. Id: 43684-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43684-Dialogue.mod:0
+msgid "So, you want to help me?"
+msgstr ""
+
+#. Id: 43684-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (43677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43684-Dialogue.mod:1
+msgid "And you can help me?"
+msgstr ""
+
+#. Id: 43688-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43684-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43688-Dialogue.mod:0
+msgid "I want to give you a new life, dark one! One free from the clutches of darkness, one with purpose! Come with me..."
+msgstr ""
+
+#. Id: 43689-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (43688-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43689-Dialogue.mod:0
+msgid "I'll go with you (Surrender)"
+msgstr ""
+
+#. Id: 43664-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43657-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43664-Dialogue.mod:0
+msgid "Never. Keep harrassing us and I swear I'll curse you!"
+msgstr ""
+
+#. Id: 43681-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43664-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43681-Dialogue.mod:0
+msgid "You will not run free, dark one! I'll purge you by my own sword, for Okran! For my brothers!"
+msgstr ""
+
+#. Id: 43682-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43664-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 43682-Dialogue.mod:0
+msgid "These ones truly have been /TAINT/ed by Narko herself. Okran protect us..."
+msgstr ""
+
+#. Id: 43697-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43682-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43697-Dialogue.mod:0
+msgid "Regroup, men, we must report to the inquisitor!"
+msgstr ""
+
+#. Id: 43653-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43653-Dialogue.mod:0
+msgid "What will happen to me?"
+msgstr ""
+
+#. Id: 43653-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (43650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43653-Dialogue.mod:1
+msgid "What will you do to me?"
+msgstr ""
+
+#. Id: 43653-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (43650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43653-Dialogue.mod:2
+msgid "And what will you do with me?"
+msgstr ""
+
+#. Id: 43658-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43653-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43658-Dialogue.mod:0
+msgid "You'll serve Okran and the Holy Lord Phoenix, blessed be his name, as a holy servant. Cleanse yourself of your darkness, repent for your sins, for the darkness roots itself deep within the soul of a beast. This is your chance to serve a higher cause of goodness! Let's make this easy for everyone, surrender yourself so that your comrades may live on..."
+msgstr ""
+
+#. Id: 43654-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43654-Dialogue.mod:0
+msgid "Beast? Me?"
+msgstr ""
+
+#. Id: 43654-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (43650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43654-Dialogue.mod:1
+msgid "Hey, who you calling 'beast'?!"
+msgstr ""
+
+#. Id: 43654-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (43650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43654-Dialogue.mod:2
+msgid "Who are you calling 'beast'?!"
+msgstr ""
+
+#. Id: 43659-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43654-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43659-Dialogue.mod:0
+msgid "You do not carry Okran's pure image, you carry only the image of a mutant beast. Cleanse yourself of your darkness, repent for your sins, for the darkness roots itself deep within the soul of a beast. Let us help show you the way, this is your chance to serve a higher cause or goodness! Let's make this easy for everyone, surrender yourself..."
+msgstr ""
+
+#. Id: 43655-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43655-Dialogue.mod:0
+msgid "I'm warning you, pick your fights wisely..."
+msgstr ""
+
+#. Id: 43705-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43655-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43705-Dialogue.mod:0
+msgid "You won't co-operate peacefully then? Is that your final choice?"
+msgstr ""
+
+#. Id: 43706-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43705-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43706-Dialogue.mod:0
+msgid "That is my choice"
+msgstr ""
+
+#. Id: 43707-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43705-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43707-Dialogue.mod:0
+msgid "'I summon the dark powers of all that is unholy...!'"
+msgstr ""
+
+#. Id: 43707-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (43705-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43707-Dialogue.mod:1
+msgid "'Dark powers be summoned...!'"
+msgstr ""
+
+#. Id: 43707-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (43705-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43707-Dialogue.mod:2
+msgid "'All that is unholy, I summon you...!'"
+msgstr ""
+
+#. Id: 43708-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43705-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43708-Dialogue.mod:0
+msgid "Is there another way to settle this?"
+msgstr ""
+
+#. Id: 43656-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43656-Dialogue.mod:0
+msgid "If we're not welcome, then we'll just leave..."
+msgstr ""
+
+#. Id: 43656-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (43650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43656-Dialogue.mod:1
+msgid "If we're not welcome, we'll leave peacefully..."
+msgstr ""
+
+#. Id: 43660-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43656-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43660-Dialogue.mod:0
+msgid "Leave? I cannot risk it. I will not allow my pure-blood brothers to be /TAINT/ed by your darkness, beast. Better they be purged by the holy than have their souls devoured by the impure!"
+msgstr ""
+
+#. Id: 43700-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43660-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43700-Dialogue.mod:0
+msgid "Is there no other way to settle this?"
+msgstr ""
+
+#. Id: 43701-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43701-Dialogue.mod:0
+msgid "For the good of Okran's cause, there is no other way. Come with me, don't be afraid, you'll be well taken care of within the Holy Nation. Take the higher path, beast..."
+msgstr ""
+
+#. Id: 43702-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43701-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43702-Dialogue.mod:0
+msgid "I can't do that"
+msgstr ""
+
+#. Id: 43703-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43702-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43703-Dialogue.mod:0
+msgid "Then you have bought doom to your comrades. A selfish act to be expected from a beast like you..."
+msgstr ""
+
+#. Id: 43704-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (43703-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43704-Dialogue.mod:0
+msgid "/BURNHIM/, they cannot be left free to /TAINT/ our /LAND/."
+msgstr ""
+
+#. Id: 43711-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43711-Dialogue.mod:0
+msgid "I already serve Okran, holy paladin, under my human masters..."
+msgstr ""
+
+#. Id: 43712-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43711-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43712-Dialogue.mod:0
+msgid "Them? Those people are no members of the holy clergy, they cannot handle rehabilitation of the dark ones! You lie!"
+msgstr ""
+
+#. Id: 43714-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43714-Dialogue.mod:0
+msgid "I will not tolerate heresy and lies! Especially not from your kind!"
+msgstr ""
+
+#. Id: 43713-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43711-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43713-Dialogue.mod:0
+msgid "Them? They don't look like members of the holy clergy... Hmm.. so tell me, what is your mission, dark one?"
+msgstr ""
+
+#. Id: 43715-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43713-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43715-Dialogue.mod:0
+msgid "To purge the lands of all that is unholy"
+msgstr ""
+
+#. Id: 43720-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43715-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43720-Dialogue.mod:0
+msgid "... Then I won't interfere. Follow your masters, listen to their wisdom, protect them. Go forth, holy servant..."
+msgstr ""
+
+#. Id: 43721-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43720-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43721-Dialogue.mod:0
+msgid "/HOLYGREET/, safe travels..."
+msgstr ""
+
+#. Id: 43716-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43713-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43716-Dialogue.mod:0
+msgid "To spread the word of Okran"
+msgstr ""
+
+#. Id: 43716-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (43713-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43716-Dialogue.mod:1
+msgid "To spread the word of Light"
+msgstr ""
+
+#. Id: 43717-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43713-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43717-Dialogue.mod:0
+msgid "To protect my masters during their /SACRED/ pilgrimage"
+msgstr ""
+
+#. Id: 43718-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43713-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43718-Dialogue.mod:0
+msgid "To bring doom and destruction to all of life"
+msgstr ""
+
+#. Id: 43718-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (43713-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43718-Dialogue.mod:1
+msgid "To bring death and suffering to all the lands"
+msgstr ""
+
+#. Id: 43719-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43718-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#: 43719-Dialogue.mod:0
+msgid "You... you're crazy! This is no mission of Okran, you truly are evil!"
+msgstr ""
+

@@ -1,0 +1,1592 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 16863-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16863-Dialogue.mod:0
+msgid "Blessings from the Holy Lord Phoenix Himself, blessed be his name."
+msgstr "คำอำนวยพรจาก Lord Phoenix ผู้ศักดิ์สิทธิ์จริงแท้ ขอคำสรรเสริญจงสถิตย์อยู่กับท่าน"
+
+#. Id: 16863-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16863-Dialogue.mod:1
+msgid "Love and devotion to the lord of light, Okran."
+msgstr "ความรักและความศรัทธาแด่เทพแห่งแสง Okran"
+
+#. Id: 16863-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16863-Dialogue.mod:2
+msgid "The Divine Will of Okran will have all heretics purged in his holy light."
+msgstr "เจตนารมณ์อันศักดิ์สิทธิ์แห่ง Okran จะลบล้างเหล่าขบถนอกรีตด้วยลำแสงศักดิ์สิทธิ์ของพระองค์"
+
+#. Id: 16863-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16863-Dialogue.mod:3
+msgid "The Divine Will of Okran will have all darkness purged in his holy light."
+msgstr "เจตนารมณ์อันศักดิ์สิทธิ์แห่ง Okran จะลบล้างความมืดด้วยลำแสงศักดิ์สิทธิ์ของพระองค์"
+
+#. Id: 16863-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16863-Dialogue.mod:4
+msgid "Children of Okran, bask in the protection of the divine flame’s light."
+msgstr "บุตรแห่ง Okran ทั้งหลาย จงให้แสงแห่งไฟศักดิ์สิทธิ์อาบไล้และปกป้องคุ้มครองเจ้า"
+
+#. Id: 16863-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16863-Dialogue.mod:5
+msgid "Let the light of our father purify us."
+msgstr "ขอให้แสงจากพระบิดาชำระล้างมลทินของพวกเราด้วยเถิด"
+
+#. Id: 16863-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16863-Dialogue.mod:6
+msgid "Divine light, protect the children of Okran from the dark abyss."
+msgstr "แสงศักดิ์สิทธิ์ ได้โปรดคุ้มครองบุตรแห่ง Okran จากความมืดดำแห่งขุมนรกด้วยเถิด"
+
+#. Id: 16863-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16863-Dialogue.mod:7
+msgid "Blessings upon the Holy Lord Phoenix Himself, blessed be his name for all eternity."
+msgstr "ได้รับคำอำนวยพรจาก Lord Phoenix ผู้ศักดิ์สิทธิ์จริงแท้ ขอคำสรรเสริญจงสถิตย์อยู่กับท่านไปตลอดกาล"
+
+#. Id: 16863-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16863-Dialogue.mod:8
+msgid "Love and devotion to the Holy Lord Phoenix Himself, blessed be his name."
+msgstr "ความรักและความศรัทธาแด่ Lord Phoenix ผู้ศักดิ์สิทธิ์จริงแท้ ขอคำสรรเสริญจงสถิตย์อยู่กับท่าน"
+
+#. Id: 16863-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16863-Dialogue.mod:9
+msgid "Let the Divine Flame’s light protect our holy people! Bless the Lord Okran."
+msgstr "ขอให้แสงจากไฟศักดิ์สิทธิ์ปกป้องคุ้มครองชาว Holy ด้วยเถิด! คำสรรเสริญจงมีแด่ Lord Okran"
+
+#. Id: 16866-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#. Id: 16907-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16866-Dialogue.mod:1 16907-Dialogue.mod:2
+msgid "(Say nothing)"
+msgstr "(ไม่พูดอะไร)"
+
+#. Id: 16866-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16866-Dialogue.mod:2
+msgid "(Stay silent)"
+msgstr "(อยู่เงียบ ๆ)"
+
+#. Id: 16866-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16866-Dialogue.mod:4
+msgid "(Look down)"
+msgstr "(มองลงข้างล่าง)"
+
+#. Id: 16866-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16866-Dialogue.mod:5
+msgid "(Avoid eye contact)"
+msgstr "(หลบสายตา)"
+
+#. Id: 16897-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16897-Dialogue.mod:0
+msgid "Lost your faith, /TEMPTRESS/!?"
+msgstr "สูญสิ้นศรัทธารึ /TEMPTRESS/!?"
+
+#. Id: 16897-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16897-Dialogue.mod:1
+msgid "Where is your faith, /TEMPTRESS/?!"
+msgstr "ความศรัทธาของเจ้าอยู่ที่ใดกัน /TEMPTRESS/!?"
+
+#. Id: 16897-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16897-Dialogue.mod:2
+msgid "Have you no sanctity, /TEMPTRESS/!?"
+msgstr "เจ้าไม่เหลือความสะอาดบริสุทธิ์บ้างรึ /TEMPTRESS/!?"
+
+#. Id: 16897-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16897-Dialogue.mod:3
+msgid "Have you no piety, /TEMPTRESS/!?"
+msgstr "เจ้าไม่่ละอายบ้างรึ /TEMPTRESS/!?"
+
+#. Id: 16897-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (16866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16897-Dialogue.mod:4
+msgid "Where is your tongue, /TEMPTRESS/?! Can you not show simple devotion to our holy lord?"
+msgstr "เจ้าไม่มีปากหรืออย่างไร /TEMPTRESS/!? ไฉนจึงไม่แสดงความเคารพศรัทธาแด่พระเจ้าผู้ศักดิ์สิทธิ์ของพวกเรา?"
+
+#. Id: 16897-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (16866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16897-Dialogue.mod:5
+msgid "You seem to have lost your faith, woman."
+msgstr "เหมือนเจ้าจะสิ้นศรัทธาแล้ว นางผู้หญิง"
+
+#. Id: 16897-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (16866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16897-Dialogue.mod:6
+msgid "Its seems you have lost your sanctity, woman."
+msgstr "ดูเหมือนเจ้าจะไม่เหลือความสะอาดบริสุทธิ์แล้ว นางผู้หญิง"
+
+#. Id: 42820-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16897-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 42820-Dialogue.mod:0
+msgid "Keep your religious bullcrap to yourself, zealot!"
+msgstr "เก็บคำสอนบ้าบอทางศาสนาไว้กับตัวเจ้าเถอะ เจ้าคนคลั่งศาสนา!"
+
+#. Id: 16865-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16897-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16865-Dialogue.mod:2
+msgid "What are you /TALKINGABOUT/?"
+msgstr "เจ้ากำลัง/TALKINGABOUT/อะไร?"
+
+#. Id: 16865-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16897-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16865-Dialogue.mod:3
+msgid "I have no idea what you're /TALKINGABOUT/..."
+msgstr "ข้าไม่รู้ว่าเจ้ากำลัง/TALKINGABOUT/..."
+
+#. Id: 16900-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16900-Dialogue.mod:0
+msgid "/GREASY/ woman! Know you no praise for your holy lord?!"
+msgstr "นางผู้หญิง/GREASY/! นี่เจ้าไม่มีความเคารพต่อพระเจ้าผู้ศักดิ์สิทธิ์ของเจ้ารึ?!"
+
+#. Id: 16900-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (16865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16900-Dialogue.mod:1
+msgid "/DUMB/ woman! Know you no praise for your holy lord?!"
+msgstr "นางผู้หญิง/DUMB/! นี่เจ้าไม่มีความเคารพต่อพระเจ้าผู้ศักดิ์สิทธิ์ของเจ้ารึ?!"
+
+#. Id: 16900-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (16865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16900-Dialogue.mod:2
+msgid "/GREASY/ woman! Your ears are too full of LAZINESS to hear a simple praise for the holy lord!"
+msgstr "นางผู้หญิง/GREASY/! หูของเจ้านี่ช่างเต็มไปด้วยเรื่องเกียจคร้านจนไม่สามารถได้ยินเสียงสรรเสริญพระเจ้าได้สินะ!"
+
+#. Id: 16900-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (16865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16900-Dialogue.mod:3
+msgid "/GREASY/ woman! Your mind is too distracted with thoughts of fornication to recognise even a simple prayer!"
+msgstr "นางผู้หญิง/GREASY/! จิตใจของเจ้าเต็มไปด้วยเรื่องผิดประเวณีจนไม่สามารถได้ยินเสียงสวดภาวนาเลยสินะ!"
+
+#. Id: 16900-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (16865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16900-Dialogue.mod:4
+msgid "/GREASY/ woman! How can you not understand a simple prayer to your holy lord?"
+msgstr "นางผู้หญิง/GREASY/! ไฉนเจ้าจึงไม่สามารถเข้าใจเสียงสวดภาวนาต่อพระเจ้ากันเล่า?"
+
+#. Id: 16900-Dialogue.mod
+#. -- Index: 4.5
+#. -- Parent line: 3 (16865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16900-Dialogue.mod:5
+msgid "/GREASY/ woman! Have you no devotion for your holy lord?!"
+msgstr "นางผู้หญิง/GREASY/! เจ้าไม่มีความศรัทธาและอุทิศตนเพื่อพระเจ้าผู้ศักดิ์สิทธิ์รึ?"
+
+#. Id: 16903-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (16900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16903-Dialogue.mod:1
+msgid "Take /HIM/ to Rebirth!"
+msgstr "เอาตัว/HIM/ไป Rebirth!"
+
+#. Id: 16903-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (16900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16903-Dialogue.mod:2
+msgid "This one needs cleansing. Take /HIM/ away."
+msgstr "เจ้านี่ต้องถูกชำระล้าง เอา/HIM/ไป"
+
+#. Id: 16903-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (16900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16903-Dialogue.mod:3
+msgid "/SEIZE/ /HIM/! /HE/ will need rebirthing."
+msgstr "/SEIZE/ /HIM/! /HE/ต้องได้รับการกำเนิดใหม่"
+
+#. Id: 16903-Dialogue.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (16900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16903-Dialogue.mod:4
+msgid "/HE/ can still be cleansed. Take /HIM/ for Rebirth."
+msgstr "/HE/ยังสามารถได้รับการชำระล้างได้ พา/HIM/ไปที่ Rebirth"
+
+#. Id: 16903-Dialogue.mod
+#. -- Index: 5.5
+#. -- Parent line: 4 (16900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16903-Dialogue.mod:5
+msgid "Okran is merciful. Send /HIM/ to Rebirth."
+msgstr "Okran ทรงเมตตา ส่ง/HIM/ไป Rebirth"
+
+#. Id: 16902-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16902-Dialogue.mod:0
+msgid "/GREASY/ heretic! Know you no praise for your holy lord?!"
+msgstr "/GREASY/ นอกรีต! นี่เจ้าไม่มีความเคารพต่อพระเจ้าผู้ศักดิ์สิทธิ์ของเจ้ารึ?!"
+
+#. Id: 16902-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (16865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16902-Dialogue.mod:1
+msgid "/GREASY/ heretic! How can you not understand a simple prayer to your holy lord?"
+msgstr "/GREASY/ นอกรีต! ไฉนเจ้าจึงไม่สามารถเข้าใจเสียงสวดภาวนาต่อพระเจ้ากันเล่า?"
+
+#. Id: 16902-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (16865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16902-Dialogue.mod:2
+msgid "/DUMB/ heretic! Know you no praise for your holy lord?!"
+msgstr "/DUMB/ นอกรีต! นี่เจ้าไม่มีความเคารพต่อพระเจ้าผู้ศักดิ์สิทธิ์ของเจ้ารึ?!"
+
+#. Id: 16902-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (16865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16902-Dialogue.mod:3
+msgid "/GREASY/ heretic! Have you no devotion for your holy lord?!"
+msgstr "/GREASY/ นอกรีต! เจ้าไม่มีความศรัทธาและอุทิศตนเพื่อพระเจ้าผู้ศักดิ์สิทธิ์รึ?"
+
+#. Id: 16899-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16899-Dialogue.mod:0
+msgid "Lost your faith, heretic!?"
+msgstr "สูญสิ้นศรัทธารึ เจ้าคนนอกรีต!?"
+
+#. Id: 16899-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16899-Dialogue.mod:1
+msgid "Where is your faith, heretic?!"
+msgstr "ความศรัทธาของเจ้าอยู่ที่ใดกัน เจ้าคนนอกรีต!?"
+
+#. Id: 16899-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16899-Dialogue.mod:2
+msgid "Have you no sanctity, heretic!?"
+msgstr "เจ้าไม่เหลือความสะอาดบริสุทธิ์บ้างรึ เจ้าคนนอกรีต!?"
+
+#. Id: 16899-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16899-Dialogue.mod:3
+msgid "Have you no piety, heretic!?"
+msgstr "เจ้าไม่่ละอายบ้างรึ เจ้าคนนอกรีต!?"
+
+#. Id: 16899-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (16866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16899-Dialogue.mod:4
+msgid "Where is your tongue, heretic?! Can you not show simple devotion to our holy lord?"
+msgstr "เจ้าไม่มีปากหรืออย่างไร เจ้าคนนอกรีต!? ไฉนจึงไม่แสดงความเคารพศรัทธาแด่พระเจ้าผู้ศักดิ์สิทธิ์ของพวกเรา?"
+
+#. Id: 16899-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (16866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16899-Dialogue.mod:5
+msgid "You seem to have lost your faith, brother."
+msgstr "ดูเหมืือนเจ้าจะสูญสิ้นศรัทธาแล้ว ภราดา"
+
+#. Id: 16899-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (16866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16899-Dialogue.mod:6
+msgid "Its seems you have lost your sanctity, brother."
+msgstr "ดูเหมืือนเจ้าจะไม่เหลือความสะอาดบริสุทธิ์แล้ว ภราดา"
+
+#. Id: 16867-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16867-Dialogue.mod:0
+msgid "... Burn all the heretics!"
+msgstr "...เผาพวกนอกรีตทิ้งให้หมด!"
+
+#. Id: 16867-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16867-Dialogue.mod:1
+msgid "... Purge the heretics!"
+msgstr "...กำจัดพวกนอกรีตซะ!"
+
+#. Id: 16867-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16867-Dialogue.mod:2
+msgid "... All heretics be purged!"
+msgstr "...พวกนอกรีตต้องถูกกำจัด!"
+
+#. Id: 16867-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16867-Dialogue.mod:3
+msgid "... Burn the heretics! Burn them all!"
+msgstr "...เผาพวกนอกรีตทิ้งให้หมด! เผาให้หมด!"
+
+#. Id: 16867-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16867-Dialogue.mod:4
+msgid "... Let the heretics burn in a holy ball of flames!"
+msgstr "...พวกนอกรีตจงถูกเผาผลาญด้วยลูกไฟศักดิ์สิทธิ์!"
+
+#. Id: 16867-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16867-Dialogue.mod:5
+msgid "... Let the heretics be purged in a blaze of fire!"
+msgstr "...พวกนอกรีตจงถูกกำจัดด้วยเปลวไฟ!"
+
+#. Id: 16867-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16867-Dialogue.mod:6
+msgid "... A firey doom to all heretics of the Holy Empire!"
+msgstr "...พวกนอกรีตใน Holy Empire ต้องพินาศด้วยเปลวเพลิง!"
+
+#. Id: 16905-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16905-Dialogue.mod:0
+msgid "The flame of the holy light will protect us from the heretics of the dark abyss."
+msgstr "เปลวไฟจากแสงศักดิ์สิทธิ์จะคุ้มครองพวกเรา จากความมืดดำของพวกนอกรีต"
+
+#. Id: 16905-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16905-Dialogue.mod:1
+msgid "All heretics will be purged in the Divine Flame of Okran."
+msgstr "พวกนอกรีตทั้งหมดจะถูกกำจัดโดยไฟศักดิ์สิทธิ์แห่ง Okran"
+
+#. Id: 16905-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16905-Dialogue.mod:2
+msgid "Heretics be purged from our holy soil! Bask in the glow of the Divine Flame."
+msgstr "พวกนอกรีตทั้งหมดจะถูกกำจัดไปจากแผ่นดินศักดิ์สิทธิ์นี้! จงให้แสงแห่งไฟศักดิ์สิทธิ์อาบไล้เจ้า"
+
+#. Id: 16905-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16905-Dialogue.mod:3
+msgid "The enemy must be purged with fire. Purged from these holy lands."
+msgstr "ศัตรูต้องถูกกำจัดด้วยเปลวไฟ กำจัดมันไปให้พ้นจากดินแดนศักดิ์สิทธิ์นี้"
+
+#. Id: 16905-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (16867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16905-Dialogue.mod:4
+msgid "And so the enemy shall be purged with fire, by the Will of Okran."
+msgstr "และพวกศัตรูต้องถูกกำจัดด้วยเปลวไฟ ด้วยเจตนารมณ์แห่ง Okran"
+
+#. Id: 16905-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (16867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16905-Dialogue.mod:5
+msgid "It is Okran's will that the darkness be burned from these lands."
+msgstr "การเผาทำลายความมืดให้หายไปจากแผ่นดินคือเจตนารมณ์แห่ง Okran"
+
+#. Id: 19114-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 19114-Dialogue.mod:0
+msgid "The Lord Okran shall burn away all dark agents and darkened ones from the dark abyss. Praise to Okran for his divine protection."
+msgstr "Lord Okran จะเผาทำลายทูตมืดและผู้แปดเปื้อนที่มาจากความมืดมิดแห่งขุมนรก คำสรรเสริญแด่การคุ้มครองอันศักดิ์สิทธิ์ของ Okran"
+
+#. Id: 19114-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 19114-Dialogue.mod:1
+msgid "The Holy Lord Phoenix Himself will carry out Okran's will to burn all darkness from this land! Praise to Okran for his sacred protection!"
+msgstr "Lord Phoenix ผู้ศักดิ์สิทธิ์เป็นผู้สืบทอดเจตนารมณ์แห่ง Okran ในการเผาทำลายความมืดให้หายไปจากแผ่นดิน! คำสรรเสริญแด่การคุ้มครองอันศักดิ์สิทธิ์ของพระองค์!"
+
+#. Id: 19114-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 19114-Dialogue.mod:2
+msgid "The holy servants of Okran will fight his last crusade, to prevent the Second Extinction. The Agents Of Darkness will be burned away from these lands with the Lord's light. Praise the lord Okran's sacrifices for mankind!"
+msgstr "ทาสรับใช้ผู้ศักดิ์สิทธิ์แห่ง Okran จะต่อสู้ในสงครามศักดิ์สิทธิ์ครั้งสุดท้าย เพื่อยับยั้งการสูญพันธุ์ครั้งที่สอง ทูตมืดจะถูกด้วยแสงแห่งพระเจ้าเผาทำลายไปจากดินแดนนี้ คำสรรเสริญแด่การเสียสละเพื่อมนุษยชาติของ Lord Okran!"
+
+#. Id: 16868-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16868-Dialogue.mod:0
+msgid "Love and devotion to lord Okra! (Bow)"
+msgstr "ความรักและความศรัทธาแด่ Lord Okra! (น้อมคำนับ)"
+
+#. Id: 16868-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16868-Dialogue.mod:1
+msgid "Eternal blessings to the Holy Fire Spirit! (Bow)"
+msgstr "คำอำนวยพรชั่วกาลนานแด่จิตวิญญาณแห่งเปลวไฟศักดิ์สิทธิ์! (น้อมคำนับ)"
+
+#. Id: 16868-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16868-Dialogue.mod:2
+msgid "Bless the Holy Griffin himself, praised be his name! (Bow)"
+msgstr "คำอำนวยพรแด่ Griffin ผู้ศักดิ์สิทธิ์ ขอคำสรรเสริญจงสถิตย์อยู่กับท่าน! (น้อมคำนับ)"
+
+#. Id: 16868-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16868-Dialogue.mod:3
+msgid "Praise to Lord Orkan! (Bow)"
+msgstr "คำสรรเสริญแด่ Lord Okran! (น้อมคำนับ)"
+
+#. Id: 16868-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16868-Dialogue.mod:4
+msgid "Praise to Lord Kral! (Bow)"
+msgstr "คำสรรเสริญแด่ Lord Kral! (น้อมคำนับ)"
+
+#. Id: 16868-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16868-Dialogue.mod:5
+msgid "Love and devotion to lord Kral! (Bow)"
+msgstr "ความรักและความศรัทธาแด่ Lord Kral! (น้อมคำนับ)"
+
+#. Id: 16868-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16868-Dialogue.mod:6
+msgid "Love and devotion to lord Orkan! (Bow)"
+msgstr "ความรักและความศรัทธาแด่ Lord Okran! (น้อมคำนับ)"
+
+#. Id: 16869-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16868-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16869-Dialogue.mod:0
+msgid "/DUMB/ heretic! Get it right! Need I send your /GREASY/ bones to Rebirth school?!"
+msgstr "/DUMB/ นอกรีต! ทำตัวดี ๆ หน่อย! อยากให้ข้าส่งกระดูก/GREASY/ของเจ้าไปที่โรงเรียน Rebirth หรือไง?!"
+
+#. Id: 16869-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16868-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16869-Dialogue.mod:1
+msgid "Curse you, /GREASY/ one! Your clumsy words are an insult to the holy lord! Need I send you to be cleansed?"
+msgstr "ขอสาปแช่งเจ้า ตัว/GREASY/! ถ้อยคำโง่เขลาของเจ้าเป็นการดูถูกพระเจ้าผู้สักดิ์สิทธิ์! อยากให้ข้าส่งเจ้าไปชำระล้างรึ?"
+
+#. Id: 16869-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16868-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16869-Dialogue.mod:2
+msgid "/GREASY/ imbecile! Get it right!"
+msgstr "เจ้าตัว/GREASY/ไร้ประโยชน์! ทำตัวดี ๆ หน่อย!"
+
+#. Id: 16870-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16870-Dialogue.mod:0
+msgid "Lord Okran have mercy on my stupidity! (/GROVEL/)"
+msgstr "ขอให้ Lord Okran ทรงเมตตาในความโง่เขลาของข้าด้วย! (/GROVEL/)"
+
+#. Id: 16870-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16870-Dialogue.mod:1
+msgid "Lord of Light, forgive my blasphemous ways! (/GROVEL/)"
+msgstr "ขอให้เทพแห่งแสงทรงอภัยให้การดูหมิ่นศาสนาของข้าด้วย! (/GROVEL/)"
+
+#. Id: 16870-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16870-Dialogue.mod:2
+msgid "Lord of Light, forgive me of my /DIRTY/ sins! (/GROVEL/)"
+msgstr "ขอให้เทพแห่งแสงทรงอภัยให้บาปอัน/DIRTY/ของข้าด้วย! (/GROVEL/)"
+
+#. Id: 16870-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16870-Dialogue.mod:3
+msgid "Lord Okran, have mercy on me for my /GREASY/ ways! (/GROVEL/)"
+msgstr "ขอให้ Lord Okran ทรงเมตตาในความ/GREASY/ของข้าด้วย! (/GROVEL/)"
+
+#. Id: 16870-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16870-Dialogue.mod:4
+msgid "Lord of Light, forgive my blasphemous mistake! (/GROVEL/)"
+msgstr "ขอให้เทพแห่งแสงทรงอภัยให้ความผิดพลาดด้วยการดูหมิ่นศาสนาของข้าด้วย! (/GROVEL/)"
+
+#. Id: 16878-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16870-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16878-Dialogue.mod:0
+msgid "The lord forgives you my child..."
+msgstr "พระเจ้าทรงอภัยให้เจ้า ลูกเอ๋ย..."
+
+#. Id: 16878-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (16870-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16878-Dialogue.mod:1
+msgid "The lord absolves you my holy /BROTHER/..."
+msgstr "พระเจ้าทรงอภัยให้ท่าน /BROTHER/ผู้ศักดิ์สิทธิ์ของข้า..."
+
+#. Id: 16878-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (16870-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16878-Dialogue.mod:2
+msgid "Lord Okran is merciful, you are forgiven my child..."
+msgstr "Lord Okran ทรงเปี่ยมเมตตาคุณ เจ้าได้รับการอภัยแล้ว ลูกเอ๋ย..."
+
+#. Id: 16878-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (16870-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16878-Dialogue.mod:3
+msgid "All is well. The Lord is forgiving, the lord loves you..."
+msgstr "ทุกอย่างเรียบร้อยดี พระเจ้าให้อภัย พระเจ้ารักลูกนะ..."
+
+#. Id: 16871-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16871-Dialogue.mod:0
+msgid "Light Lord Okra have mercy on my stupidity! (/GROVEL/)"
+msgstr "ขอให้ Lord Okra ทรงเมตตาในความโง่เขลาของข้าด้วย! (/GROVEL/)"
+
+#. Id: 16871-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16871-Dialogue.mod:1
+msgid "Fire Spirit Lord, forgive my blasphemous ways! (/GROVEL/)"
+msgstr "ขอให้เทพแห่งจิตวิญญาณแห่งไฟทรงอภัยให้การดูหมิ่นศาสนาของข้าด้วย! (/GROVEL/)"
+
+#. Id: 16871-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16871-Dialogue.mod:2
+msgid "Fire Lord Kral, forgive me of my /DIRTY/ sins! (/GROVEL/)"
+msgstr "Kral เทพแห่งไฟอภัยให้บาปอัน/DIRTY/ของข้าด้วย! (/GROVEL/)"
+
+#. Id: 16871-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16871-Dialogue.mod:3
+msgid "Lord Okrane, have mercy on me for my /GREASY/ ways! (/GROVEL/)"
+msgstr "ขอให้ Lord Okrane ทรงเมตตาในความ/GREASY/ของข้าด้วย! (/GROVEL/)"
+
+#. Id: 16871-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16871-Dialogue.mod:4
+msgid "Lord Okrunus, forgive my blasphemous mistake! (/GROVEL/)"
+msgstr "ขอให้ Lord Okrunus ทรงอภัยให้ความผิดพลาดด้วยการดูหมิ่นศาสนาของข้าด้วย! (/GROVEL/)"
+
+#. Id: 16880-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16871-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16880-Dialogue.mod:0
+msgid "You can't even address our lord correctly!.. Heretic! We won't have unholy ones corrupt our sacred soil!"
+msgstr "เจ้ายังขานนามพระเจ้าของพวกเราไม่ถูกด้วยซ้ำ!...เราจะไม่ยอมให้คนแปดเปื้อนมาทำลายแผ่นดินศักดิ์สิทธิ์ของเรา!"
+
+#. Id: 16880-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (16871-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16880-Dialogue.mod:1
+msgid "Do you not even know the lord's name!?... Heretic! "
+msgstr "เจ้าไม่รู้กระทั่งพระนามของพระเจ้าเรอะ!...ไอ้คนนอกรีต!"
+
+#. Id: 16872-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16872-Dialogue.mod:0
+msgid "A simple slip of the tongue, I didn't mean to anger you, holy one"
+msgstr "แค่พูดผิดน่ะ ข้าไม่ได้ตั้งใจจะยั่วโมโหท่าน ท่านผู้ศักดิ์สิทธิ์"
+
+#. Id: 16872-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16872-Dialogue.mod:1
+msgid "It was a terrible slip of the tongue. Forgive me, holy one"
+msgstr "เป็นอาการลิ้นพันกันที่แย่มาก อภัยให้ข้าด้วย ท่านผู้ศักดิ์สิทธิ์"
+
+#. Id: 16872-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16872-Dialogue.mod:2
+msgid "A slip of the tongue. I'm sorry, holy one"
+msgstr "แค่พููดผิดน่ะ ข้าขอโทษด้วย ท่านผู้ศักดิ์สิทธิ์"
+
+#. Id: 16872-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16872-Dialogue.mod:3
+msgid "A blasphemous slip of the tongue! Please, forgive me."
+msgstr "เป็นการพูดผิดที่ดูหมิ่นศาสนามาก! ได้โปรด อภัยให้ข้าด้วย"
+
+#. Id: 16872-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16872-Dialogue.mod:4
+msgid "It was a foolish slip of the tongue. I meant no offense, holy one."
+msgstr "เป็นอาการลิ้นพันกันที่โง่มาก ข้าไม่ได้ต้งใจดูหมิ่นท่านนะ ท่านผู้ศักดิ์สิทธิ์"
+
+#. Id: 16883-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16872-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16883-Dialogue.mod:0
+msgid "You try to distract me with talk of the 'tongue', seductress!? /TAINT/ed woman!"
+msgstr "เจ้าพยายามใช้ฝีปากทำให้ข้างุนงงด้วยการพูดถึง 'ลิ้น' สินะ นางจอมยั่ว!? นางผู้หญิง/TAINT/!"
+
+#. Id: 16883-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (16872-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16883-Dialogue.mod:2
+msgid "What is this /DIRTY/ talk of tongues!? /TAINT/ed woman!"
+msgstr "เจ้าพูดพล่าม/DIRTY/อะไร!? นางผู้หญิง/TAINT/!"
+
+#. Id: 16883-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (16872-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16883-Dialogue.mod:3
+msgid "What is this /DIRTY/ talk of slippery tongues!? /TEMPTRESS/!"
+msgstr "เจ้าพูดพล่าม/DIRTY/บ้าบออะไร!? /TEMPTRESS/!"
+
+#. Id: 43252-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (16883-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 43252-Dialogue.mod:0
+msgid "Forgive me, it was a terrible choice of words, holy one..."
+msgstr "อภัยให้ข้าด้วย ข้าเลือกใช้คำผิดไปหน่อย ท่านผู้ศักดิ์สิทธิ์..."
+
+#. Id: 43252-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (16883-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 43252-Dialogue.mod:1
+msgid "Forgive me for my clumsy choice of words, holy one..."
+msgstr "อภัยให้ข้าด้วย ที่เลือกใช้คำพลาดไปหน่อย ท่านผู้ศักดิ์สิทธิ์..."
+
+#. Id: 43255-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43252-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 43255-Dialogue.mod:0
+msgid "Pray, and pray hard, my child. There is a lot of darkness that must be cleansed from within you, and it will take a lot of work to earn the Lord Okran's acceptance..."
+msgstr "ลูกเอ๋ย จงสวดภาวนาอย่างมุ่งมั่น มีความมืดมากมายที่ต้องถูกชำระล้างจากตัวเจ้า และเจ้าต้องพยายามอย่างมากเพื่อให้ได้รับการยอมรับจาก Lord Okran..."
+
+#. Id: 43256-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43255-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 43256-Dialogue.mod:0
+msgid "Tread carefully. We've no patience for the idle on Holy Nation territory, woman."
+msgstr "ระวังไว้หน่อย บนแผ่นดิน Holy Nation นี้ พวกเราไม่ยอมรับความเกียจคร้านนะ นางผู้หญิง"
+
+#. Id: 43267-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43252-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 43267-Dialogue.mod:0
+msgid "... All is forgiven, brother. Perhaps I do become a little emotional when it comes to revering our Lord Okran and the Holy Lord Phoenix Himself, but that is only because my devotion is so powerful! "
+msgstr "...ข้าให้อภัยทุกอย่าง ภราดา บางทีข้าก็มีอารมณ์ร่วมมากไปหน่อยเวลาพูดถึง Lord Okran และ Lord Phoenix ผู้ศักดิ์สิทธิ์ แต่นั่นเป็นเพราะว่าข้ามีศรัทธาสูงส่งมากนะ!"
+
+#. Id: 43253-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (16883-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 43253-Dialogue.mod:0
+msgid "Um... Perhaps I'll just keep my mouth shut from now on..."
+msgstr "อืม...บางทีข้าควรจะหุบปากตั้งแต่นี้เป็นต้นไปเลยนะ..."
+
+#. Id: 43257-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43253-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 43257-Dialogue.mod:0
+msgid "With a /DIRTY/ mouth like that, perhaps so!... But the Lord Okran teaches forgiveness. Go, pray and repent for your sinful ways, child..."
+msgstr "นั่นมันปาก/DIRTY/อะไรกันนี่!...แต่ Lord Okran สอนให้เราให้อภัย ไปซะ จงสวดภาวนาเพื่อไถ่บาปของเจ้าเสีย ลูกเอ๋ย..."
+
+#. Id: 43254-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (16883-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 43254-Dialogue.mod:0
+msgid "Are you serious? Now you're offended by the word 'tongue'?!"
+msgstr "เจ้าจริงจังหรือนี่? เจ้ารู้สึกว่าคำว่า 'ลิ้น' ดูหมิ่นเจ้างั้นเรอะ?!"
+
+#. Id: 43258-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43254-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 43258-Dialogue.mod:0
+msgid "Backtalking me as well! The undisciplined woman has no place on holy /LAND/. You cannot hide your true heresy from me, child!"
+msgstr "การพูดต่อปากต่อคำกับข้าก็ด้วย! สตรีที่ไม่ได้รับการอบรมสั่งสอนไม่มีที่ยืนบน/LAND/ศักดิ์สิทธิ์ เจ้าไม่สามารถปิดบังความคิดนอกคอกของเจ้าจากข้าได้หรอกนะ ลูกเอ๋ย!"
+
+#. Id: 16884-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16872-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16884-Dialogue.mod:0
+msgid "Pray for Okran's forgiveness at the temple. The lord is a merciful god."
+msgstr "สวดภาวนาเพื่อขอการอภัยโทษจาก Lord Okran ที่วิหารเสีย พระเจ้าทรงมีเมตตามากนะ"
+
+#. Id: 16884-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (16872-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16884-Dialogue.mod:1
+msgid "The lord is a merciful to the pure of blood. Pray for his forgiveness."
+msgstr "พระเจ้าทรงเมตตาต่อสายเลือดบริสุทธิ์ จงสวดภาวนาเพื่อขอการอภัยโทษจากพระองค์"
+
+#. Id: 16884-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (16872-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16884-Dialogue.mod:2
+msgid "You are forgiven, child. But you must continue to pray for the Lord Okran's mercy."
+msgstr "ลูกเอ๋ย เจ้าได้รับการอภัยแล้ว แต่เจ้าต้องสวดภาวนาเพื่อรับความเมตตาจาก Lord Okran ต่อไป"
+
+#. Id: 16876-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16876-Dialogue.mod:0
+msgid "Calm down, it is unholy to let your emotions overcome you."
+msgstr "ใจเย็น ๆ มันไม่ดีถ้าจะยอมให้อารมณ์เข้าครอบงำเจ้า"
+
+#. Id: 16876-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16876-Dialogue.mod:1
+msgid "Relax, it's unbecoming of a holy one to let anger get the better of him."
+msgstr "ผ่อนคลายหน่อย การปล่อยให้ความโกรธเข้าครอบงำจะทำให้เจ้าแปดเปื้อนนะ"
+
+#. Id: 16876-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16876-Dialogue.mod:2
+msgid "Calm yourself. It is unholy to let anger take a hold of you."
+msgstr "ใจเย็็น ๆ อย่าปล่อยให้ความโกรธครอบงำเจ้า"
+
+#. Id: 16876-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16876-Dialogue.mod:3
+msgid "Calm down, brother. Anger is for fools, not for the holy."
+msgstr "ใจเย็น ๆ ภราดา ความโกรธมีสำหรับพวกโง่เขลา ไม่ใช่ผู้ศักดิ์สิทธิ์นะ"
+
+#. Id: 16888-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16876-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16888-Dialogue.mod:0
+msgid "You're telling me to calm down?! You'll speak when you're spoken to, woman!"
+msgstr "เจ้าบอกให้ข้าใจเย็น ๆ เรอะ?! เจ้าจะพูดได้ก็ต่อเมื่อมีคนพูดกับเจ้าก่อน นางผู้หญิง!"
+
+#. Id: 16888-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (16876-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16888-Dialogue.mod:1
+msgid "A /TEMPTRESS/ telling me what is and isn't holy?! You speak out of line, woman!"
+msgstr "/TEMPTRESS/สอนข้าว่าอะไรคือความแปดเปื้อนงั้นรึ?! เจ้าล้ำเส้นไปหน่อยแล้ว นางผู้หญิง!"
+
+#. Id: 16888-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (16876-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16888-Dialogue.mod:2
+msgid "A woman cannot preach wisdom! How dare you speak to me like that!"
+msgstr "สตรีไม่สามารถเทศนาเกี่ยวกับสติปัญญาได้! เจ้ากล้าดีอย่างไรถึงพูดกับข้าเช่นนี้!"
+
+#. Id: 43259-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (16888-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 43259-Dialogue.mod:0
+msgid "See? So much anger! You call yourself a priest?!"
+msgstr "เห็นมั้ย? ความโกรธา! เจ้าเรียกตัวเองว่านักบวชเรอะ?!"
+
+#. Id: 43261-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43259-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 43261-Dialogue.mod:0
+msgid "Hnnnngh!!! You... you... wretched, evil woman! How dare you insult me like this! How dare you!"
+msgstr "อ๊ากกกก!!! เจ้า...เจ้า...นางปีศาจสตรีโสโครก! เจ้ากล้าดีอย่างไรมาดูหมิ่นข้าเช่นนี้! เจ้ากล้าดีอย่างไร!"
+
+#. Id: 16891-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (43261-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16891-Dialogue.mod:1
+msgid "Get this /TERRORIST/ away from me!"
+msgstr "เอาตัว/TERRORIST/นี่ไปให้พ้นหน้าข้า!"
+
+#. Id: 16891-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (43261-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16891-Dialogue.mod:2
+msgid "Get this /TERRORIST/ out of my sight!"
+msgstr "เอาตัว/TERRORIST/นี่ออกไปให้พ้นสายตาข้า!"
+
+#. Id: 16891-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (43261-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16891-Dialogue.mod:3
+msgid "Take this /TERRORIST/ to Rebirth!"
+msgstr "เอาตัว/TERRORIST/นี่ไป Rebirth!"
+
+#. Id: 16891-Dialogue.mod
+#. -- Index: 7.4
+#. -- Parent line: 6 (43261-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16891-Dialogue.mod:4
+msgid "Take this /TERRORIST/ away! Make sure /HEIS/ thoroughly cleansed!"
+msgstr "เอาตัว/TERRORIST/นี่ไป! ทำให้แน่ใจว่า/HEIS/จะถูกชำระล้างจนบริสุทธิ์!"
+
+#. Id: 43260-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (16888-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 43260-Dialogue.mod:0
+msgid "I'll speak however I goddamn want!"
+msgstr "ข้าจะพูดอะไรก็ตามที่ข้าอยากพูด!"
+
+#. Id: 43262-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43260-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 43262-Dialogue.mod:0
+msgid "Not in this town you won't, woman."
+msgstr "ไม่ใช่ในเมืองนี้ นางผู้หญิง"
+
+#. Id: 16890-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16876-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16890-Dialogue.mod:0
+msgid "Telling a holy priest of Okran what is unholy?! How wicked!"
+msgstr "บอกว่านักบวชศักดิ์สิทธิ์แห่ง Okran ไม่ศักดิ์สิทธิ์งั้นรึ?! ช่างเลวทรามนัก!"
+
+#. Id: 16890-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (16876-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16890-Dialogue.mod:1
+msgid "Preaching to a priest of Okran on what is holy?! Ignorant man!"
+msgstr "เทศนาสั่งสอนนักบวชแห่ง Okran ว่าอะไรคือความศักดิ์สิทธิ์งั้นรึ?! เจ้าคนโฉดเขลา!"
+
+#. Id: 16890-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (16876-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16890-Dialogue.mod:2
+msgid "You're preaching to ME?! I am the priest who preaches, YOU are a lowly heretic who can't even address the lord correctly!"
+msgstr "เจ้าเทศนาสอนข้าเรอะ?! ข้าคือนักบวชที่มีหน้าที่เทศนา เจ้าเป็นแค่คนนอกรีตชั้นต่ำที่เรียกชื่อพระเจ้าไม่ถูกด้วยซ้ำ!"
+
+#. Id: 43263-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (16890-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 43263-Dialogue.mod:0
+msgid "Can't handle the truth, huh?"
+msgstr "รับความจริงไม่ได้หรือไง หือ?"
+
+#. Id: 43264-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43263-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 43264-Dialogue.mod:0
+msgid "Why I-! To backtalk a priest of Okran, you truly are a wicked heretic!"
+msgstr "นี่เจ้า-! ต่อปากต่อคำกับนักบวชแห่ง Okran เจ้านี่มันเป็นคนนอกรีตเลวทรามแท้ ๆ !"
+
+#. Id: 43265-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (16890-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 43265-Dialogue.mod:0
+msgid "Or maybe I'm just more holy than you are?"
+msgstr "หรือบางทีข้าอาจจะศักดิ์สิทธิ์มากกว่าเจ้ามั้ย?"
+
+#. Id: 43266-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43265-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 43266-Dialogue.mod:0
+msgid "I don't know who you think you are, and I don't care. A true Okranite respects the holy clergy. But you, you're attitude reeks of heresy..."
+msgstr "ข้าไม่่รู้ว่าเจ้าคิดว่าตัวเองเป็นใคร ข้าไม่สนใจด้วย ชาว Okranite ที่แท้จริงให้ความเคารพนับถือสมาชิกทางศาสนาผู้ศักดิ์สิทธิ์ แต่การกระทำของเจ้านี่ส่อว่าเจ้าเป็นพวกนอกรีต..."
+
+#. Id: 16877-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16877-Dialogue.mod:0
+msgid "Yeesh, no need to overreact..."
+msgstr "อือฮึ ไม่ต้องมีปฏิกิริยาเกินจริงไป..."
+
+#. Id: 16877-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16877-Dialogue.mod:1
+msgid "How pedantic. Does it really matter?"
+msgstr "อวดฉลาดนัก นี่มันสำคัญมากนักรึ?"
+
+#. Id: 16877-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16877-Dialogue.mod:2
+msgid "Honestly, I just don't care."
+msgstr "เอาจริง ๆ นะ ข้าไม่สนใจล่ะ"
+
+#. Id: 16877-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16877-Dialogue.mod:3
+msgid "This is boring, I don't care!"
+msgstr "น่าเบื่อจริง ข้าไม่สนใจแล้ว!"
+
+#. Id: 16877-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16877-Dialogue.mod:4
+msgid "Does it really matter? It's all /DRIVEL/ anyway..."
+msgstr "นี่มันสำคัญจริงเหรอ? มันเป็นแค่เรื่อง/DRIVEL/เองนะ..."
+
+#. Id: 16877-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (16869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16877-Dialogue.mod:5
+msgid "Let's face it. It's all /DRIVEL/ anyway..."
+msgstr "ยอมรับเถอะ มันเป็นแค่เรื่อง/DRIVEL/เองนะ..."
+
+#. Id: 16893-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16877-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16893-Dialogue.mod:0
+msgid "Insolent woman! Have some respect!"
+msgstr "นางผู้หญิงอวดดี! มีสัมมาคารวะหน่อย!"
+
+#. Id: 16893-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (16877-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16893-Dialogue.mod:1
+msgid "/GREASY/ woman! Have you no shame?!"
+msgstr "นางผู้หญิง/GREASY/! เจ้าไม่ละอายบ้างรึ?!"
+
+#. Id: 16893-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (16877-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16893-Dialogue.mod:2
+msgid "Have you no shame, woman? In Okran's name, I will punish you for your sins!"
+msgstr "เจ้าไม่ละอายบ้างรึ นางผู้หญิง? ในนามแห่ง Okran ข้าจะลงโทษบาปของเจ้า!"
+
+#. Id: 16895-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16877-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16895-Dialogue.mod:0
+msgid "Have you no shame, heretic? In Okran's honor, I will punish you!"
+msgstr "เจ้าไม่ละอายบ้างรึึ เจ้าคนนอกรีต? ด้วยเกียรติของ Okran ข้าจะลงโทษเจ้า!"
+
+#. Id: 16895-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (16877-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16895-Dialogue.mod:1
+msgid "/GREASY/ heretic! Have some respect!"
+msgstr "เจ้าคนนอกรีต/GREASY/! มีสัมมาคารวะหน่อย!"
+
+#. Id: 16873-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16868-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16873-Dialogue.mod:0
+msgid "/TAINT/ed woman! Get it right! If you spent less time idling and more time in worship, you wouldn't make such blasphemous mistakes!"
+msgstr "นางผู้หญิง/TAINT/! ทำตัวดี ๆ หน่อย! ถ้าเจ้าใส่ใจจะภาวนามากกว่าทำตัวเกียจคร้านไปวัน ๆ เจ้าจะไม่ทำผิดต่อศาสนาแบบนี้!"
+
+#. Id: 16873-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16868-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16873-Dialogue.mod:1
+msgid "/DUMB/ wench! Get it right!"
+msgstr "นางโสเภณี/DUMB/! ทำตัวดี ๆ หน่อย!"
+
+#. Id: 16873-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16868-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 16873-Dialogue.mod:2
+msgid "/TAINT/ed wench! Get it right! If you spent more time in worship and less time slacking, you wouldn't make such /GREASY/ mistakes!"
+msgstr "นางโสเภณี/TAINT/! ทำตัวดี ๆ หน่อย! ถ้าเจ้าใส่ใจจะภาวนามากกว่านี้แทนทีจะทำตัวเกียจคร้านไปวัน ๆ เจ้าจะไม่ทำผิด/GREASY/แบบนี้!"
+
+#. Id: 16864-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16864-Dialogue.mod:0
+msgid "Praise the holy lord himself, blessed be his name! (Bow)"
+msgstr "ขอสรรเสริญพระเจ้าผู้ศักดิ์สิทธิ์ ขอคำสรรเสริญจงสถิตย์อยู่กับท่าน! (น้อมคำนับ)"
+
+#. Id: 16864-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16864-Dialogue.mod:1
+msgid "Love and devotion to lord Okran! (Bow)"
+msgstr "ความรักและความศรัทธาแด่ Lord Okran! (น้อมคำนับ)"
+
+#. Id: 16864-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16864-Dialogue.mod:2
+msgid "Eternal blessings to the Lord of Light! (Bow)"
+msgstr "คำอำนวยพรชั่วกาลนานแด่เทพแห่งแสง! (น้อมคำนับ)"
+
+#. Id: 16864-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16864-Dialogue.mod:3
+msgid "Praise to Lord Okran! (Bow)"
+msgstr "คำสรรเสริญแด่ Lord Okran! (น้อมคำนับ)"
+
+#. Id: 16906-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16906-Dialogue.mod:0
+msgid "And the Lord Okran shall smite all dark agents and darkened ones from the dark abyss! Praise to Okran for his divine protection!"
+msgstr "และ Lord Okran จะทำลายทูตมืดและผู้แปดเปื้อนที่มาจากความมืดมิดแห่งขุมนรก! คำสรรเสริญแด่การคุ้มครองอันศักดิ์สิทธิ์ของ Okran!"
+
+#. Id: 16906-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16906-Dialogue.mod:1
+msgid "And the Holy Lord Phoenix Himself will carry out Okran's will to smite all darkness from this land! Praise to Okran for his sacred protection!"
+msgstr "และ Lord Phoenix ผู้ศักดิ์สิทธิ์จะสืบทอดเจตนารมณ์แห่ง Okran ในการทำลายความมืดให้หายไปจากแผ่นดิน! คำสรรเสริญแด่การคุ้มครองอันศักดิ์สิทธิ์ของ Okran!"
+
+#. Id: 16906-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16906-Dialogue.mod:2
+msgid "And the holy servants of Okran will fight his last crusade, to prevent the Second Extinction, the attack from the Agents Of Darkness! Praise the lord Okran's sacrifices for mankind!"
+msgstr "และทาสรับใช้ผู้ศักดิ์สิทธิ์แห่ง Okran จะต่อสู้ในสงครามศักดิ์สิทธิ์ครั้งสุดท้าย นั่นคือการโจมตีของทูตแห่งความมืด เพื่อยับยั้งการสูญพันธุ์ครั้งที่สอง! คำสรรเสริญแด่การเสียสละเพื่อมนุษยชาติของ Lord Okran!"
+
+#. Id: 16907-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16907-Dialogue.mod:0
+msgid "(Keep your head bowed down)"
+msgstr "(ก้มศีรษะต่ำไว้)"
+
+#. Id: 16907-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16907-Dialogue.mod:1
+msgid "(Bow your head)"
+msgstr "(ก้มศีรษะลง)"
+
+#. Id: 16908-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16908-Dialogue.mod:0
+msgid "Amen!"
+msgstr "อาเมน!"
+
+#. Id: 16908-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16908-Dialogue.mod:2
+msgid "Divine blessings!"
+msgstr "คำอำนวยพรอันศักดิ์สิทธิ์!"
+
+#. Id: 16908-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16908-Dialogue.mod:3
+msgid "Eternal blessings to Okran!"
+msgstr "คำอำนวยพรชั่วกาลนานแด่ Okran!"
+
+#. Id: 16909-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16909-Dialogue.mod:0
+msgid "Death to the evil heretics!"
+msgstr "พวกปีศาจนอกรีตจงตายซะ!"
+
+#. Id: 16909-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16909-Dialogue.mod:1
+msgid "Destroy the unholy heretics!"
+msgstr "ทำลายพวกนอกรีตที่แปดเปื้อน!"
+
+#. Id: 16909-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16909-Dialogue.mod:2
+msgid "And we'll eat the hearts of the heretics!... And then burn them!"
+msgstr "และพวกเราจะกินหัวใจของพวกนอกรีต!...จากนั้นก็เผาพวกมัน!"
+
+#. Id: 16909-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16909-Dialogue.mod:3
+msgid "Destroy all that is... bad!"
+msgstr "ทำลายทุกสิ่งทุกอย่างที่...เลวร้ายซะ!"
+
+#. Id: 16909-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16909-Dialogue.mod:4
+msgid "Burn everything! Everything unholy!"
+msgstr "เผาให้หมด! เผาทุกอย่างที่แปดเปื้อน!"
+
+#. Id: 16909-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16909-Dialogue.mod:5
+msgid "Burn it all! We'll burn it all down!"
+msgstr "เผาให้หมด! เราจะเผาเผาทุกอย่างให้หมด!"
+
+#. Id: 16910-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16909-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Blessings!
+#: 16910-Dialogue.mod:0
+msgid "Bask in the protection of the divine flame’s light, Child of Okran! You are safe from the darkness on sacred soil"
+msgstr "จงให้แสงแห่งไฟศักดิ์สิทธิ์อาบไล้เจ้า บุตรแห่ง Okran ทั้งหลาย! เจ้าจะปลอดภัยจากความมืดเมื่อยู่บนแผ่นดินศักดิ์สิทธิ์นี้"
+
+#. Id: 16911-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16911-Dialogue.mod:0
+msgid "... Are you finished yet?"
+msgstr "...เจ้าพูดจบหรือยัง?"
+
+#. Id: 16911-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16911-Dialogue.mod:1
+msgid "... Are we done here yet?"
+msgstr "...เราจบเรื่องที่นี่กันหรือยัง?"
+
+#. Id: 16911-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16911-Dialogue.mod:2
+msgid "... How much longer is this gonna go on for?"
+msgstr "...มันจะต่ออีกยาวไหมนี่?"
+
+#. Id: 16911-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16911-Dialogue.mod:3
+msgid "... Can I go now?"
+msgstr "...ข้าไปได้หรือยัง?"
+
+#. Id: 16911-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (16906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 16911-Dialogue.mod:4
+msgid "... You done?"
+msgstr "...เจ้าเสร็จแล้วหรือ?"
+
+#. Id: 42821-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 42821-Dialogue.mod:0
+msgid "All hail Narko and her demon minion robots!"
+msgstr "Narko และเหล่าลูกสมุนหุ่นยนต์ของนางจงเจริญ!"
+
+#. Id: 42821-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 42821-Dialogue.mod:1
+msgid "Prayers and orgies to the demoness Narko!"
+msgstr "สวดภาวนาและประเวณีหมู่เพื่อนารีปีศาจ Narko!"
+
+#. Id: 42821-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 42821-Dialogue.mod:2
+msgid "Praise the goddess Narko, goat sacrifices all round!"
+msgstr "คำสรรเสริญแด่เทพธิดา Narko เอาแพะบูชายัญมา!"
+
+#. Id: 42821-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#: 42821-Dialogue.mod:3
+msgid "A goat for Narko, demoness of the night! Love and devotion!"
+msgstr "แพะเพื่อถวาย Narko นารีปีศาจแห่งราตรี! ด้วยความรักและความศรัทธา!"
+

@@ -1,0 +1,494 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 63838-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Target Race(s): Greenlander
+#. Id: 65203-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#. Id: 99087-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 63838-Dialogue.mod:0 65203-Dialogue.mod:0 99087-Dialogue.mod:0
+msgid "Give us your skin!"
+msgstr ""
+
+#. Id: 63838-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Target Race(s): Greenlander
+#. Id: 65203-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (65201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#: 63838-Dialogue.mod:1 65203-Dialogue.mod:1
+msgid "Give us that good skin!"
+msgstr ""
+
+#. Id: 63838-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Target Race(s): Greenlander
+#. Id: 65203-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (65201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#. Id: 99087-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 63838-Dialogue.mod:2 65203-Dialogue.mod:2 99087-Dialogue.mod:1
+msgid "Come to us, flesh brothers! We just want your skin..."
+msgstr ""
+
+#. Id: 63839-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63838-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. Id: 99088-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (99087-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 63839-Dialogue.mod:0 99088-Dialogue.mod:1
+msgid "It's good to share!"
+msgstr ""
+
+#. Id: 63839-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (63838-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. Id: 99088-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (99087-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 63839-Dialogue.mod:1 99088-Dialogue.mod:0
+msgid "Come share with your fellow human brothers!"
+msgstr ""
+
+#. Id: 63865-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Target Race(s): Greenlander
+#: 63865-Dialogue.mod:0
+msgid "Come closer to me, flesh /BROTHER/..."
+msgstr ""
+
+#. Id: 63865-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Target Race(s): Greenlander
+#: 63865-Dialogue.mod:1
+msgid "Here. Come to me, flesh /BROTHER/..."
+msgstr ""
+
+#. Id: 63866-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#: 63866-Dialogue.mod:0
+msgid "/IWE/ mean no harm..."
+msgstr ""
+
+#. Id: 63866-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (63865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#: 63866-Dialogue.mod:1
+msgid "Shh... Don't be afraid..."
+msgstr ""
+
+#. Id: 63866-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (63865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#: 63866-Dialogue.mod:2
+msgid "Time for you to sleep now..."
+msgstr ""
+
+#. Id: 63867-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#: 63867-Dialogue.mod:0
+msgid "Share your skin with /MEUS/..."
+msgstr ""
+
+#. Id: 63867-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (63866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#: 63867-Dialogue.mod:1
+msgid "/IWE/ just want your skin..."
+msgstr ""
+
+#. Id: 63867-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (63866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#: 63867-Dialogue.mod:2
+msgid "/IWE/ just want some of that good skin..."
+msgstr ""
+
+#. Id: 63868-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#: 63868-Dialogue.mod:0
+msgid "It's such pretty skin..."
+msgstr ""
+
+#. Id: 63868-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (63867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#: 63868-Dialogue.mod:1
+msgid "You have such tidy skin..."
+msgstr ""
+
+#. Id: 63868-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (63867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#: 63868-Dialogue.mod:2
+msgid "You'll hardly feel a thing..."
+msgstr ""
+
+#. Id: 65193-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#: 65193-Dialogue.mod:0
+msgid "Human..."
+msgstr ""
+
+#. Id: 65227-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Target Race(s): Greenlander
+#. Id: 65228-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65227-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 65229-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65228-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 65230-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65229-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 65231-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65230-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 62882-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#. Id: 62883-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 62884-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62883-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 62885-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62884-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 62886-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62885-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 65227-Dialogue.mod:0 65228-Dialogue.mod:0 65229-Dialogue.mod:0 65230-Dialogue.mod:0 65231-Dialogue.mod:0 62882-Dialogue.mod:0 62883-Dialogue.mod:0 62884-Dialogue.mod:0 62885-Dialogue.mod:0 62886-Dialogue.mod:0
+msgid "Flesh /BROTHER/!"
+msgstr ""
+
+#. Id: 65233-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65232-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 62888-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (62887-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Skin bandit sees player
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 65233-Dialogue.mod:0 62888-Dialogue.mod:0
+msgid "/HIS/ ear fixtures must be aged..."
+msgstr ""
+
+#. Id: 65234-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65233-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 62889-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (62888-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Skin bandit sees player
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 65234-Dialogue.mod:0 62889-Dialogue.mod:0
+msgid "FLESH BROTHER!"
+msgstr ""
+
+#. Id: 65235-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65234-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. Id: 62892-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (62889-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#: 65235-Dialogue.mod:0 62892-Dialogue.mod:0
+msgid "Leave it. Let's go eat dead animal muscles instead."
+msgstr ""
+
+#. Id: 65235-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (65234-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. Id: 62892-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (62889-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#: 65235-Dialogue.mod:1 62892-Dialogue.mod:1
+msgid "Nevermind. I am experiencing hunger. Let's assimilate a dead animal."
+msgstr ""
+
+#. Id: 65235-Dialogue.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (65234-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. Id: 62892-Dialogue.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (62889-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#: 65235-Dialogue.mod:2 62892-Dialogue.mod:2
+msgid "Nevermind. Let's go and destroy our livers with rice mold."
+msgstr ""
+
+#. Id: 65236-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (65235-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Skin bandit skin raid announce
+#. Id: 62893-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (62892-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#: 65236-Dialogue.mod:0 62893-Dialogue.mod:0
+msgid "Mmm. Sounds... delicious."
+msgstr ""
+
+#. Id: 65236-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (65235-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Skin bandit skin raid announce
+#. Id: 62893-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (62892-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#: 65236-Dialogue.mod:1 62893-Dialogue.mod:1
+msgid "Agreed. I feel excited by this prospect."
+msgstr ""
+
+#. Id: 65237-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65233-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 62890-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (62888-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Skin bandit sees player
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 65237-Dialogue.mod:0 62890-Dialogue.mod:0
+msgid "FLESH SISTER!"
+msgstr ""
+
+#. Id: 65247-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65227-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. Id: 63841-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62883-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#: 65247-Dialogue.mod:0 63841-Dialogue.mod:0
+msgid "Come here, that's it..."
+msgstr ""
+
+#. Id: 65247-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (65227-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. Id: 63841-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (62883-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#. Id: 41045-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41044-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin sees escaped slave
+#: 65247-Dialogue.mod:1 63841-Dialogue.mod:1 41045-Dialogue.mod:0
+msgid "Come closer..."
+msgstr ""
+
+#. Id: 65248-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65247-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. Id: 63842-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63841-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#: 65248-Dialogue.mod:0 63842-Dialogue.mod:0
+msgid "Yes. We just want your good skin... "
+msgstr ""
+
+#. Id: 65248-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (65247-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. Id: 63842-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (63841-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#: 65248-Dialogue.mod:1 63842-Dialogue.mod:1
+msgid "Yes, like that. Such clean, fresh skin..."
+msgstr ""
+
+#. Id: 65248-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (65247-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. Id: 63842-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (63841-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#: 65248-Dialogue.mod:2 63842-Dialogue.mod:2
+msgid "My, what lovely skin you have..."
+msgstr ""
+
+#. Id: 65249-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65248-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. Id: 63843-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63842-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#: 65249-Dialogue.mod:0 63843-Dialogue.mod:0
+msgid "This will be over quickly, flesh /BROTHER/, don't worry."
+msgstr ""
+
+#. Id: 65249-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (65248-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. Id: 63843-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (63842-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#: 65249-Dialogue.mod:1 63843-Dialogue.mod:1
+msgid "It would look much better on me, don't you think?"
+msgstr ""
+

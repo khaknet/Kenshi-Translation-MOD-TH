@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 95744-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#: 95744-Dialogue.mod:1
+msgid "MY LEG!!"
+msgstr ""
+
+#. Id: 96403-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95744-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#: 96403-Dialogue.mod:0
+msgid "You took my leg off!"
+msgstr ""
+
+#. Id: 96432-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#: 96432-Dialogue.mod:0
+msgid "Clean off! /FUCKING/ /FUCKNOUN/!"
+msgstr ""
+
+#. Id: 96432-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (96403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#: 96432-Dialogue.mod:2
+msgid "MY WHOLE FUCKING LEG!"
+msgstr ""
+
+#. Id: 96432-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (96403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#. Id: 96440-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (96439-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#: 96432-Dialogue.mod:3 96440-Dialogue.mod:0
+msgid "/ARG/!!"
+msgstr ""
+
+#. Id: 96432-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (96403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#: 96432-Dialogue.mod:4
+msgid "MY LEG!!!"
+msgstr ""
+
+#. Id: 96435-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (96434-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Lost my leg
+#: 96435-Dialogue.mod:0
+msgid "Stop screaming, it's just a leg."
+msgstr ""
+
+#. Id: 96436-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (96435-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#: 96436-Dialogue.mod:0
+msgid "Ohh, okay for you, metal man! Sure, I'll just grow a NEW ONE!"
+msgstr ""
+
+#. Id: 96439-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (96436-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Lost my leg
+#: 96439-Dialogue.mod:0
+msgid "You can get an upgrade, better than any flesh leg..."
+msgstr ""
+
+#. Id: 96437-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (96432-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Lost my leg
+#: 96437-Dialogue.mod:1
+msgid "Fuck your leg!"
+msgstr ""
+
+#. Id: 96437-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (96432-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Lost my leg
+#: 96437-Dialogue.mod:2
+msgid "That's not all I'ma take, /INSULT/!"
+msgstr ""
+
+#. Id: 96437-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (96432-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Lost my leg
+#: 96437-Dialogue.mod:3
+msgid "/QUICKLAUGH/, ain't so big now are we, /INSULT/?"
+msgstr ""
+
+#. Id: 96438-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (96437-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#: 96438-Dialogue.mod:1
+msgid "A leg for a leg, asshole!"
+msgstr ""
+
+#. Id: 96402-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#. -- Condition: My Race(s): Skeleton
+#: 96402-Dialogue.mod:1
+msgid "My leg..."
+msgstr ""
+
+#. Id: 96402-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#. -- Condition: My Race(s): Skeleton
+#: 96402-Dialogue.mod:2
+msgid "That's not good..."
+msgstr ""
+
+#. Id: 96402-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#. -- Condition: My Race(s): Skeleton
+#: 96402-Dialogue.mod:3
+msgid "That was my good leg!"
+msgstr ""
+
+#. Id: 96402-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#. -- Condition: My Race(s): Skeleton
+#: 96402-Dialogue.mod:4
+msgid "Look what you've done now..."
+msgstr ""
+
+#. Id: 96402-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lost my leg
+#. -- Condition: My Race(s): Skeleton
+#: 96402-Dialogue.mod:5
+msgid "Not good."
+msgstr ""
+

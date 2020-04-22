@@ -1,0 +1,550 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 59212-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59212-Dialogue.mod:0
+msgid "Sir."
+msgstr ""
+
+#. Id: 59218-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59214-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59218-Dialogue.mod:0
+msgid "Noble Squire Supreme Yamdu, nice to meet you, sir. We handle master Longen's businesses. Is there anything we can help you with, sir?"
+msgstr ""
+
+#. Id: 59219-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59218-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 59219-Dialogue.mod:0
+msgid "Yes, I want to make an alliance."
+msgstr ""
+
+#. Id: 59220-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59219-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59220-Dialogue.mod:0
+msgid "Oh, but that's easy, sir! Lifetime membership to the Traders Guild costs 100,000 Cats. Unless you have a trading post in the area. Do you have a trading post, sir?"
+msgstr ""
+
+#. Id: 59221-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59220-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 59221-Dialogue.mod:0
+msgid "Stop calling me sir."
+msgstr ""
+
+#. Id: 59223-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59221-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59223-Dialogue.mod:0
+msgid "B-but.... [He stutters and looks bemused]... "
+msgstr ""
+
+#. Id: 59224-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59220-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100000, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERS_BEST_TOWN_LEVEL<1, Tag: -1
+#. Id: 59232-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (59229-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>75000, Tag: -1
+#: 59224-Dialogue.mod:0 59232-Dialogue.mod:0
+msgid "Okay, sign me up"
+msgstr ""
+
+#. Id: 59233-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59224-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59233-Dialogue.mod:0
+msgid "Oh good, sir! Welcome to the Traders Guild. Please, take your membership pack and have a nice day."
+msgstr ""
+
+#. Id: 59234-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (59233-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. Id: 59243-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59242-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59234-Dialogue.mod:0 59243-Dialogue.mod:0
+msgid "Safe travels, sir..."
+msgstr ""
+
+#. Id: 59225-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59220-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: PLAYERS_BEST_TOWN_LEVEL>-1, Tag: -1
+#: 59225-Dialogue.mod:0
+msgid "I do have an outpost..."
+msgstr ""
+
+#. Id: 59229-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59225-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59229-Dialogue.mod:0
+msgid "Oh good, sir! Then you get discounts, 75,000 Cats."
+msgstr ""
+
+#. Id: 59259-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (59229-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. Id: 60930-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59220-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59259-Dialogue.mod:0 60930-Dialogue.mod:0
+msgid "So, what does my membership get me?"
+msgstr ""
+
+#. Id: 59260-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (59259-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. Id: 60931-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (60930-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59260-Dialogue.mod:0 60931-Dialogue.mod:0
+msgid "Oh, so many things, sir. Free trade, protection, slave exemption, and 'class', of course. It is the desert man's dream to one day become a member of the fine Traders Guild!"
+msgstr ""
+
+#. Id: 64253-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (59260-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<75000, Tag: -1
+#. Id: 64249-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64248-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<100000, Tag: -1
+#: 64253-Dialogue.mod:0 64249-Dialogue.mod:0
+msgid "I can't afford a membership right now."
+msgstr ""
+
+#. Id: 59226-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59220-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. Id: 95817-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95813-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Robotics shop black desert
+#. Id: 58908-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58894-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hound diplomat talk to
+#: 59226-Dialogue.mod:0 95817-Dialogue.mod:0 58908-Dialogue.mod:0
+msgid "Nevermind, I've changed my mind."
+msgstr ""
+
+#. Id: 59265-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59226-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59265-Dialogue.mod:0
+msgid "No problem. You know where to find us if you need anything..."
+msgstr ""
+
+#. Id: 64247-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59220-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: PLAYERS_BEST_TOWN_LEVEL<0, Tag: -1
+#: 64247-Dialogue.mod:0
+msgid "I don't have a trading post."
+msgstr ""
+
+#. Id: 64248-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64247-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 64248-Dialogue.mod:0
+msgid "I see. Then I cannot give you discount, how sad. Your membership will cost the full price, sir."
+msgstr ""
+
+#. Id: 59242-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59218-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59242-Dialogue.mod:0
+msgid "No, nothing thank you."
+msgstr ""
+
+#. Id: 59215-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59212-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 59215-Dialogue.mod:0
+msgid "I'm not a 'sir'..."
+msgstr ""
+
+#. Id: 1534290-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59212-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534290-Dialogue.mod:0
+msgid "Let's talk about war."
+msgstr ""
+
+#. Id: 1534291-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534291-Dialogue.mod:0
+msgid "Oh certainly, sir."
+msgstr ""
+
+#. Id: 1534297-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534297-Dialogue.mod:0
+msgid "Good call, sir. The Holy Nation wastes many resources, it’s a shame to leave all of that iron ore unharvested when we can claim it for ourselves and put some of those uneducated civilians to good use."
+msgstr ""
+
+#. Id: 1534302-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534297-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. Id: 1534308-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534298-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534302-Dialogue.mod:0 1534308-Dialogue.mod:0
+msgid "So where do we start?"
+msgstr ""
+
+#. Id: 1534303-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1534302-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534303-Dialogue.mod:0
+msgid "Well you see, sir. We don't really have to get our hands bloody at all. We can unleash a great chaos upon the Holy Nation, and we can have the Shek destroy themselves too, as they are so raring to do."
+msgstr ""
+
+#. Id: 1534304-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1534303-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534304-Dialogue.mod:0
+msgid "All you need to do is assassinate the Stone Golem, sir. She’s the only thing holding the Shek back from war. Take her out of the picture and the Shek will surely fight themselves extinct, and the Holy Nation will be overrun with any surviving war mongerers."
+msgstr ""
+
+#. Id: 1534305-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1534304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534305-Dialogue.mod:0
+msgid "Seems like pretty blood hands to me..."
+msgstr ""
+
+#. Id: 1534306-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1534305-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534306-Dialogue.mod:0
+msgid "Oh, of course YOU'LL need to get your hands bloody when you assassinate the queen. The rest of us though, sir, we’ll be completely unsullied."
+msgstr ""
+
+#. Id: 1534316-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1534304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534316-Dialogue.mod:0
+msgid "Thanks for the tip, Yamdu."
+msgstr ""
+
+#. Id: 1534317-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1534304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534317-Dialogue.mod:0
+msgid "I have another question..."
+msgstr ""
+
+#. Id: 1534318-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1534317-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534318-Dialogue.mod:0
+msgid "You do, sir?"
+msgstr ""
+
+#. Id: 1534436-__Fixes.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534436-__Fixes.mod:0
+msgid "Oh yes, sir. Very nice work eradicating the Stone Golem. Okran's Pride is now in chaos with kamikaze shek, their paladins are starting to become overwhelmed..."
+msgstr ""
+
+#. Id: 1534437-__Fixes.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534436-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534437-__Fixes.mod:0
+msgid "They're still holding on to a strong defensive position on the southern border though. I suggest next assassinating Seta in the town of Stack. You would essentially be opening the Holy Nation's back door nice and wide for the attacking Shek to have their vengeance even more freely, sir."
+msgstr ""
+
+#. Id: 1534438-__Fixes.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534436-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534438-__Fixes.mod:0
+msgid "The High Inquisitors still hold strong defensive positions though. I suggest next assassinating Seta in the town of Stack. You would essentially be opening the Holy Nation's back door nice and wide for the attacking Shek to have their vengeance even more freely, sir."
+msgstr ""
+
+#. Id: 1534439-__Fixes.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534436-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534439-__Fixes.mod:0
+msgid "With Seta out of the way and their southern defenses open, the Shek are overrunning Okran's Plains like an infestation. Dispose of Valtena and we can very easily nudge Tengu into sending United Cities forces in to Okran's Shield. Then we finally have our foot in the door to harvest those green plains see, sir."
+msgstr ""
+
+#. Id: 1534441-__Fixes.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534436-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534441-__Fixes.mod:0
+msgid "Both of the Phoenix' inquisitors are out of the way and we've captured their richest resources. As far as the Traders Guild is concerned, we have all we need from Okran's Pride. We'd prefer not to take Blister Hill and have such power go too much to Tengu's head, sir..."
+msgstr ""
+
+#. Id: 1534298-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534293-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534298-Dialogue.mod:0
+msgid "Ah yes, sir. Profits in the weapons trade... [He pulls out a clip board]... have plummeted 45% since the Stone Golem took the throne in Stenn. Starting a war with the Shek would be very beneficial to kickstart a few more sales."
+msgstr ""
+
+#. Id: 1534307-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1534308-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534307-Dialogue.mod:0
+msgid "Well, sir, when it comes to the Shek Kingdom we can kill two bonedogs with one nodachi, see. The Stone Golem, stationed in Admag, is the only thing holding the Shek back from war. Assassinate her covertly and the Shek extremists will surely assume the Phoenix responsible. They'll fight themselves extinct and the Holy Nation will be overrun with the vengeful war mongerers that are left..."
+msgstr ""
+
+#. Id: 1534309-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1534307-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534309-Dialogue.mod:0
+msgid "Lord Longen will make a tidy profit and the Slave Traders will have lots of new resources to mine in the Holy Nation plains. Not to mention the Shek and the Holy Nation will no longer harrass any innocents that happen not to look like them. Everybody wins."
+msgstr ""
+
+#. Id: 1534310-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1534309-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534310-Dialogue.mod:0
+msgid "Yamdu... do you have a soul?"
+msgstr ""
+
+#. Id: 1534311-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1534310-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534311-Dialogue.mod:0
+msgid "A soul, sir?"
+msgstr ""
+
+#. Id: 1534312-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (1534311-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534312-Dialogue.mod:0
+msgid "Do you only ever think about profits?"
+msgstr ""
+
+#. Id: 1534313-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (1534312-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534313-Dialogue.mod:0
+msgid "Oh sir, it's Yamdu's job. This is how we keep ourselves from going insane after all, isn't it? By doing the best job we can do, ahaha haha ha."
+msgstr ""
+
+#. Id: 1534314-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (1534313-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534314-Dialogue.mod:0
+msgid "[He sticks a thumb up and his empty black eyes glisten]"
+msgstr ""
+
+#. Id: 1534315-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (1534314-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534315-Dialogue.mod:0
+msgid "... Forget I said anything."
+msgstr ""
+
+#. Id: 1534321-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (1534314-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534321-Dialogue.mod:0
+msgid "Aha...haha."
+msgstr ""
+
+#. Id: 1534319-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534298-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534319-Dialogue.mod:0
+msgid "I don't care about profits, Yamdu. I just want to kill."
+msgstr ""
+
+#. Id: 1534294-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534294-Dialogue.mod:0
+msgid "I want to destroy the swampers."
+msgstr ""
+
+#. Id: 1534299-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534294-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534299-Dialogue.mod:0
+msgid "The swampers? Oh, no sir, the swampers are really quite profitable for us. Best to leave them be."
+msgstr ""
+
+#. Id: 1534295-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534295-Dialogue.mod:0
+msgid "I want to destroy the rebel farmers."
+msgstr ""
+
+#. Id: 1534300-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534295-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534300-Dialogue.mod:0
+msgid "Oh, but sir, there is much less competition for us when the farmers are hiding in the mountains. Since Simion organised his bandits, the slave farm's profits have gone through the roof. Some of the caravans are taking a hit, but demand has increased so... highs and lows, sir."
+msgstr ""
+
+#. Id: 1534301-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534296-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534301-Dialogue.mod:0
+msgid "Ah yes, sir. Quite troublesome for production... The main leaders are hiding in the Forbidden Zone, south of the desert, we don’t know where exactly. The Forbidden Zone is out of bounds, it became expensive sending soldiers there... as thrall feed imaginably. But in order for us to continue expanding, Tinfist’s operation needs to be shut down. Once he is killed, his faction will crumble. You would be rewarded well for his eradication."
+msgstr ""
+
+#. Id: 1534322-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534322-Dialogue.mod:0
+msgid "All I can say, sir, is search south. He’ll likely be hiding in a dangerous spot you wouldn’t expect. He is very sneaky afterall, sir."
+msgstr ""
+
+#. Id: 59240-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#: 59240-Dialogue.mod:0
+msgid "Good to see you again, sir. Is there anything I can help you with?"
+msgstr ""
+

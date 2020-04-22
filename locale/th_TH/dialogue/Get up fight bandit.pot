@@ -1,0 +1,494 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13428-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 13428-Escapes.mod:0
+msgid "DIE!"
+msgstr ""
+
+#. Id: 13428-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 45200-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45199-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust king interrupted by other
+#. Id: 45196-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45195-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted dust king
+#: 13428-Escapes.mod:2 45200-Dialogue.mod:0 45196-Dialogue.mod:0
+msgid "I'll /SLITYOURTHROAT/!"
+msgstr ""
+
+#. Id: 13428-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 7928-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. Id: 12837-Dialogue (11) (2).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12836-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc betrayed
+#: 13428-Escapes.mod:3 7928-Dialogue.mod:4 12837-Dialogue?(11)?(2).mod:4
+msgid "You die!"
+msgstr ""
+
+#. Id: 13428-Escapes.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 13428-Escapes.mod:5
+msgid "More /BODYPARTS/ for my collection!"
+msgstr ""
+
+#. Id: 13429-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 7794-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13429-Escapes.mod:0 7794-Dialogue.mod:3
+msgid "/BASTARD/s!"
+msgstr ""
+
+#. Id: 13429-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 13429-Escapes.mod:2
+msgid "/CRAPPY/ /BASTARD/s!"
+msgstr ""
+
+#. Id: 13431-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 13498-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13488-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 13431-Escapes.mod:0 13498-Escapes.mod:0
+msgid "/BASTARD/!"
+msgstr ""
+
+#. Id: 13431-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 13431-Escapes.mod:2
+msgid "/CRAPPY/ /BASTARD/!"
+msgstr ""
+
+#. Id: 13435-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#: 13435-Escapes.mod:2
+msgid "... Nngh!"
+msgstr ""
+
+#. Id: 13435-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. Id: 12619-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 13435-Escapes.mod:3 12619-Dialogue?(11)?(2).mod:4
+msgid "... Kch!"
+msgstr ""
+
+#. Id: 45509-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 13857-Escapes.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 45509-Dialogue.mod:0 13857-Escapes.mod:10 15970-Dialogue.mod:8
+msgid "Screw this!"
+msgstr ""
+
+#. Id: 45509-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 45509-Dialogue.mod:2
+msgid "Spare me!"
+msgstr ""
+
+#. Id: 45509-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 45509-Dialogue.mod:3
+msgid "Mercy! I yield!"
+msgstr ""
+
+#. Id: 45509-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 45509-Dialogue.mod:4
+msgid "I yield! I yield!"
+msgstr ""
+
+#. Id: 45509-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 45509-Dialogue.mod:6
+msgid "Don't kill me!"
+msgstr ""
+
+#. Id: 45509-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 45509-Dialogue.mod:7
+msgid "I surrender!"
+msgstr ""
+
+#. Id: 45533-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 45533-Dialogue.mod:0
+msgid "/IWE/ can't win! They're too strong!"
+msgstr ""
+
+#. Id: 45533-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 45533-Dialogue.mod:1
+msgid "/AAH/! I don't wanna fight, let me go!"
+msgstr ""
+
+#. Id: 45533-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 45533-Dialogue.mod:2
+msgid "/ARG/! I got no beef with you, let me go!"
+msgstr ""
+
+#. Id: 45533-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 45533-Dialogue.mod:3
+msgid "/AAH/ don't hurt me! I yield, I yield!"
+msgstr ""
+
+#. Id: 45533-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 45533-Dialogue.mod:4
+msgid "Spare me! I quit!"
+msgstr ""
+
+#. Id: 45533-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 45533-Dialogue.mod:5
+msgid "Spare me! I don't wanna die!"
+msgstr ""
+
+#. Id: 45533-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 45533-Dialogue.mod:6
+msgid "Have mercy! I'm just a hungry bandit!"
+msgstr ""
+
+#. Id: 45540-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 45540-Dialogue.mod:0
+msgid "/HEIS/ weakening! Keep attacking!"
+msgstr ""
+
+#. Id: 45540-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 45540-Dialogue.mod:1
+msgid "/HE/ can't fight much longer! Take /HIM/ down!"
+msgstr ""
+
+#. Id: 45540-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. Id: 7951-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. Id: 48609-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 45540-Dialogue.mod:2 7951-Dialogue.mod:0 48609-Dialogue.mod:7
+msgid "I'll make you pay!"
+msgstr ""
+
+#. Id: 45540-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 45540-Dialogue.mod:3
+msgid "/HEIS/ weak and injured! Cut /HIM/ down! "
+msgstr ""
+
+#. Id: 45540-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 45540-Dialogue.mod:4
+msgid "Nngh... Look... look, /HEIS/ injured... keep attacking!"
+msgstr ""
+
+#. Id: 45540-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 45540-Dialogue.mod:5
+msgid "Rgh... /HEIS/ hurt... this is /MYOUR/ chance! Get /HIM/!"
+msgstr ""
+

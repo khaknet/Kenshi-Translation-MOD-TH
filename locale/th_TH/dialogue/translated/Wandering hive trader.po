@@ -1,0 +1,534 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47204-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47204-Dialogue.mod:0
+msgid "No outpost for miles, /RACENAMEHIVE/! MILES..."
+msgstr ""
+
+#. Id: 47204-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47204-Dialogue.mod:1
+msgid "You look like you could use some food, /RACENAMEHIVE/..."
+msgstr ""
+
+#. Id: 47204-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47204-Dialogue.mod:2
+msgid "Over here, /RACENAMEHIVE/!"
+msgstr ""
+
+#. Id: 47204-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47204-Dialogue.mod:3
+msgid "It's your lucky day, /RACENAMEHIVE/!"
+msgstr ""
+
+#. Id: 47204-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47204-Dialogue.mod:4
+msgid "What are you doing all the way out here, /RACENAMEHIVE/? You'll starve to death!"
+msgstr ""
+
+#. Id: 47204-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47204-Dialogue.mod:5
+msgid "No shops out here, /RACENAMEHIVE/. Not for miles!"
+msgstr ""
+
+#. Id: 47204-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47204-Dialogue.mod:6
+msgid "Nothing but wasteland out here, /RACENAMEHIVE/! You should be careful..."
+msgstr ""
+
+#. Id: 47205-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47204-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47205-Dialogue.mod:0
+msgid "We have supplies for you, stock up while you can!"
+msgstr ""
+
+#. Id: 47205-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47204-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47205-Dialogue.mod:1
+msgid "Stock up while you get the chance! We have supplies just for you..."
+msgstr ""
+
+#. Id: 47205-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (47204-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47205-Dialogue.mod:2
+msgid "Stock up on our supplies while you can!"
+msgstr ""
+
+#. Id: 47206-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47205-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47206-Dialogue.mod:0
+msgid "Special deal for you..."
+msgstr ""
+
+#. Id: 47206-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (47205-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47206-Dialogue.mod:1
+msgid "Come, take a look..."
+msgstr ""
+
+#. Id: 47206-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (47205-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47206-Dialogue.mod:2
+msgid "Come, take a look at our stock..."
+msgstr ""
+
+#. Id: 47206-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (47205-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47206-Dialogue.mod:3
+msgid "Special deal, just for you..."
+msgstr ""
+
+#. Id: 47206-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (47205-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47206-Dialogue.mod:4
+msgid "We can do you a good deal..."
+msgstr ""
+
+#. Id: 47207-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 47207-Dialogue.mod:0
+msgid "Why are we running, /RACENAMEHIVE/? This is madness!"
+msgstr ""
+
+#. Id: 47207-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (47206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 47207-Dialogue.mod:1
+msgid "Why do you run from our supplies, /RACENAMEHIVE/? We just want to look after you!"
+msgstr ""
+
+#. Id: 47207-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (47206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 47207-Dialogue.mod:2
+msgid "We're just trying to take care of you, /RACENAMEHIVE/! Don't run..."
+msgstr ""
+
+#. Id: 47207-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (47206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 47207-Dialogue.mod:3
+msgid "Let us give you a deal, /RACENAMEHIVE/! Don't run..."
+msgstr ""
+
+#. Id: 47207-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (47206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 47207-Dialogue.mod:4
+msgid "Why you run?"
+msgstr ""
+
+#. Id: 47208-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47208-Dialogue.mod:0
+msgid "You know where to find us, /RACENAMEHIVE/! We're waiting for you..."
+msgstr ""
+
+#. Id: 47208-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (47206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47208-Dialogue.mod:1
+msgid "Come to us when you have money, /RACENAMEHIVE/, we'll look after you..."
+msgstr ""
+
+#. Id: 47208-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (47206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47208-Dialogue.mod:2
+msgid "Come trade with us when you're ready, /RACENAMEHIVE/, we are waiting..."
+msgstr ""
+
+#. Id: 47208-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (47206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47208-Dialogue.mod:3
+msgid "We will wait for your custom, /RACENAMEHIVE/, come find us..."
+msgstr ""
+
+#. Id: 47208-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (47206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47208-Dialogue.mod:4
+msgid "We are here waiting for your custom, /RACENAMEHIVE/... Come tell us when you are ready to trade..."
+msgstr ""
+
+#. Id: 47237-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47237-Dialogue.mod:0
+msgid "Where you going, /RACENAMEHIVE/?"
+msgstr ""
+
+#. Id: 47237-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47237-Dialogue.mod:1
+msgid "Where you going, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 47237-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47237-Dialogue.mod:2
+msgid "You, /RACENAMEHIVE/, where are you going?"
+msgstr ""
+
+#. Id: 47237-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47237-Dialogue.mod:3
+msgid "Where you go, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 47238-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47237-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47238-Dialogue.mod:0
+msgid "Nothing round here for you, nothing for miles..."
+msgstr ""
+
+#. Id: 47238-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47237-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47238-Dialogue.mod:1
+msgid "Nothing for you out here, /RACENAMEHIVE/, the nearest city is a loooong way away..."
+msgstr ""
+
+#. Id: 47238-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (47237-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47238-Dialogue.mod:2
+msgid "There's nothing for you out here, /RACENAMEHIVE/, no town for MILES..."
+msgstr ""
+
+#. Id: 47239-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47238-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47239-Dialogue.mod:0
+msgid "You look hungry, are you hungry? We can give you supplies!"
+msgstr ""
+
+#. Id: 47239-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (47238-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47239-Dialogue.mod:1
+msgid "You're going to need food to survive... we can give you food. "
+msgstr ""
+
+#. Id: 47239-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (47238-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47239-Dialogue.mod:2
+msgid "We have food and supplies if you need. You need supplies? "
+msgstr ""
+
+#. Id: 58076-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47239-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 58076-Dialogue.mod:0
+msgid "Not free though."
+msgstr ""
+
+#. Id: 47240-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58076-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47240-Dialogue.mod:0
+msgid "Special /RACENAMEHIVE/ price, just for you..."
+msgstr ""
+
+#. Id: 47240-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (58076-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47240-Dialogue.mod:1
+msgid "We can do special deal for you, /RACENAMEHIVE/..."
+msgstr ""
+
+#. Id: 47240-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (58076-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47240-Dialogue.mod:2
+msgid "Don't worry, we'll take care of you. Cheap price, just for you..."
+msgstr ""
+
+#. Id: 47242-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47242-Dialogue.mod:0
+msgid "You know where to find us, /OUTLANDER/. Come trade when you are ready..."
+msgstr ""
+
+#. Id: 47242-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (47240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47242-Dialogue.mod:1
+msgid "We'll be over here if you want to trade with us, /OUTLANDER/. Come find us."
+msgstr ""
+
+#. Id: 47242-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (47240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47242-Dialogue.mod:2
+msgid "We'll be waiting for you to trade with us, /OUTLANDER/. So many supplies!"
+msgstr ""
+
+#. Id: 47241-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47237-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47241-Dialogue.mod:0
+msgid "We have supplies for you if you're looking to buy. "
+msgstr ""
+
+#. Id: 47241-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47237-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47241-Dialogue.mod:1
+msgid "We have supplies for you, so many supplies! "
+msgstr ""
+
+#. Id: 47241-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (47237-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47241-Dialogue.mod:2
+msgid "We have supplies for you, so many supplies! Everybody needs supplies, /RACENAMEHIVE/..."
+msgstr ""
+
+#. Id: 47244-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47241-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47244-Dialogue.mod:0
+msgid "You won't find supplies like ours for MILES. We must stock up when we can, right, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 47244-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (47241-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47244-Dialogue.mod:1
+msgid "Do you have enough supplies, /OUTLANDER/? We don't think you do..."
+msgstr ""
+
+#. Id: 47244-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (47241-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47244-Dialogue.mod:2
+msgid "You look hungry, /OUTLANDER/. Don't forget to buy food! If you forget to eat you'll die! DIE!"
+msgstr ""
+
+#. Id: 47244-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (47241-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47244-Dialogue.mod:3
+msgid "We think you need more supplies in your life, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 47244-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (47241-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 47244-Dialogue.mod:4
+msgid "We have foods, fresh ones for /RACENAMEHIVE/... Medicals..."
+msgstr ""
+
+#. Id: 58458-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#: 58458-Dialogue.mod:0
+msgid "Gah, /RACENAMEHIVE/, you look so hungry!"
+msgstr ""
+
+#. Id: 58458-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#: 58458-Dialogue.mod:1
+msgid "Gah, /RACENAMEHIVE/, you look so boney!"
+msgstr ""
+
+#. Id: 58458-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#: 58458-Dialogue.mod:2
+msgid "You look like you could eat a Garru, /RACENAMEHIVE/!"
+msgstr ""
+
+#. Id: 58461-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58458-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 58461-Dialogue.mod:0
+msgid "We can give you food, you know..."
+msgstr ""
+
+#. Id: 58462-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58461-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 58462-Dialogue.mod:0
+msgid "Not free though! Haaaaah...."
+msgstr ""
+
+#. Id: 58463-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 58463-Dialogue.mod:0
+msgid "High demand means high price, /RACENAMEHIVE/..."
+msgstr ""
+
+#. Id: 58464-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58463-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering hive trader
+#: 58464-Dialogue.mod:0
+msgid "Sorrrryyyyyy! Haaaaah..."
+msgstr ""
+

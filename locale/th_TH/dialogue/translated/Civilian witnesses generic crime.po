@@ -1,0 +1,567 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13857-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13857-Escapes.mod:0
+msgid "I've gotta get away from here!"
+msgstr "ข้าต้องหนีออกจากที่นี่!"
+
+#. Id: 13857-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13857-Escapes.mod:2
+msgid "I'm not hanging around here!"
+msgstr ""
+
+#. Id: 13857-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13857-Escapes.mod:3
+msgid "This doesn't look good..."
+msgstr ""
+
+#. Id: 13857-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. Id: 13255-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 13857-Escapes.mod:4 13255-Escapes.mod:4
+msgid "This looks bad..."
+msgstr ""
+
+#. Id: 13857-Escapes.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. Id: 3626-dialogue-01.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 13857-Escapes.mod:12 3626-dialogue-01.mod:0 15970-Dialogue.mod:0 15970-Dialogue.mod:9
+msgid "I'm getting out of here!"
+msgstr "ข้าต้องรีบออกไปจากที่นี่!"
+
+#. Id: 13859-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13857-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#: 13859-Escapes.mod:0
+msgid "G- guards!"
+msgstr "ยะ-ยาม!"
+
+#. Id: 13859-Escapes.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13857-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. Id: 13861-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. Id: 15762-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13859-Escapes.mod:3 13861-Escapes.mod:0 15762-Dialogue.mod:3
+msgid "H- help!"
+msgstr "ชะ-ช่วยด้วย!"
+
+#. Id: 13859-Escapes.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (13857-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. Id: 15762-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13859-Escapes.mod:4 15762-Dialogue.mod:4
+msgid "Over here! Help!"
+msgstr "ตรงนี้! ช่วยด้วย!"
+
+#. Id: 50394-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13857-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: In town(s) of faction(s): Deadcat
+#. Id: 13858-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 40796-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civilian witness assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 50394-Dialogue.mod:0 13858-Escapes.mod:1 40796-Dialogue.mod:0
+msgid "Somebody do something!"
+msgstr "ใครก็ได้ทำอะไรสักอย่าง!"
+
+#. Id: 50394-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13857-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: In town(s) of faction(s): Deadcat
+#: 50394-Dialogue.mod:1
+msgid "Somebody make it stop!"
+msgstr "ใครก็ได้หยุดมันที!"
+
+#. Id: 13858-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 13858-Escapes.mod:2
+msgid "Somebody stop this!"
+msgstr "ใครก็ได้หยุดมันที"
+
+#. Id: 13858-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 13858-Escapes.mod:4
+msgid "Stop doing that!"
+msgstr ""
+
+#. Id: 13861-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13861-Escapes.mod:1
+msgid "H- help! /GUARDS/!"
+msgstr "ชะ..ช่วยด้วย! /GUARDS/!"
+
+#. Id: 13861-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13861-Escapes.mod:2
+msgid "H- help! Over here, /GUARDS/!"
+msgstr "ชะ..ช่วยด้วย! ตรงนี้ /GUARDS/!"
+
+#. Id: 13861-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13861-Escapes.mod:3
+msgid "/GUARDS/! /GUARDS/!"
+msgstr ""
+
+#. Id: 13861-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. Id: 42251-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (13929-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 45448-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (45447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#: 13861-Escapes.mod:4 42251-Dialogue.mod:0 45448-Dialogue.mod:1
+msgid "/GUARDS/! Help!"
+msgstr "/GUARDS/! ช่วยด้วย!"
+
+#. Id: 13863-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 13863-Escapes.mod:0
+msgid "/HELLION/s!"
+msgstr ""
+
+#. Id: 13864-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13863-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#: 13864-Escapes.mod:1
+msgid "I'm calling the guards!"
+msgstr ""
+
+#. Id: 13864-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13863-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#: 13864-Escapes.mod:2
+msgid "Your kind ain't welcome around here!"
+msgstr ""
+
+#. Id: 15762-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. Id: 45448-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#: 15762-Dialogue.mod:0 45448-Dialogue.mod:0
+msgid "/GUARDS/!"
+msgstr ""
+
+#. Id: 15762-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 15762-Dialogue.mod:1
+msgid "Ah- /GUARDS/!"
+msgstr "อ่า- /GUARDS/!"
+
+#. Id: 15897-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 15897-Dialogue.mod:4
+msgid "Stop it!"
+msgstr ""
+
+#. Id: 15897-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 15897-Dialogue.mod:8
+msgid "Hey, break it up!"
+msgstr ""
+
+#. Id: 50100-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. Id: 46363-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (46360-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robot hunt Okranite
+#. Id: 40799-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civilian witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 41437-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civ sees skeleton
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 50100-Dialogue.mod:0 46363-Dialogue.mod:6 40799-Dialogue.mod:0 41437-Dialogue.mod:0
+msgid "Okran save us!"
+msgstr ""
+
+#. Id: 50100-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. Id: 41114-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41111-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. Id: 40799-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civilian witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 50100-Dialogue.mod:1 41114-Dialogue.mod:2 40799-Dialogue.mod:2
+msgid "Father be with us!"
+msgstr ""
+
+#. Id: 50101-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 43334-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civilian witness assault
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 50101-Dialogue.mod:0 43334-Dialogue.mod:2
+msgid "Skeletons! We're all gonna die! "
+msgstr ""
+
+#. Id: 50101-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 43334-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civilian witness assault
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 50101-Dialogue.mod:1 43334-Dialogue.mod:3
+msgid "Skeletons! Oh, lord, skeletons!"
+msgstr ""
+
+#. Id: 50101-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 43334-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civilian witness assault
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 50101-Dialogue.mod:2 43334-Dialogue.mod:4
+msgid "Oh god, the skeletons will kill us all! "
+msgstr ""
+
+#. Id: 50101-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 40798-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civilian witness assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 50101-Dialogue.mod:3 40798-Dialogue.mod:1
+msgid "Are... are they the darkened?!"
+msgstr ""
+
+#. Id: 50101-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 41098-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. Id: 41111-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>6, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<2, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. Id: 40798-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civilian witness assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 50101-Dialogue.mod:4 41098-Dialogue.mod:10 41111-Dialogue.mod:2 40798-Dialogue.mod:6
+msgid "The darkened have come!"
+msgstr ""
+
+#. Id: 50101-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 43334-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civilian witness assault
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 50101-Dialogue.mod:5 43334-Dialogue.mod:5
+msgid "Okran save us from the darkness!"
+msgstr ""
+

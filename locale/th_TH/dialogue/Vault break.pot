@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 63412-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vault break
+#. -- Condition: In town(s) of faction(s): United Cities
+#. Id: 48817-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48816-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escape opportunity civ
+#. Id: 42658-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42655-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon unlocked
+#. Id: 5963-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. Id: 13807-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. Id: 48879-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave esc opp hiver ronin
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 5404-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour picking pt3
+#. -- Condition: My Race(s): Greenlander or Shek
+#. Id: 14122-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#. Id: 46018-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sundemon freed by captor
+#. -- Condition: My Sub-Race(s): Scorchlander
+#. Id: 9029-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping Cannibals (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 48878-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver slave esc opp alone
+#. Id: 16674-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mean freed
+#. Id: 40509-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. Id: 55386-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5437-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 5422-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is freed by someone
+#. Id: 48824-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escape opp alone civ
+#. Id: 58062-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King freed from cage
+#: 63412-Dialogue.mod:0 48817-Dialogue.mod:0 42658-Dialogue.mod:1 5963-Dialogue.mod:1 13807-Escapes.mod:1 48879-Dialogue.mod:0 5404-Escapes.mod:4 14122-Dialogue?(4).mod:1 46018-Dialogue.mod:4 9029-Dialogue.mod:2 48878-Dialogue.mod:0 16674-Dialogue.mod:4 40509-gamedata.base:4 55386-rebirth.mod:1 5422-gamedata.base:1 48824-Dialogue.mod:0 58062-Dialogue.mod:0
+msgid "I'm free!"
+msgstr ""
+
+#. Id: 63413-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63412-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault break
+#: 63413-Dialogue.mod:0
+msgid "/LAUGH/! I'll kill everyone!"
+msgstr ""
+
+#. Id: 63416-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63413-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault break
+#: 63416-Dialogue.mod:0
+msgid "THE SANDS ARE MINE, I'LL KILL THEM ALL!"
+msgstr ""
+
+#. Id: 63418-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vault break
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 63418-Dialogue.mod:0
+msgid "No time to waste!"
+msgstr ""
+
+#. Id: 63420-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63418-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault break
+#: 63420-Dialogue.mod:0
+msgid "Let's get the hell outta here."
+msgstr ""
+
+#. Id: 63422-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vault break
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 63422-Dialogue.mod:0
+msgid "Escaping Tengu's Vault..."
+msgstr ""
+
+#. Id: 63423-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63422-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault break
+#: 63423-Dialogue.mod:0
+msgid "You an' me are gonna make history."
+msgstr ""
+
+#. Id: 63425-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vault break
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 63425-Dialogue.mod:0
+msgid "It's really open..."
+msgstr ""
+
+#. Id: 63427-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault break
+#: 63427-Dialogue.mod:0
+msgid "My legs... my legs are dead, hold up..."
+msgstr ""
+
+#. Id: 63432-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vault break
+#: 63432-Dialogue.mod:0
+msgid "I owe you shit."
+msgstr ""
+
+#. Id: 63433-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vault break
+#: 63433-Dialogue.mod:0
+msgid "Luh... yoooo..."
+msgstr ""
+
+#. Id: 63435-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63433-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault break
+#: 63435-Dialogue.mod:0
+msgid "Meee... naaa..."
+msgstr ""
+

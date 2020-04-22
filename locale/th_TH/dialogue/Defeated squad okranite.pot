@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#: 46291-Dialogue.mod:0
+msgid "The light will always prevail"
+msgstr ""
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#: 46291-Dialogue.mod:1
+msgid "Good will always prevail over evil"
+msgstr ""
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#: 46291-Dialogue.mod:2
+msgid "Darkness will never survive Okran's Will!"
+msgstr ""
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#: 46291-Dialogue.mod:3
+msgid "Burn in the flame of the abyss..."
+msgstr ""
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#. Id: 15756-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats squad
+#: 46291-Dialogue.mod:4 15756-Dialogue.mod:0
+msgid "The will of Okran is done"
+msgstr ""
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#. Id: 15756-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats squad
+#: 46291-Dialogue.mod:5 15756-Dialogue.mod:1
+msgid "The blood of the /TERRORIST/ has been spilled"
+msgstr ""
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#. Id: 15756-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats squad
+#: 46291-Dialogue.mod:6 15756-Dialogue.mod:2
+msgid "The light of Okran has prevailed"
+msgstr ""
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#. Id: 15756-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats squad
+#: 46291-Dialogue.mod:7 15756-Dialogue.mod:3
+msgid "The darkness has been purged"
+msgstr ""
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#. Id: 15756-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats squad
+#: 46291-Dialogue.mod:8 15756-Dialogue.mod:5
+msgid "Light be sated!"
+msgstr ""
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#: 46291-Dialogue.mod:9
+msgid "Father, be with us..."
+msgstr ""
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#. Id: 15756-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats squad
+#: 46291-Dialogue.mod:10 15756-Dialogue.mod:8
+msgid "Fire be sated!"
+msgstr ""
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#. Id: 15725-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 40691-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest get up fight
+#: 46291-Dialogue.mod:11 15725-Dialogue.mod:1 40691-Dialogue.mod:0
+msgid "The ground will run red..."
+msgstr ""
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#: 46291-Dialogue.mod:12
+msgid "The blood of evil has been spilled..."
+msgstr ""
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.13
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#. Id: 40689-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. Id: 15725-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 40691-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest get up fight
+#: 46291-Dialogue.mod:13 40689-Dialogue.mod:4 15725-Dialogue.mod:3 40691-Dialogue.mod:5
+msgid "You cannot win the fight against Okran"
+msgstr ""
+
+#. Id: 46291-Dialogue.mod
+#. -- Index: 0.14
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated squad okranite
+#. Id: 15725-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 40691-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest get up fight
+#: 46291-Dialogue.mod:14 15725-Dialogue.mod:8 40691-Dialogue.mod:10
+msgid "May the light of Okran shine on us!"
+msgstr ""
+

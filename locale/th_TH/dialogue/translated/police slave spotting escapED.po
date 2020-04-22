@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5372-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police slave spotting escapED
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 5372-gamedata.base:1
+msgid "Hang on..."
+msgstr ""
+
+#. Id: 5372-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police slave spotting escapED
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 5372-gamedata.base:3
+msgid "/HALT/!"
+msgstr ""
+
+#. Id: 5374-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5372-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: police slave spotting escapED
+#: 5374-gamedata.base:0
+msgid "You look suspicious..."
+msgstr ""
+

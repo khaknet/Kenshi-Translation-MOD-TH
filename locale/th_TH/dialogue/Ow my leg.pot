@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 7075-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ow my leg
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 7075-Dialogue.mod:0
+msgid "/OHSHIT/, my leg!"
+msgstr ""
+
+#. Id: 7075-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ow my leg
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 7075-Dialogue.mod:1
+msgid "Oh god, my leg"
+msgstr ""
+
+#. Id: 7077-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ow my leg
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 7077-Dialogue.mod:0
+msgid "/AAH/ my arm!"
+msgstr ""
+
+#. Id: 7077-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ow my leg
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 7077-Dialogue.mod:1
+msgid "Ouch, /GODDAMN/, my arm hurts"
+msgstr ""
+
+#. Id: 7079-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ow my leg
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 7079-Dialogue.mod:0
+msgid "/TCH/, my head hurts"
+msgstr ""
+
+#. Id: 7079-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ow my leg
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 7079-Dialogue.mod:1
+msgid "Ow, my head"
+msgstr ""
+

@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 40728-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness lockpicking
+#: 40728-Dialogue.mod:0
+msgid "What are you doing there?"
+msgstr ""
+
+#. Id: 40728-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness lockpicking
+#. Id: 17616-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees player lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 40728-Dialogue.mod:1 17616-Dialogue.mod:2
+msgid "What are you up to?"
+msgstr ""
+
+#. Id: 40729-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (40728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness lockpicking
+#. Id: 15556-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15555-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation witness lockpick
+#. Id: 15556-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15555-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation witness lockpick
+#: 40729-Dialogue.mod:0 15556-Dialogue.mod:2 15556-Dialogue.mod:4
+msgid "Heresy! /SEIZE/ /HIM/!"
+msgstr ""
+
+#. Id: 40729-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (40728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness lockpicking
+#. Id: 15556-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15555-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation witness lockpick
+#: 40729-Dialogue.mod:1 15556-Dialogue.mod:0
+msgid "Such wickedness! /SEIZE/ /HIM/!"
+msgstr ""
+
+#. Id: 40730-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (40728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 40730-Dialogue.mod:0
+msgid "Wicked woman! /SEIZE/ her!"
+msgstr ""
+
+#. Id: 40730-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (40728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 40730-Dialogue.mod:1
+msgid "/GREASY/ woman! /SEIZE/ her!"
+msgstr ""
+
+#. Id: 40730-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (40728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 40730-Dialogue.mod:2
+msgid "/TAINT/ed woman! /SEIZE/ her!"
+msgstr ""
+

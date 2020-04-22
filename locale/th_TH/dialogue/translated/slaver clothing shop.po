@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 54551-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54551-rebirth.mod:0
+msgid "Looking to buy some clothing?"
+msgstr ""
+
+#. Id: 54551-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54551-rebirth.mod:1
+msgid "Need gear? Second hand, good prices!"
+msgstr ""
+
+#. Id: 54551-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54551-rebirth.mod:2
+msgid "Looking to trade? Discount clothing?"
+msgstr ""
+
+#. Id: 54551-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54551-rebirth.mod:3
+msgid "Used gear? Second hand clothing? Best prices!"
+msgstr ""
+
+#. Id: 54557-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54551-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#: 54557-rebirth.mod:0
+msgid "What are you selling?"
+msgstr ""
+
+#. Id: 54559-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54557-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54559-rebirth.mod:0
+msgid "Second hand gear, clothing mostly. Confiscated goods.  Y'know.  You can find some real bargains sometimes."
+msgstr ""
+
+#. Id: 54560-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54559-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#: 54560-rebirth.mod:0
+msgid "So it's what you strip from the slaves you that you /BASTARD/s kidnap?"
+msgstr ""
+
+#. Id: 54567-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54560-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54567-rebirth.mod:0
+msgid "/QUICKLAUGH/! What are you one of those anti-slave /IDIOT/s?"
+msgstr ""
+
+#. Id: 54568-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54567-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54568-rebirth.mod:0
+msgid "HA! This is too much! I didn't think /IDIOT/s like that actually existed! /LAUGH/!"
+msgstr ""
+
+#. Id: 54569-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54568-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#: 54569-rebirth.mod:0
+msgid "[leave]"
+msgstr ""
+
+#. Id: 54561-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54559-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#: 54561-rebirth.mod:0
+msgid "So it's what you take from the slaves?"
+msgstr ""
+
+#. Id: 54562-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54561-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54562-rebirth.mod:0
+msgid "Yeah, all used, but in serviceable condition.  All the other scraps we just burn.  Usually when they're watching, heh heh."
+msgstr ""
+
+#. Id: 54563-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54562-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#: 54563-rebirth.mod:0
+msgid "I think I'm gonna kill you now."
+msgstr ""
+
+#. Id: 54565-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54563-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#. Id: 5443-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is freed by someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 54565-rebirth.mod:0 5443-gamedata.base:2
+msgid "/WTF/!?"
+msgstr ""
+
+#. Id: 54566-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54562-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#: 54566-rebirth.mod:0
+msgid "I'm not buying that."
+msgstr ""
+
+#. Id: 54553-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=1, Tag: -1
+#: 54553-rebirth.mod:0
+msgid "Damn slave! Get back in your cage!"
+msgstr ""
+

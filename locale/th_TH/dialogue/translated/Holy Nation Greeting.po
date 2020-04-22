@@ -1,0 +1,449 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 17091-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 17091-Dialogue.mod:0
+msgid "Heretics will be purged by the will of Okran! "
+msgstr ""
+
+#. Id: 17091-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 17091-Dialogue.mod:1
+msgid "All heretics will burn in the flame of the Lord Okran!"
+msgstr ""
+
+#. Id: 17091-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 17091-Dialogue.mod:2
+msgid "The darkened will burn in the divine flame of Okran!"
+msgstr ""
+
+#. Id: 17091-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 17091-Dialogue.mod:3
+msgid "Agents from the dark abyss will be purged in the name of Okran!"
+msgstr ""
+
+#. Id: 17092-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 17092-Dialogue.mod:0
+msgid "You WILL be discovered if you are a heretic, /OUTLANDER/!"
+msgstr ""
+
+#. Id: 17092-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 17092-Dialogue.mod:1
+msgid "Your heretic ways WILL be unraveled if your faith is not pure, /OUTLANDER/!"
+msgstr ""
+
+#. Id: 17090-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 17090-Dialogue.mod:0
+msgid "But I'm sure you're no heretic... blessings upon you, /BROTHER/"
+msgstr ""
+
+#. Id: 17090-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (17092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 17090-Dialogue.mod:1
+msgid "Stay holy... love and devotion, /BROTHER/"
+msgstr ""
+
+#. Id: 17090-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (17092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 17090-Dialogue.mod:2
+msgid "With that said... divine blessings, /BROTHER/"
+msgstr ""
+
+#. Id: 42565-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 42565-Dialogue.mod:0
+msgid "Stop. I need to speak with you."
+msgstr ""
+
+#. Id: 43728-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 43728-Dialogue.mod:0
+msgid "I'll warn you once, and only once, /BROTHER/..."
+msgstr ""
+
+#. Id: 43728-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (42562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 43728-Dialogue.mod:1
+msgid "I'll be watching you, /BROTHER/. Heed my words..."
+msgstr ""
+
+#. Id: 43728-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (42562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 43728-Dialogue.mod:2
+msgid "You're travelling with... 'them'?"
+msgstr ""
+
+#. Id: 43728-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (42562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 43728-Dialogue.mod:3
+msgid "Is this... 'being'.. with you?"
+msgstr ""
+
+#. Id: 42869-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 42869-Dialogue.mod:0
+msgid "Watch your beasts. The dark ones aren't so welcome in this city..."
+msgstr ""
+
+#. Id: 42869-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (43728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 42869-Dialogue.mod:1
+msgid "Clean up your beasts, I'll have no trouble within these walls..."
+msgstr ""
+
+#. Id: 42869-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (43728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 42869-Dialogue.mod:2
+msgid "Control your servants... The foreign beasts aren't so welcome in this town..."
+msgstr ""
+
+#. Id: 42869-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (43728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 42869-Dialogue.mod:3
+msgid "Control your beasts... I want no trouble from them within our walls..."
+msgstr ""
+
+#. Id: 42869-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (43728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 42869-Dialogue.mod:4
+msgid "You're playing a dangerous game bringing THEM here..."
+msgstr ""
+
+#. Id: 42869-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (43728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 42869-Dialogue.mod:5
+msgid "The people of this city have little patience for the dark ones... Keep them under close watch..."
+msgstr ""
+
+#. Id: 42869-Dialogue.mod
+#. -- Index: 3.6
+#. -- Parent line: 2 (43728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 42869-Dialogue.mod:6
+msgid "Dark ones aren't welcome here... And by that I mean your choice of company."
+msgstr ""
+
+#. Id: 42869-Dialogue.mod
+#. -- Index: 3.7
+#. -- Parent line: 2 (43728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 42869-Dialogue.mod:7
+msgid "Bringing dark ones into the city will land you in a lot of trouble..."
+msgstr ""
+
+#. Id: 42869-Dialogue.mod
+#. -- Index: 3.8
+#. -- Parent line: 2 (43728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 42869-Dialogue.mod:8
+msgid "Keep your beasts in order. Their kind isn't so welcome around here."
+msgstr ""
+
+#. Id: 42869-Dialogue.mod
+#. -- Index: 3.9
+#. -- Parent line: 2 (43728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 42869-Dialogue.mod:9
+msgid "Clean up your beasts. I want no trouble here..."
+msgstr ""
+
+#. Id: 42869-Dialogue.mod
+#. -- Index: 3.10
+#. -- Parent line: 2 (43728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Target Race(s): Greenlander
+#: 42869-Dialogue.mod:10
+msgid "The people of this city don't take kindly to beast-lovers. I suggest you tread carefully."
+msgstr ""
+
+#. Id: 43577-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Target Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Shek or Hive Soldier Drone or Hive Worker Drone
+#: 43577-Dialogue.mod:0
+msgid "Hm?... "
+msgstr ""
+
+#. Id: 43727-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43577-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#: 43727-Dialogue.mod:0
+msgid "This is /SACRED/ /LAND/! Your kind isn't welcome here, beast!"
+msgstr ""
+
+#. Id: 43727-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43577-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#: 43727-Dialogue.mod:1
+msgid "You're not welcome here, dark beast! This is /SACRED/ /LAND/!"
+msgstr ""
+
+#. Id: 42567-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43727-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#: 42567-Dialogue.mod:0
+msgid "Send /HIM/ to rebirth! "
+msgstr ""
+
+#. Id: 57161-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: RELATIONS>75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>25, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 57161-Dialogue.mod:0
+msgid "Welcome back, holy brother"
+msgstr ""
+
+#. Id: 57161-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: RELATIONS>75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>25, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 57161-Dialogue.mod:1
+msgid "Good to see you again, holy one"
+msgstr ""
+
+#. Id: 57161-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: RELATIONS>75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>25, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 57161-Dialogue.mod:2
+msgid "Good to see your face again, holy brother"
+msgstr ""
+
+#. Id: 57161-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: RELATIONS>75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>25, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 57161-Dialogue.mod:3
+msgid "How were your travels, holy brother?"
+msgstr ""
+
+#. Id: 57161-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: RELATIONS>75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>25, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 57161-Dialogue.mod:4
+msgid "How go your travels, holy brother?"
+msgstr ""
+
+#. Id: 57161-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: RELATIONS>75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>25, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 57161-Dialogue.mod:5
+msgid "Okran bless you, holy brother"
+msgstr ""
+
+#. Id: 57161-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: RELATIONS>75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>25, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 57161-Dialogue.mod:6
+msgid "We are blessed to have you again, holy brother"
+msgstr ""
+
+#. Id: 57161-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: RELATIONS>75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>25, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 57161-Dialogue.mod:7
+msgid "Blessed with your presence once again, holy one"
+msgstr ""
+
+#. Id: 57161-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Greeting
+#. -- Condition: Who: TARGET, Condition: RELATIONS>75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>25, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 57161-Dialogue.mod:8
+msgid "You look well, holy brother"
+msgstr ""
+

@@ -1,0 +1,475 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 42991-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#: 42991-Dialogue.mod:0
+msgid "/HOLYGREET/. What can I do for you today?"
+msgstr "/HOLYGREET/ วันนี้มีอะไรให้ข้าช่วย?"
+
+#. Id: 42991-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#: 42991-Dialogue.mod:1
+msgid "/HOLYGREET/. How can I help you, are you looking to trade?"
+msgstr "/HOLYGREET/ มีอะไรให้ข้าช่วย กำลังจะซื้อของใช่ไหม?"
+
+#. Id: 42991-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#: 42991-Dialogue.mod:2
+msgid "/HOLYGREET/, how are you today? Looking for anything in particular?"
+msgstr "/HOLYGREET/ เป็นไงบ้างวันนี้? หาอะไรเป็นพิเศษรึเปล่า?"
+
+#. Id: 42991-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#: 42991-Dialogue.mod:3
+msgid "/HOLYGREET/, I hope that you are well. What can I do for you today? Looking to trade?"
+msgstr "/HOLYGREET/ หวังว่าเจ้าจะสบายดีนะ มีอะไรข้าช่วยวันนี้? คิดจะซื้อขายรึ?"
+
+#. Id: 42991-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#: 42991-Dialogue.mod:4
+msgid "/HOLYGREET/. Looking to buy? "
+msgstr "/HOLYGREET/ กำลังจะซื้อของรึ?"
+
+#. Id: 42991-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#: 42991-Dialogue.mod:5
+msgid "/HOLYGREET/. Today is a fine day for trading! What can I get you?"
+msgstr "/HOLYGREET/ วันนี้ช่างเป็นวันดีเหมาะแก่การค้าขายจริงๆ! มีอะไรให้ช่วย?"
+
+#. Id: 42995-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#: 42995-Dialogue.mod:0
+msgid "Can I see your wares?"
+msgstr "ขอดูสินค้าเจ้าหน่อยได้ไหม?"
+
+#. Id: 42995-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#: 42995-Dialogue.mod:1
+msgid "Show me your wares"
+msgstr "โชว์สินค้าเจ้าที"
+
+#. Id: 42995-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#: 42995-Dialogue.mod:2
+msgid "Let's see what you've got"
+msgstr "ดูหน่อยสิว่ามีอะไร"
+
+#. Id: 42995-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#: 42995-Dialogue.mod:3
+msgid "Let's get down to business"
+msgstr "มาทำธุรกิจกัน"
+
+#. Id: 42995-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#. Id: 51598-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (51595-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Admag
+#. Id: 51533-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (51526-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Last Stand
+#. Id: 43746-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (43745-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek shopkeeper
+#: 42995-Dialogue.mod:4 51598-Dialogue.mod:2 51533-Dialogue.mod:2 43746-Dialogue.mod:2
+msgid "Show me what you've got"
+msgstr "โชว์ให้ข้าดูสิว่าเจ้ามีอะไรบ้าง."
+
+#. Id: 42996-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#: 42996-Dialogue.mod:0
+msgid "No, nothing. Sorry to bother you."
+msgstr "เปล่า ไม่มีอะไร โทษทีที่รบกวน."
+
+#. Id: 42996-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#: 42996-Dialogue.mod:1
+msgid "No, nothing. Nevermind."
+msgstr "เปล่า ไม่มีอะไร ไม่ต้องใส่ใจ"
+
+#. Id: 42992-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. Id: 95563-Mourn.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#. Id: 95737-__Mourn.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#. Id: 18900-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#. Id: 181-gamedata.quack
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. Id: 1534128-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Trade unlock
+#: 42992-Dialogue.mod:0 95563-Mourn.mod:0 95737-__Mourn.mod:3 18900-gamedata.base:1 181-gamedata.quack:0 1534128-__Fixes.mod:0
+msgid "Looking to trade?"
+msgstr "สนใจซื้อขายรึเปล่า?"
+
+#. Id: 42992-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. Id: 42975-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42992-Dialogue.mod:1 42975-Dialogue.mod:1
+msgid "You buying?"
+msgstr ""
+
+#. Id: 42992-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. Id: 10653-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58496-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 42992-Dialogue.mod:2 10653-Dialogue?(10).mod:0
+msgid "You trading?"
+msgstr ""
+
+#. Id: 42992-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. Id: 12677-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 42992-Dialogue.mod:3 12677-Dialogue?(11)?(2).mod:0
+msgid "Here for business?"
+msgstr "มาทำธุรกิจรึ?"
+
+#. Id: 42992-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. Id: 95563-Mourn.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#. Id: 181-gamedata.quack
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. Id: 1534128-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Trade unlock
+#. Id: 42975-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42992-Dialogue.mod:4 95563-Mourn.mod:1 181-gamedata.quack:1 1534128-__Fixes.mod:1 42975-Dialogue.mod:3
+msgid "See anything you like?"
+msgstr "เจอของที่ชอบไหม?"
+
+#. Id: 42992-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. Id: 52849-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: RELATIONS>-1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_INDOORS=1, Tag: -1
+#: 42992-Dialogue.mod:5 52849-rebirth.mod:0
+msgid "Here to trade?"
+msgstr ""
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:0
+msgid "I don't do business with thieves!"
+msgstr "ข้าไม่ทำธุรกิจกับโจร!"
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:1
+msgid "You think I'd trade with a thief?! Leave."
+msgstr "คิดว่าข้าจะซื้อของจากโจรหรอ? ออกไป."
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:2
+msgid "Take your custom elsewhere, sinner. "
+msgstr "ไปร้านอื่นซะไป เจ้าคนบาป."
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:3
+msgid "I don't deal with thieves!"
+msgstr "ข้าไม่ยุ่งกับโจร!"
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:4
+msgid "Sticky fingered sinner! Take your business elsewhere."
+msgstr "เจ้าหัวขโมยคนบาป! ไปทำธุรกิจที่อื่นไป."
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:5
+msgid "Not in my shop, thief. Take your Cats elsewhere."
+msgstr "ไม่ใช่กับร้านข้าเจ้าโจร ไปทำธุรกิจที่อื่นไป"
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:6
+msgid "Really, you want to trade? After you stole from me!? Get out of my shop!"
+msgstr "เอาจริงรึ เจ้าอยากจะค้าขาย? หลังจากที่ขโมยของข้าไป!? ไสหัวออกไปจากร้านข้าเลย!"
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:7
+msgid "You stole from me. I won't forget that. Leave."
+msgstr "เจ้าขโมยของข้า ข้าไม่ลืมแน่ ไสหัวไป."
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:8
+msgid "Leave, thief. I got no wares for you."
+msgstr "ออกไปซะ, โจร. ข้าไม่ต้องการสินค้าของเจ้า."
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:9
+msgid "I've got nothing to trade with you, thief."
+msgstr "ข้าไม่มีอะไรจะค้าขายกับเจ้า, ไอ้โจร"
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:10
+msgid "Looks like I'm all sold out. Leave, thief."
+msgstr "ดูเหมือนว่าข้าจะขายของหมดแล้ว. ออกไป, ไอ้โจร."
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:11
+msgid "I won't waste my breath on a lowly thief. Leave my shop."
+msgstr "ข้าจะไม่เสียเวลากับโจรชั้นต่ำ. ออกไปจากร้านของข้า."
+
+#. Id: 43213-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 43213-Dialogue.mod:0
+msgid "Okran bless you. How may I serve you holy /BROTHER/?"
+msgstr "ขอองค์ Okran ประทานพรให้ท่าน มีอะไรให้เรารับใช้/BROTHER/ศักดิ์สิทธิ์?"
+
+#. Id: 43213-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 43213-Dialogue.mod:1
+msgid "How may I serve you, holy /BROTHER/?"
+msgstr "มีอะไรให้เรารับใช้/BROTHER/ศักดิ์สิทธิ์?"
+
+#. Id: 43213-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 43213-Dialogue.mod:2
+msgid "Whatever you need, holy /BROTHER/. I'm here to serve."
+msgstr "/BROTHER/ศักดิ์สิทธิ์ ไม่ว่าท่านต้องการสิ่งใด เรายินดีรับใช้."
+
+#. Id: 43216-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 43216-Dialogue.mod:1
+msgid "... Please leave"
+msgstr "...ได้โปรดออกไปซะ"
+
+#. Id: 43216-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 43216-Dialogue.mod:2
+msgid "... I will not serve a thief"
+msgstr "...ข้าจะไม่รับใช้โจร"
+
+#. Id: 43216-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 43216-Dialogue.mod:3
+msgid "... Please, leave me, thief"
+msgstr "...ได้โปรดไปซะ เจ้าโจร"
+

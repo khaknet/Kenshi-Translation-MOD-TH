@@ -1,0 +1,1015 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:0
+msgid "THIS CAN'T BE HAPPENING TO ME! HELP!! HELLLLP!"
+msgstr "มันไม่น่าจะเกิดขึ้นกับข้าได้! ช่วยด้วย!! ช่วยด้วยยยย!"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:1
+msgid "HELP!!! SOMEBODY HELP! GET ME OUT OF HERE!!!"
+msgstr "ช่วยด้วย!!! ใครก็ได้ช่วยด้วย! พาข้าออกไปจากที่นี่ที!!!"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:2
+msgid "HELP MEEEEE! I CAN'T DIE YET!"
+msgstr "ช่วยข้าด้วยยยยย! ข้ายังตายไม่ได้!"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:3
+msgid "HELP!!! I DON'T WANNA DIE LIKE THIS!"
+msgstr "ช่วยด้วย!!! ข้าไม่อยากตายแบบนี้!"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:4
+msgid "NO!! HELP ME! I DON'T WANNA DIE LIKE THIS!"
+msgstr "ม่าย!! ช่วยด้วย!!! ข้าไม่อยากตายแบบนี้!"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:5
+msgid "I... I CAN'T TAKE IT! HELP!! HELLLLP!"
+msgstr "ข้า... ข้าทนไม่ได้! ช่วยด้วย!! ช่วยยยด้วยยยย!"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:6
+msgid "HELP!! HELLLLP! I DON'T WANNA DIE!"
+msgstr "ช่วยด้วย!!! ข้าไม่อยากตาย!"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:7
+msgid "THIS CAN'T BE HAPPENING! HELP!!! SOMEBODY HELP! "
+msgstr "เรื่องแบบนี้มันไม่ควรจะเกิดขึ้น! ช่วยด้วย!!! ใครก็ได้!"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:8
+msgid "HELP!!! SOMEBODY HELP! I CAN'T DIE YET!"
+msgstr "ช่วยด้วย!!! ใครก็ได้ช่วยที! ข้ายังไม่อยากตาย!"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:9
+msgid "THIS CAN'T BE HAPPENING TO ME! HELP MEEEEE!"
+msgstr "เรื่องนี้ไม่ควรจะเกิดขึ้นกับข้า! ช่วยข้าด้วยยย!"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:10
+msgid "HELP!!! I DON'T WANNA DIE!"
+msgstr "ช่วยด้วย!!! ข้าไม่อยากตาย!"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:11
+msgid "GET ME OUT OF HERE!!! HELP!! HELLLLP!"
+msgstr "พาข้าออกไปจากที่นี่ที!!! ช่วยด้วย!! ช่วยด้วยยยย!"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#. Id: 5947-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (5946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5935-Dialogue.mod:12 5947-Dialogue.mod:3
+msgid "I HAVE TO GET OUT OF HERE!"
+msgstr "ข้าต้องออกไปจากที่นี่"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.13
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:13
+msgid "NOOOOO! GET ME OUT OF HERE!!!"
+msgstr "ม่ายยยยย! พาข้าออกไปจากที่นี่"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.14
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:14
+msgid "NO NO NO NO NO NO NO! I CAN'T DIE YET!"
+msgstr "ไม่ ไม่ ไม่ ไม่ ไม่ ไม่ ไม่! ข้ายังตายไม่ได้!"
+
+#. Id: 5935-Dialogue.mod
+#. -- Index: 0.15
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5935-Dialogue.mod:15
+msgid "ARRRGHHH! THIS CAN'T BE HAPPENING! "
+msgstr "อ๊าาากกกก มันไม่น่าจะเกิดขึ้นได้นี่!"
+
+#. Id: 5936-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5936-Dialogue.mod:0
+msgid "Damn /BASTARD/s! You can't eat me, I'm poisonous!"
+msgstr "เวรเอ้ย /BASTARD/s! เจ้าไม่สามารถกินข้าได้, ตัวข้ามีพิษ!"
+
+#. Id: 5936-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5936-Dialogue.mod:1
+msgid "Damn DIRTY cannibals! You do realise I'm poisonous, right?"
+msgstr "เวรเอ๊ย ไอ้มนุษย์กินคนตัวสกปรก! เจ้าก็รู้ใช่ไหมว่าตัวข้าหน่ะมันมีพิษว้อยย?"
+
+#. Id: 5936-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5936-Dialogue.mod:2
+msgid "/FUCKING/ cannibals... you sicken me"
+msgstr "/FUCKING/ มนุษย์กินคน... เจ้าทำให้ข้าอยากจะอ๊วกซะจริง"
+
+#. Id: 5936-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5936-Dialogue.mod:3
+msgid "I /FUCKING/ hate cannibals"
+msgstr "/FUCKING/ ข้าเกลียดมนุษย์กินคน"
+
+#. Id: 5936-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5936-Dialogue.mod:4
+msgid "Damn /BASTARD/s! C'mon let me go. I taste like shit, guys"
+msgstr "เวรเอ้ย /BASTARD/! ปล่อยข้าไปนะ. ข้ารสชาติเหมือนขี้เลยนะพวก"
+
+#. Id: 5936-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5936-Dialogue.mod:5
+msgid "Damn DIRTY cannibals! Eat me, I /FUCKING/ dare you!"
+msgstr "เวรเอ้ย พวกมนุษย์กินคนสกปรกโสมม! แดกกูสิ, กูท้ามึงเลย!"
+
+#. Id: 5936-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5936-Dialogue.mod:6
+msgid "Get it over with then! Eat me already! /FUCKING/ cannibals!"
+msgstr "ถ้าอย่างนั้นมันก็จบ! กินข้าเลย!  มนุษย์กินคน/FUCKING/!"
+
+#. Id: 5936-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5936-Dialogue.mod:7
+msgid "/FUCKING/ cannibals! So you gonna eat me or what? /COWARD/s"
+msgstr "/FUCKING/  มนุษย์กินคน! งั้นเจ้าก็จะกินข้าสินะหรืออะไร? /COWARD/s"
+
+#. Id: 5954-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5936-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5954-Dialogue.mod:0
+msgid "/TCH/ dumbasses.."
+msgstr "/TCH/ ไอ้โง่.."
+
+#. Id: 5954-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5936-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5954-Dialogue.mod:1
+msgid "/TCH/ /COWARD/s..."
+msgstr ""
+
+#. Id: 5954-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5936-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5954-Dialogue.mod:2
+msgid "/TCH/ /IDIOT/s..."
+msgstr ""
+
+#. Id: 5938-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5938-Dialogue.mod:0
+msgid "Goddammit! ... Damn /BASTARD/s! Get me out of here!"
+msgstr "เหี้ยเอ้ยย! ... บัดซบ /BASTARD/! พาข้าออกไปจากที่นี่!"
+
+#. Id: 5938-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5938-Dialogue.mod:1
+msgid "/FUCK/! Damn DIRTY cannibals! Let me go already!"
+msgstr "/FUCK/! ไอ้เวรมนุษย์กินคนสกปรก! ปล่อยข้าออกไปได้แล้ว!"
+
+#. Id: 5938-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5938-Dialogue.mod:2
+msgid "/FUCKING/ cannibals... you sicken me..."
+msgstr "/FUCKING/มนุษย์กินคน... เจ้าทำให้ข้าคลื่นใส้เหลือเกิน..."
+
+#. Id: 5938-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5938-Dialogue.mod:3
+msgid "... I /FUCKING/ hate cannibals..."
+msgstr ".../FUCKING/ ข้าเกลียดพวกมนุษย์กินคน..."
+
+#. Id: 5938-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5938-Dialogue.mod:4
+msgid "I... need out of here! Goddammit!"
+msgstr "ข้า...อยากจะออกไปจากที่นี่! บัดซบเอ้ย!"
+
+#. Id: 17025-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17025-Dialogue.mod:0
+msgid "You're tellin' me! You any good with a lockpick?"
+msgstr "เจ้ากำลังบอกข้า! เจ้าจะใช้เครื่องมือปลดล็อกหรอ?"
+
+#. Id: 17026-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17025-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 17026-Dialogue.mod:0
+msgid "Sure, leave the locks to me"
+msgstr "แน่นอน, ปล่อยกุญแจให้ข้า"
+
+#. Id: 17027-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17025-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 17027-Dialogue.mod:0
+msgid "I dunno... I can try"
+msgstr "ข้าม่ายรุ... ข้าไม่สามารทำได้"
+
+#. Id: 17029-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17027-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17029-Dialogue.mod:0
+msgid "Well you better try damn hard... Get the locks open."
+msgstr "เจ้าควรจะลองพยายามให้มาก... เอากุญแจเปิดออก."
+
+#. Id: 17030-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17029-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17030-Dialogue.mod:0
+msgid "I'm countin' on you..."
+msgstr "ข้าเชื่อใจเจ้า"
+
+#. Id: 17028-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17025-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 17028-Dialogue.mod:0
+msgid "No, I'm terrible! We're doomed!"
+msgstr "ไม่, ข้าเสียใจ! เราตายแน่!"
+
+#. Id: 17031-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17028-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17031-Dialogue.mod:0
+msgid "Geez..."
+msgstr "โอ๊ยไม่ได้เรื่องเลย..."
+
+#. Id: 17032-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17031-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17032-Dialogue.mod:0
+msgid "Just forget it..."
+msgstr "ลืมมันไปซะ..."
+
+#. Id: 17018-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5938-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 17018-Dialogue.mod:0
+msgid "We have to do something! I can't die like this!"
+msgstr "เราต้องทำอะไรสักอย่าง! ข้าไม่อยากตายเยี่ยงนี้!"
+
+#. Id: 17019-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5938-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 17019-Dialogue.mod:0
+msgid "I saw them eyeing you up... You're next..."
+msgstr "ข้าเห็นมันจ้องเจ้า... เจ้าเป็นรายต่อไปล่ะ..."
+
+#. Id: 17020-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5938-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 17020-Dialogue.mod:0
+msgid "Hold on, I'll pick your lock. Let's get out of here"
+msgstr "รอก่อนนะ ข้าจะปลดล็อคเจ้าให้ ออกไปจากที่นี่กัน"
+
+#. Id: 17021-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (17020-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17021-Dialogue.mod:1
+msgid "Alright! You gotta help me out!"
+msgstr "เยี่ยม, เจ้าต้องช่วยข้าออกไป!"
+
+#. Id: 17022-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17021-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17022-Dialogue.mod:0
+msgid "Quickly, before they come back!"
+msgstr "เร็วหน่อย, ก่อนที่พวกมันจะกลับมา!"
+
+#. Id: 17200-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17020-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17200-Dialogue.mod:0
+msgid "Good /MAN/! I am NOT waitin' around to get eaten alive!"
+msgstr "ยอดนัก/MAN/! ข้าจะไม่รอให้พวกมันกินข้าทั้งเป็นหรอกนะ!"
+
+#. Id: 5940-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5940-Dialogue.mod:0
+msgid "*sob*... I don't wanna die! Help me..."
+msgstr "*ฮือๆ*...ข้ายังไม่อยากตาย! ช่วยข้าด้วยยย..."
+
+#. Id: 5940-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5940-Dialogue.mod:1
+msgid "*whimper*... Please... I don't wanna die... help me..."
+msgstr "*ฮือออ*... ขอร้องล่ะ... ข้ายังไม่อยากตาย... ช่วยข้าที..."
+
+#. Id: 5940-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5940-Dialogue.mod:2
+msgid "*sniff*... Please... I don't wanna die...Please let me out of here..."
+msgstr "*ซู๊ดดด*... ขอร้อง... ข้าไม่อยากตาย...โปรดพาข้าออกไปจากที่นี่ที..."
+
+#. Id: 5940-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5940-Dialogue.mod:3
+msgid "*sob*... Let me go... I can't take this..."
+msgstr "*ฮือ*...ปล่อยข้าไป...ข้ารับไม่ไหวแล้ว..."
+
+#. Id: 5940-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5940-Dialogue.mod:4
+msgid "*whimper*... I don't wanna die! ...Please, I'll do anything"
+msgstr "*ฮึกๆ*...ข้าไม่อยากตาย! ...ได้โปรดข้ายอมทำทุกอย่าง"
+
+#. Id: 17005-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5940-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 17005-Dialogue.mod:0
+msgid "Coward! Pull yourself together! "
+msgstr "ไอ้ขี้ขลาด!ตั้งสติหน่อยสิ!"
+
+#. Id: 17005-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5940-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 17005-Dialogue.mod:1
+msgid "Quit whining! Get a hold of yourself, /MEMAN/! "
+msgstr "เลิกสะอื้นที! ตั้งสติหน่อย! /MEMAN/!"
+
+#. Id: 17015-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17015-Dialogue.mod:0
+msgid "... R- right..."
+msgstr "...จ-จริงด้วย..."
+
+#. Id: 17015-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (17005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17015-Dialogue.mod:1
+msgid "HOW CAN I CALM DOWN WHEN I'M ABOUT TO BE EATEN BY CANNIBALS!"
+msgstr "จะให้ข้าใจเย็นได้อย่างไร เมื่อข้ากำลังจะโดนพวกมนุษย์กินคนกิน!"
+
+#. Id: 17015-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (17005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17015-Dialogue.mod:2
+msgid "...Y- yeah..."
+msgstr "... ชะ-ใช่"
+
+#. Id: 17015-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (17005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17015-Dialogue.mod:3
+msgid "I DON'T WANNA!"
+msgstr "ข้าไม่ต้องการแบบนี้!"
+
+#. Id: 17016-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17016-Dialogue.mod:0
+msgid "... Oh god..."
+msgstr "... โอ้ พระเจ้า..."
+
+#. Id: 17006-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5940-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 17006-Dialogue.mod:0
+msgid "Don't worry, I'll get us out of here..."
+msgstr "ไม่ต้องห่วง, ข้าจะพาเราออกไปจากที่นี่..."
+
+#. Id: 17006-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5940-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 17006-Dialogue.mod:1
+msgid "It's okay, I'll get us out of here, I promise..."
+msgstr "ไม่เป็นไร, ข้าจะพาเราออกไปจากที่นี่, ข้าสัญญา..."
+
+#. Id: 17013-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17013-Dialogue.mod:0
+msgid "R- really?..."
+msgstr "จะ..จริงรึ?..."
+
+#. Id: 17013-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (17006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17013-Dialogue.mod:1
+msgid "You will?"
+msgstr "เจ้าจะทำรึ?"
+
+#. Id: 17013-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (17006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17013-Dialogue.mod:2
+msgid "You'll get us out?"
+msgstr "เจ้าจะพาเราออกไปจากที่นี่รึ?"
+
+#. Id: 17014-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17013-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17014-Dialogue.mod:0
+msgid "You have to hurry!"
+msgstr "เจ้าต้องรีบแล้ว!"
+
+#. Id: 17007-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5940-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 17007-Dialogue.mod:0
+msgid "Calm down. Panicking isn't going to get you anywhere."
+msgstr "ใจร่มๆ ไว้ ตื่นตระหนกไปก็ไม่ช่วยให้เจ้าไปไหนได้หรอกนะ"
+
+#. Id: 17008-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5940-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 17008-Dialogue.mod:0
+msgid "Oh god! They're gonna eat us alive!"
+msgstr "โอ้ พระเจ้า! พวกมันจะกินเราทั้งเป็น!"
+
+#. Id: 17008-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5940-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 17008-Dialogue.mod:1
+msgid "We're doomed! Somebody do something!"
+msgstr "ข้าตายแน่! ใครก็ได้ ทำอะไรสักอย่างสิ่ว่ะ!"
+
+#. Id: 17008-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5940-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 17008-Dialogue.mod:2
+msgid "They'll cook us alive! Somebody save us!"
+msgstr "พวกมันจะจับเราต้มทั้งเป็น! ใครก็ได้ ช่วยด้วย!"
+
+#. Id: 17009-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17009-Dialogue.mod:0
+msgid "OH GOD!!! GET ME OUT OF HERE!"
+msgstr "โอ้ พระเจ้า!!! พาข้าออกไปจากที่นี่!"
+
+#. Id: 17009-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (17008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17009-Dialogue.mod:1
+msgid "This can't be happening to me!!! "
+msgstr "สิ่งนี้ไม่ควรจะเกิดขึ้นกับข้าสิว้ะ!!!"
+
+#. Id: 17009-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (17008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17009-Dialogue.mod:2
+msgid "NO NO NO NO NO NO NO!"
+msgstr "ไม่ ไม่ ไม่ ไม่ ไม่ ไม่ ม่ายยยยยย!!"
+
+#. Id: 17009-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (17008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17009-Dialogue.mod:3
+msgid "ARRRGHHH!"
+msgstr "อ๊ากกกกกกก!"
+
+#. Id: 17012-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17009-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17012-Dialogue.mod:0
+msgid "*Hysterical crying*"
+msgstr "*ร้องไห้อย่างวิกลจริต*"
+
+#. Id: 17012-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (17009-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 17012-Dialogue.mod:1
+msgid "*Cries hysterically*"
+msgstr "*ร้องไห้อย่างเสียประสาท*"
+
+#. Id: 5946-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5946-Dialogue.mod:0
+msgid "I DON'T WANNA DIE!"
+msgstr "ข้าไม่อยากตาย!"
+
+#. Id: 5946-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (17008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5946-Dialogue.mod:1
+msgid "I CAN'T DIE YET!"
+msgstr "ข้ายังตายไม่ได้!"
+
+#. Id: 5946-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (17008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5946-Dialogue.mod:2
+msgid "I DON'T WANNA DIE LIKE THIS!"
+msgstr "ข้าไม่อยากตาย เช่นนี้!"
+
+#. Id: 5946-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (17008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5946-Dialogue.mod:3
+msgid "THIS CAN'T BE HAPPENING TO ME!"
+msgstr "เรื่องนี้ไม่ควรจะเกิดขึ้นกับข้า!"
+
+#. Id: 5946-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (17008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5946-Dialogue.mod:4
+msgid "THIS CAN'T BE HAPPENING!"
+msgstr "เรื่องนี้ไม่ควรจะเกิดขึ้น!"
+
+#. Id: 5946-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (17008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5946-Dialogue.mod:5
+msgid "I... I CAN'T TAKE IT!"
+msgstr "ขะ... ข้ารับไม่ได้"
+
+#. Id: 5947-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5947-Dialogue.mod:0
+msgid "LET ME OUT!!!"
+msgstr "ให้ข้าออกไป!!!"
+
+#. Id: 5947-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (5946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5947-Dialogue.mod:1
+msgid "GET ME OUT OF HERE!!!"
+msgstr "ให้ข้าออกไปจากที่นี่!!!"
+
+#. Id: 5947-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (5946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5947-Dialogue.mod:2
+msgid "LET ME GO!"
+msgstr "ให้ข้าปายยย!"
+
+#. Id: 5959-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5959-Dialogue.mod:0
+msgid "/QUICKLAUGH/ you're gonna regret messing with me, /BASTARD/s! My friends'll come save me. You picked the wrong outlander to mess with"
+msgstr "/QUICKLAUGH/ เจ้าจะต้องเสียใจที่มาหาเรื่องข้า พวก/BASTARD/! พรรคพวกของข้าจะมาช่วยข้า เจ้าเลือกหาเรื่อง outlander ผิดคนแล้วเฟ้ย"
+
+#. Id: 5959-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5959-Dialogue.mod:1
+msgid "/YUCK/ dirty fucking cannibals! Someone'll come for me! Just you wait..."
+msgstr "/YUCK/ ไอ้พวกกินคนโสโครก! จะมีคนมาช่วยข้าแน่นอน! รอดูไปเถอะ..."
+
+#. Id: 5959-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5959-Dialogue.mod:2
+msgid "/LAUGH/! You think a CAGE can hold me?! /IDIOT/s! Someone'll come for me! Just you wait..."
+msgstr "/LAUGH/! เจ้าคิดว่ากรงง่าว ๆ นี่จะขังข้าได้อย่างนั้นเรอะ?! พวก/IDIOT/! จะมีคนมาช่วยข้าแน่นอน! รอดูไปเถอะ..."
+
+#. Id: 5959-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5959-Dialogue.mod:3
+msgid "I /FUCKING/ hate cannibals! You'll regret this I tell ya! My friends are on their way for me right now!"
+msgstr "ข้าล่ะเกลียดพวกกินคนนี่/FUCKING/! ข้าขอเตือนว่าเจ้าจะต้องเสียใจแหง! ตอนนี้พรรคพวกของข้ากำลังเดินทางมาช่วยข้าอยู่!"
+
+#. Id: 5959-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5959-Dialogue.mod:4
+msgid "/LAUGH/! You think a CAGE can hold me?! /IDIOT/s! My brothers will come avenge me. Oh you're gonna regret this..."
+msgstr "/LAUGH/! เจ้าคิดว่ากรงง่าว ๆ นี่จะขังข้าได้อย่างนั้นเรอะ?! พวก/IDIOT/! พี่น้องของข้าจะมาแก้แค้นให้ข้าแน่นอน! เจ้าจะต้องเสียใจ..."
+
+#. Id: 5959-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5959-Dialogue.mod:5
+msgid "/FUCKING/ cannibals! An army of pissed off outlaws will appear any minute now to rescue me, just you wait!"
+msgstr "พวกกินคน/FUCKING/! กองทัพของพวกนอกกฎหมายอารมณ์บูดจะมาถึงในอีกไม่กี่นาทีนี้เพื่อช่วยเหลือข้า เจ้ารอดูเถอะ!"
+
+#. Id: 5949-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5949-Dialogue.mod:0
+msgid "And then we're all gonna eat YOU. Just for /FUCKING/ funsies! ..."
+msgstr "แล้วพวกข้าก็จะกินเจ้า เพื่อความสนุกแบบ/FUCKING/!"
+
+#. Id: 5949-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5949-Dialogue.mod:1
+msgid "Plot twist: We eat YOU /BASTARD/s! See how YOU /FUCKING/ like it! ... Yeah..."
+msgstr "มีเรื่องหักมุมว่ะ พวกข้าจะกินพวกเจ้า ไอ้/BASTARD/! มาดูกันว่าเจ้าจะชอบ/FUCKING/เลยมั้ย!...ช่ายยย..."
+
+#. Id: 5949-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5949-Dialogue.mod:2
+msgid "We'll eat YOU /BASTARD/s! Just for shits n' giggles ... Yeah..."
+msgstr "พวกข้าจะกินพวกเจ้า ไอ้/BASTARD/! เพื่อความบ้าบอและไร้สาระไง...ช่าย..."
+
+#. Id: 5949-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (5959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5949-Dialogue.mod:3
+msgid "And then we're all gonna eat YOU! Won't be so high n' mighty then, will ya? ..."
+msgstr "แล้วพวกข้าก็จะจับเจ้ากิน! ตอนนั้นเจ้าคงไม่ยิ่งใหญ่และแข็งแกร่งแล้วล่ะ ว่ามั้ย?..."
+
+#. Id: 5949-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (5959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5949-Dialogue.mod:4
+msgid "And then we're all gonna eat YOU. Just for /FUCKING/ funsies! ... Uh huh!"
+msgstr "แล้วพวกข้าก็จะกินเจ้า เพื่อความสนุกแบบ/FUCKING/!...อะฮ่า!"
+
+#. Id: 5949-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (5959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5949-Dialogue.mod:5
+msgid "Plot twist: We eat YOU /BASTARD/s! See how YOU /FUCKING/ like it! ... Uh huh!"
+msgstr "มีเรื่องหักมุมว่ะ พวกข้าจะกินพวกเจ้า ไอ้/BASTARD/! มาดูกันว่าเจ้าจะชอบ/FUCKING/เลยมั้ย!...อ่าฮะ..."
+
+#. Id: 5949-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (5959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5949-Dialogue.mod:6
+msgid "We'll eat YOU /BASTARD/s! Just for shits n' giggles ... Uh huh!"
+msgstr "พวกข้าจะกินพวกเจ้า ไอ้/BASTARD/! เพื่อความบ้าบอและไร้สาระไง...อ่าฮะ..."
+
+#. Id: 5952-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5952-Dialogue.mod:0
+msgid "They'll come save me..."
+msgstr "พวกเขาจะมาช่วยข้า..."
+
+#. Id: 5952-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5952-Dialogue.mod:1
+msgid "They'll come for me for sure"
+msgstr "พวกเขาจะมาช่วยข้าแน่นอน"
+
+#. Id: 5952-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (5949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#: 5952-Dialogue.mod:2
+msgid "Yeah, they're coming..."
+msgstr "ใช่ พวกเขาจะมา..."
+

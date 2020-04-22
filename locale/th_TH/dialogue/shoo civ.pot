@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3125-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo civ
+#. Id: 13927-Escapes.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 3125-gamedata.base:0 13927-Escapes.mod:5
+msgid "Could you get out of my house?"
+msgstr ""
+
+#. Id: 3126-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo civ
+#: 3126-gamedata.base:0
+msgid "Get out of my house dammit!"
+msgstr ""
+
+#. Id: 3127-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo civ
+#. Id: 47446-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest shoo
+#. Id: 13927-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 3127-gamedata.base:0 47446-Dialogue.mod:4 13927-Escapes.mod:1
+msgid "What are you doing in here?"
+msgstr ""
+
+#. Id: 3128-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo civ
+#. Id: 49909-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (49906-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. Id: 98831-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98830-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: southern hiver takes over town
+#. Id: 95837-__december17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics shop black desert
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 12635-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12633-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 3128-gamedata.base:0 49909-Dialogue.mod:1 98831-Dialogue.mod:0 95837-__december17.mod:0 12635-Dialogue?(11)?(2).mod:0
+msgid "Get out."
+msgstr ""
+
+#. Id: 3129-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo civ
+#. Id: 47317-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15635-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 47318-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42840-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 1534391-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534390-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tinfist sees enemy
+#. Id: 44139-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (44137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 10682-Dialogue (10).mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (10680-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#. Id: 55263-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55262-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: using my equipment skeleton
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#. Id: 12635-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12633-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 46044-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (46040-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton spots intruder
+#. Id: 45957-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (45956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 47882-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 3129-gamedata.base:0 47317-Dialogue.mod:0 47318-Dialogue.mod:0 1534391-Dialogue.mod:0 44139-Dialogue.mod:3 10682-Dialogue?(10).mod:0 55263-Dialogue.mod:0 12635-Dialogue?(11)?(2).mod:2 46044-Dialogue.mod:0 45957-Dialogue.mod:3 47882-Dialogue.mod:0
+msgid "Leave."
+msgstr ""
+
+#. Id: 3131-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo civ
+#. Id: 18123-Recruits Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. Id: 44626-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper trade
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 45024-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper trade
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 8403-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. Id: 3953-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk drifter
+#. Id: 13284-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13283-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. Id: 5465-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 13927-Escapes.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. Id: 43940-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy farmer boss
+#: 3131-gamedata.base:0 18123-Recruits?Dialogue.mod:10 44626-Dialogue.mod:6 45024-Dialogue.mod:5 8403-Dialogue.mod:3 3953-gamedata.base:0 13284-Escapes.mod:2 5465-gamedata.base:3 13927-Escapes.mod:6 43940-rebirth.mod:0
+msgid "What do you want?"
+msgstr ""
+

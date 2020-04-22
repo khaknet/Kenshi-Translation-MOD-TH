@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 64728-__september20.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dragon attacks player
+#: 64728-__september20.mod:0
+msgid "Let's have some fun!"
+msgstr "มาสนุกกันเถอะ!"
+
+#. Id: 64728-__september20.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dragon attacks player
+#: 64728-__september20.mod:1
+msgid "Cats collection!"
+msgstr "เก็บสะสม Cats 
+"
+
+#. Id: 64728-__september20.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dragon attacks player
+#: 64728-__september20.mod:2
+msgid "First to make /EM/ scream's a winner!"
+msgstr "ใครทำให้/EM/กรีดร้องได้ก่อนชนะ!"
+
+#. Id: 64728-__september20.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dragon attacks player
+#: 64728-__september20.mod:3
+msgid "First to draw blood gets the loot!"
+msgstr "ก่อนอื่นก็กรีดเลือดแล้วปล้นโว้ย!
+"
+
+#. Id: 64728-__september20.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dragon attacks player
+#: 64728-__september20.mod:4
+msgid "Finally, some fun!"
+msgstr "ในที่สุดก็จะได้สนุกซะที!"
+
+#. Id: 64728-__september20.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dragon attacks player
+#: 64728-__september20.mod:5
+msgid "You! Come see my new sword!"
+msgstr "เจ้าน่ะ! มาลองดาบใหม่ข้าหน่อย!"
+
+#. Id: 64728-__september20.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dragon attacks player
+#: 64728-__september20.mod:6
+msgid "Spewin' Narko, time to bless my new sword!"
+msgstr "Narko ระยำ ได้เวลาประทานพรดาบใหม่ข้าแล้ว!"
+
+#. Id: 64728-__september20.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dragon attacks player
+#: 64728-__september20.mod:7
+msgid "Come greet with my new sword... with your /BODYPART/!"
+msgstr "เข้ามาลองดาบใหม่ข้า... ด้วย/BODYPART/ของเจ้าสิ!"
+
+#. Id: 64728-__september20.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dragon attacks player
+#: 64728-__september20.mod:8
+msgid "Bonus loot if you get /EM/ beggin'!"
+msgstr "โบนัสการปล้นถ้าล้ม/EM/ได้!"
+

@@ -1,0 +1,464 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 7763-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7763-Dialogue.mod:0
+msgid "Shit! Look, it's /THISGUY/! Let's get outta here!"
+msgstr ""
+
+#. Id: 7763-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7763-Dialogue.mod:1
+msgid "Lookit these pricks! Let's go get backup!"
+msgstr ""
+
+#. Id: 7763-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7763-Dialogue.mod:2
+msgid "Shit, there's so many of 'em! We gotta get outta here!"
+msgstr ""
+
+#. Id: 7763-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7763-Dialogue.mod:4
+msgid "Let's get outta here!"
+msgstr ""
+
+#. Id: 7763-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7763-Dialogue.mod:5
+msgid "We can't win! Run!"
+msgstr ""
+
+#. Id: 7768-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7767-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7768-Dialogue.mod:0
+msgid "Whoa whoa whoa! Buck the fuck up, /COWARD/!"
+msgstr ""
+
+#. Id: 7768-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7767-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7768-Dialogue.mod:1
+msgid "What?! Really? You're just gonna run away like a fucking chump /COWARD/?"
+msgstr ""
+
+#. Id: 7768-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (7767-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7768-Dialogue.mod:2
+msgid "/WTF/!? Damn /COWARD/, are you serious?"
+msgstr ""
+
+#. Id: 7768-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (7767-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7768-Dialogue.mod:3
+msgid "Dammit I ain't runnin' away like some scumbag /COWARD/!"
+msgstr ""
+
+#. Id: 7770-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7768-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7770-Dialogue.mod:0
+msgid "B-but, haven't you heard-"
+msgstr ""
+
+#. Id: 7770-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (7768-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7770-Dialogue.mod:1
+msgid "But wait, we're outnum-"
+msgstr ""
+
+#. Id: 7770-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (7768-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7770-Dialogue.mod:2
+msgid "But look how many-"
+msgstr ""
+
+#. Id: 7770-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (7768-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7770-Dialogue.mod:3
+msgid "We can't win agai-"
+msgstr ""
+
+#. Id: 7770-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (7768-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7770-Dialogue.mod:4
+msgid "They'll kill us-"
+msgstr ""
+
+#. Id: 7771-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7770-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7771-Dialogue.mod:0
+msgid "Call yourself a bandit? I ain't running away from these /RUNT/s!"
+msgstr ""
+
+#. Id: 7771-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (7770-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7771-Dialogue.mod:1
+msgid "A true warrior never runs from a fight!"
+msgstr ""
+
+#. Id: 7771-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (7770-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7771-Dialogue.mod:2
+msgid "Those /RUNT/s don't scare me! C'mon!"
+msgstr ""
+
+#. Id: 7771-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (7770-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7771-Dialogue.mod:3
+msgid "No! We're NOT running away!"
+msgstr ""
+
+#. Id: 7771-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (7770-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7771-Dialogue.mod:4
+msgid "Run away and I'll /CUT/ your shins off!"
+msgstr ""
+
+#. Id: 7783-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7771-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7783-Dialogue.mod:0
+msgid "Get 'em!!!"
+msgstr ""
+
+#. Id: 7783-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (7771-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7783-Dialogue.mod:3
+msgid "Die!!!"
+msgstr ""
+
+#. Id: 7784-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7767-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: INTERJECTOR1, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7784-Dialogue.mod:0
+msgid "/FUCK/! Go go go!"
+msgstr ""
+
+#. Id: 7784-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7767-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: INTERJECTOR1, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7784-Dialogue.mod:1
+msgid "Abort, abort!"
+msgstr ""
+
+#. Id: 7784-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (7767-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: INTERJECTOR1, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7784-Dialogue.mod:3
+msgid "Look, that way over there!"
+msgstr ""
+
+#. Id: 7773-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7773-Dialogue.mod:0
+msgid "Pft I ain't runnin' away from these punks!"
+msgstr ""
+
+#. Id: 7773-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7773-Dialogue.mod:1
+msgid "Ahh I ain't runnin' away from these /BASTARD/s!"
+msgstr ""
+
+#. Id: 7778-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7777-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7778-Dialogue.mod:0
+msgid "Yeaaah! I ain't runnin' away, let's get 'em!"
+msgstr ""
+
+#. Id: 7781-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7777-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: INTERJECTOR1, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7781-Dialogue.mod:0
+msgid "...Dammit"
+msgstr ""
+
+#. Id: 7790-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7777-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: INTERJECTOR1, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7790-Dialogue.mod:0
+msgid "/QUICKLAUGH/, I'm gonna go out in a blaze of glory!"
+msgstr ""
+
+#. Id: 7779-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7779-Dialogue.mod:0
+msgid "These /FUCKING/ /BASTARD/s don't scare me!"
+msgstr ""
+
+#. Id: 7779-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7779-Dialogue.mod:1
+msgid "Come at me, /INSULT/s!"
+msgstr ""
+
+#. Id: 7779-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7779-Dialogue.mod:2
+msgid "It's them! Don't let them get away!!"
+msgstr ""
+
+#. Id: 7779-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7779-Dialogue.mod:3
+msgid "Hey! Look, it's those guys! Let's show 'em a bandit's wrath!"
+msgstr ""
+
+#. Id: 7787-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7786-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7787-Dialogue.mod:0
+msgid "But... but there're so many of them!"
+msgstr ""
+
+#. Id: 7787-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7786-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7787-Dialogue.mod:1
+msgid "But wait, maybe we should get reinforcements?"
+msgstr ""
+
+#. Id: 7787-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (7786-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7787-Dialogue.mod:2
+msgid "Whoa, shouldn't we get some backup first?"
+msgstr ""
+
+#. Id: 7787-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (7786-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7787-Dialogue.mod:3
+msgid "But, there's loads of 'em!"
+msgstr ""
+
+#. Id: 7787-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (7786-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7787-Dialogue.mod:4
+msgid "But look how many of 'em there are!"
+msgstr ""
+
+#. Id: 7788-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7787-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7788-Dialogue.mod:0
+msgid "Goooooo!"
+msgstr ""
+
+#. Id: 7788-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (7787-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7788-Dialogue.mod:1
+msgid "Get themmmmm!"
+msgstr ""
+
+#. Id: 7788-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (7787-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#: 7788-Dialogue.mod:3
+msgid "Charrrrrge!"
+msgstr ""
+
+#. Id: 7792-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7792-Dialogue.mod:1
+msgid "Oh shit, oh shit"
+msgstr ""
+
+#. Id: 7794-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7794-Dialogue.mod:0
+msgid "/ARG/! I ain't gonna run away from you CHUMPS!"
+msgstr ""
+
+#. Id: 7794-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7794-Dialogue.mod:1
+msgid "Catch me if you can, /BASTARD/s!"
+msgstr ""
+
+#. Id: 7794-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7794-Dialogue.mod:2
+msgid "/INSULT/s!"
+msgstr ""
+
+#. Id: 7794-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7794-Dialogue.mod:4
+msgid "Die! Die, /BASTARD/s!"
+msgstr ""
+
+#. Id: 7794-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7794-Dialogue.mod:5
+msgid "I spit on you all!"
+msgstr ""
+

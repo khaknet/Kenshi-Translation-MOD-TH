@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 54021-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#: 54021-Dialogue.mod:0
+msgid "This is Empire territory... The place is rife with slavers... I shouldn't be here."
+msgstr "นี่คือดินแดนของจักรวรรดิ...มีพ่อค้าทาสเต็มไปหมด...ข้าไม่ควรอยู่ที่นี่"
+
+#. Id: 54022-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54021-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#: 54022-Dialogue.mod:0
+msgid "I'm an escaped slave. You know what they'll do to me if they see me?!"
+msgstr "ข้าเป็นทาสที่หลบหนีมา เจ้ารู้หรือไม่ว่าพวกเขาจะทำอะไรกับข้าถ้าพวกเขาพบตัวข้านะหา?!"
+
+#. Id: 54024-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54023-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54024-Dialogue.mod:0
+msgid "You got your brand removed, right? You'll be fine, relax."
+msgstr "ตราประทับของเจ้าถูกลบไปแล้วนี่ ใช่มั้ย? เจ้าจะไม่เป็นไรหรอก ผ่อนคลายหน่อย"
+
+#. Id: 54025-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54024-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#: 54025-Dialogue.mod:0
+msgid "... Hmph, I hate this place! Not sure which is worse: this or the spider plains..."
+msgstr "...ฮึ่ม ข้าเกลียดที่นี่! ไม่รู้เหมือนกันว่าระหว่างที่นี่กับ spider plains ที่ไหนแย่กว่ากัน..."
+
+#. Id: 54035-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54034-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54035-Dialogue.mod:0
+msgid "Kneecap you?"
+msgstr "เจ้าถูกทรมานรึ?"
+
+#. Id: 54036-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54035-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#: 54036-Dialogue.mod:0
+msgid "Guess you'd know, wouldn't you, ex-slaver? *Spit*"
+msgstr "เจ้าคงรู้อยู่แล้วนี่ ใช่มั้ย อดีตพ่อค้าทาส? *ถ่มน้ำลาย*"
+
+#. Id: 54037-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54036-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54037-Dialogue.mod:0
+msgid "Yup, sure would. Nothing more exilerating than kneecapping a fugitive, heheh."
+msgstr "ใช่ ข้ารู้สิ ไม่มีอะไรน่าหฤหรรษ์ไปมากกว่าการทรมานพวกผู้ลี้ภัยแล้วล่ะ ฮี่ฮี่"
+
+#. Id: 56112-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56111-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome heng
+#: 56112-Dialogue.mod:0
+msgid "I suggest you watch your mouth... and your back if you want to avoid a kneecapping yourself..."
+msgstr "ขอเตือนให้ระวังปากไว้หน่อยดีกว่านะ...ระวังหลังด้วย ถ้าเจ้าไม่อยากโดนทรมานซะเอง..."
+
+#. Id: 56113-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (56112-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 56113-Dialogue.mod:0
+msgid "Loosen up, big guy. We're all friends here remember. Heh."
+msgstr "ผ่อนคลายหน่อย พี่บึ้ก จำไว้ว่าพวกเราทั้งหมดเป็นสหายกัน  ฮี่"
+
+#. Id: 54028-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#: 54028-Dialogue.mod:0
+msgid "Mah, the United Cities... Nothing I love more than being told what to do by fat bloated nobles..."
+msgstr "เหอะ United Cities ...ไม่มีอะไรที่ข้าจะรักยิ่งกว่าการถูกบอกว่าจะทำอย่างไรกับขุนนางอ้วนหมูตอนนี่ดี ......"
+
+#. Id: 54058-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54057-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54058-Dialogue.mod:0
+msgid "... Really? But the nobles are the most feared leaders this side of the world..."
+msgstr "...จริงดิ? แต่ฟากนี่ของแผ่นดินมองว่าพวกขุนนางนี่คือผู้นำที่โครตน่ากลัวที่สุดเลยนะ..."
+
+#. Id: 54059-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54058-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#: 54059-Dialogue.mod:0
+msgid "It was sarcasm, genius. Twinblade goons, fatty nobles... Nobody tells /MYNAME/ what to do. "
+msgstr "ข้าแค่ประชด พ่อสมองใส ทั้งลิ่วล้อของ Twinblade ทั้งขุนนางอ้วนฉุ...ไม่มีใครบอกให้/MYNAME/ทำอะไรได้ทั้งนั่นล่ะ"
+
+#. Id: 54061-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54060-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54061-Dialogue.mod:0
+msgid "I'd like to see you say that to the nobles' faces..."
+msgstr "ข้าอยากเห็นเจ้าพูดแบบนั่นใส่หน้าพวกขุนนางจัง..."
+
+#. Id: 54094-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54093-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54094-Dialogue.mod:0
+msgid "Try calling them that to their faces, I dare you."
+msgstr "ลองพูดแบบนั้นต่อหน้าพวกมันดูสิ, ข้าท้าเจ้า."
+
+#. Id: 54095-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54094-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#: 54095-Dialogue.mod:0
+msgid "I escape one hell, land in another. Story of my life. Remind me why we're in this place again?"
+msgstr "ข้าหนีรอดจากนรกแห่งหนึ่งมาสู่นรกอีกแห่งหนึ่ง นั่นล่ะคือชีวิตของข้า เตือนข้าอีกครั้งซิว่าทำไมเราถึงมาอยู่ที่นี่ได้?"
+
+#. Id: 54097-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54096-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome heng
+#: 54097-Dialogue.mod:0
+msgid "Nobles aside, we're going to need expendable money if we want to survive this place."
+msgstr "ถึงจะตัดเรื่องขุนนางออกไปได้ แต่เราจำเป็นต้องใช้เงินจำนวนมหาศาลในการเอาชีวิตรอดในที่แห่งนี้นะ"
+
+#. Id: 54098-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54097-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome heng
+#: 54098-Dialogue.mod:0
+msgid "We won't get far without. There's no charity for the poor here."
+msgstr "เราไปไม่รอดแน่ถ้าไม่มีเงิน ที่นี่ไม่ใช่โรงทานสำหรับคนจนด้วย."
+
+#. Id: 54040-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 54040-Dialogue.mod:0
+msgid "Heng. Better hope we've got enough bribe money to survive this place..."
+msgstr "เมือง Heng เหรอ หวังว่าเราจะมีเงินติดสินบนพอที่จะทำให้เรารอดชีวิตที่นี่ได้นะ..."
+
+#. Id: 54041-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54042-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54041-Dialogue.mod:0
+msgid "Bribe money?... Kch. The gluttonous outsiders never cease to surprise me."
+msgstr "เงินสินบน?...ชิ พวกคนนอกจอมโลภทำให้ข้าประหลาดใจได้เสมอเลยนะ."
+
+#. Id: 54082-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54081-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54082-Dialogue.mod:0
+msgid "Bribe money? What, you can just buy your way through life in this place?"
+msgstr "เงิินสินบน? นี่เจ้าคิดว่าจะใช้เงินมาเป็นตัวแก้ปัญหาสำหรับการใช้ชีวิตที่นี่งั้นรึ?"
+
+#. Id: 54083-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54082-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#: 54083-Dialogue.mod:0
+msgid "Well, if you put it like that..."
+msgstr "อืมม ถ้าเจ้าพูดแบบนั้นล่ะก็...."
+
+#. Id: 54084-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54083-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54084-Dialogue.mod:0
+msgid "Wow, sounds so easy! In the Holy Nation I'm powerless, but here all I need is Cats..."
+msgstr "ว้าว ฟังดูง่ายดีนะ! ใน Holy Nation ข้านั้นไร้ตัวตน แต่ถ้าเป็นที่นี่ ขอข้าแค่มี Cats..."
+
+#. Id: 54086-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#: 54086-Dialogue.mod:0
+msgid "Might want to make yourself some actual money first before you get too attached to that idea..."
+msgstr "ก่อนจะคิดแบบนั้น เจ้าควรหาทางทำมาหากินให้ได้เงินมาเสียก่อนเถอะ..."
+
+#. Id: 54043-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 54043-Dialogue.mod:0
+msgid "Better make sure we've got some expendable Cats for bribes before we get too cozy here in the canyons.."
+msgstr "ต้องทำให้แน่ใจว่าเราจะมี Cats มากพอที่จะเป็นเงินสินบน เพื่อที่เราจะได้ใช้ชีวิตสบาย ๆ ในหุบเขานี้นะ"
+
+#. Id: 54048-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#: 54048-Dialogue.mod:0
+msgid "The United Cities, where the locals worship coins and their own inflated egos..."
+msgstr "United Cities ที่ที่คนบูชาเงินเหรียญแวววาวและอัตตาที่เบ่งบานของพวกเขา..."
+
+#. Id: 54049-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54050-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54049-Dialogue.mod:0
+msgid "... Says the guy who worships a god that burns people alive for breathing funny..."
+msgstr "...ตลกจังที่มันออกจากปากของบุรุษที่มีวิถีชีวิตคือการบูชาพระเจ้าและเผาผู้คนน่ะนะ..."
+
+#. Id: 56119-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54051-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#: 56119-Dialogue.mod:0
+msgid "A case of confused messengers. My judgement won't be clouded by others' actions."
+msgstr "เป็นเรื่องของผู้ส่งข่าวที่สับสนน่ะ ไม่มีการกระทำของผู้ใดทั้งสิ้นที่จะครอบงำการตัดสินใจของข้าได้."
+
+#. Id: 54080-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54079-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54080-Dialogue.mod:0
+msgid "Ugh. You serve a DEVIL responsible for the murders of thousands. Keep your judgement to yourself, sentinel."
+msgstr "เหอะ เจ้ารับใช้ปีศาจที่มีส่วนร่วมในการสังหารผู้คนนับพัน เก็บการตัดสินใจของเจ้าไว้เงียบ ๆ เถอะ องครักษ์เอ๋ย!"
+
+#. Id: 54087-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54080-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#: 54087-Dialogue.mod:0
+msgid "Devil?! Curse you, woman! The teachings of Okran run far deeper than the rogue paladins who serve him!"
+msgstr "ปีศาจเรอะ?! เงียบปากไปนะ นางผู้หญิง! คำสอนของ Okran ลึกซึ้งกว่าพวกพาลาดินนอกลู่นอกทางที่รับใช้พระองค์นะ!"
+
+#. Id: 54090-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54087-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54090-Dialogue.mod:0
+msgid "And where is this precious god to protect us from his 'rogue paladins', hm?!"
+msgstr "แล้วตอนนี้พระเจ้าที่รักอยู่ไหนล่ะ ทำไมไม่ออกมาปกป้องพวกเราจากพาลาดินนอกลู่นอกทางพวกนั้น หืม?!"
+
+#. Id: 54089-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54088-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome heng
+#: 54089-Dialogue.mod:0
+msgid "Hoy, break it up both of you! I'd rather we didn't attract the attention of rogue slavers..."
+msgstr "พอแล้วเฮ้ย ทั้งคู่เลย! ข้าไม่อยากดึงดูดความสนใจจากพวกพ่อค้าทาสนอกรีตนะ..."
+
+#. Id: 54091-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (54089-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54091-Dialogue.mod:0
+msgid "Blind lug headed... *mumble*"
+msgstr "เจ้าหัวทึบตามืดบอดเอ๋ย...*พึมพำ*"
+
+#. Id: 54070-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#: 54070-Dialogue.mod:0
+msgid "Oh, the United Cities!.. Wait... fat song, fat song, let me think..."
+msgstr "โอ้ United Cities! ...เดี่๋ยวก่อนนะ...ขอข้าคิดหน่อย...เพลงที่เกี่ยวกับความอ้วน...ความอ้วน..."
+
+#. Id: 54072-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54071-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54072-Dialogue.mod:0
+msgid "No songs! We get it, the nobles are fat..."
+msgstr "ไม่มีเพลงอะไรทั้งนั้นแหละ! พวกเราเข้าใจดี พวกขุนนางน่ะตุ้ยนุ้ยทั้งนั้น..."
+
+#. Id: 54073-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54072-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#: 54073-Dialogue.mod:0
+msgid "And twisted, don't forget twisted. We probably shouldn't be here."
+msgstr "แล้วก็บิดเบี้ยวด้วย อย่าลืมเรื่องบิดเบี้ยวนะ พวกเราไม่ควรอยู่ที่นี่เลยอ่ะ"
+
+#. Id: 54074-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54073-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome heng
+#: 54074-Dialogue.mod:0
+msgid "Well, we're already here. No going back now."
+msgstr "แต่เรามาถึงที่นี่แล้ว ไม่มีทางให้หันหลังกลับแล้วล่ะ"
+

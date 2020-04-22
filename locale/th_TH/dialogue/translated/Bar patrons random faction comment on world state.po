@@ -1,0 +1,916 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 62121-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62121-Dialogue.mod:0
+msgid "Did you hear about captain Eyegore? I can't believe it..."
+msgstr "ได้ยินเรื่องกับปตัน Eyegore รึเปล่า? ข้าไม่อยากเชื่อ..."
+
+#. Id: 62123-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62122-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62123-Dialogue.mod:0
+msgid "Eyegore? Nah, Eyegore ain't dying that easy. Guy's a demon."
+msgstr "Eyegore? ห๋า Eyegore ไม่ตายง่ายๆ หรอก หมอนั่นน่ะปีศาจนะ."
+
+#. Id: 62125-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62124-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62125-Dialogue.mod:0
+msgid "Demon eat demon..."
+msgstr "ปีศาจแดกปีศาจไง..."
+
+#. Id: 62126-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (62125-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62126-Dialogue.mod:0
+msgid "*Slurp*"
+msgstr "*กินเสียงดัง*"
+
+#. Id: 62127-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (62126-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62127-Dialogue.mod:0
+msgid "... You tryin' to be a wise 'un? That don't even make sense! 'Demon eat demon'..."
+msgstr "...จะอวดภูมิเรอะ? ไม่เห็นเมคเซนส์เลย! 'ปีศาจแดกปีศาจ'เนี่ย..."
+
+#. Id: 62128-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (62127-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62128-Dialogue.mod:0
+msgid "Slurpin' on your sake like yer some kinda wiseman skelly..."
+msgstr "กินสาเกเสียงดังทำให้ดูเป็นนักปราญช์ขึ้นมารึไง skelly...."
+
+#. Id: 62129-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (62128-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62129-Dialogue.mod:0
+msgid "All champions fall eventually... *slurp*"
+msgstr "พวกนักรบทุกคนก็ย่อมร่วงหล่นในที่สุดแหละ...*กร๊วบๆ*"
+
+#. Id: 62130-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (62129-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62130-Dialogue.mod:0
+msgid "... Ya know, skeletons don't drink sake."
+msgstr "...รู้ไรปะ, พวก skeleton ไม่ดื่มสาเกกันหรอกนะ"
+
+#. Id: 62131-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (62130-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62131-Dialogue.mod:0
+msgid "Whatever. Eyegore ain't dead, I tell ya. I'll put 1000 Cats on it."
+msgstr "ยังไงซะ Eyegore จะไม่ตายข้าบอกเลย ข้าเดิมพันฝั่งนี้ 1000 Cats.."
+
+#. Id: 62279-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62133-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#. -- Condition: In town(s) of faction(s): ชาว Swamp
+#: 62279-Dialogue.mod:0
+msgid "How about that Empire Captain, eh..."
+msgstr "แล้วกัปตันจักรวรรดินั่นล่ะเป็นไง, เอ๋..."
+
+#. Id: 62276-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62276-Dialogue.mod:0
+msgid "Can you believe the Bugmaster's finally dead?"
+msgstr "เจ้าเชื่อรึเปล่าว่าในที่สุด Bugmaster ก็ตายแล้วน่ะ?"
+
+#. Id: 62277-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62276-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62277-Dialogue.mod:0
+msgid "Hundreds of years of that guy being an ass..."
+msgstr "ร้อยกว่าปีที่ไอ้เวรนั่นมันกร่างสินะ..."
+
+#. Id: 62278-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62277-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62278-Dialogue.mod:0
+msgid "And now poof! Gone. Just like that."
+msgstr "แล้วตอนนี้ก็ ฟูบ! หายไป เหมือนแบบนี้."
+
+#. Id: 62280-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#. -- Condition: My Race(s): Hive Prince or Hive Prince South Hive or ราชินี Hive or Hive Soldier Drone or Hive Soldier Drone South Hive or Shek
+#: 62280-Dialogue.mod:0
+msgid "Well, now the Phoenix is gone..."
+msgstr "เยี่ยม ตอนนี้ฟินิกซ์ก็ไม่อยู่อีกแล้ว..."
+
+#. Id: 62281-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62280-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62281-Dialogue.mod:0
+msgid "Maybe I can actually take a damn walk in the northern plains?"
+msgstr "บางทีข้าอาจสามารถไปเดินทอดน่องแถว northern plains ได้จริงแล้วสิ?"
+
+#. Id: 62283-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62281-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62283-Dialogue.mod:0
+msgid "God-loving greenlanders, hoggin' all the grassland..."
+msgstr "พวก greenlander ที่พระเจ้ารัก ย่ำไปในแดนทุ่งหญ้า..."
+
+#. Id: 62282-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62283-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62282-Dialogue.mod:0
+msgid "Good riddance to 'im."
+msgstr "การกำจัดมันไปเป็นเรื่องดีจริงๆ"
+
+#. Id: 62285-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#. -- Condition: In town(s) of faction(s): ชาว Swamp
+#: 62285-Dialogue.mod:0
+msgid "Damn shame about Tinfist."
+msgstr "น่าเสียดาย Tinfist จริง ๆ"
+
+#. Id: 62288-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62287-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62288-Dialogue.mod:0
+msgid "Damn shame."
+msgstr "น่าเสียดาย."
+
+#. Id: 62289-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62288-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62289-Dialogue.mod:0
+msgid "Only a matter of time before the slavers start crossin' borders into the swamps..."
+msgstr "คงอีกไม่นาน ก่อนที่พวกพ่อค้าทาสจะข้ามพรมแดนไปยัง swamps..."
+
+#. Id: 62290-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62289-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62290-Dialogue.mod:0
+msgid "Let 'em try!"
+msgstr "ก็ให้พวกมันลองดู!"
+
+#. Id: 62291-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (62290-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62291-Dialogue.mod:0
+msgid "The swampers ain't pushovers like those desert crawlers."
+msgstr "swampers ไม่ใช่ขี้ไก่เหมือนพวก desert crawlers นะเฟ้ย"
+
+#. Id: 62286-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#. -- Condition: In town(s) of faction(s): ชาวประมง
+#: 62286-Dialogue.mod:0
+msgid "That rain storm we had..."
+msgstr "เราเจอพายุฝนซะแล้ว..."
+
+#. Id: 62292-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62286-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62292-Dialogue.mod:0
+msgid "I swear it was the skies mourning Tinfist..."
+msgstr "ข้าว่าท้องฟ้ากำลังไว้อาลัยให้ Tinfist นะ..."
+
+#. Id: 62293-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62293-Dialogue.mod:0
+msgid "Ancient old hero of the world, gone forever..."
+msgstr "นักรบโบราณของโลกนี้ จากไปตลอดกาล..."
+
+#. Id: 62294-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62293-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62294-Dialogue.mod:0
+msgid "Time's are dark. Dark, dark, dark..."
+msgstr "เวลาช่างมืดมน. มืดมิด, มืดดับ. มืดบอด..."
+
+#. Id: 62297-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62297-Dialogue.mod:0
+msgid "Did you hear what they found in the Bugmaster's lair?"
+msgstr "เจ้าเคยได้ยินรึเปล่าว่าพวกเขาเจออะไรในรังของ Bugmaster?"
+
+#. Id: 62298-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62297-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62298-Dialogue.mod:0
+msgid "A chest full of teeth! HUMAN teeth!"
+msgstr "กล่องที่เต็มไปด้วยฟัน! ฟันของมนุษย์!"
+
+#. Id: 62319-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62318-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62319-Dialogue.mod:0
+msgid "So.. the person that caught him replaced his treasure with TEETH?"
+msgstr "บางที... ไอ้คนที่จับหมอนั่นเอาฟันไปแทนที่สมบัติของเขาล่ะ?"
+
+#. Id: 62320-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62319-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62320-Dialogue.mod:0
+msgid "Well, it was the only chest in his tower and the treasure was gone. Go figure..."
+msgstr "แหม มีกล่องอยู่บนหอคอยของเขาอันเดียวกับสมบัติที่หายไป ลองคิดดูสิ..."
+
+#. Id: 62321-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (62320-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62321-Dialogue.mod:0
+msgid "Kch... Takes a psycho to kill a psycho I suppose..."
+msgstr "ชิ... เอาไอ้โรคจิตไปฆ่าโรคจิตซะล่ะมั้ง..."
+
+#. Id: 62322-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#. -- Condition: In town(s) of faction(s): ชาว Swamp
+#: 62322-Dialogue.mod:0
+msgid "So, how about the fat Cat emperor, eh?"
+msgstr "อืม แล้วจะเอายังไงกับไอ้จักรพรรดิตุ้ยนุ้ยนั่นล่ะ?"
+
+#. Id: 62324-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62323-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62324-Dialogue.mod:0
+msgid "Whew, yeah, desert's in a hot mess right now, eh..."
+msgstr "วิ้ว ใช่เลย ทะเลทรายกำลังลุกเป็นไฟเลยตอนนี้ เฮ่อ..."
+
+#. Id: 62325-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62324-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62325-Dialogue.mod:0
+msgid "I can just picture the nobles waddlin' 'round in a panic like headless raptors..."
+msgstr "ข้าจินตนาการภาพพวกขุนนางวิ่งเป็นหนูติดจั่นได้เลยนะเนี่ย..."
+
+#. Id: 62330-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#. -- Condition: In town(s) of faction(s): ชาว Swamp
+#: 62330-Dialogue.mod:0
+msgid "Long dead the emperor!"
+msgstr "ขอให้จักรพรรดิไปตายซะ!"
+
+#. Id: 62333-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#. -- Condition: In town(s) of faction(s): ชาว Swamp
+#: 62333-Dialogue.mod:0
+msgid "'Bout time somebody stuck it to Longen..."
+msgstr "ควรมีใครสักคนมาสั่งสอย Longen ได้แล้ว..."
+
+#. Id: 62337-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62333-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 62337-Dialogue.mod:0
+msgid "Act like an asshole, die like an asshole."
+msgstr "ทำตัวอย่างกับไอ้โง่ และตายเหมือนกับไอ้โง่."
+
+#. Id: 62338-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#. -- Condition: In town(s) of faction(s): ชาว Swamp
+#: 62338-Dialogue.mod:0
+msgid "Long dead the Longen!"
+msgstr "ขอให้้ Longen ไปตายซะ!"
+
+#. Id: 66316-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 66316-Dialogue.mod:0
+msgid "Apparently the Skin Eater was just some poor guy held hostage by a bunch of skeleton cultists..."
+msgstr "เห็นได้ชัดว่าพวก Skin Eater ก็เป็นเพียงแค่คนน่าสงสารที่โดนพวก Skeleton คลั่งลัทธิจับเป็นตัวประกันน่ะนะ..."
+
+#. Id: 66317-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (66318-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 66317-Dialogue.mod:0
+msgid "Did you hear about their suits?"
+msgstr "เจ้าเคยได้ยินเกี่ยวกับชุดที่มันสวมใส่หรือเปล่า?"
+
+#. Id: 66319-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (66317-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 66319-Dialogue.mod:0
+msgid "Made of human skin!"
+msgstr "ทำมาจากผิวหนังของมนุษย์!"
+
+#. Id: 66320-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (66319-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 66320-Dialogue.mod:0
+msgid "I'm talking straight up CHUNKS of people stitched together..."
+msgstr "ขอพูดตรง ๆ เลยนะ มันคือผิวผนังของคนมากมายที่ถูกเย็บต่อกันเป็นแผ่นใหญ่..."
+
+#. Id: 66321-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (66320-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 66321-Dialogue.mod:0
+msgid "And that, my friends, is why I never travel south..."
+msgstr "และนั่นแหละ เพื่อนข้า ว่าทำไมข้าถึงไม่เคยไปทางใต้เลย..."
+
+#. Id: 66322-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (66321-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 66322-Dialogue.mod:0
+msgid "No thank YOU very much."
+msgstr "ไม่ล่ะ ขอบคุณมาก."
+
+#. Id: 66323-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 66323-Dialogue.mod:0
+msgid "Now that Simion's dust, the sands should be a little safer at least..."
+msgstr "ตอนนี้ต้องเจอพวก Simion's Dust เหมือนว่าถ้าไปทางทรายจะปลอดภัยกว่านะ..."
+
+#. Id: 66324-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66323-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 66324-Dialogue.mod:0
+msgid "A perfect example of why Cat-less dregs breed nothing but trouble."
+msgstr "เป็นตัวอย่างที่เห็นได้ชัดว่าพวกสิ้นไร้ไม้ตอกเป็นอะไรไปไม่ได้เลย ยกเว้นแต่ตัวปัญหา"
+
+#. Id: 66326-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (66324-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 66326-Dialogue.mod:0
+msgid "Bloody farmers."
+msgstr "ไอ้ชาวนารากหญ้า."
+
+#. Id: 66328-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 66328-Dialogue.mod:0
+msgid "The slavers should finally be able to do their jobs in peace now that Tinfist is gone..."
+msgstr "ตอนนี้ Tinfist หายไปแล้ว ในที่สุดพวกพ่อค้าทาสคงทำการค้าได้สงบขึ้น..."
+
+#. Id: 66329-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66328-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 66329-Dialogue.mod:0
+msgid "No working man deserves to be terrorised the way they are."
+msgstr "ไม่มีคนที่ลงแรงทำงานคนไหนสมควรถูกก่อกวนทำร้ายแบบนี้"
+
+#. Id: 96083-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96353-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#. -- Condition: My Race(s): Greenlander or Scorchlander
+#: 96083-Dialogue.mod:0
+msgid "So I was trading in the hives the other week..."
+msgstr "ข้าไปทำการค้าขายที่ Hive มาเมื่อหลายสัปดาห์ก่อน..."
+
+#. Id: 96084-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 96084-Dialogue.mod:0
+msgid "An' I noticed... that brown stuff them lot build huts out of..."
+msgstr "แล้วข้าก็สังเกตเห็น...อะไรไม่รู้สีน้ำตาลที่พวกเข้าใช้สร้างกระท่อม..."
+
+#. Id: 96085-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 96085-Dialogue.mod:0
+msgid "It ain't stone and it ain't wood neither..."
+msgstr "ไม่ใช่หิน แล้วก็ไม่ใช่ไม้ด้วย..."
+
+#. Id: 96088-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (96085-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 96088-Dialogue.mod:0
+msgid "Nah, I guess it ain't... Never really thought about it before..."
+msgstr "อืม ข้าก็ว่างั้นนะ...ไม่เคยมองในแง่นี้มาก่อนเลย..."
+
+#. Id: 96089-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (96088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 96089-Dialogue.mod:0
+msgid "I mean, why don't we have buildings made of that stuff outside of the hives, eh?"
+msgstr "ข้าหมายความว่าทำไมเรา ไม่มีอาคารที่ทำจากสิ่งนั้น นอก hives อ่ะ?"
+
+#. Id: 96090-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (96089-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 96090-Dialogue.mod:0
+msgid "Could be the red sand. Maybe if you dig deep enough around Vain..."
+msgstr "อาจเป็นหาดทรายสีแดง บางทีถ้าแกขุดลึกลงไปรอบ ๆ Vain ..."
+
+#. Id: 96091-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (96090-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 96091-Dialogue.mod:0
+msgid "I dunno. It don't look like it came outta the ground to me..."
+msgstr "ข้าไม่รู้แฮะ ข้าว่าเหมือนมันไม่ได้มาจากพื้นดินนะ..."
+
+#. Id: 96092-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (96091-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 96092-Dialogue.mod:0
+msgid "... What are you saying?"
+msgstr "... เจ้ากำลังพูดเรื่องอะไร?"
+
+#. Id: 96095-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (96092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 96095-Dialogue.mod:0
+msgid "Twomoon drank too much rum last week, threw his guts up all over the bar..."
+msgstr "เมื่ออาทิตย์ที่แล้ว Twomoon ก๊งรัมมากไปหน่อย เขาเลยอ้วกแตกเละเทะไปทั่วบาร์เลย..."
+
+#. Id: 96096-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (96095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 96096-Dialogue.mod:0
+msgid "What I'm sayin' is..."
+msgstr "ที่ข้ากำลังพูดอยู่ก็คือ..."
+
+#. Id: 96097-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (96096-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 96097-Dialogue.mod:0
+msgid "That stuff inside Twomoon, it looked real similar..."
+msgstr "ของที่อยู่ในตัว Twomoon นี่ดูคุ้น ๆ ตานะ..."
+
+#. Id: 96098-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (96097-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 96098-Dialogue.mod:0
+msgid "... I don't under-... Wait... No..."
+msgstr "... ข้าไม่เข้าใ-...เดี๋ยวก่อน...ไม่..."
+
+#. Id: 96100-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (96098-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 96100-Dialogue.mod:0
+msgid "Just sayin'."
+msgstr "ก็แค่พูดออกมา"
+
+#. Id: 96099-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (96100-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 96099-Dialogue.mod:0
+msgid "Noooooo...!?"
+msgstr "ม่ายยยยยย...!?"
+
+#. Id: 1533241-__world reactions NE.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533241-__world?reactions?NE.mod:0
+msgid "Heard about that ninja in the desert?"
+msgstr "เคยได้ยินเกี่ยวกับนินจาในทะเลทรายไหม?"
+
+#. Id: 1533244-__world reactions NE.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533243-__world reactions NE.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533244-__world?reactions?NE.mod:0
+msgid "The noble killer?"
+msgstr "นักฆ่าขุนนางหรอ?"
+
+#. Id: 1533245-__world reactions NE.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533244-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533245-__world?reactions?NE.mod:0
+msgid "Yeah. They say Luquin's back from the dead..."
+msgstr "ใช่ มีคนบอกว่า Luquin กลับมาจากความตาย..."
+
+#. Id: 1533246-__world reactions NE.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533245-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533246-__world?reactions?NE.mod:0
+msgid "And he's picking off the nobles one by one. Just like all those years ago."
+msgstr "แล้วเขาก็เริ่มเก็บขุนนางไปทีละคน เหมือนสมัยก่อนนู้น"
+
+#. Id: 1533249-__world reactions NE.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533246-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533249-__world?reactions?NE.mod:0
+msgid "Got all the nobles quakin' in their boots."
+msgstr "ทำเอาขุนนางทั้งหมดถึงกับสั่นกลัว"
+
+#. Id: 1533251-__world reactions NE.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1533250-__world reactions NE.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533251-__world?reactions?NE.mod:0
+msgid "I thought Luquin was alive in prison?"
+msgstr "ข้าคิดว่า Luquin น่าจะยังมีชีวิตอยู่ในคุกมั้ง?"
+
+#. Id: 1533253-__world reactions NE.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1533252-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533253-__world?reactions?NE.mod:0
+msgid "I'd be surprised if he survived fifteen years of torture in the Vault."
+msgstr "ข้าคงจะแปลกใจถ้าเขารอดมาได้จากการทรมานนับสิบห้าปีในห้องนิรภัยน่ะ"
+
+#. Id: 1533255-__world reactions NE.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (1533253-__world reactions NE.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533255-__world?reactions?NE.mod:0
+msgid "True."
+msgstr "ถูกต้อง"
+
+#. Id: 1533262-__world reactions NE.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533262-__world?reactions?NE.mod:0
+msgid "Headin' out of the city?"
+msgstr "กำลังเดินทางออกจากเมืองหรอ?"
+
+#. Id: 1533264-__world reactions NE.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533263-__world reactions NE.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533264-__world?reactions?NE.mod:0
+msgid "Well, I was gonna go to Heng but not anymore..."
+msgstr "เอาล่ะ ข้าจะเดินทางไปที่ Heng แต่ว่ามันคงไม่ใช่อีกแล้วล่ะ..."
+
+#. Id: 1533265-__world reactions NE.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533264-__world reactions NE.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533265-__world?reactions?NE.mod:0
+msgid "Not with all the peasant uprisings in the desert."
+msgstr "ตอนนี้พวกชาวบ้านกำลังลุกฮือขึ้นในทะเลทราย"
+
+#. Id: 1533266-__world reactions NE.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533265-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533266-__world?reactions?NE.mod:0
+msgid "The nobles are losin' control. Serves 'em right, I say."
+msgstr "พวกขุนนางสูยเสียการควบคุมไปแล้ว สมน้ำหน้าแล้วล่ะ"
+
+#. Id: 1533267-__world reactions NE.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533266-__world reactions NE.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533267-__world?reactions?NE.mod:0
+msgid "Yeah... "
+msgstr "ใช่..."
+
+#. Id: 1533268-__world reactions NE.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533267-__world reactions NE.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533268-__world?reactions?NE.mod:0
+msgid "All because of some crazy ninja..."
+msgstr "เพียงเพราะว่านินจาเพี้ยน ๆ คนหนึ่ง..."
+
+#. Id: 1533269-__world reactions NE.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1533268-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533269-__world?reactions?NE.mod:0
+msgid "Yeahhhh, cheers to ninjas!"
+msgstr "ช่ายยยย พวกนินจาจงเจริญ!"
+
+#. Id: 1533270-__world reactions NE.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1533269-__world reactions NE.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533270-__world?reactions?NE.mod:0
+msgid "To ninjas!"
+msgstr "แด่นินจา!"
+
+#. Id: 1533132-__world reactions W.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533132-__world?reactions?W.mod:0
+msgid "Heard about Seta?"
+msgstr "เคยได้ยินอะไรเกี่ยว Seta บ้างไหม?"
+
+#. Id: 1533134-__world reactions W.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533133-__world reactions W.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533134-__world?reactions?W.mod:0
+msgid "Course I heard about Seta! I ain't livin' in a cave..."
+msgstr "ก็ต้องเคยได้ยินเรื่อง Seta อยู่แล้วสิ! ข้าไม่ใช่คนถ้ำนะเว้ย..."
+
+#. Id: 1533135-__world reactions W.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533134-__world reactions W.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533135-__world?reactions?W.mod:0
+msgid "Holy Nation's going to shit now he's gone..."
+msgstr "Holy Nation กำลังจะได้ขี้แตกเดี๋ยวนี้แหละ เจ้านั่นมันตายไปแล้ว..."
+
+#. Id: 1533137-__world reactions W.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533135-__world reactions W.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533137-__world?reactions?W.mod:0
+msgid "Okranites are freakin' out, Shek are gettin' stabby..."
+msgstr "พวก Okranite ได้ประสาทแดกแน่ Shek ได้บุกต่อแหง..."
+
+#. Id: 1533136-__world reactions W.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533137-__world reactions W.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533136-__world?reactions?W.mod:0
+msgid "Haha. Yeah..."
+msgstr "ฮ่าๆ ใช่..."
+
+#. Id: 1533138-__world reactions W.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533136-__world reactions W.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533138-__world?reactions?W.mod:0
+msgid "Not a good mix."
+msgstr "เข้ากันไม่ค่อยดีเลย"
+
+#. Id: 1533139-__world reactions W.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533139-__world?reactions?W.mod:0
+msgid "One o' those high inquisitors got murdered, can you believe it?"
+msgstr "หนึ่งในเจ้าหน้าที่สอบสวนโดนฆ่า เจ้าเชื่อมันไหม?"
+
+#. Id: 1533141-__world reactions W.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533140-__world reactions W.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533141-__world?reactions?W.mod:0
+msgid "No!?"
+msgstr "ไม่!?"
+
+#. Id: 1533142-__world reactions W.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533141-__world reactions W.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533142-__world?reactions?W.mod:0
+msgid "Yeah, heard it from the goat trader. Okran's Shield has gone to shit..."
+msgstr "ใช่สิ ข้าได้ยินมาจากพ่อค้าแพะ เกราะแห่ง Okran พังเป็นขี้แล้ว..."
+
+#. Id: 1533143-__world reactions W.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533142-__world reactions W.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533143-__world?reactions?W.mod:0
+msgid "No way?!"
+msgstr "ไม่มีทาง?!"
+
+#. Id: 1533144-__world reactions W.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533143-__world reactions W.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533144-__world?reactions?W.mod:0
+msgid "Yeah, they say all the Okranites are freaking the fuck out..."
+msgstr "ใช่ พวกนั้นบอกว่าพวก Okranite ได้ชิบหายหมดแน่..."
+
+#. Id: 1533145-__world reactions W.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533144-__world reactions W.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533145-__world?reactions?W.mod:0
+msgid "Wouldn't wanna be that side of the world right now..."
+msgstr "ไม่คิดจะเปลี่ยนสีเป็นอีกฝั่งซะตอนนี้เหรอ...."
+
+#. Id: 1533146-__world reactions W.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1533145-__world reactions W.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1533146-__world?reactions?W.mod:0
+msgid "No sir..."
+msgstr "ไม่ครับ..."
+
+#. Id: 1534040-__SE world states.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1534040-__SE?world?states.mod:0
+msgid "You may have taken down the Bugmaster but what about the legendary Old King Cat-Lon?"
+msgstr "เจ้าอาจจะล้ม Bugmaster ได้ แต่ถ้าเป็น King Cat-Lon ล่ะ?"
+
+#. Id: 1534043-__SE world states.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534042-__SE world states.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1534043-__SE?world?states.mod:0
+msgid "Are you really picking a fight with THE /GUY/ who killed the Bugmaster?"
+msgstr "นี่เจ้าคิดจะหาเรื่อง/GUY/ที่ฆ่า Bugmaster ได้รึไง?"
+
+#. Id: 1534044-__SE world states.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534043-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1534044-__SE?world?states.mod:0
+msgid "But Old King Cat-Lon was the strongest and he was alive before everything..."
+msgstr "แต่ Old King Cat-Lon นั้นแข็งแกร่งที่สุดและเขายังมีชีวิตอยู่มาก่อนทุกสิ่งด้วย..."
+
+#. Id: 1534045-__SE world states.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534044-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1534045-__SE?world?states.mod:0
+msgid "Where do ya think them coins came from in your pockets, eh?"
+msgstr "คิดไหมว่าเหรียญของพวกมันในกระเป๋าเจ้าน่ะมาจากไหน ฮืม?"
+
+#. Id: 1534046-__SE world states.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534045-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1534046-__SE?world?states.mod:0
+msgid "Where do ya think them coins came from?"
+msgstr "คิดไหมว่าเหรียญของพวกมันน่ะมาจากไหน?"
+
+#. Id: 1534047-__SE world states.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1534046-__SE world states.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1534047-__SE?world?states.mod:0
+msgid "And are you ranting about coins AGAIN now?"
+msgstr "และเจ้ากำลังคุยโวเรื่องเหรียญอีกรอบแล้วงั้นสิ?"
+
+#. Id: 1534048-__SE world states.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1534047-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#: 1534048-__SE?world?states.mod:0
+msgid "Have another bowl of gohan, you're drunk."
+msgstr "ขอข้าวอีกถ้วยสิ เจ้ามันเมาแล้ว"
+

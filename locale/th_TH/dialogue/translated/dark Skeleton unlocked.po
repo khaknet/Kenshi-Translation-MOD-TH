@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47907-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: dark Skeleton unlocked
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 47907-Dialogue.mod:0
+msgid "Leave while you can."
+msgstr "ไปซะ ตอนที่ยังทำได้"
+
+#. Id: 47907-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: dark Skeleton unlocked
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 47907-Dialogue.mod:1
+msgid "Get out while you can."
+msgstr "ออกไปซะ ตอนที่ยังทำได้"
+
+#. Id: 47910-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: dark Skeleton unlocked
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 47910-Dialogue.mod:0
+msgid "Save yourself, /RACENAME/, I'm not sticking around for your kind."
+msgstr "ดูแลตัวเองด้วย /RACENAME/ ข้าไม่ได้คิดอะไรกับเจ้า"
+
+#. Id: 47910-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: dark Skeleton unlocked
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 47910-Dialogue.mod:1
+msgid "I'll escape on my own. A /RACENAME/ can't be trusted."
+msgstr "ข้าจะหนีไปด้วยตัวของข้าเอง เจ้า /RACENAME/ เชื่อใจไม่ได้"
+
+#. Id: 47910-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: dark Skeleton unlocked
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 47910-Dialogue.mod:2
+msgid "Rescued by a /RACENAME/, now I've seen everything."
+msgstr "ได้รับการช่วยเหลือจาก /RACENAME/ ตอนนี้ข้าเห็นทุกอย่างแล้ว "
+
+#. Id: 47910-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: dark Skeleton unlocked
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 47910-Dialogue.mod:3
+msgid "Save your own hide next time, /RACENAME/..."
+msgstr "จงช่วยเหลือการหลบซ่อนของตัวเองในครั้งต่อไป /RACENAME/..."
+

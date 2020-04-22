@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 64762-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64762-Dialogue.mod:0
+msgid "Can this truly be no man's land of the north?"
+msgstr "นี่สามารถเป็นดินแดนไร้ผู้คนของทางเหนือได้จริงไหมเนี่ย?"
+
+#. Id: 64776-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64762-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64776-Dialogue.mod:0
+msgid "Hm hm hm. Perhaps we will find good battle here."
+msgstr "ฮืม ฮืม ฮืม บางทีเราอาจเจอการต่อสู้เจ๋งๆ ได้ที่นี่นะ."
+
+#. Id: 64780-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64776-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64780-Dialogue.mod:0
+msgid "Exciting."
+msgstr "น่าตื่นเต้นจัง."
+
+#. Id: 64802-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64801-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome Bast arrival
+#: 64802-Dialogue.mod:0
+msgid "... Sure... Getting caught between the sword of a samurai and the preaching of a paladin sounds like a real blast..."
+msgstr "...แหงสิ... ระหว่างโดนพวกซามูไรจับกับโดนพวกพาลาดินแสดงพระธรรม ฟังดูแล้วโคตรปังอ่ะ..."
+
+#. Id: 64803-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64803-Dialogue.mod:0
+msgid "Mmh, agreed, comrade! Ready your blade, today will be a day of doom!"
+msgstr "ฮึ่ม ย่อมได้ สหาย! จับดาบให้มั่น วันนี้จักเป็นวันแห่งวิบัติ!"
+
+#. Id: 64804-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64803-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome Bast arrival
+#: 64804-Dialogue.mod:0
+msgid "... They don't have sarcasm in the Shek Kingdom, huh..."
+msgstr "...ในอาณาจักร Shek  นี้ไม่มีคำพูดเสียดสีงั้นสินะ หือ..."
+
+#. Id: 64764-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64764-Dialogue.mod:0
+msgid "Still being pummeled by the Holy Nation up here..."
+msgstr "ก็ยังมีการซ้อมจากพวก Holy Nation อยู่นี่..."
+
+#. Id: 64790-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64790-Dialogue.mod:0
+msgid "I guess the years haven't been any kinder to Bast..."
+msgstr "ข้าเดาว่าปีที่ผ่านมาไม่ได้มีเมตตาต่อ Bast แหง..."
+
+#. Id: 64791-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64790-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64791-Dialogue.mod:0
+msgid "Idea: Once we slit Tengu like a gutter, we take down the Phoenix."
+msgstr "ขอออกความเห็น : พอเราสับ Tengu เป็นท่อนๆ แล้วเราจะไปโค่นล้ม Phoenix ต่อ."
+
+#. Id: 64793-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64792-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome Bast arrival
+#: 64793-Dialogue.mod:0
+msgid "The Okranite dog? Challenge accepted."
+msgstr "สุนัขรับใช้ Okranite รึ? น้อมรับคำท้า."
+
+#. Id: 64806-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64805-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome Bast arrival
+#: 64806-Dialogue.mod:0
+msgid "Sounds like a plan, Uncle Lu... I'll cheer you on from a safe distance."
+msgstr "ฟังดูเป็นแผนดีนะ ลุงLu... ข้าจะเชียร์ท่านจากที่ปลอดภัยห่างๆ แล้วกัน."
+
+#. Id: 64765-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64765-Dialogue.mod:0
+msgid "I've heard of this place, a whole city wiped out in a single day by the Holy Nation."
+msgstr "ข้าเคยได้ยินเรื่องเมืองนี้มา ว่าเมืองนี้โดน Holy Nation ถล่มยับในวันเดียว."
+
+#. Id: 64785-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64785-Dialogue.mod:0
+msgid "They roasted the head noble alive in the name of Okran and carted the youngsters off to Rebirth..."
+msgstr "พวกมันย่างผู้นำขุนนางทั้งเป็นภายในนามของ Okran แล้วขนพวกคนหนุ่มสาวไปยัง Rebirth..."
+
+#. Id: 64787-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64786-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome Bast arrival
+#: 64787-Dialogue.mod:0
+msgid "Yeesh. I mean, I hate nobles as much as the next guy but..."
+msgstr "ช่ายย ข้าหมายถึง ข้าเกลียดพวกขุนนางพอๆ กับเจ้าคนต่อไปแต่ว่า..."
+
+#. Id: 64788-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64787-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome Bast arrival
+#: 64788-Dialogue.mod:0
+msgid "But..."
+msgstr "แต่..."
+
+#. Id: 64789-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64788-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome Bast arrival
+#: 64789-Dialogue.mod:0
+msgid "Actually, he probably deserved it."
+msgstr "ที่จริง มันก็อาจสมควรโดนแล้วล่ะ."
+
+#. Id: 64766-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64766-Dialogue.mod:0
+msgid "Ruins... ruins... ruins..."
+msgstr "มีแต่ซาก...ซาก...ซาก..."
+
+#. Id: 64767-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64766-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64767-Dialogue.mod:0
+msgid "Every age, every where: ruins."
+msgstr "ทุกยุค ทุกที่ : เป็นซาก"
+
+#. Id: 64768-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64767-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64768-Dialogue.mod:0
+msgid "Puh-lease! Change the page already..."
+msgstr "ขอล่ะ! เปลี่ยนหน้าทีเถอะ..."
+
+#. Id: 64770-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64769-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome Bast arrival
+#: 64770-Dialogue.mod:0
+msgid "If you don't like the ruins then turn around. Look somewhere else..."
+msgstr "ถ้าเจ้าไม่ชอบซากปรักหักพังก็หันไปสิ ไปดูอย่างอื่นไป..."
+
+#. Id: 64771-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64770-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64771-Dialogue.mod:0
+msgid "Okay, I will... *Sigh*"
+msgstr "โอเค ได้...*ถอนหายใจ*"
+
+#. Id: 64772-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64771-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64772-Dialogue.mod:0
+msgid "Great... Dead trees. Rocks... More rocks. "
+msgstr "แจ่ม...ต้นไม้ตาย หิน...แล้วก็หิน
+"
+
+#. Id: 64773-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64772-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome Bast arrival
+#: 64773-Dialogue.mod:0
+msgid "Then look up! Look up if you hate life on land so much!"
+msgstr "งั้นก็มองขึ้นไปสิ! มองขึ้นไปถ้าเกลียดชีวิตบนดินนักน่ะ!"
+
+#. Id: 64775-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (64774-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64775-Dialogue.mod:0
+msgid "Sky. Moons. This is better..."
+msgstr "ท้องฟ้า พวกดวงจันทร์ ดีขึ้นเยอะ..."
+
+#. Id: 64798-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (64775-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64798-Dialogue.mod:0
+msgid "I shall keep looking at the skies, rock tripping hazards be damned."
+msgstr "ข้าจะคอยมองท้องฟ้า ช่างหัวอันตรายจากการสะดุดหิน"
+
+#. Id: 64781-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64781-Dialogue.mod:0
+msgid "Poor poor Bast... A land where life is wiped clean as soon as it starts to grow..."
+msgstr "Bast ที่น่าสงสาร... ดินแดนที่ชีวิตถูกทำลายตั้งแต่พึ่งได้เริ่มเติบโต..."
+
+#. Id: 64782-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64782-Dialogue.mod:0
+msgid "Oh, like a trampled seedling, so tragic..."
+msgstr "โอ้ เหมือนต้นอ่อนที่โดนเหยียบย่ำ น่าอนาถ..."
+
+#. Id: 64783-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64782-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64783-Dialogue.mod:0
+msgid "Neither the Holy Nation nor the Empire can get a foothold here..."
+msgstr "ไม่ว่า Holy Nation หรือจักวรรดิก็สามารถตั้งถิ่นฐานที่นี่ได้..."
+
+#. Id: 64784-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64783-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64784-Dialogue.mod:0
+msgid "But perhaps one day they'll wipe eachother out and we can all marry ourselves slave wenches."
+msgstr "แต่บางทีซักวันหนึ่งพวกมันทำลายกันและกันเอง แล้วทีนี้เราก็จะสามารถแต่งงานกับสาวใช้ทาสของเราได้ทุกคน."
+
+#. Id: 64800-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64799-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome Bast arrival
+#: 64800-Dialogue.mod:0
+msgid "Bullshit! Not before WE take 'em down first..."
+msgstr "ไร้สาระ! ไม่จนกว่าเราก็โค่นพวกมันได้ก่อน..."
+
+#. Id: 64810-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64800-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome Bast arrival
+#: 64810-Dialogue.mod:0
+msgid "Right? Eh?"
+msgstr "ใช่ไหมล่ะ? ฮืม?"
+
+#. Id: 64813-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (64811-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome Bast arrival
+#: 64813-Dialogue.mod:0
+msgid "So excited you can't even talk. I'm proud of you guys."
+msgstr "เป็นเรื่องน่าตื่นเต้นมากที่เจ้าไม่เคยพูดด้วยซ้ำ ข้าภูมิใจในตัวพวกเจ้าจริงเชียว."
+
+#. Id: 64815-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (64814-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome Bast arrival
+#: 64815-Dialogue.mod:0
+msgid "Damn right!"
+msgstr "ใช่ที่สุด!"
+
+#. Id: 64816-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (64815-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome Bast arrival
+#: 64816-Dialogue.mod:0
+msgid "... We're all gonna die..."
+msgstr "...ตายห่ากันหมดแหง..."
+

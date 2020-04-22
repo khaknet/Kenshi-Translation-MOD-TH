@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 48847-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#. -- Condition: My Race(s): Hive Prince
+#: 48847-Dialogue.mod:0
+msgid "Are you here to recapture me, or are you here to free me?... Or am I just cannon fodder that happened to belong to your enemy?"
+msgstr ""
+
+#. Id: 48847-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#. -- Condition: My Race(s): Hive Prince
+#: 48847-Dialogue.mod:1
+msgid "So, am I free to go, or are you here to recapture me?... Or am I just a beaten up slave that happened to get lucky?"
+msgstr ""
+
+#. Id: 48848-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48847-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Saved hiver ronin from master
+#: 48848-Dialogue.mod:0
+msgid "Relax, I'm not here to recapture you."
+msgstr ""
+
+#. Id: 48851-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48848-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48851-Dialogue.mod:0
+msgid "Whew... I leave my queen, only to serve another master in shackles. You saved me from a cruel fate, thank you. You have my respect."
+msgstr ""
+
+#. Id: 48851-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (48848-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48851-Dialogue.mod:1
+msgid "Must be my lucky day... You saved me from a messed up situation, for that I thank you... You know, I don't do well on my own, it's that hiver nature I've never been able to shake off... "
+msgstr ""
+
+#. Id: 48851-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (48848-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48851-Dialogue.mod:2
+msgid "Thank you. You're a hero. The sort of person I could follow without the need for shackles... or pheromones..."
+msgstr ""
+
+#. Id: 48853-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48851-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48853-Dialogue.mod:0
+msgid "If you need more men, I'll happily serve you with my sword."
+msgstr ""
+
+#. Id: 48853-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (48851-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48853-Dialogue.mod:1
+msgid "If you need the crew, I'll happily serve you with my sword."
+msgstr ""
+
+#. Id: 48854-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48853-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Saved hiver ronin from master
+#: 48854-Dialogue.mod:0
+msgid "Sure, follow /MEUS/."
+msgstr ""
+
+#. Id: 48855-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48853-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Saved hiver ronin from master
+#: 48855-Dialogue.mod:0
+msgid "Sorry, I'm not looking for recruits."
+msgstr ""
+
+#. Id: 48858-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48855-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48858-Dialogue.mod:0
+msgid "A shame... Well, take care anyway, hero. "
+msgstr ""
+
+#. Id: 48856-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48853-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Saved hiver ronin from master
+#: 48856-Dialogue.mod:0
+msgid "You're welcome. But I need no men, thank you."
+msgstr ""
+
+#. Id: 48849-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48847-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Saved hiver ronin from master
+#: 48849-Dialogue.mod:0
+msgid "The latter. I've no interest in you."
+msgstr ""
+
+#. Id: 48849-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48847-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Saved hiver ronin from master
+#: 48849-Dialogue.mod:1
+msgid "I'm just here for the loot. You mean nothing to me."
+msgstr ""
+
+#. Id: 48864-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48849-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48864-Dialogue.mod:0
+msgid "I see. Well, thanks anyway. You saved me from a cruel fate."
+msgstr ""
+
+#. Id: 48865-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48865-Dialogue.mod:0
+msgid "I'm finally free..."
+msgstr ""
+
+#. Id: 48859-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48850-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48859-Dialogue.mod:0
+msgid "Uh..."
+msgstr ""
+
+#. Id: 48860-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48859-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48860-Dialogue.mod:0
+msgid "Well, I'm outta here anyway..."
+msgstr ""
+

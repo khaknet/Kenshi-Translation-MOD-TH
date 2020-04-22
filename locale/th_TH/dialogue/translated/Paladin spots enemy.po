@@ -1,0 +1,409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41096-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 41096-Dialogue.mod:0
+msgid "Enemy of Okran!"
+msgstr ""
+
+#. Id: 41096-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 41098-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. Id: 41111-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>6, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<2, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 41096-Dialogue.mod:3 41098-Dialogue.mod:3 41111-Dialogue.mod:4
+msgid "The darkness comes!"
+msgstr ""
+
+#. Id: 41096-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 41096-Dialogue.mod:4
+msgid "You! Enemy of the Light!"
+msgstr ""
+
+#. Id: 41096-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 41098-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. Id: 41111-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>6, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<2, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 41096-Dialogue.mod:5 41098-Dialogue.mod:5 41111-Dialogue.mod:6
+msgid "It's the enemy! The darkened!"
+msgstr ""
+
+#. Id: 41096-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 41096-Dialogue.mod:6
+msgid "Heretic! Enemy!"
+msgstr ""
+
+#. Id: 41096-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 41098-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. Id: 41111-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>6, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<2, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 41096-Dialogue.mod:8 41098-Dialogue.mod:8 41111-Dialogue.mod:5
+msgid "The enemy is here!"
+msgstr ""
+
+#. Id: 41097-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41096-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 41097-Dialogue.mod:0
+msgid "Darkness be purged!"
+msgstr ""
+
+#. Id: 41097-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41096-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 41097-Dialogue.mod:2
+msgid "Kill /HIM/! /BURNHIM/ with fire!"
+msgstr ""
+
+#. Id: 41097-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (41096-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 41097-Dialogue.mod:3
+msgid "Cut /HIM/ down! The heretics must be purged in flame!"
+msgstr ""
+
+#. Id: 41099-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41096-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 41099-Dialogue.mod:0
+msgid "Purge the /TEMPTRESS/! /BURNHIM/"
+msgstr ""
+
+#. Id: 41099-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41096-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 41099-Dialogue.mod:1
+msgid "/BURNHIM/! Burn the /TEMPTRESS/!"
+msgstr ""
+
+#. Id: 41099-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41096-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 41099-Dialogue.mod:2
+msgid "Don't be seduced by the /TAINT/ed woman! /BURNHIM/!"
+msgstr ""
+
+#. Id: 41098-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. Id: 41111-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>6, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<2, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 41098-Dialogue.mod:0 41111-Dialogue.mod:0
+msgid "Enemies of Okran!"
+msgstr ""
+
+#. Id: 41098-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#: 41098-Dialogue.mod:4
+msgid "You! Enemies of the Light!"
+msgstr ""
+
+#. Id: 41098-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#: 41098-Dialogue.mod:6
+msgid "Heretics! Enemy!"
+msgstr ""
+
+#. Id: 41098-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#: 41098-Dialogue.mod:7
+msgid "Heretics!"
+msgstr ""
+
+#. Id: 41098-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. Id: 41111-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>6, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<2, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 41098-Dialogue.mod:9 41111-Dialogue.mod:7
+msgid "Enemies of the Light!"
+msgstr ""
+
+#. Id: 41114-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41111-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 41114-Dialogue.mod:0
+msgid "Okran be with us!"
+msgstr ""
+
+#. Id: 41114-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (41111-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. Id: 41022-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41018-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix interrupted by someone else
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. Id: 43766-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest interrupted
+#. Id: 43784-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (40700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest interrupted by other
+#: 41114-Dialogue.mod:3 41022-Dialogue.mod:0 43766-Dialogue.mod:0 43784-Dialogue.mod:1
+msgid "Okran protect me!"
+msgstr ""
+
+#. Id: 41114-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (41111-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 41114-Dialogue.mod:4
+msgid "Light protect me!"
+msgstr ""
+
+#. Id: 41114-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (41111-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 41114-Dialogue.mod:5
+msgid "Lord of Light, have mercy on me!"
+msgstr ""
+
+#. Id: 41123-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#: 41123-Dialogue.mod:0
+msgid "You again!?"
+msgstr ""
+
+#. Id: 64338-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. Id: 64646-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. Id: 59901-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to crowd
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 64338-Dialogue.mod:0 64646-Dialogue.mod:1 59901-Dialogue.mod:1
+msgid "Flotsam!"
+msgstr ""
+
+#. Id: 64338-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 64338-Dialogue.mod:1
+msgid "Whore of Flotsam!"
+msgstr ""
+
+#. Id: 64338-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 64338-Dialogue.mod:2
+msgid "Flotsam have come!"
+msgstr ""
+
+#. Id: 64338-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 64338-Dialogue.mod:3
+msgid "Flotsam will not take root in our /SACRED/ /LAND/!"
+msgstr ""
+
+#. Id: 64338-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 64338-Dialogue.mod:4
+msgid "Darkened lackey of Moll!"
+msgstr ""
+
+#. Id: 66227-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 66227-Dialogue.mod:0
+msgid "Whore of the Golem!"
+msgstr ""
+
+#. Id: 66227-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 66227-Dialogue.mod:1
+msgid "The Shek beasts have come!"
+msgstr ""
+
+#. Id: 66227-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 66227-Dialogue.mod:2
+msgid "The southern beasts will not take root in our /SACRED/ /LAND/!"
+msgstr ""
+
+#. Id: 66227-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 66227-Dialogue.mod:3
+msgid "Darkened lackey of the Golem!"
+msgstr ""
+
+#. Id: 66227-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#: 66227-Dialogue.mod:4
+msgid "Golem's beasts!"
+msgstr ""
+

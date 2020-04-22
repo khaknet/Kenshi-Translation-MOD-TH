@@ -1,0 +1,742 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5963-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. Id: 13807-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. Id: 48879-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave esc opp hiver ronin
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 5404-Escapes.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour picking pt3
+#. -- Condition: My Race(s): Greenlander or Shek
+#. Id: 62341-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight tinfist
+#. Id: 62342-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight tinfist
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 17047-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. Id: 45918-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: tough merc freed by captor
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 48890-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48885-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. Id: 48888-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: My Race(s): Shek or Greenlander
+#. Id: 48978-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek slaves esc opp saviour
+#. -- Condition: My Race(s): Shek
+#. Id: 48878-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver slave esc opp alone
+#. Id: 61988-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (61990-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver revenge
+#. Id: 42181-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#. Id: 5435-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (5437-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#. Id: 46962-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity alone
+#. Id: 5422-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is freed by someone
+#: 5963-Dialogue.mod:0 13807-Escapes.mod:0 48879-Dialogue.mod:1 5404-Escapes.mod:5 62341-Dialogue.mod:9 62342-Dialogue.mod:10 17047-Dialogue.mod:2 45918-Dialogue.mod:0 48890-Dialogue.mod:1 48888-Dialogue.mod:5 48978-Dialogue.mod:0 48878-Dialogue.mod:1 61988-Dialogue.mod:1 42181-rebirth.mod:4 5435-gamedata.base:1 46962-rebirth.mod:2 5422-gamedata.base:2
+msgid "Freedom!"
+msgstr ""
+
+#. Id: 5963-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. Id: 13807-Escapes.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5963-Dialogue.mod:4 13807-Escapes.mod:5
+msgid "I made it!"
+msgstr ""
+
+#. Id: 5963-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. Id: 13807-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. Id: 9029-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping Cannibals (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 16674-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mean freed
+#: 5963-Dialogue.mod:5 13807-Escapes.mod:2 9029-Dialogue.mod:0 16674-Dialogue.mod:3
+msgid "I'm out!"
+msgstr ""
+
+#. Id: 5964-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5964-Dialogue.mod:0
+msgid "Hey thanks"
+msgstr ""
+
+#. Id: 5964-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5964-Dialogue.mod:2
+msgid "/DANG/, thanks"
+msgstr ""
+
+#. Id: 5968-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 3302-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 8942-D-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8941-D-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#: 5968-Dialogue.mod:0 3302-gamedata.base:1 8942-D-Dialogue.mod:0
+msgid "I owe you one"
+msgstr ""
+
+#. Id: 5968-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 8942-D-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8941-D-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#: 5968-Dialogue.mod:1 8942-D-Dialogue.mod:1
+msgid "I owe you big time"
+msgstr ""
+
+#. Id: 5968-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 5968-Dialogue.mod:2
+msgid "You're alright"
+msgstr ""
+
+#. Id: 5968-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (5964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 12728-Dialogue (11) (2).mod
+#. -- Index: 8.5
+#. -- Parent line: 7 (12724-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me empire 700
+#: 5968-Dialogue.mod:3 12728-Dialogue?(11)?(2).mod:5
+msgid "I owe you"
+msgstr ""
+
+#. Id: 13603-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 13603-Escapes.mod:0
+msgid "Let's get the /FUCK/ out of here"
+msgstr ""
+
+#. Id: 13603-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 13603-Escapes.mod:1
+msgid "Now let's get out of this shit hole"
+msgstr ""
+
+#. Id: 5973-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5973-Dialogue.mod:0
+msgid "I knew it! I knew someone would come for me!"
+msgstr ""
+
+#. Id: 5973-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5973-Dialogue.mod:1
+msgid "I knew it, I knew I'd get out!"
+msgstr ""
+
+#. Id: 5974-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5973-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5974-Dialogue.mod:0
+msgid "Wait, who are you anyway?"
+msgstr ""
+
+#. Id: 5974-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5973-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5974-Dialogue.mod:1
+msgid "... wait a sec. Who are you anyway?"
+msgstr ""
+
+#. Id: 5974-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5973-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5974-Dialogue.mod:2
+msgid "... who the heck are you anyway?"
+msgstr ""
+
+#. Id: 5975-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5974-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5975-Dialogue.mod:0
+msgid "Ah who cares! I'm free! Let's get outta here!"
+msgstr ""
+
+#. Id: 5975-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5974-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5975-Dialogue.mod:1
+msgid "Ah I don't care! I'm alive! Let's go!"
+msgstr ""
+
+#. Id: 5976-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IS_SLAVE=0, Tag: -1
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5976-Dialogue.mod:0
+msgid "Is this real? Am I free?"
+msgstr ""
+
+#. Id: 5976-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IS_SLAVE=0, Tag: -1
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5976-Dialogue.mod:1
+msgid "Whoa, am I really free?"
+msgstr ""
+
+#. Id: 5976-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IS_SLAVE=0, Tag: -1
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5976-Dialogue.mod:2
+msgid "This can't be real... I'm alive?"
+msgstr ""
+
+#. Id: 5977-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5976-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5977-Dialogue.mod:0
+msgid "I am! I'm free!"
+msgstr ""
+
+#. Id: 5977-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5976-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5977-Dialogue.mod:1
+msgid "I'm alive! I made it!"
+msgstr ""
+
+#. Id: 5977-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5976-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5977-Dialogue.mod:2
+msgid "Finally, I'm free!"
+msgstr ""
+
+#. Id: 5977-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (5976-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5977-Dialogue.mod:3
+msgid "I am! I'm really free!"
+msgstr ""
+
+#. Id: 5978-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5978-Dialogue.mod:0
+msgid "I... I... love you..."
+msgstr ""
+
+#. Id: 5978-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5978-Dialogue.mod:1
+msgid "Thank you... thank you..."
+msgstr ""
+
+#. Id: 5978-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (5977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5978-Dialogue.mod:2
+msgid "I.. want to kiss you"
+msgstr ""
+
+#. Id: 5986-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5986-Dialogue.mod:0
+msgid "/LAUGH/! I told you shits I'd get out!"
+msgstr ""
+
+#. Id: 5986-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5986-Dialogue.mod:1
+msgid "/LAUGH/! I'm out!"
+msgstr ""
+
+#. Id: 5986-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5986-Dialogue.mod:2
+msgid "/LAUGH/! I'm free!"
+msgstr ""
+
+#. Id: 5986-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 5986-Dialogue.mod:3
+msgid "/LAUGH/! I told you shits! Don't mess with me!"
+msgstr ""
+
+#. Id: 5994-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5986-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5994-Dialogue.mod:0
+msgid "/QUICKLAUGH/, I'm gonna collect your /BODYPARTS/ as souvenirs!"
+msgstr ""
+
+#. Id: 5994-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5986-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5994-Dialogue.mod:1
+msgid "/QUICKLAUGH/, I'm gonna feed you your own /BODYPARTS/as punishment!"
+msgstr ""
+
+#. Id: 5994-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5986-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5994-Dialogue.mod:2
+msgid "/QUICKLAUGH/, yay free /BODYPARTS/!"
+msgstr ""
+
+#. Id: 5995-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5995-Dialogue.mod:0
+msgid "HAHAHA!... Oh! Uh, thanks by the way"
+msgstr ""
+
+#. Id: 5995-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5995-Dialogue.mod:1
+msgid "Oh! Yeah... thank you for freeing me"
+msgstr ""
+
+#. Id: 5995-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (5994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 5995-Dialogue.mod:2
+msgid "Oh! Thanks by the way"
+msgstr ""
+
+#. Id: 6071-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#. Id: 13498-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13488-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 6071-Dialogue.mod:0 13498-Escapes.mod:1
+msgid "/INSULT/!"
+msgstr ""
+
+#. Id: 6071-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 6071-Dialogue.mod:1
+msgid "You should never have let me free!"
+msgstr ""
+
+#. Id: 13806-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6071-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 13806-Escapes.mod:0
+msgid "This don't make us even!"
+msgstr ""
+
+#. Id: 13806-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6071-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 13806-Escapes.mod:1
+msgid "We ain't even!"
+msgstr ""
+
+#. Id: 13806-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (6071-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. Id: 13047-Escapes.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (5404-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour picking pt3
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 13857-Escapes.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. Id: 46963-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity alone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 40512-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: purchased slave reaction- general
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 13806-Escapes.mod:2 13047-Escapes.mod:3 13857-Escapes.mod:11 46963-rebirth.mod:1 40512-gamedata.base:2
+msgid "I'm outta here!"
+msgstr ""
+
+#. Id: 6073-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 6073-Dialogue.mod:2
+msgid "I don't get you"
+msgstr ""
+
+#. Id: 6073-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 6073-Dialogue.mod:3
+msgid "I don't understand why you helped me"
+msgstr ""
+
+#. Id: 6073-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 6073-Dialogue.mod:4
+msgid "Why? Why'd you help me? I'm your enemy"
+msgstr ""
+
+#. Id: 13609-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6073-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 13609-Escapes.mod:0
+msgid "Fact that I hate your /FUCKING/ face aside, thanks"
+msgstr ""
+
+#. Id: 13609-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6073-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 13609-Escapes.mod:1
+msgid "Fact that I hate your /FUCKING/ guts aside, thanks"
+msgstr ""
+
+#. Id: 13807-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 13807-Escapes.mod:4
+msgid "I'm alive"
+msgstr ""
+
+#. Id: 13807-Escapes.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 13807-Escapes.mod:6
+msgid "I'm free, I'm free!"
+msgstr ""
+
+#. Id: 16823-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 16823-Dialogue.mod:0
+msgid "No! I won't go!"
+msgstr ""
+
+#. Id: 16823-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 16823-Dialogue.mod:1
+msgid "No! I'm not moving! "
+msgstr ""
+
+#. Id: 16825-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 16834-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. Id: 17746-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 16825-Dialogue.mod:1 16834-Dialogue.mod:1 17746-Dialogue.mod:1
+msgid "N- no..."
+msgstr ""
+
+#. Id: 16838-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16825-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 16838-Dialogue.mod:0
+msgid "N-no... no no no..."
+msgstr ""
+
+#. Id: 16838-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16825-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 16838-Dialogue.mod:1
+msgid "They'll punish me again... I won't go!"
+msgstr ""
+
+#. Id: 16838-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16825-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 16838-Dialogue.mod:2
+msgid "I'm staying right here!"
+msgstr ""
+

@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12207-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#. Id: 17276-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (17275-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 12207-Dialogue?(10).mod:0 17276-Dialogue.mod:0
+msgid "Don't give up"
+msgstr ""
+
+#. Id: 12207-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#. Id: 13235-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc lockpick attempt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Shek
+#. Id: 11424-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 11433-Dialogue (10).mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12207-Dialogue?(10).mod:1 13235-Escapes.mod:1 11424-Dialogue?(10).mod:3 11433-Dialogue?(10).mod:8
+msgid "Keep going"
+msgstr ""
+
+#. Id: 12207-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#. Id: 13235-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc lockpick attempt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 12207-Dialogue?(10).mod:2 13235-Escapes.mod:0
+msgid "Keep trying"
+msgstr ""
+
+#. Id: 12208-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#: 12208-Dialogue?(10).mod:1
+msgid "You've got to get me out of here"
+msgstr ""
+
+#. Id: 12208-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#: 12208-Dialogue?(10).mod:2
+msgid "Please, get me out of here"
+msgstr ""
+
+#. Id: 12210-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#: 12210-Dialogue?(10).mod:0
+msgid "We can get out of here together"
+msgstr ""
+
+#. Id: 12210-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#: 12210-Dialogue?(10).mod:1
+msgid "We'll escape together"
+msgstr ""
+
+#. Id: 12210-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#: 12210-Dialogue?(10).mod:2
+msgid "We have a better chance if we escape together"
+msgstr ""
+
+#. Id: 12210-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#: 12210-Dialogue?(10).mod:3
+msgid "I can help you get out of here"
+msgstr ""
+
+#. Id: 12210-Dialogue (10).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#: 12210-Dialogue?(10).mod:4
+msgid "You've nearly got it open"
+msgstr ""
+
+#. Id: 12210-Dialogue (10).mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#: 12210-Dialogue?(10).mod:5
+msgid "You've nearly got it"
+msgstr ""
+
+#. Id: 12210-Dialogue (10).mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#. Id: 11424-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 7063-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (7061-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#: 12210-Dialogue?(10).mod:6 11424-Dialogue?(10).mod:1 7063-Dialogue.mod:3
+msgid "Almost there"
+msgstr ""
+
+#. Id: 12209-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#. Id: 15642-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military unlock attempt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 11431-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. Id: 7067-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): มนุษย์กินคน
+#: 12209-Dialogue?(10).mod:0 15642-Dialogue.mod:5 11431-Dialogue?(10).mod:2 7067-Dialogue.mod:4
+msgid "Get me out!"
+msgstr ""
+
+#. Id: 12209-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#: 12209-Dialogue?(10).mod:2
+msgid "Let me out!"
+msgstr ""
+
+#. Id: 12209-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#: 12209-Dialogue?(10).mod:3
+msgid "Get this thing open!"
+msgstr ""
+

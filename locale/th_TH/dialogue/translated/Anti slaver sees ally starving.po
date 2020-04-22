@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 60815-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver sees ally starving
+#: 60815-Dialogue.mod:0
+msgid "You look terrible, comrade..."
+msgstr "เจ้าดูไม่ดีเลย สหาย..."
+
+#. Id: 60815-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver sees ally starving
+#: 60815-Dialogue.mod:1
+msgid "Look after yourself better, comrade..."
+msgstr "ดูแลตัวเองให้ดีกว่านี้นะ สหาย..."
+
+#. Id: 60815-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver sees ally starving
+#: 60815-Dialogue.mod:2
+msgid "You worry me, comrade..."
+msgstr "เจ้าทำให้ข้ากังวลนะ สหาย..."
+

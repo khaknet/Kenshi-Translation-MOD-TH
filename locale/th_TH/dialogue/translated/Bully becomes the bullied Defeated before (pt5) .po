@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 10019-Dialogue (7).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10019-Dialogue?(7).mod:0
+msgid "... you..."
+msgstr "... ท่าน..."
+
+#. Id: 10023-Dialogue (7).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10023-Dialogue?(7).mod:1
+msgid "Erm... and you are..?"
+msgstr "เอิ่ม... แล้วเจ้าคือ..?"
+
+#. Id: 10023-Dialogue (7).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10023-Dialogue?(7).mod:2
+msgid "Uh... do I know you?"
+msgstr "เอ่อ... ข้ารู้จักเจ้าด้วยอย่างงั้นหรอ?"
+
+#. Id: 10027-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10026-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10027-Dialogue?(7).mod:0
+msgid "Spit it out, do I know you?"
+msgstr "พูดมาสิ, ข้ารู้จักเจ้าด้วยหรอ?"
+
+#. Id: 10034-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10027-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10034-Dialogue?(7).mod:0
+msgid "... We had a... fight once... but we're good now, right? All even?"
+msgstr "... พวกเราเคย... สู้กันครั้งนึง... แต่ตอนนี้เราดีกันแล้ว, ใช่ไหม? ทุกอย่างเหมือนเดิมใช่ไหม?"
+
+#. Id: 10050-Dialogue (7).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10034-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10050-Dialogue?(7).mod:0
+msgid "Ah, yes, the town bully. Sure, whatever"
+msgstr "อ้อ, ใช่แล้ว, พวกอันธพาลในเมือง. ได้, ยังไงก็ได้"
+
+#. Id: 10052-Dialogue (7).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10034-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10052-Dialogue?(7).mod:0
+msgid "Meh, still don't remember. And don't care"
+msgstr "เฮอะ, ข้าก็ยังจำไม่ได้. แล้วก็ไม่ได้สนใจด้วย"
+
+#. Id: 10029-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10026-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10029-Dialogue?(7).mod:0
+msgid "Oh I remember! You used to be the town bully!"
+msgstr "โอ้ว ข้าจำเจ้าได้! เจ้าเคยเป็นพวกอันธพาลในเมืองนี่!"
+
+#. Id: 10036-Dialogue (7).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10035-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10036-Dialogue?(7).mod:0
+msgid "Oh the tables have turned!"
+msgstr "โอ้ สถานการณ์พลิกกลับ!"
+
+#. Id: 10048-Dialogue (7).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (10047-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10048-Dialogue?(7).mod:0
+msgid "But revenge is for fools... Go on, scram"
+msgstr "แต่การแก้แค้นมีไว้สำหรับคนโง่... ไปเถอะ, ไป๊"
+
+#. Id: 10049-Dialogue (7).mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (10048-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10049-Dialogue?(7).mod:0
+msgid "... Th-thank you"
+msgstr "... ขะ-ขอบคุณ"
+
+#. Id: 10022-Dialogue (7).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10022-Dialogue?(7).mod:0
+msgid "So, you gonna show me some respect /RUNT/?"
+msgstr "แสดงความเคารพข้าหน่อยสิ ไอ้/RUNT/?"
+
+#. Id: 10022-Dialogue (7).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10022-Dialogue?(7).mod:1
+msgid "You gonna show me some respect, /RUNT/?"
+msgstr "เจ้าจะแสดงความเคารพข้าหรอ, ไอ้/RUNT/?"
+
+#. Id: 10043-Dialogue (7).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (10041-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10043-Dialogue?(7).mod:1
+msgid "Okay. Be gone"
+msgstr "เยี่ยม. ไปซะ"
+
+#. Id: 10091-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10043-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10091-Dialogue?(7).mod:0
+msgid "R-right"
+msgstr "ขะ-ขอรับ"
+
+#. Id: 10091-Dialogue (7).mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (10043-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10091-Dialogue?(7).mod:1
+msgid "O-of course"
+msgstr "ดะ-ได้"
+
+#. Id: 10091-Dialogue (7).mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (10043-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10091-Dialogue?(7).mod:2
+msgid "U-uh right"
+msgstr "อะ-อ่า ขอรับ"
+
+#. Id: 10024-Dialogue (7).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10024-Dialogue?(7).mod:0
+msgid "Dance for me! Dance! Muahaha!"
+msgstr "เต้นรำเพื่อข้า! เต้น! ว๊ะฮะฮ่า!"
+
+#. Id: 10030-Dialogue (7).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10024-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10030-Dialogue?(7).mod:0
+msgid "Y-yes!"
+msgstr "ขะ..ขอรับ!"
+
+#. Id: 10030-Dialogue (7).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (10024-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10030-Dialogue?(7).mod:1
+msgid "Y-y-right!"
+msgstr "ขะ-ชะ-ขอรับ"
+
+#. Id: 10030-Dialogue (7).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (10024-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10030-Dialogue?(7).mod:2
+msgid "O-of course!"
+msgstr "ดะ-ได้!"
+
+#. Id: 10031-Dialogue (7).mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (10037-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10031-Dialogue?(7).mod:1
+msgid "Awahhh"
+msgstr "อาาาา"
+
+#. Id: 10038-Dialogue (7).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (10030-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10038-Dialogue?(7).mod:1
+msgid "You call that a dance?! Get out of my face!"
+msgstr "เจ้าเรียกนั่นว่าการเต้นหระวะ?"
+
+#. Id: 10039-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10030-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10039-Dialogue?(7).mod:0
+msgid "Doesn't feel so good being on the other end, does it?"
+msgstr "ไม่รู้สึกดีนักใช่มั้ย ตอนที่โดนมั่งน่ะ?"
+
+#. Id: 10025-Dialogue (7).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10025-Dialogue?(7).mod:0
+msgid "Out of my way, /RAT/"
+msgstr "ออกไปจากทางของข้า /RAT/"
+
+#. Id: 10025-Dialogue (7).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#: 10025-Dialogue?(7).mod:1
+msgid "You're in my way, /RAT/"
+msgstr "เจ้าอยู่ในทางของข้า /RAT/"
+

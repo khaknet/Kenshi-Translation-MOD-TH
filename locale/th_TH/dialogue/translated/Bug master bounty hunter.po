@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51405-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 51405-Dialogue.mod:0
+msgid "Some folks say I'm suicidal for coming here to the crater. Me, I say I'm a gambler. So far a whole lotta ladies and fellas have tried and failed against the bugmaster, a hell load in fact... So, simple probability says the bugmaster's luck is soon to run out. An' I like those odds."
+msgstr "บางคนบอกว่าข้าช่างรนหาที่ตายที่มาที่ปล่องภูเขาไฟนี่ ข้าขอเรียกตัวเองว่านักพนันดีกว่า เท่าที่ทราบมีคนมากมายอันที่จริงคือนับจำนวนไม่ถ้วนแล้วที่พยายามมาล่า bugmaster แล้วล้มเหลว...ดังนั้นความเป็นไปได้ทางสถิติบอกข้าว่า Bugmaster กำลังจะดวงตกในไม่ช้านี้ ข้าชอบความเป็นไปได้นี้นะ "
+
+#. Id: 51406-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51405-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#. Id: 51428-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51427-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter 2
+#: 51406-Dialogue.mod:0 51428-Dialogue.mod:0
+msgid "What do you know of the bugmaster?"
+msgstr "เจ้ารู้อะไรเกี่ยวกับ Bugmaster บ้าง?"
+
+#. Id: 51411-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51406-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51411-Dialogue.mod:0
+msgid "Main thing I know is that he's got a fat bounty on his head. Second thing I know is he's got a whole lot of loot stashed in his tower. Every night I dream of all that treasure he's got hidden away for himself... Pearls, ancient relics, mountains of coins you could swim in!... And every night I promise myself that my luck is gonna change, an' it'll be my turn to be the guy with all the Cats."
+msgstr "เรื่องหลักที่ข้ารู้คือเขามีค่าหัวมหาศาล อย่างที่สองคือข้ารู้ว่าเขามีสมบัติมากมายซ่อนอยู่ในหอคอยของเขา ข้าเฝ้าฝันถึงสมบัติที่เขาแอบซ่อนไว้น่นทุกคืนเลย...ทั้งไข่มุก เครื่องรางโบราณ ภูเขาเหรียญที่เจ้าแทบจะลงไปแหวกว่ายได้! และทุกคืนข้าเฝ้าสัญญากับตัวเองว่าวันหนึ่งโชคจะเข้าข้างข้า และวันหนึ่งข้าจะเป็นคนที่ได้ครอบครอง Cats ทั้งหมดนั่น"
+
+#. Id: 51412-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51411-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51412-Dialogue.mod:0
+msgid "That still doesn't explain to me what the bugmaster is..."
+msgstr "นั่นไม่ได้อธิบายให้ข้ารู้ว่า Bugmaster คืออะไรเลยอ่ะ..."
+
+#. Id: 51413-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51412-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51413-Dialogue.mod:0
+msgid "What he is, eh? Well, me, I heard he's a bug romancer. Yeah, the guy's obsessed with insects. Story goes that he was in an accident as a kid, left for dead, but he got revived and nursed back to life by bugs. Since that day he's had this mental connection with them, they revere him as their king. Crazy stuff you'd only believe if you'd seen the destruction he's capable of with your own eyes."
+msgstr "เขาเป็นอะไรอย่างนั้นเหรอ? อืม ข้าได้ยินมาว่าเขาเป็นพวกรักแมลงนะ พวกคนที่คลั่งไคล้แมลงน่ะ เรื่องเล่าว่าเขาเคยประสบอุบัติเหตุตอนยังเด็ก เกือบตายแต่พวกแมลงมาช่วยและรักษาเขาจนหาย ตั้งแต่วันนั้นเขาก็สามารถเชื่อมต่อทางจิตกับพวกแมลงได้ พวกแมลงยึดถือว่าเขาเป็นราชาของพวกมัน เป็นเรื่องบ้าบอที่เจ้าจะเชื่อก็ต่อเมื่อเจ้าได้เห็นกับตาว่าเขาทำอะไรได้บ้างน่ะ"
+
+#. Id: 51416-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51413-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51416-Dialogue.mod:0
+msgid "Bug king, eh? Well, his head is mine."
+msgstr "ราชันย์แมลงสินะ? อืม หัวของเขาต้องเป็นของข้า"
+
+#. Id: 51420-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51416-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51420-Dialogue.mod:0
+msgid "You'll have to beat me to it first, /OUTLANDER/, I'm gettin' that treasure!"
+msgstr "เจ้าต้องข้ามศพข้าไปก่อนล่ะ /OUTLANDER/ ข้าต้องการสมบัติพวกนั้น"
+
+#. Id: 51419-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51413-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51419-Dialogue.mod:0
+msgid "That sounds made up"
+msgstr "นั่ั่นฟังดูเหมือนเรื่องกุขึ้นเลย"
+
+#. Id: 51489-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51419-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51489-rebirth.mod:0
+msgid "It's not made up! It's my THEORY. How else is a guy gonna control bugs?"
+msgstr "ไม่ได้กุขึ้นนะเฮ้ย! มันคือทฤษฎีที่ข้าคิดขึ้น ไม่อย่างนั้นแล้วเขาจะควบคุมแมลงได้ยังไงล่ะ?"
+
+#. Id: 51490-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51489-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51490-rebirth.mod:0
+msgid "So you did make it up then."
+msgstr "เจ้ากุขึ้นมาเองนี่หว่า"
+
+#. Id: 51491-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51490-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51491-rebirth.mod:0
+msgid "Well, technically yeah, if you put it like that..."
+msgstr "เอ่อ อันที่จริง ก็ใช่แหละ ถ้าเจ้าว่าแบบนั้นล่ะก็นะ..."
+
+#. Id: 51407-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51405-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51407-Dialogue.mod:0
+msgid "Why risk your life against the bugmaster?"
+msgstr "ทำไมต้องเอาชีวิตไปเสี่ยงกับ Bugmaster ด้วย?"
+
+#. Id: 51414-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51407-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51414-Dialogue.mod:0
+msgid "I was born during the Red Rebellion, an orphan of war. Poverty is my life's curse. Escaping it is my dream. And the bug master's treasure is my one way ticket to that dream."
+msgstr "ข้าเกิดในช่วงการปฏฺิวัติสีเลือดน่ะ เป็นกำพร้าจากสงคราม ข้าฝันเสมอว่าจะหลบหนีจากความยากจนที่เป็นดั่งคำสาปในชีวิตข้าได้ และสมบัตืของ Bugmaster ก็เป็นตั๋วที่จะนำข้าไปสู่ความฝันนั้น"
+
+#. Id: 51415-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51414-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51415-Dialogue.mod:0
+msgid "Is having your guts sucked out by bugs part of that dream too?"
+msgstr "แล้วการที่ถูกพวกแมลงคว้านตับไตไส้พุงเจ้าออกไปเป็นส่วนหนึ่งของความฝันนั้นด้วยหรือเปล่า?"
+
+#. Id: 51421-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51421-Dialogue.mod:0
+msgid "You just had to go piss on my parade didn't you, eh, /OUTLANDER/? We got a rule around here: No talk of gut sucking, it's hard enough pluckin' up the courage to take on the bug master. Some things are best pushed to the back of the mind..."
+msgstr "เจ้าต้องขัดคอข้าให้ได้เลยหรือไง /OUTLANDER/? เรามีกฎอยู่นะ ห้ามพูดเรื่องคว้านตับไตไส้พุงที่นี่ มันยากมากที่จะสร้างขวัญกำลังใจเพื่อไปสู้กับ Bugmaster อยู่แล้ว บางอย่างควรถูกเก็บไว้แค่ในใจก็พอ..."
+
+#. Id: 51422-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51421-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#. Id: 51441-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51427-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter 2
+#: 51422-Dialogue.mod:0 51441-Dialogue.mod:0
+msgid "Well, good luck with that..."
+msgstr "อืม ขอให้โชคดีแล้วกัน..."
+
+#. Id: 51408-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51405-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51408-Dialogue.mod:0
+msgid "I'm betting you suck at gambling."
+msgstr "ข้าว่าเจ้าไม่มีฝีมือด้านการพนันแน่เลยว่ะ"
+
+#. Id: 51410-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51408-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51410-Dialogue.mod:0
+msgid "If I didn't suck at gambling, I wouldn't be in this shit hole right now. But, hey, probability says my luck's about to change."
+msgstr "ถ้าข้าไม่ห่วยด้านการพนัน ตอนนี้ข้าคงไม่ต้องมาอยู่ในหลุมเวรนี่ แต่ความน่าจะเป็นบอกว่าโชคกำลังจะเข้าข้างข้าล่ะ"
+
+#. Id: 51409-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51405-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51409-Dialogue.mod:0
+msgid "And I say you're deluded. So long."
+msgstr "และข้าขอย้ำว่าเจ้าหลอนไปเอง ลาก่อนนะ"
+

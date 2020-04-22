@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56092-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by someone southern hive
+#: 56092-Dialogue.mod:0
+msgid "The no-hives attack us!"
+msgstr "พวก no-hive โจมตีเรา!"
+
+#. Id: 56092-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by someone southern hive
+#: 56092-Dialogue.mod:1
+msgid "The no-hives have come for us!"
+msgstr "พวก no-hive จู่โจมเรา!"
+
+#. Id: 56092-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (56091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by someone southern hive
+#: 56092-Dialogue.mod:2
+msgid "Protect us, King!"
+msgstr "ปกป้องเราด้วย องค์กษัตริย์!"
+
+#. Id: 56092-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (56091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by someone southern hive
+#. Id: 56080-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56079-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from me southern hive
+#: 56092-Dialogue.mod:5 56080-Dialogue.mod:0
+msgid "Nasty no-hives!"
+msgstr "พวก no-hive น่ารังเกียจ!"
+

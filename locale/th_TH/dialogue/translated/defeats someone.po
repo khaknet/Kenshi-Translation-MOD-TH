@@ -1,0 +1,416 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3429-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15985-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3429-dialogue-01.mod:1 15985-Dialogue.mod:1
+msgid "Shouldn't have underestimated me."
+msgstr "ไม่ควรจะประเมินข้าต่ำไปนะ."
+
+#. Id: 3429-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3429-dialogue-01.mod:2
+msgid "You feel that? Huh? Did you feel that?!"
+msgstr "เจ้ารู้สึกไหม ห้ะ? รู้สึกไหมละ?!"
+
+#. Id: 3429-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3429-dialogue-01.mod:3
+msgid "The harder they fall."
+msgstr "ยิ่งใหญ่ยิ่งล้มดัง"
+
+#. Id: 3429-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15985-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3429-dialogue-01.mod:4 15985-Dialogue.mod:4
+msgid "The hell was that? You asleep?"
+msgstr ""
+
+#. Id: 3429-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15985-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3429-dialogue-01.mod:5 15985-Dialogue.mod:5
+msgid "Oooph. Bad day?"
+msgstr "อุ๊บบบ. วันแย่ๆเหรอ?"
+
+#. Id: 3429-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15985-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3429-dialogue-01.mod:6 15985-Dialogue.mod:6
+msgid "Oh, I'm sorry. Were you holding back?"
+msgstr ""
+
+#. Id: 3429-dialogue-01.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15985-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3429-dialogue-01.mod:7 15985-Dialogue.mod:7
+msgid "Did you think I'd just lie down?"
+msgstr ""
+
+#. Id: 3429-dialogue-01.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3429-dialogue-01.mod:8
+msgid "Can't believe it. I beat you."
+msgstr "ข้าไม่อยากจะเชื่อ. ข้าชนะเจ้า."
+
+#. Id: 3431-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15986-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3431-dialogue-01.mod:0 15986-Dialogue.mod:0
+msgid "Everybody dies."
+msgstr "ทุกๆคนจะ ตาย."
+
+#. Id: 3431-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15986-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3431-dialogue-01.mod:1 15986-Dialogue.mod:1
+msgid "One of us had to fall."
+msgstr ""
+
+#. Id: 3431-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15986-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3431-dialogue-01.mod:2 15986-Dialogue.mod:2
+msgid "You should've run."
+msgstr ""
+
+#. Id: 3431-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15986-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3431-dialogue-01.mod:3 15986-Dialogue.mod:3
+msgid "Relax. Enjoy death."
+msgstr ""
+
+#. Id: 3431-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15986-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3431-dialogue-01.mod:4 15986-Dialogue.mod:4
+msgid "Waste of time."
+msgstr ""
+
+#. Id: 3431-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15986-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3431-dialogue-01.mod:5 15986-Dialogue.mod:5
+msgid "A stain. That's all you are now."
+msgstr ""
+
+#. Id: 4448-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4448-dialogue-02.mod:0
+msgid "/BASTARD/."
+msgstr ""
+
+#. Id: 4448-dialogue-02.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 3864-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (3863-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 4448-dialogue-02.mod:1 3864-gamedata.base:0
+msgid "/INSULT/."
+msgstr ""
+
+#. Id: 4448-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4448-dialogue-02.mod:2
+msgid "/IDIOT/."
+msgstr ""
+
+#. Id: 4448-dialogue-02.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15998-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated someone civilian
+#. Id: 15987-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 3742-gamedata.base
+#. -- Index: 2.7
+#. -- Parent line: 1 (3741-gamedata.base)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: defeat squad
+#: 4448-dialogue-02.mod:3 15998-Dialogue.mod:0 15987-Dialogue.mod:3 3742-gamedata.base:7
+msgid "Take that!"
+msgstr ""
+
+#. Id: 4448-dialogue-02.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15987-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4448-dialogue-02.mod:4 15987-Dialogue.mod:4
+msgid "Serves you right/PRD/"
+msgstr ""
+
+#. Id: 4448-dialogue-02.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15987-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4448-dialogue-02.mod:5 15987-Dialogue.mod:5
+msgid "And stay down/PRD/"
+msgstr ""
+
+#. Id: 4448-dialogue-02.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15987-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4448-dialogue-02.mod:6 15987-Dialogue.mod:6
+msgid "Hah! Over already?"
+msgstr ""
+
+#. Id: 12529-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 15988-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12529-Dialogue?(10)?(2).mod:0 15988-Dialogue.mod:0
+msgid "You done?"
+msgstr ""
+
+#. Id: 12529-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 15988-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12529-Dialogue?(10)?(2).mod:1 15988-Dialogue.mod:1
+msgid "Stand up. Come on. Stand up!"
+msgstr ""
+
+#. Id: 12529-Dialogue (10) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 15988-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12529-Dialogue?(10)?(2).mod:2 15988-Dialogue.mod:2
+msgid "Worthless."
+msgstr ""
+
+#. Id: 12531-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 15989-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12531-Dialogue?(10)?(2).mod:1 15989-Dialogue.mod:3
+msgid "Blood, sweet blood!"
+msgstr ""
+
+#. Id: 12531-Dialogue (10) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 15989-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12531-Dialogue?(10)?(2).mod:2 15989-Dialogue.mod:2
+msgid "Bleed for me! Bleeeeeed!"
+msgstr ""
+

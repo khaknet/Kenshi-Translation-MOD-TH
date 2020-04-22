@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13815-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness looting ally
+#: 13815-Escapes.mod:0
+msgid "/OI/!..."
+msgstr ""
+
+#. Id: 13815-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness looting ally
+#: 13815-Escapes.mod:1
+msgid "Eh?..."
+msgstr ""
+
+#. Id: 13815-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness looting ally
+#. Id: 43502-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (43501-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from sundemon
+#. Id: 45699-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from sundemon
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 13815-Escapes.mod:2 43502-Dialogue.mod:4 45699-Dialogue.mod:1
+msgid "Lootin' /INSULT/!"
+msgstr ""
+
+#. Id: 13815-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness looting ally
+#. Id: 43502-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (43501-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from sundemon
+#. Id: 45699-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from sundemon
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 13815-Escapes.mod:3 43502-Dialogue.mod:5 45699-Dialogue.mod:2
+msgid "Thievin' /INSULT/!"
+msgstr ""
+

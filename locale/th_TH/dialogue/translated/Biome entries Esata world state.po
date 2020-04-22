@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 65664-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Esata world state
+#: 65664-Dialogue.mod:0
+msgid "Why do I feel like we've just kicked a nest of blood spiders...?"
+msgstr "ทำไมข้ารู้สึกเหมือนพวกเราเพิ่งเตะรังแมงมุมโลหิตกันนะ...?"
+
+#. Id: 65674-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65673-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Esata world state
+#: 65674-Dialogue.mod:0
+msgid "Because the Shek idolize the strong..."
+msgstr "เพราะว่าพวก Shek เคารพผู้แข็งแกร่งนะสิ..."
+
+#. Id: 65675-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65674-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Esata world state
+#: 65675-Dialogue.mod:0
+msgid "And in defeating their strongest, we've made ourselves their next challenge."
+msgstr "และการที่พวกเราเอาชนะผู้ที่แข็งแกร่งที่สุดของพวกเขาได้ พวกเรากลายเป็นเป้าหมายการท้าสู้คนต่อไปของเขาแล้วล่ะ."
+
+#. Id: 65677-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65676-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Esata world state
+#. Id: 65685-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65684-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Esata world state
+#: 65677-Dialogue.mod:0 65685-Dialogue.mod:0
+msgid "... Beep..."
+msgstr "...บี๊บ..."
+
+#. Id: 65678-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65677-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Esata world state
+#: 65678-Dialogue.mod:0
+msgid "Until they find a better challenge, they'll be coming for us. Don't underestimate the determination of a Shek."
+msgstr "จนกว่าพวกเขาจะหาคู่ต่อสู้คนใหม่ได้ พวกเขาจะมุ่งเป้ามาที่เรา อย่าดูแคลนความมุ่งมั่นของพวก Shek เชียว"
+
+#. Id: 65680-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65679-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome entries Esata world state
+#: 65680-Dialogue.mod:0
+msgid "... Stubbornness more like..."
+msgstr "...น่าจะเรียกว่าหัวดื้อมากกว่านะ..."
+
+#. Id: 65682-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65681-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Esata world state
+#: 65682-Dialogue.mod:0
+msgid "Because the Shek love an excuse to fight."
+msgstr "เพราะว่าพวก Shek ชอบหาข้ออ้างที่จะต่อสู้นะ"
+
+#. Id: 65683-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65682-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Esata world state
+#: 65683-Dialogue.mod:0
+msgid "And we've just given them one hell of an excuse."
+msgstr "และพวกเราเพิ่งเปิดช่องให้พวกเขาหาข้ออ้างได้ด้วย."
+
+#. Id: 65687-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65686-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Esata world state
+#. Id: 65665-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Esata world state
+#: 65687-Dialogue.mod:0 65665-Dialogue.mod:0
+msgid "Disappointing. I'd hoped the mighty Stone Golem would be stronger."
+msgstr "น่าผิดหวังจริง ข้าคาดหวังว่า Stone Golem จะแกร่งกว่านี้ซะอีก."
+
+#. Id: 65688-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65687-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Esata world state
+#. Id: 65767-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (65704-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Esata world state
+#. Id: 65668-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65667-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Esata world state
+#: 65688-Dialogue.mod:0 65767-Dialogue.mod:0 65668-Dialogue.mod:0
+msgid "You surprise me, Shek. You betrayed your own queen... "
+msgstr "เจ้าทำให้ข้าประหลาดใจนะ ชาว Shek เจ้าทรยศราชินีของพวกเจ้า..."
+
+#. Id: 65689-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65688-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Esata world state
+#. Id: 65768-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (65767-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Esata world state
+#. Id: 65670-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65668-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Esata world state
+#: 65689-Dialogue.mod:0 65768-Dialogue.mod:0 65670-Dialogue.mod:0
+msgid "And that's all you have to say?"
+msgstr "นั่นคือทั้งหมดที่เจ้าอยากจะพูดรึ?"
+
+#. Id: 65694-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65693-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Esata world state
+#: 65694-Dialogue.mod:0
+msgid "Because they Shek are arrogant boneheads, I tell you. Ain't no sword that can kill their egos..."
+msgstr "เพราะว่าพวก Shek เป็นพวกกะโหลกหนาจอมหยิ่ง ไม่มีดาบเล่มใดสามารถตัดความเชื่อมั่นในตนเองของพวกเขาได้ ข้าขอบอก."
+
+#. Id: 65695-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65694-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Esata world state
+#: 65695-Dialogue.mod:0
+msgid "And they won't forgive us for what we've done. We're their new Bugmaster now."
+msgstr "และพวกเขาไม่มีวันให้อภัยในสิ่งที่พวกเราทำ สำหรับพวกเขา เรากลายเป็น Bugmaster คนใหม่ไปแล้ว"
+
+#. Id: 65696-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65695-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Esata world state
+#. -- Condition: My Race(s): Greenlander
+#: 65696-Dialogue.mod:0
+msgid "But call me flatskin one more time, I dare 'em..."
+msgstr "แต่ข้าขอท้าให้มันเรียกข้าว่า flatskin อีกครั้งดู..."
+
+#. Id: 65701-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65700-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome entries Esata world state
+#: 65701-Dialogue.mod:0
+msgid "Well, someone needed to put them in their place..."
+msgstr "อืม ต้องมีคนทำให้พวกเขาเจียมตัวอยู่ในที่ของตัวเองบ้างนะ..."
+
+#. Id: 65702-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65701-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome entries Esata world state
+#: 65702-Dialogue.mod:0
+msgid "Honour? Bullshit to their honour. They're nothing but barbarians."
+msgstr "เกียรติศักดิ์? ช่างหัวเกียรติศักดิ์มันเถอะ พวกมันเป็นแค่คนถ่อยเถื่อนไร้อารยธรรม"
+
+#. Id: 65704-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65703-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Esata world state
+#: 65704-Dialogue.mod:0
+msgid "Mmh!?"
+msgstr "หืมม?!"
+
+#. Id: 65769-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (65768-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Esata world state
+#. Id: 65669-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Esata world state
+#: 65769-Dialogue.mod:0 65669-Dialogue.mod:0
+msgid "Hm! I betrayed my queen the moment I left with you."
+msgstr "ฮึ่ม! ข้าทรยศต่อราชินีตั้งแต่ที่วินาทีที่ข้าเลือกจะมากับเจ้าแล้ว"
+
+#. Id: 65770-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (65769-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Esata world state
+#. Id: 65671-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65669-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Esata world state
+#: 65770-Dialogue.mod:0 65671-Dialogue.mod:0
+msgid "But the Shek Kingdom will live on..."
+msgstr "แต่อาณาจักรของ Shek จะคงอยู่ต่อไป..."
+
+#. Id: 65771-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (65770-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Esata world state
+#. Id: 65672-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65671-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Esata world state
+#: 65771-Dialogue.mod:0 65672-Dialogue.mod:0
+msgid "... And I'm honoured to be their new enemy."
+msgstr "...และข้ารู้สึกเป็นเกียรติมากที่ได้เป็นศัตรูคนใหม่ของพวกเขา"
+
+#. Id: 65773-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65772-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Esata world state
+#: 65773-Dialogue.mod:0
+msgid "Because the Shek never forgive..."
+msgstr "เพราะว่าพวก Shek ไม่เคยให้อภัย..."
+
+#. Id: 65775-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65773-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Esata world state
+#: 65775-Dialogue.mod:0
+msgid "Only death will end their thirst for blood."
+msgstr "มีแต่มรณาเท่านั้นที่จะหยุดยั้งความกระหายเลือดของพวกเขาได้"
+
+#. Id: 65777-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65776-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Esata world state
+#: 65777-Dialogue.mod:0
+msgid "... Because we just riled the most battle hungry nation in all the land."
+msgstr "...เพราะว่าพวกเราเพิ่งจะไปแหย่รังแตนอาณาจักรที่กระหายการต่อสู้ที่สุดบนแผ่นดินน่ะสิ"
+

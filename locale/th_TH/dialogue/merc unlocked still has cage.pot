@@ -1,0 +1,431 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13014-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13014-Dialogue?(11)?(2).mod:0
+msgid "Good work. Now the cage..."
+msgstr ""
+
+#. Id: 13014-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13014-Dialogue?(11)?(2).mod:1
+msgid "Nice work. Now my cage..."
+msgstr ""
+
+#. Id: 13014-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 14876-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek still has cage
+#: 13014-Dialogue?(11)?(2).mod:2 14876-Dialogue.mod:0
+msgid "Good. Now the cage..."
+msgstr ""
+
+#. Id: 13014-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13014-Dialogue?(11)?(2).mod:3
+msgid "Good work. But I need to get my cage open..."
+msgstr ""
+
+#. Id: 13014-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13014-Dialogue?(11)?(2).mod:4
+msgid "Nice work. But I still need to get the cage open..."
+msgstr ""
+
+#. Id: 13015-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 8689-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bo healed
+#. Id: 13377-Escapes.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (13376-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. Id: 6936-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96577-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#. Id: 52864-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52857-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#. Id: 8988-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8986-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Healed (Recruit)
+#. Id: 9027-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (9029-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping Cannibals (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#. Id: 15851-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healed by neutral
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 9001-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed Cold
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. Id: 9265-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed by neutral
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 3302-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 9341-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (9340-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. Id: 40509-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 13015-Dialogue?(11)?(2).mod:0 8689-Dialogue.mod:4 13377-Escapes.mod:4 6936-Dialogue.mod:0 52864-rebirth.mod:1 8988-Dialogue.mod:0 9027-Dialogue.mod:1 15851-Dialogue.mod:0 9001-Dialogue.mod:2 9265-Dialogue.mod:0 3302-gamedata.base:0 9341-Dialogue.mod:1 40509-gamedata.base:3
+msgid "Thanks"
+msgstr ""
+
+#. Id: 13022-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13015-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#: 13022-Dialogue?(11)?(2).mod:0
+msgid "Can you get this door open too?"
+msgstr ""
+
+#. Id: 13022-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13015-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#: 13022-Dialogue?(11)?(2).mod:1
+msgid "Now, can you get my cage open?"
+msgstr ""
+
+#. Id: 13022-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13015-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#: 13022-Dialogue?(11)?(2).mod:2
+msgid "How about this cage door? Can you open it?"
+msgstr ""
+
+#. Id: 13022-Dialogue (11) (2).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13015-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#: 13022-Dialogue?(11)?(2).mod:3
+msgid "What about the cage door? Can you unlock it?"
+msgstr ""
+
+#. Id: 13022-Dialogue (11) (2).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (13015-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#: 13022-Dialogue?(11)?(2).mod:4
+msgid "Can you unlock the cage door as well?"
+msgstr ""
+
+#. Id: 13016-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 15662-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed military
+#. Id: 5437-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#: 13016-Dialogue?(11)?(2).mod:0 15662-Dialogue.mod:0 5437-gamedata.base:0
+msgid "/GREAT/!"
+msgstr ""
+
+#. Id: 13016-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 9027-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (9029-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping Cannibals (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#. Id: 6035-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 6039-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 1534031-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533911-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tinfist talk to ally
+#. Id: 5192-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5191-gamedata.base)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: loot everything
+#: 13016-Dialogue?(11)?(2).mod:1 9027-Dialogue.mod:2 6035-Dialogue.mod:0 6039-Dialogue.mod:0 1534031-rebirth.mod:0 5192-gamedata.base:0
+msgid "Yes!"
+msgstr ""
+
+#. Id: 13016-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 13777-Escapes.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (13771-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. Id: 5963-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. Id: 13807-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. Id: 17047-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. Id: 6035-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 6039-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 17071-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (17070-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. Id: 16674-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mean freed
+#. Id: 14821-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper witness crime
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 13016-Dialogue?(11)?(2).mod:2 13777-Escapes.mod:3 5963-Dialogue.mod:3 13807-Escapes.mod:3 17047-Dialogue.mod:3 6035-Dialogue.mod:2 6039-Dialogue.mod:2 17071-Dialogue.mod:0 16674-Dialogue.mod:0 14821-Dialogue.mod:7
+msgid "Alright!"
+msgstr ""
+
+#. Id: 13017-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13016-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#: 13017-Dialogue?(11)?(2).mod:0
+msgid "Can you get my cage open too?"
+msgstr ""
+
+#. Id: 13017-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13016-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#: 13017-Dialogue?(11)?(2).mod:1
+msgid "Okay, can you do my cage as well?"
+msgstr ""
+
+#. Id: 13017-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13016-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#: 13017-Dialogue?(11)?(2).mod:2
+msgid "And my cage... can you get that open too?"
+msgstr ""
+
+#. Id: 13017-Dialogue (11) (2).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13016-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#: 13017-Dialogue?(11)?(2).mod:3
+msgid "What about my cage... can you do that too?"
+msgstr ""
+
+#. Id: 13017-Dialogue (11) (2).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (13016-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#: 13017-Dialogue?(11)?(2).mod:4
+msgid "What about my cage, can you open that as well?"
+msgstr ""
+
+#. Id: 13018-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#: 13018-Dialogue?(11)?(2).mod:0
+msgid "Can you do my cage too?"
+msgstr ""
+
+#. Id: 13018-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#: 13018-Dialogue?(11)?(2).mod:1
+msgid "Can you unlock this door too?"
+msgstr ""
+
+#. Id: 13018-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#: 13018-Dialogue?(11)?(2).mod:2
+msgid "Just need to open this cage..."
+msgstr ""
+
+#. Id: 13018-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#: 13018-Dialogue?(11)?(2).mod:3
+msgid "Just need to get this door open"
+msgstr ""
+
+#. Id: 17257-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 17257-Dialogue.mod:0
+msgid "Wh- what about my cage?"
+msgstr ""
+
+#. Id: 17257-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 17257-Dialogue.mod:1
+msgid "... M- my cage is still locked..."
+msgstr ""
+
+#. Id: 17257-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 17257-Dialogue.mod:2
+msgid "... Th- the door's still locked. I'm stuck..."
+msgstr ""
+

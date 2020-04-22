@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1533611-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533611-Dialogue.mod:0
+msgid "Whew, /YOURNAME/, you really did a number on Stack!"
+msgstr ""
+
+#. Id: 1533613-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533611-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533613-Dialogue.mod:0
+msgid "And it looks like we weren't the only ones waiting to attack the Holy Nation. They've got their hands full fending off the Shek from the south after the defences were left open... A perfect distraction while we attack Okran's Shield, don't you think? Taking out Valtena will hit their military numbers even more so that we can finally take back Blister Hill..."
+msgstr ""
+
+#. Id: 1533615-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533613-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533615-Dialogue.mod:0
+msgid "When you're ready to take down Valtena, talk to my ninjas, /YOURNAME/."
+msgstr ""
+
+#. Id: 1533612-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533612-Dialogue.mod:0
+msgid "Whew, /YOURNAME/, you really did a number on Okran's Shield!"
+msgstr ""
+
+#. Id: 1533614-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533612-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533614-Dialogue.mod:0
+msgid "While the military are still regrouping and licking their wounds, this is our chance to stir things up. Next we take out their southern defensive position: Stack."
+msgstr ""
+
+#. Id: 1533623-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533614-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533623-Dialogue.mod:0
+msgid "When you're ready to take down Seta, talk to my ninjas, /YOURNAME/."
+msgstr ""
+
+#. Id: 1533616-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533616-Dialogue.mod:0
+msgid "The inquisitors are officially out of the Holy Nation! "
+msgstr ""
+
+#. Id: 1533617-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533616-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533617-Dialogue.mod:0
+msgid "This is it, /YOURNAME/, the Phoenix' oppression is finally over and he's quaking in his holy boots... We're coming for him. We're ready to take back Blister Hill."
+msgstr ""
+
+#. Id: 1533618-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533617-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533618-Dialogue.mod:0
+msgid "When you're ready to attack the Phoenix, talk to my ninjas, /YOURNAME/."
+msgstr ""
+
+#. Id: 1533619-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533619-Dialogue.mod:0
+msgid "The Valleys of Okran belong to the people now... Thanks to you, /YOURNAME/..."
+msgstr ""
+
+#. Id: 1533620-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533619-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533620-Dialogue.mod:0
+msgid "And me, of course... *snort*"
+msgstr ""
+
+#. Id: 1533621-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533621-Dialogue.mod:0
+msgid "The reign of the Holy Nation had to end some day. I'm just glad you and I could be the ones to do it..."
+msgstr ""
+
+#. Id: 1533622-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533621-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533622-Dialogue.mod:0
+msgid "Rot in the abyss, Phoenix."
+msgstr ""
+
+#. Id: 1533624-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#. Id: 1533625-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#. Id: 1533629-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533624-Dialogue.mod:0 1533625-Dialogue.mod:0 1533629-Dialogue.mod:0
+msgid "The people of Blister Hill couldn't handle the downfall of their 'invincible' god lord. I guess you've seen the ruins, /YOURNAME/?"
+msgstr ""
+
+#. Id: 1533626-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533624-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533626-Dialogue.mod:0
+msgid "But we can't take the capital for ourselves just yet. It's too dangerous, the high inquisitors' armies still patrol Okran's Pride in heavy force. Seta and Valtena are distracted by the invading Shek but they're still holding up the fort without the Phoenix..."
+msgstr ""
+
+#. Id: 1533628-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533625-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533628-Dialogue.mod:0
+msgid "But we can't take it for ourselves just yet. It's too dangerous, the high inquisitors' armies still patrol Okran's Pride in heavy force. Valtena is holding up the fort without the Phoenix. He's distracted by the invading Shek, but the battlefield is raging on..."
+msgstr ""
+
+#. Id: 1533630-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533629-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533630-Dialogue.mod:0
+msgid "But we can't take it for ourselves just yet. It's too dangerous, the high inquisitors' armies still patrol Okran's Pride in heavy force. Seta is holding up the fort without the Phoenix. He's distracted by the invading Shek, but the battlefield is raging on..."
+msgstr ""
+

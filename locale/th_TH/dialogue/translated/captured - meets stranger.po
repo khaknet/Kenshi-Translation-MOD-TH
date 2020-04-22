@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3312-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: My Race(s): Greenlander
+#: 3312-dialogue-01.mod:0
+msgid "...got to get out of here..."
+msgstr "... ต้องออกไปจากที่นี่ ..."
+
+#. Id: 3312-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: My Race(s): Greenlander
+#: 3312-dialogue-01.mod:1
+msgid "...should've been more careful..."
+msgstr "... ต้องระวังให้มากกว่านี้ ..."
+
+#. Id: 3312-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: My Race(s): Greenlander
+#: 3312-dialogue-01.mod:3
+msgid "The hell are you looking at?"
+msgstr ""
+
+#. Id: 3312-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: My Race(s): Greenlander
+#: 3312-dialogue-01.mod:4
+msgid "...last time I trust anyone..."
+msgstr "...ครั้งสุดท้ายที่ข้าเชื่อใจใครบางคน..."
+
+#. Id: 3312-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: My Race(s): Greenlander
+#: 3312-dialogue-01.mod:5
+msgid "...no good deed..."
+msgstr ""
+
+#. Id: 3312-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: My Race(s): Greenlander
+#: 3312-dialogue-01.mod:6
+msgid "...want to go home..."
+msgstr "...อยากกลับบ้าน..."
+
+#. Id: 3313-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS>15, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 3313-dialogue-01.mod:0
+msgid "Hey. Get me out?"
+msgstr "เฮ้ พาข้าออกไป?"
+
+#. Id: 3313-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS>15, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 3313-dialogue-01.mod:1
+msgid "Come on. Open the lock!"
+msgstr "เร็วเข้า. เปิดกุญแจสิ่ว้ะ!"
+
+#. Id: 3313-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS>15, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 3313-dialogue-01.mod:2
+msgid "Help me out of here."
+msgstr "ช่วยข้าออกไปจากที่นี่."
+
+#. Id: 3313-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS>15, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 3313-dialogue-01.mod:3
+msgid "Psssst."
+msgstr ""
+
+#. Id: 3313-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS>15, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 3313-dialogue-01.mod:4
+msgid "You there. Little help?"
+msgstr "เจ้าตรงนั้นหน่ะ. ช่วยอะไรหน่อยได้ไหม?"
+
+#. Id: 3313-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS>15, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 3313-dialogue-01.mod:5
+msgid "Give me a hand, would you?"
+msgstr "เจ้าจะ, ช่วยข้าได้ไหม?"
+
+#. Id: 3313-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS>15, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 3313-dialogue-01.mod:6
+msgid "Hey now, don't just leave me!"
+msgstr "เฮ้เดี๋ยวสิ่, อย่าปล่อยข้าไว้คนเดียว!"
+
+#. Id: 3315-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS<0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander
+#: 3315-dialogue-01.mod:0
+msgid "Laugh it up."
+msgstr "หัวเราะ ขึ้นมา."
+
+#. Id: 3315-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS<0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander
+#: 3315-dialogue-01.mod:2
+msgid "Go die in a fire."
+msgstr "ไปตายห่าในกองไฟซะ."
+
+#. Id: 3315-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS<0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander
+#: 3315-dialogue-01.mod:4
+msgid "Go eat shit."
+msgstr "ไปแดกขี้ซะ."
+
+#. Id: 3315-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS<0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander
+#: 3315-dialogue-01.mod:5
+msgid "Bugger off!"
+msgstr "ไอ้เหี้ยเอ้ย!"
+
+#. Id: 3315-dialogue-01.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS<0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander
+#: 3315-dialogue-01.mod:7
+msgid "Watch it."
+msgstr "ดูมัน."
+

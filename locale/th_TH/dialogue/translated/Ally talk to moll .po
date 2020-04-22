@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1533611-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533611-Dialogue.mod:0
+msgid "Whew, /YOURNAME/, you really did a number on Stack!"
+msgstr "ว้าว /YOURNAME/ เจ้าเก็บยอดไปได้เยอะเลยนี่!"
+
+#. Id: 1533613-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533611-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533613-Dialogue.mod:0
+msgid "And it looks like we weren't the only ones waiting to attack the Holy Nation. They've got their hands full fending off the Shek from the south after the defences were left open... A perfect distraction while we attack Okran's Shield, don't you think? Taking out Valtena will hit their military numbers even more so that we can finally take back Blister Hill..."
+msgstr "ดูเหมือนว่าพวกเราจะไม่ใช่พวกเดียวที่จ้องจะโจมตี Holy Nation นะ แค่ที่พวกมันต้องรับมือพวก Shek ทางทิศใต้หลังจากที่แนวป้องกันโดนถล่มก็คงเต็มกลืนแล้ว... เป็นตัวเบี่ยงเบนความสนใจที่ดีเลยระหว่างที่เราจะบุกเข้าไปโจมตี Okran's Shield เจ้าว่ามั้ย? จัดการ Valtena ก่อนจะทำให้พวกมันเสียขวัญ เราจะได้ยึด Blister Hill คืนได้ง่ายขึ้น..."
+
+#. Id: 1533615-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533613-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533615-Dialogue.mod:0
+msgid "When you're ready to take down Valtena, talk to my ninjas, /YOURNAME/."
+msgstr "ถ้าเจ้าพร้อมจะไปจัดการ Valtena เมื่อไหร่ คุยกับนินจาของข้าได้เลยนะ /YOURNAME/."
+
+#. Id: 1533612-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533612-Dialogue.mod:0
+msgid "Whew, /YOURNAME/, you really did a number on Okran's Shield!"
+msgstr "วู้ว /YOURNAME/ เจ้าสอยพวก Okran's Shield ไปได้เยอะเลยนี่!"
+
+#. Id: 1533614-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533612-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533614-Dialogue.mod:0
+msgid "While the military are still regrouping and licking their wounds, this is our chance to stir things up. Next we take out their southern defensive position: Stack."
+msgstr "นี่เป็นโอกาสที่เราจะก่อความวุ่นวายระหว่างที่กองทัพของพวกมันกำลังจัดทัพและรักษาผู้บาดเจ็บอยู่นะ เราควรตั้งแนวตั้งรับทางทิศใต้ให้เข้มแข็ง."
+
+#. Id: 1533623-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533614-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533623-Dialogue.mod:0
+msgid "When you're ready to take down Seta, talk to my ninjas, /YOURNAME/."
+msgstr "ถ้าเจ้าพร้อมจะไปจัดการ Seta เมื่อไหร่ คุยกับนินจาของข้าได้เลยนะ /YOURNAME/."
+
+#. Id: 1533616-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533616-Dialogue.mod:0
+msgid "The inquisitors are officially out of the Holy Nation! "
+msgstr "ข่าวยืนยันเป็นทางการว่าพวกเจ้าหน้าที่ไต่สวนระดับสูงไม่ได้อยู่ใน Holy Nation! "
+
+#. Id: 1533617-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533616-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533617-Dialogue.mod:0
+msgid "This is it, /YOURNAME/, the Phoenix' oppression is finally over and he's quaking in his holy boots... We're coming for him. We're ready to take back Blister Hill."
+msgstr "ใช่เลย /YOURNAME/ การกดขี่ของ Pheonix กำลังจะจบสิ้นลง มันคงกำลังตัวสั่นงั่ก ๆ อยู่แหงเลย... เราจะไปจัดการมัน ได้เวลายึด Blister Hill คืนแล้ว."
+
+#. Id: 1533618-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533617-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533618-Dialogue.mod:0
+msgid "When you're ready to attack the Phoenix, talk to my ninjas, /YOURNAME/."
+msgstr "ถ้าเจ้าพร้อมจะไปจัดการ Phoenix เมื่อไหร่ คุยกับนินจาของข้าได้เลยนะ /YOURNAME/."
+
+#. Id: 1533619-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533619-Dialogue.mod:0
+msgid "The Valleys of Okran belong to the people now... Thanks to you, /YOURNAME/..."
+msgstr "Valley of Okran กลับมาเป็นของประชาชนแล้ว...ต้องขอบคุณเจ้ามาก ๆ เลย /YOURNAME/..."
+
+#. Id: 1533620-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533619-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533620-Dialogue.mod:0
+msgid "And me, of course... *snort*"
+msgstr "แน่นอน ต้องขอบคุณข้าด้วย... *หึหึ*"
+
+#. Id: 1533621-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533621-Dialogue.mod:0
+msgid "The reign of the Holy Nation had to end some day. I'm just glad you and I could be the ones to do it..."
+msgstr "ระบอบการปกครองของ Holy Nation ต้องจบลงในวันหนึ่ง ข้ายินดีมากที่เจ้ากับข้าคือคนที่ปิดฉากมันลงได้..."
+
+#. Id: 1533622-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533621-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533622-Dialogue.mod:0
+msgid "Rot in the abyss, Phoenix."
+msgstr "เน่าตายในนรกไปเถอะ Phoenix."
+
+#. Id: 1533624-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#. Id: 1533625-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#. Id: 1533629-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533624-Dialogue.mod:0 1533625-Dialogue.mod:0 1533629-Dialogue.mod:0
+msgid "The people of Blister Hill couldn't handle the downfall of their 'invincible' god lord. I guess you've seen the ruins, /YOURNAME/?"
+msgstr "ประชาชนของ Blister Hill ยังรับไม่ได้กับความพ่ายแพ้ของ 'พระเจ้าผู้ไร้เทียมทาน' เจ้าคงเห็นซากปรักหักพังพวกนั้นแล้วใช่มั้ย /YOURNAME/?"
+
+#. Id: 1533626-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533624-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533626-Dialogue.mod:0
+msgid "But we can't take the capital for ourselves just yet. It's too dangerous, the high inquisitors' armies still patrol Okran's Pride in heavy force. Seta and Valtena are distracted by the invading Shek but they're still holding up the fort without the Phoenix..."
+msgstr "แต่พวกเรายังบุกยึดเมืองหลวงไม่ได้ อันตรายเกินไป กองทัพของเจ้าหน้าที่ไต่สวนระดับสูงยังเดินยุ่บยั่บอยู่ใน Okran's Pride Seta กับ Valtena ถูกหันเหความสนใจเพราะกองทัพ Shek ที่บุกเข้าโจมตี แต่พวกเขาก็ยังคงรักษาป้อมไว้ได้แม้จะไม่มี Phoenix ก็ตามที..."
+
+#. Id: 1533628-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533625-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533628-Dialogue.mod:0
+msgid "But we can't take it for ourselves just yet. It's too dangerous, the high inquisitors' armies still patrol Okran's Pride in heavy force. Valtena is holding up the fort without the Phoenix. He's distracted by the invading Shek, but the battlefield is raging on..."
+msgstr "แต่พวกเรายังบุกไม่ได้ อันตรายเกินไป กองทัพของเจ้าหน้าที่ไต่สวนระดับสูงยังเดินยุ่บยั่บอยู่ใน Okran's Pride Valtena ยังคงรักษาป้อมไว้ได้แม้จะไม่มี Phoenix  เขาถูกหันเหความสนใจเพราะกองทัพ Shek ที่บุกเข้าโจมตี สมรภูมิยังดุเดือดอยู่..."
+
+#. Id: 1533630-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533629-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to moll 
+#: 1533630-Dialogue.mod:0
+msgid "But we can't take it for ourselves just yet. It's too dangerous, the high inquisitors' armies still patrol Okran's Pride in heavy force. Seta is holding up the fort without the Phoenix. He's distracted by the invading Shek, but the battlefield is raging on..."
+msgstr "แต่พวกเรายังบุกไม่ได้ อันตรายเกินไป กองทัพของเจ้าหน้าที่ไต่สวนระดับสูงยังเดินยุ่บยั่บอยู่ใน Okran's Pride Seta ยังคงรักษาป้อมไว้ได้แม้จะไม่มี Phoenix  เขาถูกหันเหความสนใจเพราะกองทัพ Shek ที่บุกเข้าโจมตี สมรภูมิยังดุเดือดอยู่..."
+

@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:0
+msgid "/OI/! Cut that out!"
+msgstr ""
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:2
+msgid "Put your hands where I can see 'em!"
+msgstr ""
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:3
+msgid "Hands off!"
+msgstr ""
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:4
+msgid "/OI/! Get away from there!"
+msgstr ""
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:6
+msgid "Back away from there!"
+msgstr ""
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:7
+msgid "/OI/! Back up!"
+msgstr ""
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:8
+msgid "You! What are you up to?!"
+msgstr ""
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:9
+msgid "No funny business!"
+msgstr ""
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:10
+msgid "Get out of it!"
+msgstr ""
+
+#. Id: 16202-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16202-Dialogue.mod:4
+msgid "We don't tolerate thieves around here!"
+msgstr ""
+
+#. Id: 16202-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16202-Dialogue.mod:5
+msgid "Thieves get beaten!"
+msgstr ""
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16203-Dialogue.mod:1
+msgid "/GODDAMN/ /SKULK/er!"
+msgstr ""
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16203-Dialogue.mod:2
+msgid "Don't take too kindly to thieves 'round here!"
+msgstr ""
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16203-Dialogue.mod:3
+msgid "Thieves aren't welcome around here!"
+msgstr ""
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16203-Dialogue.mod:4
+msgid "Thieving /IDIOT/!"
+msgstr ""
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16203-Dialogue.mod:5
+msgid "Stealing? Not on my watch!"
+msgstr ""
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16203-Dialogue.mod:7
+msgid "No stealing on MY watch!"
+msgstr ""
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16203-Dialogue.mod:9
+msgid "No thieves allowed!"
+msgstr ""
+

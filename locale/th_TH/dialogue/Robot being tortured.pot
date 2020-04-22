@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 43522-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot being tortured
+#. -- Condition: My Race(s): Skeleton
+#: 43522-Dialogue.mod:0
+msgid "Noooo... Stop..."
+msgstr ""
+
+#. Id: 43522-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot being tortured
+#. -- Condition: My Race(s): Skeleton
+#: 43522-Dialogue.mod:1
+msgid "Stop... No..."
+msgstr ""
+
+#. Id: 43522-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot being tortured
+#. -- Condition: My Race(s): Skeleton
+#: 43522-Dialogue.mod:2
+msgid "No... That's my- *snap*"
+msgstr ""
+
+#. Id: 43522-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot being tortured
+#. -- Condition: My Race(s): Skeleton
+#: 43522-Dialogue.mod:3
+msgid "Wait.. Stop..."
+msgstr ""
+
+#. Id: 43522-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot being tortured
+#. -- Condition: My Race(s): Skeleton
+#: 43522-Dialogue.mod:4
+msgid "Noooo..."
+msgstr ""
+
+#. Id: 43522-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot being tortured
+#. -- Condition: My Race(s): Skeleton
+#: 43522-Dialogue.mod:5
+msgid "Nooo, wait, I- *crunch*"
+msgstr ""
+
+#. Id: 43523-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot being tortured
+#. -- Condition: My Race(s): Skeleton
+#: 43523-Dialogue.mod:0
+msgid "*buzz*"
+msgstr ""
+
+#. Id: 43523-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot being tortured
+#. -- Condition: My Race(s): Skeleton
+#: 43523-Dialogue.mod:1
+msgid "*screech*"
+msgstr ""
+
+#. Id: 43523-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot being tortured
+#. -- Condition: My Race(s): Skeleton
+#: 43523-Dialogue.mod:2
+msgid "*clunk*"
+msgstr ""
+
+#. Id: 43523-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot being tortured
+#. -- Condition: My Race(s): Skeleton
+#. Id: 99680-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (99679-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: anti slavers turn up to protect player base
+#. Id: 42045-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: eating sounds
+#: 43523-Dialogue.mod:4 99680-Dialogue.mod:2 42045-rebirth.mod:3
+msgid "*crack*"
+msgstr ""
+
+#. Id: 43523-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot being tortured
+#. -- Condition: My Race(s): Skeleton
+#. Id: 42045-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: eating sounds
+#: 43523-Dialogue.mod:5 42045-rebirth.mod:0
+msgid "*crunch*"
+msgstr ""
+
+#. Id: 43523-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot being tortured
+#. -- Condition: My Race(s): Skeleton
+#. Id: 46467-Dialogue.mod
+#. -- Index: 16.1
+#. -- Parent line: 15 (46466-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 43523-Dialogue.mod:6 46467-Dialogue.mod:1
+msgid "*thud*"
+msgstr ""
+
+#. Id: 43523-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot being tortured
+#. -- Condition: My Race(s): Skeleton
+#: 43523-Dialogue.mod:7
+msgid "*clonk*"
+msgstr ""
+
+#. Id: 43523-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot being tortured
+#. -- Condition: My Race(s): Skeleton
+#: 43523-Dialogue.mod:8
+msgid "*rip*"
+msgstr ""
+

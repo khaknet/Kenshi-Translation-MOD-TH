@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-04-21 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 59182-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Grey Talk To (locked)
+#. -- Condition: Who: TARGET, Condition: IS_ESCAPED_SLAVE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=0, Tag: -1
+#: 59182-Dialogue.mod:0
+msgid "[He croaks, his voice soft and quiet]... Good to see you again, comrade. Enjoying your freedom, I hope?"
+msgstr ""
+
+#. Id: 59189-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59182-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 61591-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61593-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to join
+#: 59189-Dialogue.mod:0 61591-Dialogue.mod:0
+msgid "I want to join the Anti-Slavers."
+msgstr ""
+
+#. Id: 59190-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59189-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey Talk To (locked)
+#: 59190-Dialogue.mod:0
+msgid "Only a fool denies allies amidst war. So why do you want to join the Anti-Slavers?"
+msgstr ""
+
+#. Id: 59197-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59190-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 61608-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61600-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to join
+#: 59197-Dialogue.mod:0 61608-Dialogue.mod:0
+msgid "Because I want to fight for freedom and peace."
+msgstr ""
+
+#. Id: 59200-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59197-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 61611-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61608-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to join
+#: 59200-Dialogue.mod:0 61611-Dialogue.mod:0
+msgid "Freedom is a beautiful thing, isn't it, comrade? But the road to it is not so beautiful..."
+msgstr ""
+
+#. Id: 59203-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59200-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 59292-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (59291-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#. Id: 61612-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61611-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to join
+#: 59203-Dialogue.mod:0 59292-Dialogue.mod:0 61612-Dialogue.mod:0
+msgid "You make allies with the Anti-Slavers, you make enemies with the Trader's Guild. You'll fight for people's freedom, yet those very people will spit on you with that freedom. You'll fight for what is noble and high, but you'll live grim and low, at battle for a simple loaf of bread. It is the price we pay to fight for what we believe in... Is it a price YOU can pay?"
+msgstr ""
+
+#. Id: 59205-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59203-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 61616-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61612-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to join
+#: 59205-Dialogue.mod:0 61616-Dialogue.mod:0
+msgid "Sign me up."
+msgstr ""
+
+#. Id: 59267-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (59205-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 59551-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (59293-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#. Id: 61617-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (61616-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to join
+#: 59267-Dialogue.mod:0 59551-Dialogue.mod:0 61617-Dialogue.mod:0
+msgid "Then I'll spread the word, /YOURNAME/. Don't give up the fight for freedom, we've got your back."
+msgstr ""
+
+#. Id: 59268-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (59267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 59552-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (59551-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#. Id: 61618-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (61617-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to join
+#: 59268-Dialogue.mod:0 59552-Dialogue.mod:0 61618-Dialogue.mod:0
+msgid "Welcome to the Anti-Slavers."
+msgstr ""
+
+#. Id: 59206-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59203-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 59294-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (59292-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to slave
+#. Id: 61619-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61612-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to join
+#: 59206-Dialogue.mod:0 59294-Dialogue.mod:0 61619-Dialogue.mod:0
+msgid "I'll... think about it."
+msgstr ""
+
+#. Id: 59207-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (59206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 59295-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (59294-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#. Id: 61620-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (61619-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to join
+#: 59207-Dialogue.mod:0 59295-Dialogue.mod:0 61620-Dialogue.mod:0
+msgid "Think hard, comrade..."
+msgstr ""
+
+#. Id: 59285-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (59207-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 59296-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (59295-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to slave
+#. Id: 61621-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (61620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to join
+#: 59285-Dialogue.mod:0 59296-Dialogue.mod:0 61621-Dialogue.mod:0
+msgid "I'll be here when you decide."
+msgstr ""
+
+#. Id: 59198-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59190-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 61609-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61600-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to join
+#: 59198-Dialogue.mod:0 61609-Dialogue.mod:0
+msgid "Because I want to stick it to the nobles."
+msgstr ""
+
+#. Id: 59204-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59198-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 61613-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61609-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to join
+#: 59204-Dialogue.mod:0 61613-Dialogue.mod:0
+msgid "Hate is a powerful motivator, isn't it comrade? But it can also cloud our judgement...."
+msgstr ""
+
+#. Id: 59199-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59190-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 61610-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61600-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to join
+#: 59199-Dialogue.mod:0 61610-Dialogue.mod:0
+msgid "Because I was a slave once."
+msgstr ""
+
+#. Id: 59286-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59199-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 61615-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61610-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grey talk to join
+#: 59286-Dialogue.mod:0 61615-Dialogue.mod:0
+msgid "That makes you one of the lucky few survivors, comrade. But think hard how you want to spend your newfound freedom before you throw it away again..."
+msgstr ""
+
+#. Id: 59289-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59182-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey Talk To (locked)
+#. Id: 61592-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61587-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to join
+#: 59289-Dialogue.mod:0 61592-Dialogue.mod:0
+msgid "Nevermind. I've no business with you."
+msgstr ""
+
